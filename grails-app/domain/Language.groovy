@@ -6,19 +6,19 @@ class Language {
     String family
     CaseStudyRegion caseStudyRegion
     String notes
-    Float latitude
-    Float longitude
+    String latitude
+    String longitude
     String isoCode
 
     static constraints = {
         name(blank:false)
-        otherNames()
-        subGroup()
+        otherNames(blank:true)
+        subGroup(blank:true)
         family(blank:false)
         caseStudyRegion(blank:false, )
         notes(widget:"textarea")
-        latitude()
-        longitude()
+        latitude(blank:true)
+        longitude(blank:true)
         isoCode(blank:false, minSize:3, maxSize:3)
     }
 
