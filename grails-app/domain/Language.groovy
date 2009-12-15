@@ -5,7 +5,7 @@ class Language {
 
     String name
     String otherNames
-    String subgroup
+    String subGroup
     String family
     CaseStudyRegion caseStudyRegion
     String notes
