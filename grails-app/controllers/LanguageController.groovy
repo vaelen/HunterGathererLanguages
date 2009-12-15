@@ -1,4 +1,4 @@
-class LanguageControllerController {
+class LanguageController {
 
     def scaffold = Language
 

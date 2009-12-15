@@ -1,4 +1,4 @@
-class LexicalSourceController {
+class LexicalDataSourceController {
 
     def scaffold = LexicalDataSource
 

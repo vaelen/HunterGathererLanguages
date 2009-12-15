@@ -1,7 +1,5 @@
 class Source {
 
-    static hasMany = [lexicalSources:LexicalSource]
-
     String author
     String editor
     String title
