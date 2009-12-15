@@ -22,5 +22,20 @@ class LexicalData {
     }
 
     static constraints = {
+        lexicalFeature(blank:false)
+        language(blank:false)
+        lexicalDataSources(inPlace:true)
+        sourcePages()
+        originalForm(blank:false)
+        glossInSource()
+        reconstructions(inPlace:true)
+        loanSource(inPlace:true)
+        inheritanceLevel(inPlace:true)
+        etymologyNotes(widget:"textarea")
+        phonologyNotes(widget:"textarea")
+        grammaticalNotes(widget:"textarea")
+        semanticNotes(widget:"textarea")
+        generalNotes(widget:"textarea")
+        phylogeneticCode(range:1..9)
     }
 }

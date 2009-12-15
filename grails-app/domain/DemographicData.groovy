@@ -9,5 +9,11 @@ class DemographicData {
     Integer phylogeneticCode
 
     static constraints = {
+        demographicFeature(blank:false, inPlace:true)
+        language(blank:false, inPlace:true)
+        answer(blank:false)
+        generalNotes(widget:"textarea")
+        phylogeneticCode(range:1..9)
+        demographicDataSources(inPlace:true)
     }
 }

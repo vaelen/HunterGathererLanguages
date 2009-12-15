@@ -4,5 +4,7 @@ class LexicalFeatureSource {
     Source source
 
     static constraints = {
+        lexicalFeature(blank:false)
+        source(blank:false)
     }
 }

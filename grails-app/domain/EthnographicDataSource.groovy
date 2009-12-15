@@ -4,5 +4,7 @@ class EthnographicDataSource {
     Source source
 
     static constraints = {
+        ethnographicData(blank:false)
+        source(blank:false)
     }
 }

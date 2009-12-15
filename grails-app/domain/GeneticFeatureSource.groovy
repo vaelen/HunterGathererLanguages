@@ -4,5 +4,7 @@ class GeneticFeatureSource {
     Source source
 
     static constraints = {
+        geneticFeature(blank:false)
+        source(blank:false)
     }
 }

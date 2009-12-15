@@ -9,5 +9,11 @@ class GeneticData {
     Integer phylogeneticCode
 
     static constraints = {
+        geneticFeature(blank:false)
+        language(blank:false)
+        answer(blank:false)
+        geneticDataSources(inPlace:true)
+        generalNotes(widget:"textarea")
+        phylogeneticCode(range:1..9)
     }
 }

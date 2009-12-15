@@ -4,5 +4,7 @@ class GeneticDataSource {
     Source source
 
     static constraints = {
+        geneticData(blank:false)
+        source(blank:false)
     }
 }

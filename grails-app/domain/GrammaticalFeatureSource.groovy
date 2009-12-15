@@ -4,5 +4,7 @@ class GrammaticalFeatureSource {
     Source source
 
     static constraints = {
+        grammaticalFeature(blank:false)
+        source(blank:false)
     }
 }
