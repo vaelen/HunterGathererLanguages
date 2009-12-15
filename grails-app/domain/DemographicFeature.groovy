@@ -9,4 +9,8 @@ class DemographicFeature {
 
     static constraints = {
     }
+
+    String toString() {
+        return name
+    }
 }

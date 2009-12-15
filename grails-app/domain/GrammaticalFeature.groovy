@@ -9,4 +9,8 @@ class GrammaticalFeature {
     
     static constraints = {
     }
+
+    String toString() {
+        return name
+    }
 }

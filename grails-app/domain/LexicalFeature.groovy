@@ -12,4 +12,8 @@ class LexicalFeature {
 
     static constraints = {
     }
+
+    String toString() {
+        return name
+    }
 }

@@ -4,4 +4,8 @@ class GrammaticalFeatureCategory {
 
     static constraints = {
     }
+
+    String toString() {
+        return name
+    }
 }

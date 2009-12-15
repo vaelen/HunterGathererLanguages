@@ -4,4 +4,8 @@ class SemanticField {
 
     static constraints = {
     }
+
+    String toString() {
+        return name
+    }
 }

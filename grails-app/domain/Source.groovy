@@ -11,4 +11,8 @@ class Source {
 
     static constraints = {
     }
+
+    String toString() {
+        return title
+    }
 }

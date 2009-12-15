@@ -4,4 +4,8 @@ class DemographicFeatureCategory {
 
     static constraints = {
     }
+
+    String toString() {
+        return name
+    }
 }

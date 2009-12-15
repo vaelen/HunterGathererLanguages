@@ -4,4 +4,8 @@ class CaseStudyRegion {
 
     static constraints = {
     }
+
+    String toString() {
+        return name
+    }
 }

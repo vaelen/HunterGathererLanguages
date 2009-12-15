@@ -4,4 +4,8 @@ class GeneticFeatureCategory {
 
     static constraints = {
     }
+
+    String toString() {
+        return name
+    }
 }

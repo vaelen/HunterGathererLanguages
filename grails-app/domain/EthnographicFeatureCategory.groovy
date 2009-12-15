@@ -4,4 +4,8 @@ class EthnographicFeatureCategory {
 
     static constraints = {
     }
+
+    String toString() {
+        return name
+    }
 }
