@@ -1,6 +1,6 @@
 class EthnographicData {
 
-    static hasMany = [ethnographicSources: EthnographicSource]
+    static hasMany = [ethnographicDataSources: EthnographicDataSource]
 
     EthnographicFeature ethnographicFeature
     Language language

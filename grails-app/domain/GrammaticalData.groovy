@@ -1,6 +1,6 @@
 class GrammaticalData {
 
-    static hasMany = [grammaticalSources: GrammaticalSource]
+    static hasMany = [grammaticalDataSources: GrammaticalDataSource]
 
     GrammaticalFeature grammaticalFeature
     Language language

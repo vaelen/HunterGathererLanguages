@@ -8,6 +8,7 @@ class LexicalFeature {
     PartOfSpeech partOfSpeech
     CaseStudyRegion caseStudyRegion
     ExportSet exportSet
+    LexicalFeatureCategory category
 
     static constraints = {
     }

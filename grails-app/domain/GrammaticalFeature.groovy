@@ -1,7 +1,7 @@
 class GrammaticalFeature {
 
     String name
-    FeatureCategory category
+    GrammaticalFeatureCategory category
     Boolean underDiscussion
     ExportSet exportSet
     CaseStudyRegion caseStudyRegion

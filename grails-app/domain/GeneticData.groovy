@@ -1,6 +1,6 @@
 class GeneticData {
 
-    static hasMany = [geneticSources: GeneticSource]
+    static hasMany = [geneticDataSources: GeneticDataSource]
 
     GeneticFeature geneticFeature
     Language language

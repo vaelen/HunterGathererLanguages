@@ -1,7 +1,7 @@
 class GeneticFeature {
 
     String name
-    FeatureCategory category
+    GeneticFeatureCategory category
     Boolean underDiscussion
     ExportSet exportSet
     CaseStudyRegion caseStudyRegion

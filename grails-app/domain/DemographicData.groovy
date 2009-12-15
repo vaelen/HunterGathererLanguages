@@ -1,6 +1,6 @@
 class DemographicData {
 
-    static hasMany = [demographicSources: DemographicSource]
+    static hasMany = [demographicDataSources: DemographicDataSource]
 
     DemographicFeature demographicFeature
     Language language

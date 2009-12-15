@@ -1,7 +1,7 @@
 class DemographicFeature {
 
     String name
-    FeatureCategory category
+    DemographicFeatureCategory category
     Boolean underDiscussion
     ExportSet exportSet
     CaseStudyRegion caseStudyRegion

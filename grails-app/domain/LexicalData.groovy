@@ -1,6 +1,6 @@
 class LexicalData {
 
-    static hasMany = [lexicalSources: LexicalSource, reconstructions: Reconstruction]
+    static hasMany = [lexicalDataSources: LexicalDataSource, reconstructions: Reconstruction]
 
     LexicalFeature lexicalFeature
     Language language

@@ -1,7 +1,7 @@
 class EthnographicFeature {
 
     String name
-    FeatureCategory category
+    EthnographicFeatureCategory category
     String hrafCategory
     Boolean underDiscussion
     ExportSet exportSet
