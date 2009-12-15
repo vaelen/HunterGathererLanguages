@@ -19,7 +19,7 @@ class GrammaticalData {
         answer(blank:false)
         originalForm(blank:false)
         phonemicizedForm(blank:false)
-        grammaticalDataSources(inPlace:true)
+        grammaticalDataSources()
         etymologyNotes(widget:"textarea")
         phonologyNotes(widget:"textarea")
         grammaticalNotes(widget:"textarea")

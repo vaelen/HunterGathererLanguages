@@ -9,7 +9,7 @@ class ReconstructionData {
     String notes
 
     static constraints = {
-        reconstruction(blank:false, inPlace:true)
+        reconstruction(blank:false, )
         protoLanguage(blank:false)
         form(blank:false)
         gloss(blank:false)

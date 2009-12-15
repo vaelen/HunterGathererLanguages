@@ -16,7 +16,7 @@ class EthnographicData {
         answer(blank:false)
         originalForm(blank:false)
         phonemicizedForm(blank:false)
-        ethnographicDataSources(inPlace:true)
+        ethnographicDataSources()
         generalNotes(widget:"textarea")
         phylogeneticCode(range:1..9)
     }

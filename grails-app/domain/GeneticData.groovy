@@ -12,7 +12,7 @@ class GeneticData {
         geneticFeature(blank:false)
         language(blank:false)
         answer(blank:false)
-        geneticDataSources(inPlace:true)
+        geneticDataSources()
         generalNotes(widget:"textarea")
         phylogeneticCode(range:1..9)
     }

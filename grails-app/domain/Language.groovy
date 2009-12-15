@@ -1,6 +1,3 @@
-import org.cubika.labs.scaffolding.annotation.FlexScaffoldProperty
-
-@FlexScaffoldProperty(labelField="name")
 class Language {
 
     String name
@@ -18,7 +15,7 @@ class Language {
         otherNames()
         subGroup()
         family(blank:false)
-        caseStudyRegion(blank:false, inPlace:true)
+        caseStudyRegion(blank:false, )
         notes(widget:"textarea")
         latitude()
         longitude()

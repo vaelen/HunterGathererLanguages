@@ -1,6 +1,3 @@
-import org.cubika.labs.scaffolding.annotation.FlexScaffoldProperty
-
-@FlexScaffoldProperty(labelField="name")
 class GrammaticalFeature {
 
     static hasMany = [grammaticalFeatureSources: GrammaticalFeatureSource]
@@ -14,11 +11,11 @@ class GrammaticalFeature {
     
     static constraints = {
         name(blank:false)
-        category(blank:false, inPlace:true)
+        category(blank:false, )
         underDiscussion()
-        exportSet(inPlace:true)
-        caseStudyRegion(blank:false, inPlace:true)
-        grammaticalFeatureSources(inPlace:true)
+        exportSet()
+        caseStudyRegion(blank:false, )
+        grammaticalFeatureSources()
         notes(widget:"textarea")
     }
 

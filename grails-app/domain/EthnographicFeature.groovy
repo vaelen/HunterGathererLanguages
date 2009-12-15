@@ -1,6 +1,3 @@
-import org.cubika.labs.scaffolding.annotation.FlexScaffoldProperty
-
-@FlexScaffoldProperty(labelField="name")
 class EthnographicFeature {
 
     static hasMany = [ethnographicFeatureSources: EthnographicFeatureSource]
@@ -15,12 +12,12 @@ class EthnographicFeature {
 
     static constraints = {
         name(blank:false)
-        category(blank:false, inPlace:true)
+        category(blank:false, )
         hrafCategory(blank:true)
         underDiscussion()
-        exportSet(inPlace:true)
-        caseStudyRegion(blank:false, inPlace:true)
-        ethnographicFeatureSources(inPlace:true)
+        exportSet()
+        caseStudyRegion(blank:false, )
+        ethnographicFeatureSources()
         notes(widget:"textarea")
     }
 

@@ -1,6 +1,3 @@
-import org.cubika.labs.scaffolding.annotation.FlexScaffoldProperty
-
-@FlexScaffoldProperty(labelField="name")
 class DemographicFeature {
 
     static hasMany = [demographicFeatureSources: DemographicFeatureSource]
@@ -14,11 +11,11 @@ class DemographicFeature {
 
     static constraints = {
         name(blank:false)
-        category(blank:false, inPlace:true)
+        category(blank:false, )
         underDiscussion()
-        exportSet(inPlace:true)
-        caseStudyRegion(blank:false, inPlace:true)
-        demographicFeatureSources(inPlace:true)
+        exportSet()
+        caseStudyRegion(blank:false, )
+        demographicFeatureSources()
         notes(widget:"textarea")
     }
 

@@ -1,6 +1,3 @@
-import org.cubika.labs.scaffolding.annotation.FlexScaffoldProperty
-
-@FlexScaffoldProperty(labelField="title")
 class Source {
 
     String author
@@ -14,7 +11,7 @@ class Source {
 
     static constraints = {
         title(blank:false)
-        language(blank:false, inPlace:true)
+        language(blank:false, )
         dateOfPublication(blank:false)
         author()
         editor()

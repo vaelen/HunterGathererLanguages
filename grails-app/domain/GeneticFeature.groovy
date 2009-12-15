@@ -1,6 +1,3 @@
-import org.cubika.labs.scaffolding.annotation.FlexScaffoldProperty
-
-@FlexScaffoldProperty(labelField="name")
 class GeneticFeature {
 
     static hasMany = [geneticFeatureSources:GeneticFeatureSource]
@@ -14,11 +11,11 @@ class GeneticFeature {
 
     static constraints = {
         name(blank:false)
-        category(blank:false, inPlace:true)
+        category(blank:false, )
         underDiscussion()
-        exportSet(inPlace:true)
-        caseStudyRegion(blank:false, inPlace:true)
-        geneticFeatureSources(inPlace:true)
+        exportSet()
+        caseStudyRegion(blank:false, )
+        geneticFeatureSources()
         notes(widget:"textarea")
     }
 

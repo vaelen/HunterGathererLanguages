@@ -1,6 +1,3 @@
-import org.cubika.labs.scaffolding.annotation.FlexScaffoldProperty
-
-@FlexScaffoldProperty(labelField="englishHeadword")
 class LexicalFeature {
 
     String englishHeadword
@@ -18,11 +15,11 @@ class LexicalFeature {
         spanishHeadword()
         portugueseHeadword()
         frenchHeadword()
-        semanticField(blank:false, inPlace:true)
-        partOfSpeech(blank:false, inPlace:true)
-        category(blank:false, inPlace:true)
-        caseStudyRegion(blank:false, inPlace:true)
-        exportSet(inPlace:true)
+        semanticField(blank:false, )
+        partOfSpeech(blank:false, )
+        category(blank:false, )
+        caseStudyRegion(blank:false, )
+        exportSet()
     }
 
     String toString() {
