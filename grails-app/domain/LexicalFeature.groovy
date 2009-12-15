@@ -14,6 +14,6 @@ class LexicalFeature {
     }
 
     String toString() {
-        return name
+        return englishHeadword
     }
 }
