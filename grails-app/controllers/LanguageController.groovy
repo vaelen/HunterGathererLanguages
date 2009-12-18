@@ -1,6 +1,6 @@
 class LanguageController {
 
-    def scaffold = Language
+    def scaffold = true
 
     //def index = { }
 }

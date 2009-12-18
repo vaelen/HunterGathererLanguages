@@ -1,6 +1,6 @@
 class PartOfSpeechController {
 
-    def scaffold = PartOfSpeech
+    def scaffold = true
 
     //def index = { }
 }

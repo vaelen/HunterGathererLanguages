@@ -1,6 +1,6 @@
 class GeneticFeatureController {
 
-    def scaffold = GeneticFeature
+    def scaffold = true
 
     //def index = { }
 }

@@ -1,6 +1,6 @@
 class GeneticDataController {
 
-    def scaffold = GeneticData
+    def scaffold = true
 
     //def index = { }
 }

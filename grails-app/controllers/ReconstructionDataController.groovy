@@ -1,6 +1,6 @@
 class ReconstructionDataController {
 
-    def scaffold = ReconstructionData
+    def scaffold = true
 
     //def index = { }
 }

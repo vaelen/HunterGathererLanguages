@@ -1,6 +1,6 @@
 class LexicalFeatureCategoryController {
 
-    def scaffold = LexicalFeatureCategory
+    def scaffold = true
 
     //def index = { }
 }

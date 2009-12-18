@@ -1,6 +1,6 @@
 class GeneticFeatureCategoryController {
 
-    def scaffold = GeneticFeatureCategory
+    def scaffold = true
 
     //def index = { }
 }

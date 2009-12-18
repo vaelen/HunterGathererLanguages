@@ -1,6 +1,6 @@
 class SourceController {
 
-    def scaffold = Source
+    def scaffold = true
 
     //def index = { }
 }

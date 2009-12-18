@@ -1,6 +1,6 @@
 class LexicalDataSourceController {
 
-    def scaffold = LexicalDataSource
+    def scaffold = true
 
     //def index = { }
 }

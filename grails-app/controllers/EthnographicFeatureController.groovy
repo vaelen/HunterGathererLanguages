@@ -1,6 +1,6 @@
 class EthnographicFeatureController {
 
-    def scaffold = EthnographicFeature
+    def scaffold = true
 
     //def index = { }
 }

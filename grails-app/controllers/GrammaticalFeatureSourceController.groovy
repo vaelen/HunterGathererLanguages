@@ -1,6 +1,6 @@
 class GrammaticalFeatureSourceController {
 
-    def scaffold = GrammaticalFeatureSource
+    def scaffold = true
 
     //def index = { }
 }

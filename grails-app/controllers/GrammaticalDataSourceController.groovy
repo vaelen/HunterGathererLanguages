@@ -1,6 +1,6 @@
 class GrammaticalDataSourceController {
 
-    def scaffold = GrammaticalDataSource
+    def scaffold = true
 
     //def index = { }
 }

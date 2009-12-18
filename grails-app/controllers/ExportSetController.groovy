@@ -1,6 +1,6 @@
 class ExportSetController {
 
-    def scaffold = ExportSet
+    def scaffold = true
 
     //def index = { }
 }

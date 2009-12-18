@@ -1,6 +1,6 @@
 class DemographicDataController {
 
-    def scaffold = DemographicData
+    def scaffold = true
 
     //def index = { }
 }

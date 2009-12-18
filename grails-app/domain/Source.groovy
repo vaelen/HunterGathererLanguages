@@ -13,7 +13,7 @@ class Source {
         title(blank:false)
         language(blank:false, )
         dateOfPublication(blank:false)
-        author()
+        author(blank:false)
         editor()
         placeOfPublication()
         publisher()

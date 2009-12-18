@@ -1,6 +1,6 @@
 class GrammaticalFeatureCategoryController {
 
-    def scaffold = GrammaticalFeatureCategory
+    def scaffold = true
 
     //def index = { }
 }

@@ -1,6 +1,6 @@
 class DemographicFeatureSourceController {
 
-    def scaffold = DemographicFeatureSource
+    def scaffold = true
 
     //def index = { }
 }

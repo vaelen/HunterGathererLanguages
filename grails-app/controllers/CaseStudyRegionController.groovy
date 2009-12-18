@@ -1,6 +1,6 @@
 class CaseStudyRegionController {
 
-    def scaffold = CaseStudyRegion
+    def scaffold = true
 
     //def index = { }
 }

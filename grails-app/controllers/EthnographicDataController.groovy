@@ -1,6 +1,6 @@
 class EthnographicDataController {
 
-    def scaffold = EthnographicData
+    def scaffold = true
 
     //def index = { }
 }

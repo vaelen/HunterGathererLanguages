@@ -1,6 +1,6 @@
 class SemanticFieldController {
 
-    def scaffold = SemanticField
+    def scaffold = true
 
     //def index = { }
 }
