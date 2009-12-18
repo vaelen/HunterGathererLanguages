@@ -2,7 +2,8 @@ import org.codehaus.groovy.grails.commons.ConfigurationHolder
 
 <%=packageName ? "package ${packageName}\n\n" : ""%>class ${className}Controller {
 
-    def exportService
+    // This has to be done on each controller or it doesn't bind it to anything.
+    //def exportService
 
     def index = { redirect(action: "list", params: params) }
 
