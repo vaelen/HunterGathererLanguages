@@ -3,7 +3,7 @@ class GrammaticalData {
     static hasMany = [grammaticalDataSources: GrammaticalDataSource]
 
     GrammaticalFeature grammaticalFeature
-    Language language
+    SourceLanguage sourceLanguage
     String answer
     String originalForm
     String phonemicizedForm
@@ -15,7 +15,7 @@ class GrammaticalData {
 
     static constraints = {
         grammaticalFeature(blank:false)
-        language(blank:false)
+        sourceLanguage(blank:false)
         answer(blank:false)
         originalForm(blank:false)
         phonemicizedForm(blank:false)

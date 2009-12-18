@@ -7,11 +7,11 @@ class Source {
     String dateOfPublication
     String publisher
     String publisherDetails
-    Language language
+    SourceLanguage sourceLanguage
 
     static constraints = {
         title(blank:false)
-        language(blank:false, )
+        sourceLanguage(blank:false, )
         dateOfPublication(blank:false)
         author(blank:false)
         editor()

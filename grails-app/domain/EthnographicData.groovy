@@ -3,7 +3,7 @@ class EthnographicData {
     static hasMany = [ethnographicDataSources: EthnographicDataSource]
 
     EthnographicFeature ethnographicFeature
-    Language language
+    SourceLanguage sourceLanguage
     String answer
     String originalForm
     String phonemicizedForm
@@ -12,7 +12,7 @@ class EthnographicData {
 
     static constraints = {
         ethnographicFeature(blank:false)
-        language(blank:false)
+        sourceLanguage(blank:false)
         answer(blank:false)
         originalForm(blank:false)
         phonemicizedForm(blank:false)

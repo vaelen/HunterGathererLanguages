@@ -1,4 +1,4 @@
-class Language {
+class SourceLanguage {
 
     String name
     String otherNames

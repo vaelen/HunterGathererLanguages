@@ -3,13 +3,13 @@ class LexicalData {
     static hasMany = [lexicalDataSources: LexicalDataSource, reconstructions: Reconstruction]
 
     LexicalFeature lexicalFeature
-    Language language
+    SourceLanguage sourceLanguage
     String sourcePages
     String originalForm
     String phonemicizedForm
     String glossInSource
-    Language loanSource
-    Language inheritanceLevel
+    SourceLanguage loanSource
+    SourceLanguage inheritanceLevel
     String etymologyNotes
     String phonologyNotes
     String grammaticalNotes
@@ -23,7 +23,7 @@ class LexicalData {
 
     static constraints = {
         lexicalFeature(blank:false)
-        language(blank:false)
+        sourceLanguage(blank:false)
         lexicalDataSources()
         sourcePages()
         originalForm(blank:false)

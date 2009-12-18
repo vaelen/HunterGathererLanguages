@@ -3,14 +3,14 @@ class GeneticData {
     static hasMany = [geneticDataSources: GeneticDataSource]
 
     GeneticFeature geneticFeature
-    Language language
+    SourceLanguage sourceLanguage
     String answer
     String generalNotes
     Integer phylogeneticCode
 
     static constraints = {
         geneticFeature(blank:false)
-        language(blank:false)
+        sourceLanguage(blank:false)
         answer(blank:false)
         geneticDataSources()
         generalNotes(widget:"textarea")

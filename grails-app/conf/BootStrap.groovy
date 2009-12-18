@@ -13,7 +13,7 @@ class BootStrap {
          new PartOfSpeech(name:"Particle").save()
          new ExportSet(name:"Widely Attested").save()
          new ExportSet(name:"Highly Borrowed").save()
-         new Language(name:"English", family:"Indo-European", subGroup:"Germanic", isoCode:"eng").save()
+         new SourceLanguage(name:"English", family:"Indo-European", subGroup:"Germanic", isoCode:"eng").save()
      }
      def destroy = {
      }

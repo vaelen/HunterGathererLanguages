@@ -62,7 +62,7 @@
                   <div id="site-nav-general" class="yuimenu">
                     <div class="bd">
                       <ul>
-                        <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="language">Languages</g:link></li>
+                        <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="sourceLanguage">Languages</g:link></li>
                         <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="source">Sources</g:link></li>
                       </ul>
                     </div>

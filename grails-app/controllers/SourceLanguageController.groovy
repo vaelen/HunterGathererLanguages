@@ -1,8 +1,7 @@
-class LanguageController {
+class SourceLanguageController {
 
     def exportService
 
     def scaffold = true
 
-    //def index = { }
 }
