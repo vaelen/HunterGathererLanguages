@@ -1,4 +1,8 @@
+import org.codehaus.groovy.grails.commons.ConfigurationHolder
+
 <%=packageName ? "package ${packageName}\n\n" : ""%>class ${className}Controller {
+
+    def exportService
 
     def index = { redirect(action: "list", params: params) }
 
@@ -7,6 +11,12 @@
 
     def list = {
         params.max = Math.min(params.max ? params.max.toInteger() : 10,  100)
+        if(params.format <%= "&&" %> params.format != "html") {
+            response.contentType = ConfigurationHolder.config.grails.mime.types[params.format]
+            response.setHeader("Content-disposition", "attachment; filename=${className.toLowerCase()}-list.\${params.extension}")
+            exportService.export(params.format, response.outputStream, ${className}.list(params), [:], [:])
+        }
+
         [${propertyName}List: ${className}.list(params), ${propertyName}Total: ${className}.count()]
     }
 
