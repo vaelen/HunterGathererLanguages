@@ -20,12 +20,11 @@ class User extends intient.nimble.domain.UserBase {
     }
 
     String toString() {
-        return "FOOBAR!"
-        /*if(profile != null) {
-            return profile.fullName
-        } else {
-            return username
+        def ret = username
+/*        if(profile != null) {
+            ret profile.fullName
         }*/
+        return ret
     }
 
 }

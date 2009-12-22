@@ -19,7 +19,7 @@ class ExportSet {
     def beforeInsert = {
         createdAt = new Date()
         updatedAt = new Date()
-	createdBy = updatedBy
+    createdBy = updatedBy
     }
 
     def beforeUpdate = {

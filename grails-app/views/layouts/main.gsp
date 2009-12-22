@@ -1,11 +1,14 @@
 <html>
     <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
         <title><g:layoutTitle default="Grails" /> - Hunter Gatherer Languages Database</title>
         <link rel="stylesheet" href="${resource(dir:'css',file:'main.css')}" />
         <link rel="shortcut icon" href="${resource(dir:'images',file:'favicon.ico')}" type="image/x-icon" />
         <g:layoutHead />
         <g:javascript library="application" />
         <export:resource />
+
+        <!-- YUI Section -->
 
         <!-- Fonts CSS - Recommended but not required -->
         <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.8.0r4/build/fonts/fonts-min.css">
@@ -47,6 +50,8 @@
 
 	  });
         </script>
+
+        <!-- End YUI Section -->
 
     </head>
     <body>

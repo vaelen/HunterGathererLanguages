@@ -3,8 +3,10 @@
 
   <n:jquery/>
 
-  <link rel="stylesheet" href="${createLinkTo(dir: pluginContextPath, file: '/css/login.css')}"/>
-  <link rel="stylesheet" href="${createLinkTo(dir: pluginContextPath, file: '/css/icons.css')}"/>
+  <link rel="stylesheet" href="${resource(dir: 'css/nimble', file: 'screen.css')}"/>
+  <link rel="stylesheet" href="${resource(dir: 'css/nimble', file: 'nimble.css')}"/>
+  <link rel="stylesheet" href="${resource(dir: 'css/nimble', file: 'login.css')}"/>
+  <link rel="stylesheet" href="${resource(dir: 'css/nimble', file: 'icons.css')}"/>
 
   <title>Login</title>
 
