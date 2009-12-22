@@ -1,5 +1,3 @@
-import intient.nimble.domain.UserBase
-
 class GeneticData {
 
     static hasMany = [geneticDataSources: GeneticDataSource]
@@ -11,8 +9,8 @@ class GeneticData {
     Integer phylogeneticCode
     Date createdAt
     Date updatedAt
-    UserBase createdBy
-    UserBase updatedBy
+    User createdBy
+    User updatedBy
 
     static constraints = {
         geneticFeature(blank:false)

@@ -1,13 +1,11 @@
-import intient.nimble.domain.UserBase
-
 class GeneticDataSource {
 
     GeneticData geneticData
     Source source
     Date createdAt
     Date updatedAt
-    UserBase createdBy
-    UserBase updatedBy
+    User createdBy
+    User updatedBy
 
     static constraints = {
         geneticData(blank:false)

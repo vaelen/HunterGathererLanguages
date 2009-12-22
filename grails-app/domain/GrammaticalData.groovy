@@ -1,5 +1,3 @@
-import intient.nimble.domain.UserBase
-
 class GrammaticalData {
 
     static hasMany = [grammaticalDataSources: GrammaticalDataSource]
@@ -16,8 +14,8 @@ class GrammaticalData {
     Integer phylogeneticCode
     Date createdAt
     Date updatedAt
-    UserBase createdBy
-    UserBase updatedBy
+    User createdBy
+    User updatedBy
 
     static constraints = {
         grammaticalFeature(blank:false)

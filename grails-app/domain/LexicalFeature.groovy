@@ -1,5 +1,3 @@
-import intient.nimble.domain.UserBase
-
 class LexicalFeature {
 
     String englishHeadword
@@ -13,8 +11,8 @@ class LexicalFeature {
     LexicalFeatureCategory category
     Date createdAt
     Date updatedAt
-    UserBase createdBy
-    UserBase updatedBy
+    User createdBy
+    User updatedBy
 
     static constraints = {
         englishHeadword(blank:false)

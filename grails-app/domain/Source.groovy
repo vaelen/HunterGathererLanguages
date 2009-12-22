@@ -1,5 +1,3 @@
-import intient.nimble.domain.UserBase
-
 class Source {
 
     String author
@@ -12,8 +10,8 @@ class Source {
     SourceLanguage sourceLanguage
     Date createdAt
     Date updatedAt
-    UserBase createdBy
-    UserBase updatedBy
+    User createdBy
+    User updatedBy
 
     static constraints = {
         title(blank:false)

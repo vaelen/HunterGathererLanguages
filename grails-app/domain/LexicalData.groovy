@@ -1,5 +1,3 @@
-import intient.nimble.domain.UserBase
-
 class LexicalData {
 
     static hasMany = [lexicalDataSources: LexicalDataSource, reconstructions: Reconstruction]
@@ -20,8 +18,8 @@ class LexicalData {
     Integer phylogeneticCode
     Date createdAt
     Date updatedAt
-    UserBase createdBy
-    UserBase updatedBy
+    User createdBy
+    User updatedBy
 
     String standardizedGloss() {
         return lexicalFeature.englishHeadword

@@ -1,13 +1,11 @@
-import intient.nimble.domain.UserBase
-
 class EthnographicDataSource {
 
     EthnographicData ethnographicData
     Source source
     Date createdAt
     Date updatedAt
-    UserBase createdBy
-    UserBase updatedBy
+    User createdBy
+    User updatedBy
 
     static constraints = {
         ethnographicData(blank:false)

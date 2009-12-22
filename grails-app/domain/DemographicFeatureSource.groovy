@@ -1,13 +1,11 @@
-import intient.nimble.domain.UserBase
-
 class DemographicFeatureSource {
 
     DemographicFeature demographicFeature
     Source source
     Date createdAt
     Date updatedAt
-    UserBase createdBy
-    UserBase updatedBy
+    User createdBy
+    User updatedBy
 
     static constraints = {
         demographicFeature(blank:false)

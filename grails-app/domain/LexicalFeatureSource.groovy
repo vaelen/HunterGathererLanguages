@@ -1,13 +1,11 @@
-import intient.nimble.domain.UserBase
-
 class LexicalFeatureSource {
 
     LexicalFeature lexicalFeature
     Source source
     Date createdAt
     Date updatedAt
-    UserBase createdBy
-    UserBase updatedBy
+    User createdBy
+    User updatedBy
 
     static constraints = {
         lexicalFeature(blank:false)

@@ -1,5 +1,3 @@
-import intient.nimble.domain.UserBase
-
 class Reconstruction {
 
     ReconstructionData reconstructionData
@@ -7,8 +5,8 @@ class Reconstruction {
     String relationship
     Date createdAt
     Date updatedAt
-    UserBase createdBy
-    UserBase updatedBy
+    User createdBy
+    User updatedBy
 
     static constraints = {
         reconstructionData(blank:false)

@@ -1,5 +1,3 @@
-import intient.nimble.domain.UserBase
-
 class SourceLanguage {
 
     String name
@@ -13,8 +11,8 @@ class SourceLanguage {
     String isoCode
     Date createdAt
     Date updatedAt
-    UserBase createdBy
-    UserBase updatedBy
+    User createdBy
+    User updatedBy
 
     static constraints = {
         name(blank:false)

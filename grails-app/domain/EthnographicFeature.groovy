@@ -1,5 +1,3 @@
-import intient.nimble.domain.UserBase
-
 class EthnographicFeature {
 
     static hasMany = [ethnographicFeatureSources: EthnographicFeatureSource]
@@ -13,8 +11,8 @@ class EthnographicFeature {
     String notes
     Date createdAt
     Date updatedAt
-    UserBase createdBy
-    UserBase updatedBy
+    User createdBy
+    User updatedBy
 
     static constraints = {
         name(blank:false)

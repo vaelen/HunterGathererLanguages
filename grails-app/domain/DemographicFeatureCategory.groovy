@@ -1,12 +1,10 @@
-import intient.nimble.domain.UserBase
-
 class DemographicFeatureCategory {
 
     String name
     Date createdAt
     Date updatedAt
-    UserBase createdBy
-    UserBase updatedBy
+    User createdBy
+    User updatedBy
 
     static constraints = {
         name(blank:false)

@@ -1,5 +1,3 @@
-import intient.nimble.domain.UserBase
-
 class DemographicData {
 
     static hasMany = [demographicDataSources: DemographicDataSource]
@@ -11,8 +9,8 @@ class DemographicData {
     Integer phylogeneticCode
     Date createdAt
     Date updatedAt
-    UserBase createdBy
-    UserBase updatedBy
+    User createdBy
+    User updatedBy
 
     static constraints = {
         demographicFeature(blank:false, )

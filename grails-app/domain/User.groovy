@@ -21,9 +21,9 @@ class User extends intient.nimble.domain.UserBase {
 
     String toString() {
         def ret = username
-/*        if(profile != null) {
-            ret profile.fullName
-        }*/
+        if(profile && profile.fullName) {
+            ret = profile.fullName
+        }
         return ret
     }
 

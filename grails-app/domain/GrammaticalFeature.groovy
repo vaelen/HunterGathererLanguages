@@ -1,5 +1,3 @@
-import intient.nimble.domain.UserBase
-
 class GrammaticalFeature {
 
     static hasMany = [grammaticalFeatureSources: GrammaticalFeatureSource]
@@ -12,8 +10,8 @@ class GrammaticalFeature {
     String notes
     Date createdAt
     Date updatedAt
-    UserBase createdBy
-    UserBase updatedBy
+    User createdBy
+    User updatedBy
     
     static constraints = {
         name(blank:false)
