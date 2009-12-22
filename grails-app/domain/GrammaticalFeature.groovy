@@ -1,6 +1,6 @@
 class GrammaticalFeature {
 
-    static hasMany = [grammaticalFeatureSources: GrammaticalFeatureSource]
+    static hasMany = [sources:Source]
 
     String name
     GrammaticalFeatureCategory category
@@ -19,7 +19,7 @@ class GrammaticalFeature {
         underDiscussion()
         exportSet()
         caseStudyRegion(blank:false, )
-        grammaticalFeatureSources()
+        sources()
         notes(widget:"textarea", maxSize:2000)
         createdAt(display: false, nullable: true)
         updatedAt(display: false, nullable: true)

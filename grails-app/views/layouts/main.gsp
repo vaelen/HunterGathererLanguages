@@ -78,10 +78,8 @@
                     <div class="bd">
                       <ul>
                         <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="demographicData">Data</g:link></li>
-                        <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="demographicDataSource">Data Sources</g:link></li>
                         <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="demographicFeatureCategory">Feature Categories</g:link></li>
                         <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="demographicFeature">Features</g:link></li>
-                        <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="demographicFeatureSource">Feature Sources</g:link></li>
                       </ul>
                     </div>
                   </div>
@@ -91,10 +89,8 @@
                     <div class="bd">
                       <ul>
                         <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="ethnographicData">Data</g:link></li>
-                        <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="ethnographicDataSource">Data Sources</g:link></li>
                         <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="ethnographicFeatureCategory">Feature Categories</g:link></li>
                         <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="ethnographicFeature">Features</g:link></li>
-                        <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="ethnographicFeatureSource">Feature Sources</g:link></li>
                       </ul>
                     </div>
                   </div>
@@ -104,10 +100,8 @@
                     <div class="bd">
                       <ul>
                         <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="geneticData">Data</g:link></li>
-                        <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="geneticDataSource">Data Sources</g:link></li>
                         <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="geneticFeatureCategory">Feature Categories</g:link></li>
                         <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="geneticFeature">Features</g:link></li>
-                        <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="geneticFeatureSource">Feature Sources</g:link></li>
                       </ul>
                     </div>
                   </div>
@@ -117,10 +111,8 @@
                     <div class="bd">
                       <ul>
                         <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="grammaticalData">Data</g:link></li>
-                        <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="grammaticalDataSource">Data Sources</g:link></li>
                         <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="grammaticalFeatureCategory">Feature Categories</g:link></li>
                         <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="grammaticalFeature">Features</g:link></li>
-                        <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="grammaticalFeatureSource">Feature Sources</g:link></li>
                       </ul>
                     </div>
                   </div>
@@ -130,18 +122,8 @@
                     <div class="bd">
                       <ul>
                         <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="lexicalData">Data</g:link></li>
-                        <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="lexicalDataSource">Data Sources</g:link></li>
                         <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="lexicalFeatureCategory">Feature Categories</g:link></li>
                         <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="lexicalFeature">Features</g:link></li>
-                        <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="lexicalFeatureSource">Feature Sources</g:link></li>
-                      </ul>
-                    </div>
-                  </div>
-                </li>
-                <li class="yuimenubaritem first-of-type"><a class="yuimenubaritemlabel" href="#reconstruction">Reconstructions</a>
-                  <div id="site-nav-reconstruction" class="yuimenu">
-                    <div class="bd">
-                      <ul>
                         <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="reconstruction">Reconstructions</g:link></li>
                         <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="reconstructionData">Reconstruction Data</g:link></li>
                       </ul>

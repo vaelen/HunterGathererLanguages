@@ -1,6 +1,6 @@
 class DemographicData {
 
-    static hasMany = [demographicDataSources: DemographicDataSource]
+    static hasMany = [sources:Source]
 
     DemographicFeature demographicFeature
     SourceLanguage sourceLanguage
@@ -17,7 +17,7 @@ class DemographicData {
         sourceLanguage(blank:false, )
         answer(blank:false)
         phylogeneticCode(range:1..9)
-        demographicDataSources()
+        sources()
         generalNotes(widget:"textarea", maxSize:2000)
         createdAt(display: false, nullable: true)
         updatedAt(display: false, nullable: true)

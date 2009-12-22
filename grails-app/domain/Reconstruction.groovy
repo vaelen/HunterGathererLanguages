@@ -1,5 +1,7 @@
 class Reconstruction {
 
+    //static belongsTo = [LexicalData, ReconstructionData]
+
     ReconstructionData reconstructionData
     LexicalData lexicalData
     String relationship

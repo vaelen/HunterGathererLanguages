@@ -1,6 +1,6 @@
 class DemographicFeature {
 
-    static hasMany = [demographicFeatureSources: DemographicFeatureSource]
+    static hasMany = [sources:Source]
 
     String name
     DemographicFeatureCategory category
@@ -19,7 +19,7 @@ class DemographicFeature {
         underDiscussion()
         exportSet()
         caseStudyRegion(blank:false, )
-        demographicFeatureSources()
+        sources()
         notes(widget:"textarea", maxSize:2000)
         createdAt(display: false, nullable: true)
         updatedAt(display: false, nullable: true)

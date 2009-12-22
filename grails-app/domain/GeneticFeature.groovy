@@ -1,6 +1,6 @@
 class GeneticFeature {
 
-    static hasMany = [geneticFeatureSources:GeneticFeatureSource]
+    static hasMany = [sources:Source]
 
     String name
     GeneticFeatureCategory category
@@ -19,7 +19,7 @@ class GeneticFeature {
         underDiscussion()
         exportSet()
         caseStudyRegion(blank:false, )
-        geneticFeatureSources()
+        sources()
         notes(widget:"textarea", maxSize:2000)
         createdAt(display: false, nullable: true)
         updatedAt(display: false, nullable: true)

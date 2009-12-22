@@ -1,6 +1,6 @@
 class EthnographicFeature {
 
-    static hasMany = [ethnographicFeatureSources: EthnographicFeatureSource]
+    static hasMany = [sources:Source]
 
     String name
     EthnographicFeatureCategory category
@@ -21,7 +21,7 @@ class EthnographicFeature {
         underDiscussion()
         exportSet()
         caseStudyRegion(blank:false, )
-        ethnographicFeatureSources()
+        sources()
         notes(widget:"textarea", maxSize:2000)
         createdAt(display: false, nullable: true)
         updatedAt(display: false, nullable: true)

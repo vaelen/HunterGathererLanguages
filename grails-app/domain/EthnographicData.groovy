@@ -1,6 +1,6 @@
 class EthnographicData {
 
-    static hasMany = [ethnographicDataSources: EthnographicDataSource]
+    static hasMany = [sources:Source]
 
     EthnographicFeature ethnographicFeature
     SourceLanguage sourceLanguage
@@ -20,7 +20,7 @@ class EthnographicData {
         answer(blank:false)
         originalForm(blank:false)
         phonemicizedForm(blank:false)
-        ethnographicDataSources()
+        sources()
         phylogeneticCode(range:1..9)
         generalNotes(widget:"textarea", maxSize:2000)
         createdAt(display: false, nullable: true)

@@ -1,5 +1,7 @@
 class LexicalFeature {
 
+    static hasMany = [sources:Source]
+
     String englishHeadword
     String spanishHeadword
     String portugueseHeadword
@@ -24,6 +26,7 @@ class LexicalFeature {
         category(blank:false, )
         caseStudyRegion(blank:false, )
         exportSet()
+        sources()
         createdAt(display: false, nullable: true)
         updatedAt(display: false, nullable: true)
         createdBy(display: false, nullable: true)

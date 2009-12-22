@@ -1,6 +1,6 @@
 class GrammaticalData {
 
-    static hasMany = [grammaticalDataSources: GrammaticalDataSource]
+    static hasMany = [sources:Source]
 
     GrammaticalFeature grammaticalFeature
     SourceLanguage sourceLanguage
@@ -23,7 +23,7 @@ class GrammaticalData {
         answer(blank:false)
         originalForm(blank:false)
         phonemicizedForm(blank:false)
-        grammaticalDataSources()
+        sources()
         phylogeneticCode(range:1..9)
         etymologyNotes(widget:"textarea", maxSize:2000)
         phonologyNotes(widget:"textarea", maxSize:2000)

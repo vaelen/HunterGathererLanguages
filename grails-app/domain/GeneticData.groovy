@@ -1,6 +1,6 @@
 class GeneticData {
 
-    static hasMany = [geneticDataSources: GeneticDataSource]
+    static hasMany = [sources:Source]
 
     GeneticFeature geneticFeature
     SourceLanguage sourceLanguage
@@ -16,7 +16,7 @@ class GeneticData {
         geneticFeature(blank:false)
         sourceLanguage(blank:false)
         answer(blank:false)
-        geneticDataSources()
+        sources()
         phylogeneticCode(range:1..9)
         generalNotes(widget:"textarea", maxSize:2000)
         createdAt(display: false, nullable: true)

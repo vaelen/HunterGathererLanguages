@@ -1,8 +1,7 @@
 class ReconstructionData {
 
-    static hasMany = [reconstructions: Reconstruction]
+    static hasMany = [reconstructions:Reconstruction]
 
-    Reconstruction reconstruction
     String protoSourceLanguage
     String form
     String gloss
@@ -13,10 +12,10 @@ class ReconstructionData {
     User updatedBy
 
     static constraints = {
-        reconstruction(blank:false, )
         protoSourceLanguage(blank:false)
         form(blank:false)
         gloss(blank:false)
+        reconstructions()
         notes(widget:"textarea", maxSize:2000)
         createdAt(display: false, nullable: true)
         updatedAt(display: false, nullable: true)
