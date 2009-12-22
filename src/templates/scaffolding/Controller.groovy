@@ -1,9 +1,18 @@
 import org.codehaus.groovy.grails.commons.ConfigurationHolder
+import org.apache.shiro.SecurityUtils
 
 <%=packageName ? "package ${packageName}\n\n" : ""%>class ${className}Controller {
 
     // This has to be done on each controller or it doesn't bind it to anything.
     //def exportService
+
+    def getUser = { 
+        def user = User.get(SecurityUtils.getSubject()?.getPrincipal()) 
+        if (user != null) {
+            user = User.get(user.id) // To get the right sort of object
+        }
+        return user
+    }
 
     def index = { redirect(action: "list", params: params) }
 
@@ -24,11 +33,13 @@ import org.codehaus.groovy.grails.commons.ConfigurationHolder
     def create = {
         def ${propertyName} = new ${className}()
         ${propertyName}.properties = params
+        ${propertyName}.updatedBy = getUser()
         return [${propertyName}: ${propertyName}]
     }
 
     def save = {
         def ${propertyName} = new ${className}(params)
+        ${propertyName}.updatedBy = getUser()
         if (!${propertyName}.hasErrors() && ${propertyName}.save()) {
             flash.message = "${domainClass.propertyName}.created"
             flash.args = [${propertyName}.id]
@@ -79,6 +90,7 @@ import org.codehaus.groovy.grails.commons.ConfigurationHolder
                 }
             }
             ${propertyName}.properties = params
+            ${propertyName}.updatedBy = getUser()
             if (!${propertyName}.hasErrors() && ${propertyName}.save()) {
                 flash.message = "${domainClass.propertyName}.updated"
                 flash.args = [params.id]

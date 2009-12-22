@@ -1,3 +1,5 @@
+import intient.nimble.domain.UserBase
+
 class ReconstructionData {
 
     static hasMany = [reconstructions: Reconstruction]
@@ -7,6 +9,10 @@ class ReconstructionData {
     String form
     String gloss
     String notes
+    Date createdAt
+    Date updatedAt
+    UserBase createdBy
+    UserBase updatedBy
 
     static constraints = {
         reconstruction(blank:false, )
@@ -14,5 +20,21 @@ class ReconstructionData {
         form(blank:false)
         gloss(blank:false)
         notes(widget:"textarea")
+        createdAt(display: false, nullable: true)
+        updatedAt(display: false, nullable: true)
+        createdBy(display: false, nullable: true)
+        updatedBy(display: false, nullable: true)
     }
+    
+    def beforeInsert = {
+        createdAt = new Date()
+        updatedAt = new Date()
+	createdBy = updatedBy
+    }
+
+    def beforeUpdate = {
+        updatedAt = new Date()
+    }
+
+
 }

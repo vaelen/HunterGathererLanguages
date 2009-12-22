@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title><g:layoutTitle default="Grails" /></title>
+        <title><g:layoutTitle default="Grails" /> - Hunter Gatherer Languages Database</title>
         <link rel="stylesheet" href="${resource(dir:'css',file:'main.css')}" />
         <link rel="shortcut icon" href="${resource(dir:'images',file:'favicon.ico')}" type="image/x-icon" />
         <g:layoutHead />
@@ -155,7 +155,35 @@
                     </div>
                   </div>
                 </li>
-
+                <n:notUser>
+                  <li class="yuimenubaritem first-of-type"><g:link class="yuimenubaritemlabel" controller="auth" action="login">Login</g:link>
+                </n:notUser>
+                <n:user>
+                  <li class="yuimenubaritem first-of-type"><a class="yuimenubaritemlabel" href="#account">Account</a>
+                    <div id="site-nav-account" class="yuimenu">
+                      <div class="bd">
+                        <ul>
+                          <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="profile">Profile</g:link></li>
+                          <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="auth" action="logout">Logout</g:link></li>
+                          <n:isAdministrator>
+                            <li class="yuimenuitem first-of-type"><a class="yuimenuitemlabel" href="#administration">Administration</a>
+                              <div id="site-nav-administration" class="yuimenu">
+                                <div class="bd">
+                                  <ul>
+                                    <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="admins">Admins</g:link></li>
+                                    <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="user">Users</g:link></li>
+                                    <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="group">Groups</g:link></li>
+                                    <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="role">Roles</g:link></li>
+                                  </ul>
+                                </div>
+                              </div>
+                            </li>
+                          </n:isAdministrator>
+                        </ul>
+                      </div>
+                    </div>
+                  </li>
+                </n:user>
               </ul>
             </div>
           </div>

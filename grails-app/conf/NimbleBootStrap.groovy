@@ -46,6 +46,8 @@ class NimbleBootStrap {
 
     // Execute any custom Nimble related BootStrap for your application below
 
+    def contributors = new Role(name:"Contributor").save()
+
     // Create example User account
     def user = InstanceGenerator.user()
     user.username = "user"
@@ -66,6 +68,9 @@ class NimbleBootStrap {
       throw new RuntimeException("Error creating example user")
     }
 
+    user.addToRoles(contributors)
+    user.save()
+
     // Create example Administrative account
     def admins = Role.findByName(AdminsService.ADMIN_ROLE)
     def admin = InstanceGenerator.user()
@@ -73,6 +78,7 @@ class NimbleBootStrap {
     admin.pass = "admiN123!"
     admin.passConfirm = "admiN123!"
     admin.enabled = true
+
 
     def adminProfile = InstanceGenerator.profile()
     adminProfile.fullName = "Administrator"
@@ -86,6 +92,9 @@ class NimbleBootStrap {
       }
       throw new RuntimeException("Error creating administrator")
     }
+
+    admin.addToRoles(contributors)
+    admin.save()
 
     adminsService.add(admin)
   }

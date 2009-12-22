@@ -1,3 +1,5 @@
+import intient.nimble.domain.UserBase
+
 class GeneticFeature {
 
     static hasMany = [geneticFeatureSources:GeneticFeatureSource]
@@ -8,6 +10,10 @@ class GeneticFeature {
     ExportSet exportSet
     CaseStudyRegion caseStudyRegion
     String notes
+    Date createdAt
+    Date updatedAt
+    UserBase createdBy
+    UserBase updatedBy
 
     static constraints = {
         name(blank:false)
@@ -17,7 +23,22 @@ class GeneticFeature {
         caseStudyRegion(blank:false, )
         geneticFeatureSources()
         notes(widget:"textarea")
+        createdAt(display: false, nullable: true)
+        updatedAt(display: false, nullable: true)
+        createdBy(display: false, nullable: true)
+        updatedBy(display: false, nullable: true)
     }
+    
+    def beforeInsert = {
+        createdAt = new Date()
+        updatedAt = new Date()
+	createdBy = updatedBy
+    }
+
+    def beforeUpdate = {
+        updatedAt = new Date()
+    }
+
 
     String toString() {
         return name

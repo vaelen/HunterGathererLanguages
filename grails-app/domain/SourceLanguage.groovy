@@ -1,3 +1,5 @@
+import intient.nimble.domain.UserBase
+
 class SourceLanguage {
 
     String name
@@ -9,6 +11,10 @@ class SourceLanguage {
     String latitude
     String longitude
     String isoCode
+    Date createdAt
+    Date updatedAt
+    UserBase createdBy
+    UserBase updatedBy
 
     static constraints = {
         name(blank:false)
@@ -20,7 +26,22 @@ class SourceLanguage {
         latitude(blank:true)
         longitude(blank:true)
         isoCode(blank:false, minSize:3, maxSize:3)
+        createdAt(display: false, nullable: true)
+        updatedAt(display: false, nullable: true)
+        createdBy(display: false, nullable: true)
+        updatedBy(display: false, nullable: true)
     }
+    
+    def beforeInsert = {
+        createdAt = new Date()
+        updatedAt = new Date()
+        createdBy = updatedBy
+    }
+
+    def beforeUpdate = {
+        updatedAt = new Date()
+    }
+
 
     String toString() {
         return name

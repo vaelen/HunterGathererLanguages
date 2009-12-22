@@ -77,6 +77,11 @@ nimble {
     	user = "User"
     	profile = "Profile"
     }
+
+    layout {
+        application = "main"
+    }
+        
 }
 
 environments {

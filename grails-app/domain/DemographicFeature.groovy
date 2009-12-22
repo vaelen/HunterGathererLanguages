@@ -1,3 +1,5 @@
+import intient.nimble.domain.UserBase
+
 class DemographicFeature {
 
     static hasMany = [demographicFeatureSources: DemographicFeatureSource]
@@ -8,6 +10,10 @@ class DemographicFeature {
     ExportSet exportSet
     CaseStudyRegion caseStudyRegion
     String notes
+    Date createdAt
+    Date updatedAt
+    UserBase createdBy
+    UserBase updatedBy
 
     static constraints = {
         name(blank:false)
@@ -17,7 +23,22 @@ class DemographicFeature {
         caseStudyRegion(blank:false, )
         demographicFeatureSources()
         notes(widget:"textarea")
+        createdAt(display: false, nullable: true)
+        updatedAt(display: false, nullable: true)
+        createdBy(display: false, nullable: true)
+        updatedBy(display: false, nullable: true)
     }
+
+    def beforeInsert = {
+        createdAt = new Date()
+        updatedAt = new Date()
+	createdBy = updatedBy
+    }
+
+    def beforeUpdate = {
+        updatedAt = new Date()
+    }
+
 
     String toString() {
         return name
