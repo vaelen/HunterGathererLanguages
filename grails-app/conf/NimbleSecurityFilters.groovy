@@ -64,7 +64,182 @@ public class NimbleSecurityFilters extends intient.nimble.security.NimbleFilterB
             }
         }
 
-        // Creating, modifying, or deleting a book requires the "Administrator" role. 
+        caseStudyRegionEditing(controller: "caseStudyRegion", action: "(create|edit|save|update|delete)") { 
+            before = { 
+                accessControl { 
+                    role(CONTRIBUTOR_ROLE) 
+                } 
+            } 
+        }
+
+        demographicDataEditing(controller: "demographicData", action: "(create|edit|save|update|delete)") { 
+            before = { 
+                accessControl { 
+                    role(CONTRIBUTOR_ROLE) 
+                } 
+            } 
+        }
+
+        demographicFeatureCategoryEditing(controller: "demographicFeatureCategory", action: "(create|edit|save|update|delete)") { 
+            before = { 
+                accessControl { 
+                    role(CONTRIBUTOR_ROLE) 
+                } 
+            } 
+        }
+
+        demographicFeatureEditing(controller: "demographicFeature", action: "(create|edit|save|update|delete)") { 
+            before = { 
+                accessControl { 
+                    role(CONTRIBUTOR_ROLE) 
+                } 
+            } 
+        }
+
+        ethnographicDataEditing(controller: "ethnographicData", action: "(create|edit|save|update|delete)") { 
+            before = { 
+                accessControl { 
+                    role(CONTRIBUTOR_ROLE) 
+                } 
+            } 
+        }
+
+        ethnographicFeatureCategoryEditing(controller: "ethnographicFeatureCategory", action: "(create|edit|save|update|delete)") { 
+            before = { 
+                accessControl { 
+                    role(CONTRIBUTOR_ROLE) 
+                } 
+            } 
+        }
+
+        ethnographicFeatureEditing(controller: "ethnographicFeature", action: "(create|edit|save|update|delete)") { 
+            before = { 
+                accessControl { 
+                    role(CONTRIBUTOR_ROLE) 
+                } 
+            } 
+        }
+
+        exportSetEditing(controller: "exportSet", action: "(create|edit|save|update|delete)") { 
+            before = { 
+                accessControl { 
+                    role(CONTRIBUTOR_ROLE) 
+                } 
+            } 
+        }
+
+        geneticDataEditing(controller: "geneticData", action: "(create|edit|save|update|delete)") { 
+            before = { 
+                accessControl { 
+                    role(CONTRIBUTOR_ROLE) 
+                } 
+            } 
+        }
+
+        geneticFeatureCategoryEditing(controller: "geneticFeatureCategory", action: "(create|edit|save|update|delete)") { 
+            before = { 
+                accessControl { 
+                    role(CONTRIBUTOR_ROLE) 
+                } 
+            } 
+        }
+
+        geneticFeatureEditing(controller: "geneticFeature", action: "(create|edit|save|update|delete)") { 
+            before = { 
+                accessControl { 
+                    role(CONTRIBUTOR_ROLE) 
+                } 
+            } 
+        }
+
+        grammaticalDataEditing(controller: "grammaticalData", action: "(create|edit|save|update|delete)") { 
+            before = { 
+                accessControl { 
+                    role(CONTRIBUTOR_ROLE) 
+                } 
+            } 
+        }
+
+        grammaticalFeatureCategoryEditing(controller: "grammaticalFeatureCategory", action: "(create|edit|save|update|delete)") { 
+            before = { 
+                accessControl { 
+                    role(CONTRIBUTOR_ROLE) 
+                } 
+            } 
+        }
+
+        grammaticalFeatureEditing(controller: "grammaticalFeature", action: "(create|edit|save|update|delete)") { 
+            before = { 
+                accessControl { 
+                    role(CONTRIBUTOR_ROLE) 
+                } 
+            } 
+        }
+
+        lexicalDataEditing(controller: "lexicalData", action: "(create|edit|save|update|delete)") { 
+            before = { 
+                accessControl { 
+                    role(CONTRIBUTOR_ROLE) 
+                } 
+            } 
+        }
+
+        lexicalFeatureCategoryEditing(controller: "lexicalFeatureCategory", action: "(create|edit|save|update|delete)") { 
+            before = { 
+                accessControl { 
+                    role(CONTRIBUTOR_ROLE) 
+                } 
+            } 
+        }
+
+        lexicalFeatureEditing(controller: "lexicalFeature", action: "(create|edit|save|update|delete)") { 
+            before = { 
+                accessControl { 
+                    role(CONTRIBUTOR_ROLE) 
+                } 
+            } 
+        }
+
+        partOfSpeechEditing(controller: "partOfSpeech", action: "(create|edit|save|update|delete)") { 
+            before = { 
+                accessControl { 
+                    role(CONTRIBUTOR_ROLE) 
+                } 
+            } 
+        }
+
+        reconstructionDataEditing(controller: "reconstructionData", action: "(create|edit|save|update|delete)") { 
+            before = { 
+                accessControl { 
+                    role(CONTRIBUTOR_ROLE) 
+                } 
+            } 
+        }
+
+        reconstructionEditing(controller: "reconstruction", action: "(create|edit|save|update|delete)") { 
+            before = { 
+                accessControl { 
+                    role(CONTRIBUTOR_ROLE) 
+                } 
+            } 
+        }
+
+        semanticFieldEditing(controller: "semanticField", action: "(create|edit|save|update|delete)") { 
+            before = { 
+                accessControl { 
+                    role(CONTRIBUTOR_ROLE) 
+                } 
+            } 
+        }
+
+        sourceEditing(controller: "source", action: "(create|edit|save|update|delete)") { 
+            before = { 
+                accessControl { 
+                    role(CONTRIBUTOR_ROLE) 
+                } 
+            } 
+        }
+
         sourceLanguageEditing(controller: "sourceLanguage", action: "(create|edit|save|update|delete)") { 
             before = { 
                 accessControl { 
