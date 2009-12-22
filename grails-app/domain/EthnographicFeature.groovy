@@ -22,7 +22,7 @@ class EthnographicFeature {
         exportSet()
         caseStudyRegion(blank:false, )
         ethnographicFeatureSources()
-        notes(widget:"textarea")
+        notes(widget:"textarea", maxSize:2000)
         createdAt(display: false, nullable: true)
         updatedAt(display: false, nullable: true)
         createdBy(display: false, nullable: true)

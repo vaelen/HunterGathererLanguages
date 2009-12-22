@@ -35,7 +35,8 @@
                                 <%  if (p.isEnum()) { %>
                                 <td valign="top" class="value">\${${propertyName}?.${p.name}?.encodeAsHTML()}</td>
                                 <%  } else if (p.type == User.class) { %>
-                                <td valign="top" class="value"><g:link controller="profile" action="show" id="\${${propertyName}?.${p.name}?.id}">\${${propertyName}?.${p.name}?.encodeAsHTML()}</g:link></td>                             <%  } else if (p.oneToMany || p.manyToMany) { %>
+                                <td valign="top" class="value"><g:link controller="profile" action="show" id="\${${propertyName}?.${p.name}?.id}">\${${propertyName}?.${p.name}?.encodeAsHTML()}</g:link></td>                             
+                                <%  } else if (p.oneToMany || p.manyToMany) { %>
                                 <td  valign="top" style="text-align: left;" class="value">
                                     <ul>
                                     <g:each in="\${${propertyName}?.${p.name}}" var="${p.referencedDomainClass?.propertyName}Instance">
