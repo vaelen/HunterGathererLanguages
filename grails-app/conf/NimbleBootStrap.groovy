@@ -46,57 +46,62 @@ class NimbleBootStrap {
 
     // Execute any custom Nimble related BootStrap for your application below
 
-    def contributors = new Role(name:"Contributor").save()
+    def contributors = Role.findByName("Contributor")
 
-    // Create example User account
-    def user = InstanceGenerator.user()
-    user.username = "user"
-    user.pass = 'useR123!'
-    user.passConfirm = 'useR123!'
-    user.enabled = true
+    if (!contributors) {
 
-    def userProfile = InstanceGenerator.profile()
-    userProfile.fullName = "Test User"
-    userProfile.owner = user
-    user.profile = userProfile
+            contributors = new Role(name:"Contributor").save()
 
-    def savedUser = userService.createUser(user)
-    if (savedUser.hasErrors()) {
-      savedUser.errors.each {
-        log.error(it)
-      }
-      throw new RuntimeException("Error creating example user")
-    }
+            // Create example User account
+            def user = InstanceGenerator.user()
+            user.username = "user"
+            user.pass = 'useR123!'
+            user.passConfirm = 'useR123!'
+            user.enabled = true
 
-    user.addToRoles(contributors)
-    user.save()
+            def userProfile = InstanceGenerator.profile()
+            userProfile.fullName = "Test User"
+            userProfile.owner = user
+            user.profile = userProfile
 
-    // Create example Administrative account
-    def admins = Role.findByName(AdminsService.ADMIN_ROLE)
-    def admin = InstanceGenerator.user()
-    admin.username = "admin"
-    admin.pass = "admiN123!"
-    admin.passConfirm = "admiN123!"
-    admin.enabled = true
+            def savedUser = userService.createUser(user)
+            if (savedUser.hasErrors()) {
+                savedUser.errors.each {
+                    log.error(it)
+                }
+                throw new RuntimeException("Error creating example user")
+            }
+
+            user.addToRoles(contributors)
+            user.save()
+
+            // Create example Administrative account
+            def admins = Role.findByName(AdminsService.ADMIN_ROLE)
+            def admin = InstanceGenerator.user()
+            admin.username = "admin"
+            admin.pass = "admiN123!"
+            admin.passConfirm = "admiN123!"
+            admin.enabled = true
 
 
-    def adminProfile = InstanceGenerator.profile()
-    adminProfile.fullName = "Administrator"
-    adminProfile.owner = admin
-    admin.profile = adminProfile
+            def adminProfile = InstanceGenerator.profile()
+            adminProfile.fullName = "Administrator"
+            adminProfile.owner = admin
+            admin.profile = adminProfile
 
-    def savedAdmin = userService.createUser(admin)
-    if (savedAdmin.hasErrors()) {
-      savedAdmin.errors.each {
-        log.error(it)
-      }
-      throw new RuntimeException("Error creating administrator")
-    }
+            def savedAdmin = userService.createUser(admin)
+            if (savedAdmin.hasErrors()) {
+                savedAdmin.errors.each {
+                    log.error(it)
+                }
+                throw new RuntimeException("Error creating administrator")
+            }
 
-    admin.addToRoles(contributors)
-    admin.save()
+            admin.addToRoles(contributors)
+            admin.save()
 
-    adminsService.add(admin)
+            adminsService.add(admin)
+        }
   }
 
   def destroy = {
