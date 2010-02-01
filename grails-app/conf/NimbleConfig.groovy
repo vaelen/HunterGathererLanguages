@@ -62,7 +62,7 @@ nimble {
 
         mail {
             from = "Hunter Gatherer Language Database <do-not-reply@example.com>"
-            host = ""
+            host = "mail.la.utexas.edu"
             port = 25
             username = ""
             password = ""

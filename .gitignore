@@ -1,3 +1,8 @@
 stacktrace.log
 *~
 *#
+lib/
+target/
+releases/
+prodDb.*
+nohup.out
