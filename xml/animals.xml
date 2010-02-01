@@ -1,0 +1,1335 @@
+<entries>
+  <entry>
+    <meta>
+      <English>agouti (Black agouti, Black-rumped agouti)</English>
+      <Portuguese>cutia</Portuguese>
+      <Spanish>Guatusa Negra, Añuje, Agutí (black-rumped), picure</Spanish>
+      <Latin>Dasyprocta spp.</Latin>
+      <Distribution>Dasyprocta fuliginosa: Amazonia north of Bolivia; Dasyprocta prymnolopha: Brazil only</Distribution>
+      <Comments>InfoNatura website (http://www.natureserve.org/infonatura), Museu Goeldi animals database</Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Summer Institute of Lingusitics 1959</source>
+    <value>kóba (variety of agouti)</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>Green Acouchi</English>
+      <Portuguese>cutiara</Portuguese>
+      <Spanish>Guatín, Punchana Guatín, Punchana, curi, picurito rabudo, picurito rabilargo</Spanish>
+      <Latin>Myoprocta pratti</Latin>
+      <Distribution>Amazonia west of Rio Branco [InfoNat shows absent from Rio Negro, but this seems to be false]</Distribution>
+      <Comments>InfoNat</Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>bɨn</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>alligator</English>
+      <Portuguese>jacaré</Portuguese>
+      <Spanish>babilla; cachirre</Spanish>
+      <Latin>genus Alligator</Latin>
+      <Distribution></Distribution>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Summer Institute of Lingusitics 1959</source>
+    <value>nõma</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>anaconda</English>
+      <Portuguese>sucuri</Portuguese>
+      <Spanish>anaconda, boa, boa acuática grande</Spanish>
+      <Latin>genus Eunectes</Latin>
+      <Distribution>Widespread Amazonia</Distribution>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Guayabero (phono)</language>
+    <source>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano. AP</source>
+    <value>hombói</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>ant: leaf-cutter ant</English>
+      <Portuguese>saúva</Portuguese>
+      <Spanish>Colombia: zampopo, hormiga arriera; Venezuela: bachaco; Peru: curuhuinsi</Spanish>
+      <Latin>Atta sp.</Latin>
+      <Distribution></Distribution>
+      <Comments>edible delicacy (compare also edible  'maniwara' ants)</Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Summer Institute of Lingusitics 1959</source>
+    <value>GNhu, ghu (generic)</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>ant: bullet ant; lesser giant hunter ant</English>
+      <Portuguese>tocandira</Portuguese>
+      <Spanish>conga, hormiga yanabe (Colombia), isula, Hormiga Veinticuatro</Spanish>
+      <Latin>Paraponera clavata</Latin>
+      <Distribution></Distribution>
+      <Comments>painful sting; ritual significance among various groups</Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>títbit</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>armadillo</English>
+      <Portuguese>tatu</Portuguese>
+      <Spanish>armadillo, carachupa (Peru), yangunturi (Peru for Giant armadillo)</Spanish>
+      <Latin>family Dasypodidae; e.g. Priodontes maximus (Giant armadillo), Dasypus novemcinctus, Dasypus kappleri</Latin>
+      <Distribution>Widespread in Amazonia</Distribution>
+      <Comments>Museu Goeldi animals database; other armadillo types are of different families; e.g. giant armadillo. Ignore these?</Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>bonén</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>bat</English>
+      <Portuguese>morcego</Portuguese>
+      <Spanish>murciélago</Spanish>
+      <Latin>order Chiroptera</Latin>
+      <Distribution></Distribution>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>kamíhawat</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>bee</English>
+      <Portuguese>abelha</Portuguese>
+      <Spanish>abeja; specific types: arambasa, ramiche/ramichi</Spanish>
+      <Latin>Apis mellifera; Tetragonisca angustula; Trigona amazonensis</Latin>
+      <Distribution></Distribution>
+      <Comments>prioritize honey-making bees</Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>toniát</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>boa</English>
+      <Portuguese>jiboia</Portuguese>
+      <Spanish>boa; mantona (red-tailed boa); boa de altura</Spanish>
+      <Latin>family Boidae, subf. Boinae</Latin>
+      <Distribution></Distribution>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Summer Institute of Lingusitics 1959</source>
+    <value>obe</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>caterpillar (edible)</English>
+      <Portuguese>lagarta</Portuguese>
+      <Spanish>oruga, ahuihua (Peru for edible varieties), bayuca (not sure if these are edible)</Spanish>
+      <Latin></Latin>
+      <Distribution></Distribution>
+      <Comments>prioritize edible caterpillers</Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Andoke (Phon)</language>
+    <source>Landaburu, Jon.  1979. La Langue des Andoke. -- Entered by Kelsey Neely</source>
+    <value>beʔɲe (black), pakáçí (green), pãhãdi (yellow), pɨ́ʔçɨdɨ́ (white), hʌpʌ́ta (green), pómə̃tá (baco tree), poʔótá (brown),</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>tufted capuchin monkey</English>
+      <Portuguese>macaco prego</Portuguese>
+      <Spanish>mono negro (Peru), Machín Negro, Maicero Cachón</Spanish>
+      <Latin>Cebus apella</Latin>
+      <Distribution>Widespread Amazonia</Distribution>
+      <Comments>Museu Goeldi animals database</Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Guayabero (phono)</language>
+    <source>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano. AP</source>
+    <value>ɸófa (? 'Machín')</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>cicada</English>
+      <Portuguese>cigarra</Portuguese>
+      <Spanish>cigarra, chicharra</Spanish>
+      <Latin>super fam. Cicadoidea</Latin>
+      <Distribution></Distribution>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Tupi-Guaraní</languageFamily>
+    <language>Cocama</language>
+    <source>Daniel</source>
+    <value>jakiɾana</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>collared peccary</English>
+      <Portuguese>caititu</Portuguese>
+      <Spanish>sajino, pecarí de collar, jabalf, Javelina, Saíno, Pecarí de Collar</Spanish>
+      <Latin>Pecari tajacu, Tayassu tajacu</Latin>
+      <Distribution>Widespread South America</Distribution>
+      <Comments>InfoNat</Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Summer Institute of Lingusitics 1959</source>
+    <value>ą́mǫ</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>cotamundi</English>
+      <Portuguese>quati</Portuguese>
+      <Spanish>Coatí, Tejón, Achuni, zorro guache</Spanish>
+      <Latin>genus Nasua</Latin>
+      <Distribution>Widespread South America</Distribution>
+      <Comments>InfoNat</Comments>
+    </meta>
+    <languageFamily>Nadahup</languageFamily>
+    <language>Nadêb Rç (phonemic)</language>
+    <source>Martins, Valteir. 2005. Reconstrução fonológica do Protomaku Oriental [Phonological reconstruction of eastern Protomaku]. Ph. D. diss., Vrije Universiteit, Amsterdam. Amsterdam: LOT. [ɨ is written ɯ in Martins]; Martins, Senn. Nadeb lexicon, ms; Weir, E.M. Helen 1984. A negação e outros tópicos da gramática Nadëb. Dissertação de Mestrado em Lingüística. Campinas: IEL-UNICAMP. AP</source>
+    <value>ka'bəʔ</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>cricket</English>
+      <Portuguese>grilo</Portuguese>
+      <Spanish>saltón, grillo</Spanish>
+      <Latin>family Gryllidae</Latin>
+      <Distribution></Distribution>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Andoke (Phon)</language>
+    <source>Landaburu, Jon.  1979. La Langue des Andoke. -- Entered by Kelsey Neely</source>
+    <value>boʔdə́tapu</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>deer</English>
+      <Portuguese>veado, cariacu</Portuguese>
+      <Spanish>venado</Spanish>
+      <Latin>family Cervidae, esp. Odocoileus virginianus</Latin>
+      <Distribution>Widespread Amazonia</Distribution>
+      <Comments>InfoNat</Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Guayabero (phono)</language>
+    <source>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano. AP</source>
+    <value>ʔawói</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>dog (domestic)</English>
+      <Portuguese>cachorro</Portuguese>
+      <Spanish>perro</Spanish>
+      <Latin>Canis lupis famililaris</Latin>
+      <Distribution>Not native; widespread</Distribution>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Summer Institute of Lingusitics 1959</source>
+    <value>gĩta</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>dog (wild; bush dog)</English>
+      <Portuguese>cachorro-do-mato</Portuguese>
+      <Spanish>Perro de Monte, Zorro Vinagre, Guanfando; Zorro Ojizarco, Zorro Negro, Perro de Orejas Corta</Spanish>
+      <Latin>Speothos venaticus; Atelocynus microtis</Latin>
+      <Distribution>Widespread Amazonia</Distribution>
+      <Comments>InfoNat</Comments>
+    </meta>
+    <languageFamily>Nadahup</languageFamily>
+    <language>Nadêb Rç (phonemic)</language>
+    <source>Martins, Valteir. 2005. Reconstrução fonológica do Protomaku Oriental [Phonological reconstruction of eastern Protomaku]. Ph. D. diss., Vrije Universiteit, Amsterdam. Amsterdam: LOT. [ɨ is written ɯ in Martins]; Martins, Senn. Nadeb lexicon, ms; Weir, E.M. Helen 1984. A negação e outros tópicos da gramática Nadëb. Dissertação de Mestrado em Lingüística. Campinas: IEL-UNICAMP. AP</source>
+    <value>wawɤt</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>Amazon dolphin</English>
+      <Portuguese>boto cor-de-rosa</Portuguese>
+      <Spanish>bufeo, delfín, tonina (del Orinoco)</Spanish>
+      <Latin>Inia geoffrensis</Latin>
+      <Distribution>Downstream of major rapids and waterfalls</Distribution>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Andoke (Phon)</language>
+    <source>Landaburu, Jon.  1979. La Langue des Andoke. -- Entered by Kelsey Neely</source>
+    <value>amana</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>duck</English>
+      <Portuguese>pato, marreco</Portuguese>
+      <Spanish>pato</Spanish>
+      <Latin>Anatidae family</Latin>
+      <Distribution></Distribution>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Summer Institute of Lingusitics 1959</source>
+    <value>abharaeka</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>electric eel</English>
+      <Portuguese>poraquê</Portuguese>
+      <Spanish>anguila eléctrica</Spanish>
+      <Latin>Electrophorus electricus</Latin>
+      <Distribution></Distribution>
+      <Comments>Museu Goeldi animals database</Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>albín, tʃílit</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>fish (generic)</English>
+      <Portuguese>peixe</Portuguese>
+      <Spanish>pez</Spanish>
+      <Latin></Latin>
+      <Distribution></Distribution>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Summer Institute of Lingusitics 1959</source>
+    <value>yǽyæ (a kind of fish) yǽmæ (a spotted fish)</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>fish (large type)</English>
+      <Portuguese>pirarucu</Portuguese>
+      <Spanish>paiche, pirarucú o arapaima</Spanish>
+      <Latin>Arapaima gigas</Latin>
+      <Distribution>big rivers only</Distribution>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Nadahup</languageFamily>
+    <language>Nadêb Rç (phonemic)</language>
+    <source>Martins, Valteir. 2005. Reconstrução fonológica do Protomaku Oriental [Phonological reconstruction of eastern Protomaku]. Ph. D. diss., Vrije Universiteit, Amsterdam. Amsterdam: LOT. [ɨ is written ɯ in Martins]; Martins, Senn. Nadeb lexicon, ms; Weir, E.M. Helen 1984. A negação e outros tópicos da gramática Nadëb. Dissertação de Mestrado em Lingüística. Campinas: IEL-UNICAMP. AP</source>
+    <value>wabu, bubuː</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>flea</English>
+      <Portuguese>pulga</Portuguese>
+      <Spanish>pulga</Spanish>
+      <Latin>order Siphonaptera</Latin>
+      <Distribution></Distribution>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>maník, maníp</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>anteater</English>
+      <Portuguese>tamanduá</Portuguese>
+      <Spanish>oso hormiguero; tapia pelejo or pelejo chico for Cyclopes didactylus</Spanish>
+      <Latin>Myrmecophaga tridactyla (giant anteater); Cyclopes didactylus (silky anteater)</Latin>
+      <Distribution>Widespread Amazonian lowlands</Distribution>
+      <Comments>Museu Goeldi animals database,
+InfoNat</Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>makút</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>brown woolly monkey</English>
+      <Portuguese>macaco barrigudo</Portuguese>
+      <Spanish>Mono Lanudo Común, Choro, Churucu, mono choro (Peru), mono lanudo cafe, barrigudo de Humboldt</Spanish>
+      <Latin>Lagothrix lagothricha</Latin>
+      <Distribution>NW Amazon only, east of Andes, west of Rio Negro</Distribution>
+      <Comments>InfoNat</Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Summer Institute of Lingusitics 1959</source>
+    <value>gatã (woolly monkey)</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>hawk</English>
+      <Portuguese>gavião</Portuguese>
+      <Spanish>halcón, gavilan</Spanish>
+      <Latin>Family Accipitridae</Latin>
+      <Distribution></Distribution>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Summer Institute of Lingusitics 1959</source>
+    <value>pogæ̃ka</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>tayra, honey marten</English>
+      <Portuguese>irara, papa-mel</Portuguese>
+      <Spanish>comadreja, zorra (Colombia), Cabeza de Mate, Amingo, Tolomuco, Gato Negro,  manco (Peru)</Spanish>
+      <Latin>Eira barbara</Latin>
+      <Distribution>Widespread Amazonia</Distribution>
+      <Comments>InfoNat</Comments>
+    </meta>
+    <languageFamily>Nadahup</languageFamily>
+    <language>Nadêb Rç (phonemic)</language>
+    <source>Martins, Valteir. 2005. Reconstrução fonológica do Protomaku Oriental [Phonological reconstruction of eastern Protomaku]. Ph. D. diss., Vrije Universiteit, Amsterdam. Amsterdam: LOT. [ɨ is written ɯ in Martins]; Martins, Senn. Nadeb lexicon, ms; Weir, E.M. Helen 1984. A negação e outros tópicos da gramática Nadëb. Dissertação de Mestrado em Lingüística. Campinas: IEL-UNICAMP. AP</source>
+    <value>kanari</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>howler monkey (red-handed)</English>
+      <Portuguese>guariba</Portuguese>
+      <Spanish>mono aullador, mono coto (Peru)</Spanish>
+      <Latin>Alouatta belzebul</Latin>
+      <Distribution>Brazil only; other howlers are found elsewhere</Distribution>
+      <Comments>Museu Goeldi animals database, InfoNat</Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Guayabero (phono)</language>
+    <source>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano. AP</source>
+    <value>ʔárow-at</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>hummingbird</English>
+      <Portuguese>beija-flor</Portuguese>
+      <Spanish>colibrí, picaflor (Peru)</Spanish>
+      <Latin>family Trochilidae</Latin>
+      <Distribution>Widespread</Distribution>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Summer Institute of Lingusitics 1959</source>
+    <value>ayæmõ (bird generic) kowæ̃ (turkey) dáwą/ dą́wą (a certain bird) ñą́ñą́ (dove); gome (a certain bird) nana (generic)</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>iguana</English>
+      <Portuguese>camaleão</Portuguese>
+      <Spanish>iguana, garipiares (Colombia)</Spanish>
+      <Latin>Iguana sp.</Latin>
+      <Distribution></Distribution>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>matí</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>jaguar</English>
+      <Portuguese>onca</Portuguese>
+      <Spanish>yaguar, yaguareté, jaguar, otorongo (Peru), tigre (Peru)</Spanish>
+      <Latin>Panthera onca</Latin>
+      <Distribution>Widespread Amazonia</Distribution>
+      <Comments>Museu Goeldi animals database</Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Summer Institute of Lingusitics 1959</source>
+    <value>ñæ̃wæ̃næ̃ mẽñe</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>jungle cat</English>
+      <Portuguese>maracajá, gato-do-mato</Portuguese>
+      <Spanish>Maguey, Tigrillo de Cola Larga, Caucel, tigrillo (Peru), otoronguillo (Peru)</Spanish>
+      <Latin>Leopardus wiedii</Latin>
+      <Distribution>Widespread Amazonia</Distribution>
+      <Comments>Museu Goeldi animals database,
+InfoNat</Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Summer Institute of Lingusitics 1959</source>
+    <value>ą́áwæ (tiger)</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>Gray-winged Trumpeter</English>
+      <Portuguese>jacamim</Portuguese>
+      <Spanish>Grulla, Trompetero Ala Gris</Spanish>
+      <Latin>Psophia crepitans</Latin>
+      <Distribution>Northern Amazonia (N of Solimões), not in northern Colombia; Dark-winged trumpeter is found south of Solimões</Distribution>
+      <Comments>Museu Goeldi animals database, InfoNat</Comments>
+    </meta>
+    <languageFamily>Nadahup</languageFamily>
+    <language>Nadêb Rç (phonemic)</language>
+    <source>Martins, Valteir. 2005. Reconstrução fonológica do Protomaku Oriental [Phonological reconstruction of eastern Protomaku]. Ph. D. diss., Vrije Universiteit, Amsterdam. Amsterdam: LOT. [ɨ is written ɯ in Martins]; Martins, Senn. Nadeb lexicon, ms; Weir, E.M. Helen 1984. A negação e outros tópicos da gramática Nadëb. Dissertação de Mestrado em Lingüística. Campinas: IEL-UNICAMP. AP</source>
+    <value>maʃək</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>mandi catfish</English>
+      <Portuguese>mandi</Portuguese>
+      <Spanish>maparate (used in Peru for some types of catfish, including Auchenipterus sp.), cunchi (used in Peru for some types of catfish), bagre (catfish)</Spanish>
+      <Latin>Auchenipterus sp.</Latin>
+      <Distribution>Widespread Amazonia</Distribution>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>bunú</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>pacu fish</English>
+      <Portuguese>pacu</Portuguese>
+      <Spanish>palometa, garopita, garopa, curhuara (Peru)</Spanish>
+      <Latin>Mylossoma sp.</Latin>
+      <Distribution></Distribution>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>átak, tatalám</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>tigerfish</English>
+      <Portuguese>traíra</Portuguese>
+      <Spanish>taraira, guabina, huasaco (Peru)</Spanish>
+      <Latin>Hoplias sp.</Latin>
+      <Distribution>Widespread Amazonia</Distribution>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>ehenáp, hiásap</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>guan</English>
+      <Portuguese>jacu</Portuguese>
+      <Spanish>pava, pucacunga (Peru), pava de Spix (Peru)</Spanish>
+      <Latin>Penelope sp.</Latin>
+      <Distribution>Different types have different localized ranges</Distribution>
+      <Comments>InfoNat</Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Guayabero (phono)</language>
+    <source>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano. AP</source>
+    <value>maráew, kótʃo</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>White-fronted spider monkey</English>
+      <Portuguese>macaco aranha</Portuguese>
+      <Spanish>Machin Blanco, Mono Araña de Vientre Amarillo, maquisapa (Peru), braceadora (Colombia)</Spanish>
+      <Latin>Ateles belzebuth</Latin>
+      <Distribution>NW Amazon: N of Amazon R., W of Rio Branco, into E Ecuador</Distribution>
+      <Comments>Museu Goeldi animals database, InfoNat</Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Summer Institute of Lingusitics 1959</source>
+    <value>deye (spider monkey)</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>kingfisher</English>
+      <Portuguese>martim-pescador</Portuguese>
+      <Spanish>martín pescador, catalan (Peru)</Spanish>
+      <Latin>family Alcedinidae</Latin>
+      <Distribution>Widespread Amazonia</Distribution>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Tupi-Guarani</languageFamily>
+    <language>Nheengatu (ortho)</language>
+    <source>John Blaha (Grenand)</source>
+    <value>wariramba</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>capybara</English>
+      <Portuguese>capivara</Portuguese>
+      <Spanish>Capibara, Carpincho, Ronsoco</Spanish>
+      <Latin>Hydrochoerus hydrochaeris</Latin>
+      <Distribution>Widespread South America</Distribution>
+      <Comments>Museu Goeldi animals database
+, InfoNat</Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Guayabero (phono)</language>
+    <source>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano. AP</source>
+    <value>homóe-t, hombóe-t</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>paca (lowland)</English>
+      <Portuguese>paca</Portuguese>
+      <Spanish>Guanta, Paca, Majaz, majás (Peru)</Spanish>
+      <Latin>Cuniculus paca (Agouti paca is sometimes used as well although cuniculus is the correct term.)</Latin>
+      <Distribution>Widespread Amazonia</Distribution>
+      <Comments>InfoNat</Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Guayabero (phono)</language>
+    <source>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano. AP</source>
+    <value>ʔaɸɨ́a</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>louse</English>
+      <Portuguese>piolho</Portuguese>
+      <Spanish>piollo, piojo</Spanish>
+      <Latin>order Phtiraptera</Latin>
+      <Distribution></Distribution>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>taaɾát</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>macaw</English>
+      <Portuguese>Arara</Portuguese>
+      <Spanish>ara, guacamaya</Spanish>
+      <Latin>family Psittacidae</Latin>
+      <Distribution>Widespread Amazonia</Distribution>
+      <Comments>Museu Goeldi animals database, InfoNat</Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>máha</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>manatee</English>
+      <Portuguese>peixe-boi</Portuguese>
+      <Spanish>vaca marina, manatí</Spanish>
+      <Latin>Trichechus sp.</Latin>
+      <Distribution>Large rivers only, northern Amazonia</Distribution>
+      <Comments>InfoNat</Comments>
+    </meta>
+    <languageFamily>Nadahup</languageFamily>
+    <language>Nadêb Rç (phonemic)</language>
+    <source>Martins, Valteir. 2005. Reconstrução fonológica do Protomaku Oriental [Phonological reconstruction of eastern Protomaku]. Ph. D. diss., Vrije Universiteit, Amsterdam. Amsterdam: LOT. [ɨ is written ɯ in Martins]; Martins, Senn. Nadeb lexicon, ms; Weir, E.M. Helen 1984. A negação e outros tópicos da gramática Nadëb. Dissertação de Mestrado em Lingüística. Campinas: IEL-UNICAMP. AP</source>
+    <value>wajatˀ</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>mouse</English>
+      <Portuguese>camundongo</Portuguese>
+      <Spanish>ratón</Spanish>
+      <Latin>Mus musculus</Latin>
+      <Distribution></Distribution>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Guayabero (phono)</language>
+    <source>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano. AP</source>
+    <value>tadí-t</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>opossum</English>
+      <Portuguese>mucura</Portuguese>
+      <Spanish>zarigüeya, rabipelado, zorro, zorrillo</Spanish>
+      <Latin>family Didelphidae</Latin>
+      <Distribution>Widespread</Distribution>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Andoke (Phon)</language>
+    <source>Landaburu, Jon.  1979. La Langue des Andoke. -- Entered by Kelsey Neely</source>
+    <value>çiéɲe</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>Giant Otter</English>
+      <Portuguese>ariranha</Portuguese>
+      <Spanish>Lobo Grande de Río, nutria gigante, lutria</Spanish>
+      <Latin>Pteronura brasiliensis</Latin>
+      <Distribution>Widespread Amazonia, but absent in central-western Colombia</Distribution>
+      <Comments>InfoNat</Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>bóni</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>Neotropical Otter (small)</English>
+      <Portuguese>lontra</Portuguese>
+      <Spanish>Nutria, Lobo de Agua, lobito de rio, perro de agua (Colombia)</Spanish>
+      <Latin>Lontra longicaudis</Latin>
+      <Distribution>Widespread Amazonia</Distribution>
+      <Comments>InfoNat</Comments>
+    </meta>
+    <languageFamily>Choco</languageFamily>
+    <language>Embeɹá (phonemic)</language>
+    <source>Saɹa, Solomon. A Tɹi-Lingual Dictionaɹj of Embeɹá-Spanish-English</source>
+    <value>nútɹi</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>owl (large)</English>
+      <Portuguese>corujão</Portuguese>
+      <Spanish>búho, lechuza</Spanish>
+      <Latin>order Strigiformes</Latin>
+      <Distribution>Widespread</Distribution>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>hóɾto</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>parrot</English>
+      <Portuguese>papagaio</Portuguese>
+      <Spanish>loro real, loro</Spanish>
+      <Latin>Amazona amazonica</Latin>
+      <Distribution>Widespread</Distribution>
+      <Comments>Museu Goeldi animals database</Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>kekét</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>Tinamou</English>
+      <Portuguese>inhambu</Portuguese>
+      <Spanish>Tinamu, perdiz, gallina, gallineta</Spanish>
+      <Latin>family Tinamidae</Latin>
+      <Distribution>Widespread Amazonia</Distribution>
+      <Comments>Museu Goeldi animals database, InfoNat</Comments>
+    </meta>
+    <languageFamily>Choco</languageFamily>
+    <language>Embeɹá (phonemic)</language>
+    <source>Saɹa, Solomon. A Tɹi-Lingual Dictionaɹj of Embeɹá-Spanish-English</source>
+    <value>zokoró</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>White-lipped peccary</English>
+      <Portuguese>queixada</Portuguese>
+      <Spanish>Chancho de Monte, Cariblanco, Huangana</Spanish>
+      <Latin>Tayassu pecari</Latin>
+      <Distribution>Widespread Amazonia, except NE Colombia?</Distribution>
+      <Comments>InfoNat</Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Guayabero (phono)</language>
+    <source>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano. AP</source>
+    <value>ʔatí-t</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>pirana</English>
+      <Portuguese>piranha</Portuguese>
+      <Spanish>piraña, caribe</Spanish>
+      <Latin>subfamily Serrasalmidae</Latin>
+      <Distribution>Widespread Amazonia</Distribution>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>kuwáɾ</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>porcupine</English>
+      <Portuguese>cuandu, porco-espinho</Portuguese>
+      <Spanish>puerco espín, erizo (Peru), casha cushillo (Peru)</Spanish>
+      <Latin>family Erethizontidae</Latin>
+      <Distribution></Distribution>
+      <Comments>Museu Goeldi animals database</Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>mɨkáp</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>praying mantis</English>
+      <Portuguese>louva-a-deus</Portuguese>
+      <Spanish>mantis religiosa</Spanish>
+      <Latin>order Mantodea, family Mantidae</Latin>
+      <Distribution></Distribution>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Jivaro</languageFamily>
+    <language>Aguaruna (phonemic)</language>
+    <source>Daniel</source>
+    <value>tukángmantʃis</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>Amazonian marsh rat</English>
+      <Portuguese>rato de agua</Portuguese>
+      <Spanish>Rata de Pantano</Spanish>
+      <Latin>Holochilus sciureus</Latin>
+      <Distribution>Widespread Amazonia</Distribution>
+      <Comments>InfoNat</Comments>
+    </meta>
+    <languageFamily>Nadahup</languageFamily>
+    <language>Nadêb Rç (phonemic)</language>
+    <source>Martins, Valteir. 2005. Reconstrução fonológica do Protomaku Oriental [Phonological reconstruction of eastern Protomaku]. Ph. D. diss., Vrije Universiteit, Amsterdam. Amsterdam: LOT. [ɨ is written ɯ in Martins]; Martins, Senn. Nadeb lexicon, ms; Weir, E.M. Helen 1984. A negação e outros tópicos da gramática Nadëb. Dissertação de Mestrado em Lingüística. Campinas: IEL-UNICAMP. AP</source>
+    <value>bahõd</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>Great egret</English>
+      <Portuguese>Garça-Branca-Grande</Portuguese>
+      <Spanish>Garza Blanca, Guyratî</Spanish>
+      <Latin>Ardea alba</Latin>
+      <Distribution>Widespread South America</Distribution>
+      <Comments>InfoNat</Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>hõk, wakáɾ</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>sand fly, black fly</English>
+      <Portuguese>pium, borrachudo</Portuguese>
+      <Spanish>jején, mosca negra</Spanish>
+      <Latin>genus Dipteran</Latin>
+      <Distribution></Distribution>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Choco</languageFamily>
+    <language>Embeɹá (phonemic)</language>
+    <source>Saɹa, Solomon. A Tɹi-Lingual Dictionaɹj of Embeɹá-Spanish-English</source>
+    <value>pochíddau</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>sloth</English>
+      <Portuguese>macaco preguica</Portuguese>
+      <Spanish>pereza, pelejo (Peru), perezoso (Peru)</Spanish>
+      <Latin>Choloepus sp., Bradypus sp.</Latin>
+      <Distribution>Widespread Amazonia</Distribution>
+      <Comments>InfoNat</Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Summer Institute of Lingusitics 1959</source>
+    <value>náį́mǫ</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>small lizard</English>
+      <Portuguese>calango</Portuguese>
+      <Spanish>lagartija</Spanish>
+      <Latin>order Squamata</Latin>
+      <Distribution></Distribution>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Choco</languageFamily>
+    <language>Embeɹá (phonemic)</language>
+    <source>Saɹa, Solomon. A Tɹi-Lingual Dictionaɹj of Embeɹá-Spanish-English</source>
+    <value>dhéborigéɹo</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>snake (generic)</English>
+      <Portuguese>cobra</Portuguese>
+      <Spanish>culebra, serpiente</Spanish>
+      <Latin></Latin>
+      <Distribution></Distribution>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Summer Institute of Lingusitics 1959</source>
+    <value>tǽ̨tǽbo (big snake)</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>snake (poisonous generic) or rattlesnake</English>
+      <Portuguese>jararaca</Portuguese>
+      <Spanish>víbora (Peru), jergón (Peru), yarara</Spanish>
+      <Latin>Bothrops jararaca</Latin>
+      <Distribution>Widespread South America</Distribution>
+      <Comments>Wikipedia</Comments>
+    </meta>
+    <languageFamily>Choco</languageFamily>
+    <language>Embeɹá (phonemic)</language>
+    <source>Saɹa, Solomon. A Tɹi-Lingual Dictionaɹj of Embeɹá-Spanish-English</source>
+    <value>daamá (same as snake)</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>speckled catfish</English>
+      <Portuguese>surubim</Portuguese>
+      <Spanish>surubí</Spanish>
+      <Latin>Pseudoplatystoma sp.</Latin>
+      <Distribution>Widespread Amazonia</Distribution>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Nadahup</languageFamily>
+    <language>Nadêb Rç (phonemic)</language>
+    <source>Martins, Valteir. 2005. Reconstrução fonológica do Protomaku Oriental [Phonological reconstruction of eastern Protomaku]. Ph. D. diss., Vrije Universiteit, Amsterdam. Amsterdam: LOT. [ɨ is written ɯ in Martins]; Martins, Senn. Nadeb lexicon, ms; Weir, E.M. Helen 1984. A negação e outros tópicos da gramática Nadëb. Dissertação de Mestrado em Lingüística. Campinas: IEL-UNICAMP. AP</source>
+    <value>wɯːw</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>squirrel</English>
+      <Portuguese>serelepe, quatipuru</Portuguese>
+      <Spanish>ardilla</Spanish>
+      <Latin>family Sciuridae</Latin>
+      <Distribution>Guianan squirrel may be in NW Amazonia; mostly E Amazonia. Other types also have restricted ranges.</Distribution>
+      <Comments>InfoNat</Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>mátiɾ</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>tapir (South American Tapir)</English>
+      <Portuguese>anta</Portuguese>
+      <Spanish>sachavaca, danta</Spanish>
+      <Latin>Tapirus terrestris</Latin>
+      <Distribution>Widespread South America</Distribution>
+      <Comments>Museu Goeldi animals database</Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Summer Institute of Lingusitics 1959</source>
+    <value>titæ</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>termite</English>
+      <Portuguese>cupim</Portuguese>
+      <Spanish>comején (Peru), termitas</Spanish>
+      <Latin>order Isoptera</Latin>
+      <Distribution>Widespread</Distribution>
+      <Comments>Food source</Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Guayabero (phono)</language>
+    <source>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano. AP</source>
+    <value>ʔóɸ-t</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>tortoise (Red foot, Yellow foot/Giant)</English>
+      <Portuguese>jabutí, tartaruga</Portuguese>
+      <Spanish>tortuga, morrocoy, motelo</Spanish>
+      <Latin>Yellow-footed: Geochelone denticulata; Red-footed: Geochelone carbonaria</Latin>
+      <Distribution>Widespread</Distribution>
+      <Comments>Important food source; Red-foot tortoise associated with Tupi ritual (see Balée 2000)</Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Summer Institute of Lingusitics 1959</source>
+    <value>titæke (turtle)</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>toucan</English>
+      <Portuguese>tucano</Portuguese>
+      <Spanish>tucán, pinsha (Peru)</Spanish>
+      <Latin>Ramphastos sp.</Latin>
+      <Distribution>Widespread Amazonia</Distribution>
+      <Comments>Museu Goeldi animals database, InfoNat</Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Summer Institute of Lingusitics 1959</source>
+    <value>yáwe</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>vulture</English>
+      <Portuguese>urubu</Portuguese>
+      <Spanish>buitre, gallinazo, rinahui (Peru)</Spanish>
+      <Latin>family Cathartidae</Latin>
+      <Distribution>Widespread South America</Distribution>
+      <Comments>Museu Goeldi animals database</Comments>
+    </meta>
+    <languageFamily>Choco</languageFamily>
+    <language>Embeɹá (phonemic)</language>
+    <source>Saɹa, Solomon. A Tɹi-Lingual Dictionaɹj of Embeɹá-Spanish-English</source>
+    <value>ãŋgosó</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>wasp</English>
+      <Portuguese>caba</Portuguese>
+      <Spanish>avispa; specific type: ronzapa/ronsapa</Spanish>
+      <Latin>order Hymenoptera, sub: Apocrita</Latin>
+      <Distribution></Distribution>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Summer Institute of Lingusitics 1959</source>
+    <value>mìkaye</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>Curassow</English>
+      <Portuguese>mutum</Portuguese>
+      <Spanish>mitu, montete (Peru), paujil (Peru), paujil nocturno (Peru for Nothocrax urumutum), paujil de Salvin (Peru for Mitu salvini)</Spanish>
+      <Latin>Crax sp.</Latin>
+      <Distribution>Amazonia</Distribution>
+      <Comments>InfoNat</Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>hit</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>woodpecker</English>
+      <Portuguese>pica-pau</Portuguese>
+      <Spanish>pájaro carpintero, carpintero</Spanish>
+      <Latin>family Picidae</Latin>
+      <Distribution>Widespread Amazonia</Distribution>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Summer Institute of Lingusitics 1959</source>
+    <value>óyǫ́ni (an oriole-like bird)  wę́ma (oriole)</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>Greater Grison (ferret type)</English>
+      <Portuguese>furão</Portuguese>
+      <Spanish>Grisón, Perro de Agua, Hurón</Spanish>
+      <Latin>Galictis vittata</Latin>
+      <Distribution>Widespread Amazonia</Distribution>
+      <Comments>Museu Goeldi animals database, InfoNat</Comments>
+    </meta>
+    <languageFamily>Jivaro</languageFamily>
+    <language>Aguaruna (phonemic)</language>
+    <source>Daniel</source>
+    <value>kuxámtʃam</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>Goeldi's marmoset</English>
+      <Portuguese>mico de goeldi</Portuguese>
+      <Spanish>Supay Pichico, Chichico Diablo</Spanish>
+      <Latin>Callimico goeldii</Latin>
+      <Distribution>SW Amazonia and Peru-Colombia-Ecuador border region (not in Rio Negro at all?)</Distribution>
+      <Comments>InfoNat</Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>kikát</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>White fronted capuchin</English>
+      <Portuguese>Caiarara</Portuguese>
+      <Spanish>Machín Blanco, Maicero Cariblanco, mono blanco (Peru)</Spanish>
+      <Latin>Cebus albifrons</Latin>
+      <Distribution>western Amazonia, W of Rio Branco</Distribution>
+      <Comments>InfoNat</Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Guayabero (phono)</language>
+    <source>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano. AP</source>
+    <value>ɸófa (? 'Machín')</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>Smooth-billed Ani</English>
+      <Portuguese>anu</Portuguese>
+      <Spanish>Garrapatero Pico Liso, Anó Común</Spanish>
+      <Latin>Crotophaga ani</Latin>
+      <Distribution>Widespread Amazonia</Distribution>
+      <Comments>InfoNat</Comments>
+    </meta>
+    <languageFamily>Tupi-Guarani</languageFamily>
+    <language>Nheengatu (ortho)</language>
+    <source>John Blaha (Grenand)</source>
+    <value>anũ</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>angleworm</English>
+      <Portuguese>minhoca</Portuguese>
+      <Spanish>lombriz</Spanish>
+      <Latin>order Opisthopora</Latin>
+      <Distribution></Distribution>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Summer Institute of Lingusitics 1959</source>
+    <value>áyábi (generic term)</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>butterfly</English>
+      <Portuguese>borboleta</Portuguese>
+      <Spanish>mariposa</Spanish>
+      <Latin>order Lepidoptera</Latin>
+      <Distribution></Distribution>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>kokót</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>centipede</English>
+      <Portuguese>centopéia</Portuguese>
+      <Spanish>ciempiés</Spanish>
+      <Latin>class Chilopoda</Latin>
+      <Distribution></Distribution>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>hakiáɾat</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>cockroach</English>
+      <Portuguese>barata-do-mato</Portuguese>
+      <Spanish>cucaracha</Spanish>
+      <Latin>order Blattaria</Latin>
+      <Distribution></Distribution>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>kuakuáɾatʃ</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>crab</English>
+      <Portuguese>caranguejo</Portuguese>
+      <Spanish>cangrejo</Spanish>
+      <Latin>infraorder Brachyura</Latin>
+      <Distribution></Distribution>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Summer Institute of Lingusitics 1959</source>
+    <value>óto</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>dove</English>
+      <Portuguese>pomba</Portuguese>
+      <Spanish>paloma</Spanish>
+      <Latin>family Columbidae</Latin>
+      <Distribution></Distribution>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Summer Institute of Lingusitics 1959</source>
+    <value>ñą́ñą́</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>dragonfly</English>
+      <Portuguese>libélula</Portuguese>
+      <Spanish>libélula, caballito del diablo, chinchilejo (Peru)</Spanish>
+      <Latin>infraorder Anisoptera</Latin>
+      <Distribution></Distribution>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Guayabero (phono)</language>
+    <source>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano. AP</source>
+    <value>amúliat</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>edible palm-dwelling larva (palm weevil)</English>
+      <Portuguese>tapuru, larva</Portuguese>
+      <Spanish>suri</Spanish>
+      <Latin>Rhynchophorus</Latin>
+      <Distribution></Distribution>
+      <Comments>esp. in chonta palms</Comments>
+    </meta>
+    <languageFamily>Tupi-Guarani</languageFamily>
+    <language>Nheengatu (ortho)</language>
+    <source>John Blaha (Grenand)</source>
+    <value>aí tapuru (species of parastic larva found in palm trees, etym: ai = laziness/sloth, tapuru = wormy)</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>lightning bug</English>
+      <Portuguese>vagalume</Portuguese>
+      <Spanish>lampírido, luciernaga (Peru), añañahui (Peru)</Spanish>
+      <Latin>fam: Elateridae, Fengodidae, Lampyridae</Latin>
+      <Distribution></Distribution>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Choco</languageFamily>
+    <language>Embeɹá (phonemic)</language>
+    <source>Saɹa, Solomon. A Tɹi-Lingual Dictionaɹj of Embeɹá-Spanish-English</source>
+    <value>kukújo</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>moth</English>
+      <Portuguese>mariposa</Portuguese>
+      <Spanish>mariposa nocturna, polilla</Spanish>
+      <Latin>order Lepidoptera</Latin>
+      <Distribution></Distribution>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Choco</languageFamily>
+    <language>Embeɹá (phonemic)</language>
+    <source>Saɹa, Solomon. A Tɹi-Lingual Dictionaɹj of Embeɹá-Spanish-English</source>
+    <value>bagábaga (same as butteɹflj)</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>scorpion</English>
+      <Portuguese>escorpião</Portuguese>
+      <Spanish>escorpión; alacran</Spanish>
+      <Latin>order Scorpiones</Latin>
+      <Distribution></Distribution>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>tɨ́bat</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>snail</English>
+      <Portuguese>caracol</Portuguese>
+      <Spanish>caracol, churo (Peru)</Spanish>
+      <Latin>class Gastropoda</Latin>
+      <Distribution></Distribution>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>kíwat</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>spider</English>
+      <Portuguese>aranha</Portuguese>
+      <Spanish>araña</Spanish>
+      <Latin></Latin>
+      <Distribution></Distribution>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>habút</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>stingray</English>
+      <Portuguese>arraia</Portuguese>
+      <Spanish>rayas látigo, raya</Spanish>
+      <Latin>Family Potamotrygonidae</Latin>
+      <Distribution></Distribution>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>póin</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>tick</English>
+      <Portuguese>carrapato</Portuguese>
+      <Spanish>garrapata</Spanish>
+      <Latin>superfam Ixodoidea</Latin>
+      <Distribution></Distribution>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>bóskuet</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>toad</English>
+      <Portuguese>sapo</Portuguese>
+      <Spanish>sapo</Spanish>
+      <Latin>order Anura</Latin>
+      <Distribution></Distribution>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Guayabero (phono)</language>
+    <source>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano. AP</source>
+    <value>bus</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>walking stick (insect)</English>
+      <Portuguese>bicho-pau</Portuguese>
+      <Spanish>palito andando, insectos palo</Spanish>
+      <Latin>order Phasmatodea</Latin>
+      <Distribution></Distribution>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Yanomam</languageFamily>
+    <language>Yanomami (wca) (MM 07)(phonemic)</language>
+    <source>Mattéi-Müller, Marie-Claude 2007a. Lengua y cultura Yanomamï. Diccionario ilustrado Yanomamï-Español, Español-Yanomamï. Caracas: Epsilon Libros.; Migliazza, Ernest C. 1972. Yanomama grammar and intelligibility; Finkers, Juan. 1986. Los Yanomami y su sistema alimenticio. Vicariato Apostolico de Puerto Ayacucho.; Ramirez, Henri. 1994. Le Parler Yanomamɨ des Xamatauteri. publisher unknown.; entered by Kelsey Neely</source>
+    <value>ɾakõ hikɨ</value>
+  </entry>
+</entries>

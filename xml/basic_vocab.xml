@@ -1,0 +1,1202 @@
+<entries>
+  <entry>
+    <meta>
+      <English>I</English>
+      <Portuguese>eu</Portuguese>
+      <Spanish>yo</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>kan</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>you (singular)</English>
+      <Portuguese>tu, você</Portuguese>
+      <Spanish>tú, usted</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Guayabero (phono)</language>
+    <source>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano. AP</source>
+    <value>xam</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>he/she/it</English>
+      <Portuguese>ele/ela</Portuguese>
+      <Spanish>el/ella</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Guayabero (phono)</language>
+    <source>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano. AP</source>
+    <value>ha-pón, -pon, ha-pów, -pow, ha-póx</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>we</English>
+      <Portuguese>nós</Portuguese>
+      <Spanish>nosotros</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>kemɨkát</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>you (plural)</English>
+      <Portuguese>vocês</Portuguese>
+      <Spanish>ustedes</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Guayabero (phono)</language>
+    <source>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano. AP</source>
+    <value>xámal</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>they</English>
+      <Portuguese>eles/elas</Portuguese>
+      <Spanish>ellos/ellas</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Summer Institute of Lingusitics 1959; Bettie Gonzales. NB: verbs - not clear what root form is vs. inflected form</source>
+    <value>dãia-s</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>one</English>
+      <Portuguese>um</Portuguese>
+      <Spanish>uno</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Summer Institute of Lingusitics 1959; Bettie Gonzales. NB: verbs - not clear what root form is vs. inflected form</source>
+    <value>ado</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>two</English>
+      <Portuguese>dois</Portuguese>
+      <Spanish>dos</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Summer Institute of Lingusitics 1959; Bettie Gonzales. NB: verbs - not clear what root form is vs. inflected form</source>
+    <value>mẽmaa  bi mę́ná mę́a</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>three</English>
+      <Portuguese>tres</Portuguese>
+      <Spanish>tres</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>hóbehe</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>four</English>
+      <Portuguese>quatro</Portuguese>
+      <Spanish>cuatro</Spanish>
+      <Comments>In NW Amazon, often involves root for 'brother' or 'sibling'</Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>anábe</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>five</English>
+      <Portuguese>cinco</Portuguese>
+      <Spanish>cinco</Spanish>
+      <Comments>In NW Amazon, often involves root for 'hand'</Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>itsahokéha</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>ten</English>
+      <Portuguese>dez</Portuguese>
+      <Spanish>diez</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Andoke (Phon)</language>
+    <source>Landaburu, Jon.  1979. La Langue des Andoke. -- Entered by Kelsey Neely</source>
+    <value>kaʔ-hako-domi pãã́ (lit. "two hands quantity")</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>twenty</English>
+      <Portuguese>vinte</Portuguese>
+      <Spanish>veinte</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Andoke (Phon)</language>
+    <source>Landaburu, Jon.  1979. La Langue des Andoke. -- Entered by Kelsey Neely</source>
+    <value>ka-hako-dʌka pãã́ (lit. "both feet quantity")</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>this</English>
+      <Portuguese>este</Portuguese>
+      <Spanish>este/esta</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>ho</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>that</English>
+      <Portuguese>esse</Portuguese>
+      <Spanish>ese/esa</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Guayabero (phono)</language>
+    <source>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano. AP</source>
+    <value>ha-póx</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>who</English>
+      <Portuguese>quem</Portuguese>
+      <Spanish>quien, quién</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>nekén(ɨ)</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>what</English>
+      <Portuguese>que</Portuguese>
+      <Spanish>que, qué</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Summer Institute of Lingusitics 1959; Bettie Gonzales. NB: verbs - not clear what root form is vs. inflected form</source>
+    <value>k̃ĩnõ</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>big</English>
+      <Portuguese>grande</Portuguese>
+      <Spanish>grande</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Summer Institute of Lingusitics 1959; Bettie Gonzales. NB: verbs - not clear what root form is vs. inflected form</source>
+    <value>ye; ñaena</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>small</English>
+      <Portuguese>pequeno</Portuguese>
+      <Spanish>pequeño</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Summer Institute of Lingusitics 1959; Bettie Gonzales. NB: verbs - not clear what root form is vs. inflected form</source>
+    <value>ghiya, giya</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>man</English>
+      <Portuguese>homem</Portuguese>
+      <Spanish>hombre</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>pébi</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>woman</English>
+      <Portuguese>mulher</Portuguese>
+      <Spanish>mujer</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Summer Institute of Lingusitics 1959; Bettie Gonzales. NB: verbs - not clear what root form is vs. inflected form</source>
+    <value>dãni</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>person</English>
+      <Portuguese>pessoa</Portuguese>
+      <Spanish>persona</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>-kui</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>child</English>
+      <Portuguese>criança</Portuguese>
+      <Spanish>niño, niña</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Summer Institute of Lingusitics 1959; Bettie Gonzales. NB: verbs - not clear what root form is vs. inflected form</source>
+    <value>wẽẽñæ̃ wį́į́ñæ̨</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>tree</English>
+      <Portuguese>arvore</Portuguese>
+      <Spanish>árbol</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>amumú, bibitsá</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>seed</English>
+      <Portuguese>semente</Portuguese>
+      <Spanish>semilla</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Summer Institute of Lingusitics 1959; Bettie Gonzales. NB: verbs - not clear what root form is vs. inflected form</source>
+    <value>mo</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>leaf</English>
+      <Portuguese>folha</Portuguese>
+      <Spanish>hoja</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Summer Institute of Lingusitics 1959; Bettie Gonzales. NB: verbs - not clear what root form is vs. inflected form</source>
+    <value>mǫ́ǫ  mǫ</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>root</English>
+      <Portuguese>raiz</Portuguese>
+      <Spanish>raíz</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>petakomét</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>bark</English>
+      <Portuguese>casca</Portuguese>
+      <Spanish>corteza</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>bokát</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>skin</English>
+      <Portuguese>pele</Portuguese>
+      <Spanish>piel</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Summer Institute of Lingusitics 1959; Bettie Gonzales. NB: verbs - not clear what root form is vs. inflected form</source>
+    <value>ǽ̨mǫtái</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>flesh</English>
+      <Portuguese>carne</Portuguese>
+      <Spanish>carne</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Guayabero (phono)</language>
+    <source>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano. AP</source>
+    <value>pa-wí-t</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>blood</English>
+      <Portuguese>sangue</Portuguese>
+      <Spanish>sangre</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Summer Institute of Lingusitics 1959; Bettie Gonzales. NB: verbs - not clear what root form is vs. inflected form</source>
+    <value>wepæ̃; bhepae</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>bone</English>
+      <Portuguese>osso</Portuguese>
+      <Spanish>hueso</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Summer Institute of Lingusitics 1959; Bettie Gonzales. NB: verbs - not clear what root form is vs. inflected form</source>
+    <value>bami</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>grease</English>
+      <Portuguese>gordura</Portuguese>
+      <Spanish>grasa</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>penítsa</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>egg</English>
+      <Portuguese>ovo</Portuguese>
+      <Spanish>huevo</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>tabɨ́(t)</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>tail</English>
+      <Portuguese>rabo</Portuguese>
+      <Spanish>cola, rabo</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>botsót, -ptsót</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>feather</English>
+      <Portuguese>pena</Portuguese>
+      <Spanish>pluma</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>-kortʃít</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>hair</English>
+      <Portuguese>cabelo</Portuguese>
+      <Spanish>cabello, pelo</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Summer Institute of Lingusitics 1959; Bettie Gonzales. NB: verbs - not clear what root form is vs. inflected form</source>
+    <value>okagĩ</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>head</English>
+      <Portuguese>cabeça</Portuguese>
+      <Spanish>cabeza</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>matbók</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>ear</English>
+      <Portuguese>orelha</Portuguese>
+      <Spanish>oreja</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Summer Institute of Lingusitics 1959; Bettie Gonzales. NB: verbs - not clear what root form is vs. inflected form</source>
+    <value>õnõmõka  mõka ??</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>eye</English>
+      <Portuguese>olho</Portuguese>
+      <Spanish>ojo</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Summer Institute of Lingusitics 1959; Bettie Gonzales. NB: verbs - not clear what root form is vs. inflected form</source>
+    <value>áwį́ka áwį́ga</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>nose</English>
+      <Portuguese>nariz</Portuguese>
+      <Spanish>nariz</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Summer Institute of Lingusitics 1959; Bettie Gonzales. NB: verbs - not clear what root form is vs. inflected form</source>
+    <value>õnõkado kado</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>mouth</English>
+      <Portuguese>boca</Portuguese>
+      <Spanish>boca</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Summer Institute of Lingusitics 1959; Bettie Gonzales. NB: verbs - not clear what root form is vs. inflected form</source>
+    <value>de ǫ́nǫ́ne</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>tooth</English>
+      <Portuguese>dente</Portuguese>
+      <Spanish>diente</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Summer Institute of Lingusitics 1959; Bettie Gonzales. NB: verbs - not clear what root form is vs. inflected form</source>
+    <value>baga gámį́æ̨ (wisdom tooth); Mbagha</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>tongue</English>
+      <Portuguese>lingua</Portuguese>
+      <Spanish>lengua</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>-brat</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>fingernail</English>
+      <Portuguese>unha</Portuguese>
+      <Spanish>uña</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>kuíbat</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>foot</English>
+      <Portuguese>pé</Portuguese>
+      <Spanish>pie</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Summer Institute of Lingusitics 1959; Bettie Gonzales. NB: verbs - not clear what root form is vs. inflected form</source>
+    <value>ǫ́nǫ́wa</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>hand</English>
+      <Portuguese>mão</Portuguese>
+      <Spanish>mano</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Summer Institute of Lingusitics 1959; Bettie Gonzales. NB: verbs - not clear what root form is vs. inflected form</source>
+    <value>onompo</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>belly</English>
+      <Portuguese>barriga</Portuguese>
+      <Spanish>barriga</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Summer Institute of Lingusitics 1959; Bettie Gonzales. NB: verbs - not clear what root form is vs. inflected form</source>
+    <value>ǫ́nǫ́nę; gnanika</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>breast</English>
+      <Portuguese>peito</Portuguese>
+      <Spanish>pecho, seno</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>-apú-tʃipar, mit</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>heart</English>
+      <Portuguese>coração</Portuguese>
+      <Spanish>corazón</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Summer Institute of Lingusitics 1959; Bettie Gonzales. NB: verbs - not clear what root form is vs. inflected form</source>
+    <value>mį́mǫ</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>liver</English>
+      <Portuguese>figado</Portuguese>
+      <Spanish>hígado</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Guayabero (phono)</language>
+    <source>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano. AP</source>
+    <value>pa-háp-t, peh hap-t</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>drink (v.)</English>
+      <Portuguese>beber</Portuguese>
+      <Spanish>beber, tomar</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Summer Institute of Lingusitics 1959; Bettie Gonzales. NB: verbs - not clear what root form is vs. inflected form</source>
+    <value>be</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>eat</English>
+      <Portuguese>comer</Portuguese>
+      <Spanish>comer</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Summer Institute of Lingusitics 1959; Bettie Gonzales. NB: verbs - not clear what root form is vs. inflected form</source>
+    <value>kæ  kǽ̨i</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>see</English>
+      <Portuguese>ver</Portuguese>
+      <Spanish>ver</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Summer Institute of Lingusitics 1959; Bettie Gonzales. NB: verbs - not clear what root form is vs. inflected form</source>
+    <value>a</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>hear</English>
+      <Portuguese>ouvir</Portuguese>
+      <Spanish>oír</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Summer Institute of Lingusitics 1959; Bettie Gonzales. NB: verbs - not clear what root form is vs. inflected form</source>
+    <value>ẽñẽ</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>know</English>
+      <Portuguese>saber, conhecer</Portuguese>
+      <Spanish>saber, conecer</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Guayabero (phono)</language>
+    <source>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano. AP</source>
+    <value>matabíht</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>sleep</English>
+      <Portuguese>dormir</Portuguese>
+      <Spanish>dormir</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>mítrɨk</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>die</English>
+      <Portuguese>morir</Portuguese>
+      <Spanish>morir</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Summer Institute of Lingusitics 1959; Bettie Gonzales. NB: verbs - not clear what root form is vs. inflected form</source>
+    <value>wæ̃</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>kill</English>
+      <Portuguese>matar</Portuguese>
+      <Spanish>matar</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>up, upí-</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>swim</English>
+      <Portuguese>nadar</Portuguese>
+      <Spanish>nadar</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>niát</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>fly</English>
+      <Portuguese>volar</Portuguese>
+      <Spanish>volar</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>japúnra</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>walk</English>
+      <Portuguese>andar</Portuguese>
+      <Spanish>caminar, andar</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>awiá, awí-ni</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>sing</English>
+      <Portuguese>cantar</Portuguese>
+      <Spanish>cantar</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>nahuép, nahuébi</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>dance</English>
+      <Portuguese>dançar</Portuguese>
+      <Spanish>bailar</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>jawíp, jawíbi-</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>plant, sow (seed)</English>
+      <Portuguese>semear</Portuguese>
+      <Spanish>sembrar</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>jup</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>plant (cutting, esp. manioc)</English>
+      <Portuguese>plantar, arrancar mandioca</Portuguese>
+      <Spanish>cultivar</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Andoke (Phon)</language>
+    <source>Landaburu, Jon.  1979. La Langue des Andoke. -- Entered by Kelsey Neely</source>
+    <value>çi . . ɸe (I don't know what the  ". ." is)</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>sun</English>
+      <Portuguese>sol</Portuguese>
+      <Spanish>sol</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>ikóti</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>moon</English>
+      <Portuguese>lua</Portuguese>
+      <Spanish>luna</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>homét</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>star</English>
+      <Portuguese>estrela</Portuguese>
+      <Spanish>estrella</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>harwát</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>water</English>
+      <Portuguese>agua</Portuguese>
+      <Spanish>agua</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Guayabero (phono)</language>
+    <source>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano. AP</source>
+    <value>min</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>stone</English>
+      <Portuguese>pedra</Portuguese>
+      <Spanish>piedra</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>ibót</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>sand</English>
+      <Portuguese>areia</Portuguese>
+      <Spanish>arena</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Guayabero (phono)</language>
+    <source>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano. AP</source>
+    <value>táeh-t</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>soil, dirt</English>
+      <Portuguese>terra</Portuguese>
+      <Spanish>tierra</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>as</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>forest (esp. terra firme)</English>
+      <Portuguese>mato, floresta</Portuguese>
+      <Spanish>monte, bosque</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Andoke (Phon)</language>
+    <source>Landaburu, Jon.  1979. La Langue des Andoke. -- Entered by Kelsey Neely</source>
+    <value>-deɸʌ (de=tree, ɸʌ=place)</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>caatinga (sandy are of Amazon)</English>
+      <Portuguese>caatinga</Portuguese>
+      <Spanish>caatinga, catinga</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Nadahup</languageFamily>
+    <language>Nadeb RN (phonemic)</language>
+    <source>Martins, Valteir. 2005. Reconstrução fonológica do Protomaku Oriental [Phonological reconstruction of eastern Protomaku]. Ph. D. diss., Vrije Universiteit, Amsterdam. Amsterdam: LOT. AP</source>
+    <value>wɤ̰ːg</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>igapó (flooded area in rainy season)</English>
+      <Portuguese>igapó</Portuguese>
+      <Spanish></Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Nadahup</languageFamily>
+    <language>Hup (ortho)</language>
+    <source>Epps, Patience; fieldnotes</source>
+    <value>cɔ̃h deh</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>rapid, waterfall</English>
+      <Portuguese>cachoeira</Portuguese>
+      <Spanish>cashuera, rápido, cascada</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Guayabero (phono)</language>
+    <source>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano. AP</source>
+    <value>minatʃóla</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>river</English>
+      <Portuguese>rio</Portuguese>
+      <Spanish>río</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Summer Institute of Lingusitics 1959; Bettie Gonzales. NB: verbs - not clear what root form is vs. inflected form</source>
+    <value>õnõ</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>fire</English>
+      <Portuguese>fogo</Portuguese>
+      <Spanish>fuego</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>-pe-narútab-ia, -pe-narúb-ia</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>smoke</English>
+      <Portuguese>fumaça</Portuguese>
+      <Spanish>humo</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>bunámbe</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>path</English>
+      <Portuguese>caminho</Portuguese>
+      <Spanish>camino</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>namút</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>mountain, hill</English>
+      <Portuguese>morro, serra</Portuguese>
+      <Spanish>montaña, colina, loma</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Summer Institute of Lingusitics 1959; Bettie Gonzales. NB: verbs - not clear what root form is vs. inflected form</source>
+    <value>gomi</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>night</English>
+      <Portuguese>noite</Portuguese>
+      <Spanish>noche</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Summer Institute of Lingusitics 1959; Bettie Gonzales. NB: verbs - not clear what root form is vs. inflected form</source>
+    <value>woyowotæ̃</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>day</English>
+      <Portuguese>dia</Portuguese>
+      <Spanish>día</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Summer Institute of Lingusitics 1959; Bettie Gonzales. NB: verbs - not clear what root form is vs. inflected form</source>
+    <value>itædẽ</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>black</English>
+      <Portuguese>preto</Portuguese>
+      <Spanish>negro</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>tsebí</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>white</English>
+      <Portuguese>branco</Portuguese>
+      <Spanish>blanco</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>álpinu (loan), nìópenU</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>red</English>
+      <Portuguese>vermelho</Portuguese>
+      <Spanish>rojo</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>tsobí</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>green</English>
+      <Portuguese>verde</Portuguese>
+      <Spanish>verde</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Guayabero (phono)</language>
+    <source>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano. AP</source>
+    <value>pa-tói-jax</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>yellow</English>
+      <Portuguese>amarelo</Portuguese>
+      <Spanish>amarillo</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Guayabero (phono)</language>
+    <source>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano. AP</source>
+    <value>pa-wáerla-jax</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>blue</English>
+      <Portuguese>azul</Portuguese>
+      <Spanish>azul</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>atsɨ́n</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>hot</English>
+      <Portuguese>quente</Portuguese>
+      <Spanish>caliente</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Guayabero (phono)</language>
+    <source>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano. AP</source>
+    <value>tɨ́ah-nik</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>cold</English>
+      <Portuguese>frio</Portuguese>
+      <Spanish>frío</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>akén, pi-akáinehe</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>new</English>
+      <Portuguese>novo</Portuguese>
+      <Spanish>nuevo</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Guayabero (phono)</language>
+    <source>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano. AP</source>
+    <value>pa-rél-ax</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>old</English>
+      <Portuguese>velho</Portuguese>
+      <Spanish>viejo</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>peɾtɨ́nɨ</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>good</English>
+      <Portuguese>bom</Portuguese>
+      <Spanish>bueno</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Summer Institute of Lingusitics 1959; Bettie Gonzales. NB: verbs - not clear what root form is vs. inflected form</source>
+    <value>waa píyǽ̨nę</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>bad</English>
+      <Portuguese>mal</Portuguese>
+      <Spanish>mal</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Guayabero (phono)</language>
+    <source>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano. AP</source>
+    <value>pa-béh</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>dry</English>
+      <Portuguese>seco</Portuguese>
+      <Spanish>seco</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>pɨ́re</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>wet</English>
+      <Portuguese>molhado</Portuguese>
+      <Spanish>mojado</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>atʃík</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>name</English>
+      <Portuguese>nome</Portuguese>
+      <Spanish>nombre</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Guayabero (phono)</language>
+    <source>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano. AP</source>
+    <value>peh wɨl</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>above</English>
+      <Portuguese>acima</Portuguese>
+      <Spanish>encima</Spanish>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Tucanoan</languageFamily>
+    <language>Orejon (orthographic)</language>
+    <source>"Velie, Daniel and Velie Virginia. (2008) (second edition). Vocabulario orejon. Serie Lingüística Peruana No. 16. Yarinacocha, ILV.</source>
+    <value>"</value>
+  </entry>
+</entries>

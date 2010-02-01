@@ -1,0 +1,964 @@
+<entries>
+  <entry>
+    <meta>
+      <English>arrow</English>
+      <Portuguese>flecha</Portuguese>
+      <Spanish>flecha</Spanish>
+      <Relevance to subsistence>hunting, warfare</Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>kupálien, oɾék</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>blowgun</English>
+      <Portuguese>zarabatana</Portuguese>
+      <Spanish>cerbatana, pucuna (Peru)</Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments>currently limited to certain groups (favoring h-g orientation, e.g. Nadahup) within RN region</Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>tʃiɾpú</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>bow</English>
+      <Portuguese>arco</Portuguese>
+      <Spanish>arco</Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments>arco</Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>pitsá-ne</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>chicha (manioc beer)</English>
+      <Portuguese>caxiri, chicha de mandioca</Portuguese>
+      <Spanish>masato</Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>mawán</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>chicha(corn beer)</English>
+      <Portuguese>chicha de milho</Portuguese>
+      <Spanish>chicha</Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Choco</languageFamily>
+    <language>Embeɹá (phonemic)</language>
+    <source>Saɹa, Solomon. A Tɹi-Lingual Dictionaɹj of Embeɹá-Spanish-English</source>
+    <value>chícha:</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>chicha(other alc. beverage)</English>
+      <Portuguese>chicha</Portuguese>
+      <Spanish></Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments>in Venezuela 'chicha' is completely different than chicha andina or chicha bruja (which are both alcoholic drinks according to word reference). Venezuelan Chicha is a drink made with whole, condensed, and evaporated milk, sugar, rice, vanilla, and cinnamon.</Comments>
+    </meta>
+    <languageFamily>Peba-yagua</languageFamily>
+    <language>Yagua (phonemic) YAD IDS</language>
+    <source></source>
+    <value>fermented drink: kasihjã; hũdahã</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>dart (blowgun)</English>
+      <Portuguese>lança</Portuguese>
+      <Spanish>dardo, birote (Peru), bala (Peru)</Spanish>
+      <Relevance to subsistence>hunting and warfare</Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Tupi-Guaraní</languageFamily>
+    <language>Cocama (phonemic)</language>
+    <source>Daniel</source>
+    <value>watʃi</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>fan</English>
+      <Portuguese>abanador</Portuguese>
+      <Spanish>abanico</Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments>esp. for fanning a cooking fire</Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>watʃít</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>fish (with line)</English>
+      <Portuguese>pescar (com linha)</Portuguese>
+      <Spanish>anzuelear, pescar con linea</Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Unclassified</languageFamily>
+    <language>Warao (ortho)</language>
+    <source></source>
+    <value>uku aisiko yaba (yaba=fish, uku=angling line, aisiko=fish)</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>fish (with fish-poison)</English>
+      <Portuguese>pescar (com )</Portuguese>
+      <Spanish>pescar con barbasco</Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Andoke (Phon)</language>
+    <source>Landaburu, Jon.  1979. La Langue des Andoke. -- Entered by Kelsey Neely</source>
+    <value>toe-</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>hunt</English>
+      <Portuguese>caçar</Portuguese>
+      <Spanish>cazar</Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Bettie Gonzales, Summer Institute of Linguistics 1959</source>
+    <value>õõ-kæ-te (hunting with a blow gun)</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>game animal</English>
+      <Portuguese>caça, animal de caça</Portuguese>
+      <Spanish>caza, animal de caza</Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments>Interesting correlation to 'fish' in Tukanoan languages</Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>mábɨɾat</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>flat bread, cassava bread</English>
+      <Portuguese>beiju</Portuguese>
+      <Spanish>pan de yuca, casabe/cazabe (Colombia)</Spanish>
+      <Relevance to subsistence>agriculture, but also can be made from certain wild seeds/fruits</Relevance to subsistence>
+      <Comments>usually manioc</Comments>
+    </meta>
+    <languageFamily>Nadahup</languageFamily>
+    <language>Nadêb Rç (phonemic)</language>
+    <source>Martins, Valteir. 2005. Reconstrução fonológica do Protomaku Oriental [Phonological reconstruction of eastern Protomaku]. Ph. D. diss., Vrije Universiteit, Amsterdam. Amsterdam: LOT. [ɨ is written ɯ in Martins]; Martins, Senn. Nadeb lexicon, ms; Weir, E.M. Helen 1984. A negação e outros tópicos da gramática Nadëb. Dissertação de Mestrado em Lingüística. Campinas: IEL-UNICAMP. AP</source>
+    <value>kanapiːh</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>gourd dipper</English>
+      <Portuguese>cuia</Portuguese>
+      <Spanish>cucharón, pate (Peru)</Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Choco</languageFamily>
+    <language>Embeɹá (phonemic)</language>
+    <source>Saɹa, Solomon. A Tɹi-Lingual Dictionaɹj of Embeɹá-Spanish-English</source>
+    <value>kuchaɹˈõn</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>grater</English>
+      <Portuguese>ralador</Portuguese>
+      <Spanish>rallador</Spanish>
+      <Relevance to subsistence>esp. for grating manioc, but can be used for other things as well</Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>aɾpát</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>grid of sticks for smoking meat or placing objects (shelf)</English>
+      <Portuguese>jirau</Portuguese>
+      <Spanish>barbacoa</Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>kaníbɨɾat</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>griddle for cooking flatbread</English>
+      <Portuguese>forno para beiju</Portuguese>
+      <Spanish>tiesto (Colombia)</Spanish>
+      <Relevance to subsistence>agriculture?</Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Nadahup</languageFamily>
+    <language>Nadêb Rç (phonemic)</language>
+    <source>Martins, Valteir. 2005. Reconstrução fonológica do Protomaku Oriental [Phonological reconstruction of eastern Protomaku]. Ph. D. diss., Vrije Universiteit, Amsterdam. Amsterdam: LOT. [ɨ is written ɯ in Martins]; Martins, Senn. Nadeb lexicon, ms; Weir, E.M. Helen 1984. A negação e outros tópicos da gramática Nadëb. Dissertação de Mestrado em Lingüística. Campinas: IEL-UNICAMP. AP</source>
+    <value>japøn, haʃeːr (para torrar farinha)</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>manioc meal</English>
+      <Portuguese>farinha</Portuguese>
+      <Spanish>fariña</Spanish>
+      <Relevance to subsistence>agriculture</Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Bettie Gonzales, Summer Institute of Linguistics 1959</source>
+    <value>kǽl (manioc dough)</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>mortar</English>
+      <Portuguese>pilão</Portuguese>
+      <Spanish>mortero</Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>wɨp</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>pestle</English>
+      <Portuguese>mão de pilão</Portuguese>
+      <Spanish>mano de mortero, mazo, moledor</Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Tupi-Guarani</languageFamily>
+    <language>Nheengatu (ortho)</language>
+    <source>John Blaha (Grenand)</source>
+    <value>çukári, çuçuka (possible verb)</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>spear</English>
+      <Portuguese>lança</Portuguese>
+      <Spanish>lanza</Spanish>
+      <Relevance to subsistence>hunting, fishing</Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Bettie Gonzales, Summer Institute of Linguistics 1959</source>
+    <value>tapa  tæ̃nõ (v.) ???</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>starch (tapioca, other)</English>
+      <Portuguese>goma de tapioca</Portuguese>
+      <Spanish>almidón</Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>petmetá</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>tapioca drink, mingau</English>
+      <Portuguese>mingau</Portuguese>
+      <Spanish>tapioca?, mandioca</Spanish>
+      <Relevance to subsistence>agriculture?</Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Arawak</languageFamily>
+    <language>Paresi (ab08) Ortho</language>
+    <source>Person entering data: AP</source>
+    <value>katazere</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>tipiti (manioc squeezer)</English>
+      <Portuguese>tipiti</Portuguese>
+      <Spanish>tipiti</Spanish>
+      <Relevance to subsistence>agriculture: specifically for squeezing poison out of manioc</Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Nadahup</languageFamily>
+    <language>Nadêb Rç (phonemic)</language>
+    <source>Martins, Valteir. 2005. Reconstrução fonológica do Protomaku Oriental [Phonological reconstruction of eastern Protomaku]. Ph. D. diss., Vrije Universiteit, Amsterdam. Amsterdam: LOT. [ɨ is written ɯ in Martins]; Martins, Senn. Nadeb lexicon, ms; Weir, E.M. Helen 1984. A negação e outros tópicos da gramática Nadëb. Dissertação de Mestrado em Lingüística. Campinas: IEL-UNICAMP. AP</source>
+    <value>haɾum</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>tripod for washing manioc</English>
+      <Portuguese>tripé</Portuguese>
+      <Spanish>trípode</Spanish>
+      <Relevance to subsistence>agriculture</Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Tupi-Guarani</languageFamily>
+    <language>Nheengatu (ortho)</language>
+    <source>John Blaha (Grenand)</source>
+    <value>çuaçu</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>venom for darts</English>
+      <Portuguese>curare</Portuguese>
+      <Spanish>veneno</Spanish>
+      <Relevance to subsistence>hunting, currently is falling out of use in Vaupés region, associated primarily with h-g groups (but this may be recent?)</Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Bettie Gonzales, Summer Institute of Linguistics 1959</source>
+    <value>ǫ́ǫ́mæ̨ (blowgun dart poison)</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>woven strainer/sieve</English>
+      <Portuguese>peneira</Portuguese>
+      <Spanish>colador tejido, cedazo (Peru), cernidor (Peru)</Spanish>
+      <Relevance to subsistence>agriculture? commonly used for sifting dry manioc flour</Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>tʃiɾɨ́in, tʃiɾɨ́n</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>cooking food wrapped in leaves</English>
+      <Portuguese></Portuguese>
+      <Spanish>patarashca</Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments>Relevant terms might be for food bundle itself, or verb related to process of cooking</Comments>
+    </meta>
+    <languageFamily>Nadahup</languageFamily>
+    <language>Nadêb Rç (phonemic)</language>
+    <source>Martins, Valteir. 2005. Reconstrução fonológica do Protomaku Oriental [Phonological reconstruction of eastern Protomaku]. Ph. D. diss., Vrije Universiteit, Amsterdam. Amsterdam: LOT. [ɨ is written ɯ in Martins]; Martins, Senn. Nadeb lexicon, ms; Weir, E.M. Helen 1984. A negação e outros tópicos da gramática Nadëb. Dissertação de Mestrado em Lingüística. Campinas: IEL-UNICAMP. AP</source>
+    <value>wɔːj</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>bait for fishing</English>
+      <Portuguese>isca</Portuguese>
+      <Spanish>carnada para pescar, empate (Peru)</Spanish>
+      <Relevance to subsistence>can refer to worms; more generic</Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Peba-yagua</languageFamily>
+    <language>Yagua (phonemic) YAD IDS</language>
+    <source></source>
+    <value>purjũtjã; pirjũtjã (?)</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>kind of fish trap</English>
+      <Portuguese>matapi</Portuguese>
+      <Spanish>trampa de peces, trampa</Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Choco</languageFamily>
+    <language>Embeɹá (phonemic)</language>
+    <source>Saɹa, Solomon. A Tɹi-Lingual Dictionaɹj of Embeɹá-Spanish-English</source>
+    <value>tɹˈãmpha</value>
+  </entry>
+  <entry>
+    <meta>
+      <English></English>
+      <Portuguese></Portuguese>
+      <Spanish></Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Arawak</languageFamily>
+    <language>Wapishana wap IDS phonemic</language>
+    <source></source>
+    <value>darukʰu</value>
+  </entry>
+  <entry>
+    <meta>
+      <English></English>
+      <Portuguese></Portuguese>
+      <Spanish></Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Arawak</languageFamily>
+    <language>Kabiyari (hr01) Ortho</language>
+    <source>Person entering data: AP</source>
+    <value>páná</value>
+  </entry>
+  <entry>
+    <meta>
+      <English></English>
+      <Portuguese></Portuguese>
+      <Spanish></Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Arawak</languageFamily>
+    <language>Yavitero (jm87) Ortho</language>
+    <source>Person entering data: AP</source>
+    <value>heha</value>
+  </entry>
+  <entry>
+    <meta>
+      <English></English>
+      <Portuguese></Portuguese>
+      <Spanish></Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Tucanoan</languageFamily>
+    <language>Macuna (ortho)</language>
+    <source>Amanda Novak</source>
+    <value>waxɛga</value>
+  </entry>
+  <entry>
+    <meta>
+      <English></English>
+      <Portuguese></Portuguese>
+      <Spanish></Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Tucanoan</languageFamily>
+    <language>Macuna (ortho)</language>
+    <source>Amanda Novak</source>
+    <value>uxuga</value>
+  </entry>
+  <entry>
+    <meta>
+      <English></English>
+      <Portuguese></Portuguese>
+      <Spanish></Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Tucanoan</languageFamily>
+    <language>Macuna (ortho)</language>
+    <source>Amanda Novak</source>
+    <value>pawa, sai</value>
+  </entry>
+  <entry>
+    <meta>
+      <English></English>
+      <Portuguese></Portuguese>
+      <Spanish></Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Tucanoan</languageFamily>
+    <language>Macuna (ortho)</language>
+    <source>Amanda Novak</source>
+    <value>ɲasa</value>
+  </entry>
+  <entry>
+    <meta>
+      <English></English>
+      <Portuguese></Portuguese>
+      <Spanish></Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Tucanoan</languageFamily>
+    <language>Macuna (ortho)</language>
+    <source>Amanda Novak</source>
+    <value>sɛ̃mɛ</value>
+  </entry>
+  <entry>
+    <meta>
+      <English></English>
+      <Portuguese></Portuguese>
+      <Spanish></Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Tucanoan</languageFamily>
+    <language>Macuna (ortho)</language>
+    <source>Amanda Novak</source>
+    <value>guia</value>
+  </entry>
+  <entry>
+    <meta>
+      <English></English>
+      <Portuguese></Portuguese>
+      <Spanish></Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Tucanoan</languageFamily>
+    <language>Macuna (ortho)</language>
+    <source>Amanda Novak</source>
+    <value>maxa</value>
+  </entry>
+  <entry>
+    <meta>
+      <English></English>
+      <Portuguese></Portuguese>
+      <Spanish></Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Tucanoan</languageFamily>
+    <language>Macuna (ortho)</language>
+    <source>Amanda Novak</source>
+    <value>bi</value>
+  </entry>
+  <entry>
+    <meta>
+      <English></English>
+      <Portuguese></Portuguese>
+      <Spanish></Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Tucanoan</languageFamily>
+    <language>Macuna (ortho)</language>
+    <source>Amanda Novak</source>
+    <value>oa</value>
+  </entry>
+  <entry>
+    <meta>
+      <English></English>
+      <Portuguese></Portuguese>
+      <Spanish></Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Tucanoan</languageFamily>
+    <language>Macuna (ortho)</language>
+    <source>Amanda Novak</source>
+    <value>tĩmi</value>
+  </entry>
+  <entry>
+    <meta>
+      <English></English>
+      <Portuguese></Portuguese>
+      <Spanish></Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Tucanoan</languageFamily>
+    <language>Macuna (ortho)</language>
+    <source>Amanda Novak</source>
+    <value>bɨxogabo, bɨlikatu</value>
+  </entry>
+  <entry>
+    <meta>
+      <English></English>
+      <Portuguese></Portuguese>
+      <Spanish></Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Tucanoan</languageFamily>
+    <language>Macuna (ortho)</language>
+    <source>Amanda Novak</source>
+    <value>wɛko</value>
+  </entry>
+  <entry>
+    <meta>
+      <English></English>
+      <Portuguese></Portuguese>
+      <Spanish></Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Tucanoan</languageFamily>
+    <language>Macuna (ortho)</language>
+    <source>Amanda Novak</source>
+    <value>gãxagã</value>
+  </entry>
+  <entry>
+    <meta>
+      <English></English>
+      <Portuguese></Portuguese>
+      <Spanish></Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Tucanoan</languageFamily>
+    <language>Macuna (ortho)</language>
+    <source>Amanda Novak</source>
+    <value>wada sɛ̃mɛ</value>
+  </entry>
+  <entry>
+    <meta>
+      <English></English>
+      <Portuguese></Portuguese>
+      <Spanish></Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Tucanoan</languageFamily>
+    <language>Macuna (ortho)</language>
+    <source>Amanda Novak</source>
+    <value>yasɛ</value>
+  </entry>
+  <entry>
+    <meta>
+      <English></English>
+      <Portuguese></Portuguese>
+      <Spanish></Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Tucanoan</languageFamily>
+    <language>Macuna (ortho)</language>
+    <source>Amanda Novak</source>
+    <value>yaxɛ (hɛron)</value>
+  </entry>
+  <entry>
+    <meta>
+      <English></English>
+      <Portuguese></Portuguese>
+      <Spanish></Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Tucanoan</languageFamily>
+    <language>Macuna (ortho)</language>
+    <source>Amanda Novak</source>
+    <value>nunulo, lũnulo, ɨsika</value>
+  </entry>
+  <entry>
+    <meta>
+      <English></English>
+      <Portuguese></Portuguese>
+      <Spanish></Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Tucanoan</languageFamily>
+    <language>Macuna (ortho)</language>
+    <source>Amanda Novak</source>
+    <value>kɛɾɛka</value>
+  </entry>
+  <entry>
+    <meta>
+      <English></English>
+      <Portuguese></Portuguese>
+      <Spanish></Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Tucanoan</languageFamily>
+    <language>Macuna (ortho)</language>
+    <source>Amanda Novak</source>
+    <value>yua (general lizard)</value>
+  </entry>
+  <entry>
+    <meta>
+      <English></English>
+      <Portuguese></Portuguese>
+      <Spanish></Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Tucanoan</languageFamily>
+    <language>Macuna (ortho)</language>
+    <source>Amanda Novak</source>
+    <value>ãɲa</value>
+  </entry>
+  <entry>
+    <meta>
+      <English></English>
+      <Portuguese></Portuguese>
+      <Spanish></Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Tucanoan</languageFamily>
+    <language>Macuna (ortho)</language>
+    <source>Amanda Novak</source>
+    <value>ãɲa siɾgɨ (cɾótalo), gaxoabo (taya equis)</value>
+  </entry>
+  <entry>
+    <meta>
+      <English></English>
+      <Portuguese></Portuguese>
+      <Spanish></Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Tucanoan</languageFamily>
+    <language>Macuna (ortho)</language>
+    <source>Amanda Novak</source>
+    <value>ɲisokã, ũisokã (red squirrel)</value>
+  </entry>
+  <entry>
+    <meta>
+      <English></English>
+      <Portuguese></Portuguese>
+      <Spanish></Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Tucanoan</languageFamily>
+    <language>Macuna (ortho)</language>
+    <source>Amanda Novak</source>
+    <value>wɛkɨ</value>
+  </entry>
+  <entry>
+    <meta>
+      <English></English>
+      <Portuguese></Portuguese>
+      <Spanish></Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Tucanoan</languageFamily>
+    <language>Macuna (ortho)</language>
+    <source>Amanda Novak</source>
+    <value>adamabokomikɨ</value>
+  </entry>
+  <entry>
+    <meta>
+      <English></English>
+      <Portuguese></Portuguese>
+      <Spanish></Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Tucanoan</languageFamily>
+    <language>Macuna (ortho)</language>
+    <source>Amanda Novak</source>
+    <value>guga, gusilia</value>
+  </entry>
+  <entry>
+    <meta>
+      <English></English>
+      <Portuguese></Portuguese>
+      <Spanish></Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Tucanoan</languageFamily>
+    <language>Macuna (ortho)</language>
+    <source>Amanda Novak</source>
+    <value>lasɛ</value>
+  </entry>
+  <entry>
+    <meta>
+      <English></English>
+      <Portuguese></Portuguese>
+      <Spanish></Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Tucanoan</languageFamily>
+    <language>Macuna (ortho)</language>
+    <source>Amanda Novak</source>
+    <value>yuka</value>
+  </entry>
+  <entry>
+    <meta>
+      <English></English>
+      <Portuguese></Portuguese>
+      <Spanish></Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Tucanoan</languageFamily>
+    <language>Macuna (ortho)</language>
+    <source>Amanda Novak</source>
+    <value>utia</value>
+  </entry>
+  <entry>
+    <meta>
+      <English></English>
+      <Portuguese></Portuguese>
+      <Spanish></Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Tucanoan</languageFamily>
+    <language>Macuna (ortho)</language>
+    <source>Amanda Novak</source>
+    <value>kõnɛ</value>
+  </entry>
+  <entry>
+    <meta>
+      <English></English>
+      <Portuguese></Portuguese>
+      <Spanish></Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Tucanoan</languageFamily>
+    <language>Macuna (ortho)</language>
+    <source>Amanda Novak</source>
+    <value>baɾɛwamɨ, lãxua, wãsiamɨ</value>
+  </entry>
+  <entry>
+    <meta>
+      <English></English>
+      <Portuguese></Portuguese>
+      <Spanish></Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Tucanoan</languageFamily>
+    <language>Macuna (ortho)</language>
+    <source>Amanda Novak</source>
+    <value>xogoɾo</value>
+  </entry>
+  <entry>
+    <meta>
+      <English></English>
+      <Portuguese></Portuguese>
+      <Spanish></Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Tucanoan</languageFamily>
+    <language>Macuna (ortho)</language>
+    <source>Amanda Novak</source>
+    <value>muni</value>
+  </entry>
+  <entry>
+    <meta>
+      <English></English>
+      <Portuguese></Portuguese>
+      <Spanish></Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Tucanoan</languageFamily>
+    <language>Macuna (ortho)</language>
+    <source>Amanda Novak</source>
+    <value>xaɾawa, xaɾɛwa</value>
+  </entry>
+  <entry>
+    <meta>
+      <English></English>
+      <Portuguese></Portuguese>
+      <Spanish></Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Tucanoan</languageFamily>
+    <language>Macuna (ortho)</language>
+    <source>Amanda Novak</source>
+    <value>gãxigã</value>
+  </entry>
+  <entry>
+    <meta>
+      <English></English>
+      <Portuguese></Portuguese>
+      <Spanish></Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Tucanoan</languageFamily>
+    <language>Macuna (ortho)</language>
+    <source>Amanda Novak</source>
+    <value>buxa</value>
+  </entry>
+  <entry>
+    <meta>
+      <English></English>
+      <Portuguese></Portuguese>
+      <Spanish></Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Tucanoan</languageFamily>
+    <language>Macuna (ortho)</language>
+    <source>Amanda Novak</source>
+    <value>bodɛ</value>
+  </entry>
+  <entry>
+    <meta>
+      <English></English>
+      <Portuguese></Portuguese>
+      <Spanish></Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Tucanoan</languageFamily>
+    <language>Macuna (ortho)</language>
+    <source>Amanda Novak</source>
+    <value>wadoa</value>
+  </entry>
+  <entry>
+    <meta>
+      <English></English>
+      <Portuguese></Portuguese>
+      <Spanish></Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Tucanoan</languageFamily>
+    <language>Macuna (ortho)</language>
+    <source>Amanda Novak</source>
+    <value>kotiwax̃a</value>
+  </entry>
+  <entry>
+    <meta>
+      <English></English>
+      <Portuguese></Portuguese>
+      <Spanish></Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Tucanoan</languageFamily>
+    <language>Macuna (ortho)</language>
+    <source>Amanda Novak</source>
+    <value>bɨxɨ</value>
+  </entry>
+  <entry>
+    <meta>
+      <English></English>
+      <Portuguese></Portuguese>
+      <Spanish></Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Tucanoan</languageFamily>
+    <language>Macuna (ortho)</language>
+    <source>Amanda Novak</source>
+    <value>gãxisĩa, gãxisɨa</value>
+  </entry>
+  <entry>
+    <meta>
+      <English></English>
+      <Portuguese></Portuguese>
+      <Spanish></Spanish>
+      <Relevance to subsistence></Relevance to subsistence>
+      <Comments></Comments>
+    </meta>
+    <languageFamily>Tucanoan</languageFamily>
+    <language>Macuna (ortho)</language>
+    <source>Amanda Novak</source>
+    <value>talobɨkɨa (gɾande)</value>
+  </entry>
+</entries>

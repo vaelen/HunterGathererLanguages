@@ -1,0 +1,497 @@
+<entries>
+  <entry>
+    <meta>
+      <English>mother</English>
+      <Portuguese>mãe</Portuguese>
+      <Spanish>madre, mamá</Spanish>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Bettie Gonzales; Summer Institute of Linguistics 1959</source>
+    <value>badã wããna; Mbarã</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>father</English>
+      <Portuguese>pai</Portuguese>
+      <Spanish>padre, papá</Spanish>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Bettie Gonzales; Summer Institute of Linguistics 1959</source>
+    <value>wæ̃po</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>brother</English>
+      <Portuguese>irmão</Portuguese>
+      <Spanish>hermano</Spanish>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Bettie Gonzales; Summer Institute of Linguistics 1959</source>
+    <value>memo</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>younger brother</English>
+      <Portuguese>irmão mais novo</Portuguese>
+      <Spanish>hermano menor</Spanish>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Bettie Gonzales; Summer Institute of Linguistics 1959</source>
+    <value>bíwi̧-ñía</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>older brother</English>
+      <Portuguese>irmão mais velho</Portuguese>
+      <Spanish>hermano mayor</Spanish>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Andoke (Phon)</language>
+    <source>Landaburu, Jon.  1979. La Langue des Andoke. -- Entered by Kelsey Neely</source>
+    <value>-haə́ʌçi</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>sister</English>
+      <Portuguese>irmã</Portuguese>
+      <Spanish>hermana</Spanish>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>-kuítnɨ</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>younger sister</English>
+      <Portuguese>irmão mais nova</Portuguese>
+      <Spanish>hermana menor</Spanish>
+    </meta>
+    <languageFamily>Unclassified</languageFamily>
+    <language>Warao (ortho)</language>
+    <source></source>
+    <value>rakoi sanuka (rakoi=sister, sanuka=small)</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>older sister</English>
+      <Portuguese>irmã mais velha</Portuguese>
+      <Spanish>hermana mayor</Spanish>
+    </meta>
+    <languageFamily>Peba-yagua</languageFamily>
+    <language>Yagua (phonemic) YAD IDS</language>
+    <source></source>
+    <value>htjamutu munatjatu</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>paternal uncle</English>
+      <Portuguese>tio paterno</Portuguese>
+      <Spanish>tío</Spanish>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Guayabero (phono)</language>
+    <source>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano. AP</source>
+    <value>aknú</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>paternal aunt</English>
+      <Portuguese>tia paterna</Portuguese>
+      <Spanish>tía</Spanish>
+    </meta>
+    <languageFamily>Choco</languageFamily>
+    <language>Embeɹá (phonemic)</language>
+    <source>Saɹa, Solomon. A Tɹi-Lingual Dictionaɹj of Embeɹá-Spanish-English</source>
+    <value>chabádjoa</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>P. Uncle's wife</English>
+      <Portuguese>esposa do tio p.</Portuguese>
+      <Spanish>tía, tía política</Spanish>
+    </meta>
+    <languageFamily>Tupi-Guarani</languageFamily>
+    <language>Nheengatu (ortho)</language>
+    <source>John Blaha (Grenand)</source>
+    <value>tiya (from POR)</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>P. Aunt's husband</English>
+      <Portuguese>marido da tia p.</Portuguese>
+      <Spanish>tío, tío político</Spanish>
+    </meta>
+    <languageFamily>Tupi-Guarani</languageFamily>
+    <language>Nheengatu (ortho)</language>
+    <source>John Blaha (Grenand)</source>
+    <value>tutira</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>maternal uncle</English>
+      <Portuguese>tio materno</Portuguese>
+      <Spanish>tío</Spanish>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Guayabero (phono)</language>
+    <source>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano. AP</source>
+    <value>aknú</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>maternal aunt</English>
+      <Portuguese>tia materna</Portuguese>
+      <Spanish>tía</Spanish>
+    </meta>
+    <languageFamily>Choco</languageFamily>
+    <language>Embeɹá (phonemic)</language>
+    <source>Saɹa, Solomon. A Tɹi-Lingual Dictionaɹj of Embeɹá-Spanish-English</source>
+    <value>chabádjoa</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>maternal uncle's wife</English>
+      <Portuguese>esposa do tio m.</Portuguese>
+      <Spanish>tía, tía política</Spanish>
+    </meta>
+    <languageFamily>Tupi-Guarani</languageFamily>
+    <language>Nheengatu (ortho)</language>
+    <source>John Blaha (Grenand)</source>
+    <value>tiya (from POR)</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>maternal aunt's husband</English>
+      <Portuguese>marido da tia m.</Portuguese>
+      <Spanish>tío, tío político</Spanish>
+    </meta>
+    <languageFamily>Arawak</languageFamily>
+    <language>Paresi (ab08) Ortho</language>
+    <source>Person entering data: AP</source>
+    <value>ababahare</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>p. uncle's son</English>
+      <Portuguese>filho do tio p.</Portuguese>
+      <Spanish>primo</Spanish>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Andoke (Phon)</language>
+    <source>Landaburu, Jon.  1979. La Langue des Andoke. -- Entered by Kelsey Neely</source>
+    <value>-ʌʌ</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>p. uncle's daughter</English>
+      <Portuguese>filha do tio p.</Portuguese>
+      <Spanish>prima</Spanish>
+    </meta>
+    <languageFamily>Choco</languageFamily>
+    <language>Embeɹá (phonemic)</language>
+    <source>Saɹa, Solomon. A Tɹi-Lingual Dictionaɹj of Embeɹá-Spanish-English</source>
+    <value>djabá-káu</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>p. aunt's son</English>
+      <Portuguese>filho da tia p.</Portuguese>
+      <Spanish>primo</Spanish>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Andoke (Phon)</language>
+    <source>Landaburu, Jon.  1979. La Langue des Andoke. -- Entered by Kelsey Neely</source>
+    <value>-ʌʌ</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>p. aunt's daughter</English>
+      <Portuguese>filha da tia p.</Portuguese>
+      <Spanish>prima</Spanish>
+    </meta>
+    <languageFamily>Choco</languageFamily>
+    <language>Embeɹá (phonemic)</language>
+    <source>Saɹa, Solomon. A Tɹi-Lingual Dictionaɹj of Embeɹá-Spanish-English</source>
+    <value>djabá-káu</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>m. uncle's son</English>
+      <Portuguese>filho do tio m.</Portuguese>
+      <Spanish>primo</Spanish>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Andoke (Phon)</language>
+    <source>Landaburu, Jon.  1979. La Langue des Andoke. -- Entered by Kelsey Neely</source>
+    <value>-ʌʌ</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>m. uncle's daughter</English>
+      <Portuguese>filha do tio m.</Portuguese>
+      <Spanish>prima</Spanish>
+    </meta>
+    <languageFamily>Choco</languageFamily>
+    <language>Embeɹá (phonemic)</language>
+    <source>Saɹa, Solomon. A Tɹi-Lingual Dictionaɹj of Embeɹá-Spanish-English</source>
+    <value>djabá-káu</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>m. aunt's son</English>
+      <Portuguese>filho da tia m.</Portuguese>
+      <Spanish>primo</Spanish>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Andoke (Phon)</language>
+    <source>Landaburu, Jon.  1979. La Langue des Andoke. -- Entered by Kelsey Neely</source>
+    <value>-ʌʌ</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>m. aunt's daughter</English>
+      <Portuguese>filha da tia m.</Portuguese>
+      <Spanish>prima</Spanish>
+    </meta>
+    <languageFamily>Choco</languageFamily>
+    <language>Embeɹá (phonemic)</language>
+    <source>Saɹa, Solomon. A Tɹi-Lingual Dictionaɹj of Embeɹá-Spanish-English</source>
+    <value>djabá-káu</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>son</English>
+      <Portuguese>filho</Portuguese>
+      <Spanish>hijo</Spanish>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>-knó</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>daughter</English>
+      <Portuguese>filha</Portuguese>
+      <Spanish>hija</Spanish>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Guayabero (phono)</language>
+    <source>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano. AP</source>
+    <value>aknó</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>brother's son</English>
+      <Portuguese>sobrinho</Portuguese>
+      <Spanish>sobrino</Spanish>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>-kɨt</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>brother's daughter</English>
+      <Portuguese>sobrinha</Portuguese>
+      <Spanish>sobrina</Spanish>
+    </meta>
+    <languageFamily>Choco</languageFamily>
+    <language>Embeɹá (phonemic)</language>
+    <source>Saɹa, Solomon. A Tɹi-Lingual Dictionaɹj of Embeɹá-Spanish-English</source>
+    <value>hẽɹámãɹã</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>sister's son</English>
+      <Portuguese>sobrinho</Portuguese>
+      <Spanish>sobrino</Spanish>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Andoke (Phon)</language>
+    <source>Landaburu, Jon.  1979. La Langue des Andoke. -- Entered by Kelsey Neely</source>
+    <value>-çepo</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>sister's daughter</English>
+      <Portuguese>sobrinha</Portuguese>
+      <Spanish>sobrina</Spanish>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Andoke (Phon)</language>
+    <source>Landaburu, Jon.  1979. La Langue des Andoke. -- Entered by Kelsey Neely</source>
+    <value>-çepo</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>grandfather</English>
+      <Portuguese>avô</Portuguese>
+      <Spanish>abuelo</Spanish>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Bettie Gonzales; Summer Institute of Linguistics 1959</source>
+    <value>wæ̃mæ̃ mæ̃mæ̃</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>grandmother</English>
+      <Portuguese>avó</Portuguese>
+      <Spanish>abuela</Spanish>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Bettie Gonzales; Summer Institute of Linguistics 1959</source>
+    <value>ñǽ̨ñæ̨</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>grandson</English>
+      <Portuguese>neto</Portuguese>
+      <Spanish>nieto</Spanish>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>mom</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>grand-daughter</English>
+      <Portuguese>neta</Portuguese>
+      <Spanish>nieta</Spanish>
+    </meta>
+    <languageFamily>Choco</languageFamily>
+    <language>Embeɹá (phonemic)</language>
+    <source>Saɹa, Solomon. A Tɹi-Lingual Dictionaɹj of Embeɹá-Spanish-English</source>
+    <value>káu-wízake, áĩnzake</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>sister-in-law</English>
+      <Portuguese>cunhada</Portuguese>
+      <Spanish>cuñada</Spanish>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>-kɨ́npen</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>brother-in-law</English>
+      <Portuguese>cunhado</Portuguese>
+      <Spanish>cuñado</Spanish>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Guayabero (phono)</language>
+    <source>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano. AP</source>
+    <value>ajmó</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>wife</English>
+      <Portuguese>esposa</Portuguese>
+      <Spanish>esposa</Spanish>
+    </meta>
+    <languageFamily>Isolate</languageFamily>
+    <language>Huaorani</language>
+    <source>Bettie Gonzales; Summer Institute of Linguistics 1959</source>
+    <value>nãnogæ̃</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>husband</English>
+      <Portuguese>esposo</Portuguese>
+      <Spanish>esposo</Spanish>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>-báɾkui</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>son-in-law</English>
+      <Portuguese>genro</Portuguese>
+      <Spanish>yerno</Spanish>
+    </meta>
+    <languageFamily>Choco</languageFamily>
+    <language>Embeɹá (phonemic)</language>
+    <source>Saɹa, Solomon. A Tɹi-Lingual Dictionaɹj of Embeɹá-Spanish-English</source>
+    <value>wigú</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>daughter-in-law</English>
+      <Portuguese>nora</Portuguese>
+      <Spanish>nuera</Spanish>
+    </meta>
+    <languageFamily>Choco</languageFamily>
+    <language>Embeɹá (phonemic)</language>
+    <source>Saɹa, Solomon. A Tɹi-Lingual Dictionaɹj of Embeɹá-Spanish-English</source>
+    <value>aiŋ̃gú</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>mother-in-law</English>
+      <Portuguese>sogra</Portuguese>
+      <Spanish>suegra</Spanish>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Guayabero (phono)</language>
+    <source>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano. AP</source>
+    <value>akúi (vocativo), améi</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>father-in-law</English>
+      <Portuguese>sogro</Portuguese>
+      <Spanish>suegro</Spanish>
+    </meta>
+    <languageFamily>Choco</languageFamily>
+    <language>Embeɹá (phonemic)</language>
+    <source>Saɹa, Solomon. A Tɹi-Lingual Dictionaɹj of Embeɹá-Spanish-English</source>
+    <value>zaõaɹé</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>self-denomination of ethnic/linguistic group</English>
+      <Portuguese>auto-denominação do grupo</Portuguese>
+      <Spanish></Spanish>
+    </meta>
+    <languageFamily>Guahiban</languageFamily>
+    <language>Macaguan (phono)</language>
+    <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
+    <value>hiɾáɾnɨ</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>denomination used for hunter-gatherers or agriculturalists in general (if relevant)</English>
+      <Portuguese>denominação usada pelos caçadores e agricultores</Portuguese>
+      <Spanish></Spanish>
+    </meta>
+    <languageFamily>Záparo</languageFamily>
+    <language>Iquito (ildp06); orthography</language>
+    <source></source>
+    <value>paasína (mitayero, una persona que es un cazador o pescador muy exitoso); cuuhuaá amuuyaana (MC: compound, meat hunter/killer); ámuuyaana (hunter; MC: derived from verb 'to hunt')</value>
+  </entry>
+  <entry>
+    <meta>
+      <English>clan (or other relevant social grouping)</English>
+      <Portuguese>clã</Portuguese>
+      <Spanish>clan</Spanish>
+    </meta>
+    <languageFamily>Peba-yagua</languageFamily>
+    <language>Yagua (phonemic) YAD IDS</language>
+    <source></source>
+    <value>hũrirja</value>
+  </entry>
+</entries>
