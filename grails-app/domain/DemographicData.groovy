@@ -14,9 +14,9 @@ class DemographicData {
 
     static constraints = {
         demographicFeature(blank:false, )
-        sourceLanguage(blank:false, )
+        sourceLanguage(blank:false)
         answer(blank:false)
-        phylogeneticCode(range:1..9)
+        phylogeneticCode(range:1..9, blank:true, nullable:true)
         sources()
         generalNotes(widget:"textarea", maxSize:2000)
         createdAt(display: false, nullable: true)

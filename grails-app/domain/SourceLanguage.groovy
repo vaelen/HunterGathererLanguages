@@ -19,7 +19,7 @@ class SourceLanguage {
         otherNames(blank:true)
         subGroup(blank:true)
         family(blank:false)
-        caseStudyRegion(blank:false, )
+        caseStudyRegion(blank:false)
         latitude(blank:true)
         longitude(blank:true)
         isoCode(blank:false, minSize:3, maxSize:3)

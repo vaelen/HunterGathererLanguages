@@ -15,8 +15,8 @@ class GrammaticalFeature {
     
     static constraints = {
         name(blank:false)
-        category(blank:false, )
-        underDiscussion()
+        category(blank:false)
+        underDiscussion(default:true)
         exportSet()
         caseStudyRegion(blank:false, )
         sources()
