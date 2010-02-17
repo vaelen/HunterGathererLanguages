@@ -87,13 +87,12 @@ class DataImporter {
                     def language = second
                     def source = third
                     data.eachWithIndex() { value, i ->
+                        if(!metaSet) {
+                            records[i]['meta'] = metadata[i]
+                            records[i]['meta']['semanticField'] = getSemanticField(metadata[i]['English'], fileName)
+                            records[i]['meta']['category'] = getCategory(metadata[i]['English'])
+                        }
                         if(value) {
-                            if(!metaSet) {
-                                records[i]['meta'] = metadata[i]
-                                records[i]['meta']['semanticField'] = getSemanticField(metadata[i]['English'], fileName)
-                                records[i]['meta']['category'] = getCategory(metadata[i]['English'])
-                            }
-
                             if(currentRow) {
                                 currentRow[i] = [
                                     'languageFamily':languageFamily,
@@ -119,10 +118,12 @@ class DataImporter {
                     }
                     // Output last row
                     lastRow.eachWithIndex() { value, i ->
-                        if(!value['phonemicizedForm']) {
-                            value['phonemicizedForm'] = 'NONE'
+                        if(value) {
+                            if(!value['phonemicizedForm']) {
+                                value['phonemicizedForm'] = 'NONE'
+                            }
+                            records[i]['data'] << value
                         }
-                        records[i]['data'] << value
                     }
                     lastRow = currentRow
                     lastLanguageFamily = languageFamily
@@ -131,10 +132,12 @@ class DataImporter {
             }
             if(lastRow) {
                 lastRow.eachWithIndex() { value, i ->
-                    if(!value['phonemicizedForm']) {
-                        value['phonemicizedForm'] = 'NONE'
+                    if(value) {
+                        if(!value['phonemicizedForm']) {
+                            value['phonemicizedForm'] = 'NONE'
+                        }
+                        records[i]['data'] << value
                     }
-                    records[i]['data'] << value
                 }
             }
         }
@@ -150,7 +153,11 @@ class DataImporter {
                         meta {
                             record['meta'].each {field -> "$field.key"(field.value) }
                         }
-                        record['data'].each {data -> data(data.each {field -> "$field.key"(field.value) }) }
+                        record['data'].each {d ->
+                            item {
+                                d.each { field -> "$field.key"(field.value) }
+                            }
+                        }
                     }
                 }
             }
@@ -221,13 +228,13 @@ class DataImporter {
             def semanticFieldName = meta.semanticField
             def categoryName = meta.category
 
-            entry.data.each { data ->
+            entry.item.each { item ->
 
-                def languageFamilyName = data.languageFamily
-                def languageName = data.language
-                def sourceName = data.source
-                def originalForm = data.originalForm
-                def phonemicizedForm = data.phonemicizedForm
+                def languageFamilyName = item.languageFamily
+                def languageName = item.language
+                def sourceName = item.source
+                def originalForm = item.originalForm
+                def phonemicizedForm = item.phonemicizedForm
 
                 def lexicalFeature = createLexicalFeature(english, portuguese, spanish, latin, comments, pos, caseStudyRegion, semanticFieldName, categoryName);
                 println lexicalFeature
