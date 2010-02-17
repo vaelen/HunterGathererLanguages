@@ -5,6 +5,8 @@
       <Portuguese>mãe</Portuguese>
       <Spanish>madre, mamá</Spanish>
     </meta>
+    <semanticField>KINSHIP</semanticField>
+    <category>Basic Vocabulary</category>
     <languageFamily>Isolate</languageFamily>
     <language>Huaorani</language>
     <source>Bettie Gonzales; Summer Institute of Linguistics 1959</source>
@@ -16,6 +18,8 @@
       <Portuguese>pai</Portuguese>
       <Spanish>padre, papá</Spanish>
     </meta>
+    <semanticField>KINSHIP</semanticField>
+    <category>Basic Vocabulary</category>
     <languageFamily>Isolate</languageFamily>
     <language>Huaorani</language>
     <source>Bettie Gonzales; Summer Institute of Linguistics 1959</source>
@@ -27,6 +31,8 @@
       <Portuguese>irmão</Portuguese>
       <Spanish>hermano</Spanish>
     </meta>
+    <semanticField>kinship</semanticField>
+    <category>OTHER</category>
     <languageFamily>Isolate</languageFamily>
     <language>Huaorani</language>
     <source>Bettie Gonzales; Summer Institute of Linguistics 1959</source>
@@ -38,6 +44,8 @@
       <Portuguese>irmão mais novo</Portuguese>
       <Spanish>hermano menor</Spanish>
     </meta>
+    <semanticField>kinship</semanticField>
+    <category>OTHER</category>
     <languageFamily>Isolate</languageFamily>
     <language>Huaorani</language>
     <source>Bettie Gonzales; Summer Institute of Linguistics 1959</source>
@@ -49,6 +57,8 @@
       <Portuguese>irmão mais velho</Portuguese>
       <Spanish>hermano mayor</Spanish>
     </meta>
+    <semanticField>kinship</semanticField>
+    <category>OTHER</category>
     <languageFamily>Isolate</languageFamily>
     <language>Andoke (Phon)</language>
     <source>Landaburu, Jon.  1979. La Langue des Andoke. -- Entered by Kelsey Neely</source>
@@ -60,6 +70,8 @@
       <Portuguese>irmã</Portuguese>
       <Spanish>hermana</Spanish>
     </meta>
+    <semanticField>kinship</semanticField>
+    <category>OTHER</category>
     <languageFamily>Guahiban</languageFamily>
     <language>Macaguan (phono)</language>
     <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
@@ -71,6 +83,8 @@
       <Portuguese>irmão mais nova</Portuguese>
       <Spanish>hermana menor</Spanish>
     </meta>
+    <semanticField>kinship</semanticField>
+    <category>OTHER</category>
     <languageFamily>Unclassified</languageFamily>
     <language>Warao (ortho)</language>
     <source></source>
@@ -82,6 +96,8 @@
       <Portuguese>irmã mais velha</Portuguese>
       <Spanish>hermana mayor</Spanish>
     </meta>
+    <semanticField>kinship</semanticField>
+    <category>OTHER</category>
     <languageFamily>Peba-yagua</languageFamily>
     <language>Yagua (phonemic) YAD IDS</language>
     <source></source>
@@ -93,6 +109,8 @@
       <Portuguese>tio paterno</Portuguese>
       <Spanish>tío</Spanish>
     </meta>
+    <semanticField>kinship</semanticField>
+    <category>OTHER</category>
     <languageFamily>Guahiban</languageFamily>
     <language>Guayabero (phono)</language>
     <source>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano. AP</source>
@@ -104,6 +122,8 @@
       <Portuguese>tia paterna</Portuguese>
       <Spanish>tía</Spanish>
     </meta>
+    <semanticField>kinship</semanticField>
+    <category>OTHER</category>
     <languageFamily>Choco</languageFamily>
     <language>Embeɹá (phonemic)</language>
     <source>Saɹa, Solomon. A Tɹi-Lingual Dictionaɹj of Embeɹá-Spanish-English</source>
@@ -115,6 +135,8 @@
       <Portuguese>esposa do tio p.</Portuguese>
       <Spanish>tía, tía política</Spanish>
     </meta>
+    <semanticField>kinship</semanticField>
+    <category>OTHER</category>
     <languageFamily>Tupi-Guarani</languageFamily>
     <language>Nheengatu (ortho)</language>
     <source>John Blaha (Grenand)</source>
@@ -126,6 +148,8 @@
       <Portuguese>marido da tia p.</Portuguese>
       <Spanish>tío, tío político</Spanish>
     </meta>
+    <semanticField>kinship</semanticField>
+    <category>OTHER</category>
     <languageFamily>Tupi-Guarani</languageFamily>
     <language>Nheengatu (ortho)</language>
     <source>John Blaha (Grenand)</source>
@@ -137,6 +161,8 @@
       <Portuguese>tio materno</Portuguese>
       <Spanish>tío</Spanish>
     </meta>
+    <semanticField>kinship</semanticField>
+    <category>OTHER</category>
     <languageFamily>Guahiban</languageFamily>
     <language>Guayabero (phono)</language>
     <source>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano. AP</source>
@@ -148,6 +174,8 @@
       <Portuguese>tia materna</Portuguese>
       <Spanish>tía</Spanish>
     </meta>
+    <semanticField>kinship</semanticField>
+    <category>OTHER</category>
     <languageFamily>Choco</languageFamily>
     <language>Embeɹá (phonemic)</language>
     <source>Saɹa, Solomon. A Tɹi-Lingual Dictionaɹj of Embeɹá-Spanish-English</source>
@@ -159,6 +187,8 @@
       <Portuguese>esposa do tio m.</Portuguese>
       <Spanish>tía, tía política</Spanish>
     </meta>
+    <semanticField>kinship</semanticField>
+    <category>OTHER</category>
     <languageFamily>Tupi-Guarani</languageFamily>
     <language>Nheengatu (ortho)</language>
     <source>John Blaha (Grenand)</source>
@@ -170,6 +200,8 @@
       <Portuguese>marido da tia m.</Portuguese>
       <Spanish>tío, tío político</Spanish>
     </meta>
+    <semanticField>kinship</semanticField>
+    <category>OTHER</category>
     <languageFamily>Arawak</languageFamily>
     <language>Paresi (ab08) Ortho</language>
     <source>Person entering data: AP</source>
@@ -181,6 +213,8 @@
       <Portuguese>filho do tio p.</Portuguese>
       <Spanish>primo</Spanish>
     </meta>
+    <semanticField>kinship</semanticField>
+    <category>OTHER</category>
     <languageFamily>Isolate</languageFamily>
     <language>Andoke (Phon)</language>
     <source>Landaburu, Jon.  1979. La Langue des Andoke. -- Entered by Kelsey Neely</source>
@@ -192,6 +226,8 @@
       <Portuguese>filha do tio p.</Portuguese>
       <Spanish>prima</Spanish>
     </meta>
+    <semanticField>kinship</semanticField>
+    <category>OTHER</category>
     <languageFamily>Choco</languageFamily>
     <language>Embeɹá (phonemic)</language>
     <source>Saɹa, Solomon. A Tɹi-Lingual Dictionaɹj of Embeɹá-Spanish-English</source>
@@ -203,6 +239,8 @@
       <Portuguese>filho da tia p.</Portuguese>
       <Spanish>primo</Spanish>
     </meta>
+    <semanticField>kinship</semanticField>
+    <category>OTHER</category>
     <languageFamily>Isolate</languageFamily>
     <language>Andoke (Phon)</language>
     <source>Landaburu, Jon.  1979. La Langue des Andoke. -- Entered by Kelsey Neely</source>
@@ -214,6 +252,8 @@
       <Portuguese>filha da tia p.</Portuguese>
       <Spanish>prima</Spanish>
     </meta>
+    <semanticField>kinship</semanticField>
+    <category>OTHER</category>
     <languageFamily>Choco</languageFamily>
     <language>Embeɹá (phonemic)</language>
     <source>Saɹa, Solomon. A Tɹi-Lingual Dictionaɹj of Embeɹá-Spanish-English</source>
@@ -225,6 +265,8 @@
       <Portuguese>filho do tio m.</Portuguese>
       <Spanish>primo</Spanish>
     </meta>
+    <semanticField>kinship</semanticField>
+    <category>OTHER</category>
     <languageFamily>Isolate</languageFamily>
     <language>Andoke (Phon)</language>
     <source>Landaburu, Jon.  1979. La Langue des Andoke. -- Entered by Kelsey Neely</source>
@@ -236,6 +278,8 @@
       <Portuguese>filha do tio m.</Portuguese>
       <Spanish>prima</Spanish>
     </meta>
+    <semanticField>kinship</semanticField>
+    <category>OTHER</category>
     <languageFamily>Choco</languageFamily>
     <language>Embeɹá (phonemic)</language>
     <source>Saɹa, Solomon. A Tɹi-Lingual Dictionaɹj of Embeɹá-Spanish-English</source>
@@ -247,6 +291,8 @@
       <Portuguese>filho da tia m.</Portuguese>
       <Spanish>primo</Spanish>
     </meta>
+    <semanticField>kinship</semanticField>
+    <category>OTHER</category>
     <languageFamily>Isolate</languageFamily>
     <language>Andoke (Phon)</language>
     <source>Landaburu, Jon.  1979. La Langue des Andoke. -- Entered by Kelsey Neely</source>
@@ -258,6 +304,8 @@
       <Portuguese>filha da tia m.</Portuguese>
       <Spanish>prima</Spanish>
     </meta>
+    <semanticField>kinship</semanticField>
+    <category>OTHER</category>
     <languageFamily>Choco</languageFamily>
     <language>Embeɹá (phonemic)</language>
     <source>Saɹa, Solomon. A Tɹi-Lingual Dictionaɹj of Embeɹá-Spanish-English</source>
@@ -269,6 +317,8 @@
       <Portuguese>filho</Portuguese>
       <Spanish>hijo</Spanish>
     </meta>
+    <semanticField>kinship</semanticField>
+    <category>OTHER</category>
     <languageFamily>Guahiban</languageFamily>
     <language>Macaguan (phono)</language>
     <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
@@ -280,6 +330,8 @@
       <Portuguese>filha</Portuguese>
       <Spanish>hija</Spanish>
     </meta>
+    <semanticField>kinship</semanticField>
+    <category>OTHER</category>
     <languageFamily>Guahiban</languageFamily>
     <language>Guayabero (phono)</language>
     <source>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano. AP</source>
@@ -291,6 +343,8 @@
       <Portuguese>sobrinho</Portuguese>
       <Spanish>sobrino</Spanish>
     </meta>
+    <semanticField>kinship</semanticField>
+    <category>OTHER</category>
     <languageFamily>Guahiban</languageFamily>
     <language>Macaguan (phono)</language>
     <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
@@ -302,6 +356,8 @@
       <Portuguese>sobrinha</Portuguese>
       <Spanish>sobrina</Spanish>
     </meta>
+    <semanticField>kinship</semanticField>
+    <category>OTHER</category>
     <languageFamily>Choco</languageFamily>
     <language>Embeɹá (phonemic)</language>
     <source>Saɹa, Solomon. A Tɹi-Lingual Dictionaɹj of Embeɹá-Spanish-English</source>
@@ -313,6 +369,8 @@
       <Portuguese>sobrinho</Portuguese>
       <Spanish>sobrino</Spanish>
     </meta>
+    <semanticField>kinship</semanticField>
+    <category>OTHER</category>
     <languageFamily>Isolate</languageFamily>
     <language>Andoke (Phon)</language>
     <source>Landaburu, Jon.  1979. La Langue des Andoke. -- Entered by Kelsey Neely</source>
@@ -324,6 +382,8 @@
       <Portuguese>sobrinha</Portuguese>
       <Spanish>sobrina</Spanish>
     </meta>
+    <semanticField>kinship</semanticField>
+    <category>OTHER</category>
     <languageFamily>Isolate</languageFamily>
     <language>Andoke (Phon)</language>
     <source>Landaburu, Jon.  1979. La Langue des Andoke. -- Entered by Kelsey Neely</source>
@@ -335,6 +395,8 @@
       <Portuguese>avô</Portuguese>
       <Spanish>abuelo</Spanish>
     </meta>
+    <semanticField>kinship</semanticField>
+    <category>OTHER</category>
     <languageFamily>Isolate</languageFamily>
     <language>Huaorani</language>
     <source>Bettie Gonzales; Summer Institute of Linguistics 1959</source>
@@ -346,6 +408,8 @@
       <Portuguese>avó</Portuguese>
       <Spanish>abuela</Spanish>
     </meta>
+    <semanticField>kinship</semanticField>
+    <category>OTHER</category>
     <languageFamily>Isolate</languageFamily>
     <language>Huaorani</language>
     <source>Bettie Gonzales; Summer Institute of Linguistics 1959</source>
@@ -357,6 +421,8 @@
       <Portuguese>neto</Portuguese>
       <Spanish>nieto</Spanish>
     </meta>
+    <semanticField>kinship</semanticField>
+    <category>OTHER</category>
     <languageFamily>Guahiban</languageFamily>
     <language>Macaguan (phono)</language>
     <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
@@ -368,6 +434,8 @@
       <Portuguese>neta</Portuguese>
       <Spanish>nieta</Spanish>
     </meta>
+    <semanticField>kinship</semanticField>
+    <category>OTHER</category>
     <languageFamily>Choco</languageFamily>
     <language>Embeɹá (phonemic)</language>
     <source>Saɹa, Solomon. A Tɹi-Lingual Dictionaɹj of Embeɹá-Spanish-English</source>
@@ -379,6 +447,8 @@
       <Portuguese>cunhada</Portuguese>
       <Spanish>cuñada</Spanish>
     </meta>
+    <semanticField>kinship</semanticField>
+    <category>OTHER</category>
     <languageFamily>Guahiban</languageFamily>
     <language>Macaguan (phono)</language>
     <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
@@ -390,6 +460,8 @@
       <Portuguese>cunhado</Portuguese>
       <Spanish>cuñado</Spanish>
     </meta>
+    <semanticField>kinship</semanticField>
+    <category>OTHER</category>
     <languageFamily>Guahiban</languageFamily>
     <language>Guayabero (phono)</language>
     <source>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano. AP</source>
@@ -401,6 +473,8 @@
       <Portuguese>esposa</Portuguese>
       <Spanish>esposa</Spanish>
     </meta>
+    <semanticField>KINSHIP</semanticField>
+    <category>Basic Vocabulary</category>
     <languageFamily>Isolate</languageFamily>
     <language>Huaorani</language>
     <source>Bettie Gonzales; Summer Institute of Linguistics 1959</source>
@@ -412,6 +486,8 @@
       <Portuguese>esposo</Portuguese>
       <Spanish>esposo</Spanish>
     </meta>
+    <semanticField>kinship</semanticField>
+    <category>OTHER</category>
     <languageFamily>Guahiban</languageFamily>
     <language>Macaguan (phono)</language>
     <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
@@ -423,6 +499,8 @@
       <Portuguese>genro</Portuguese>
       <Spanish>yerno</Spanish>
     </meta>
+    <semanticField>kinship</semanticField>
+    <category>OTHER</category>
     <languageFamily>Choco</languageFamily>
     <language>Embeɹá (phonemic)</language>
     <source>Saɹa, Solomon. A Tɹi-Lingual Dictionaɹj of Embeɹá-Spanish-English</source>
@@ -434,6 +512,8 @@
       <Portuguese>nora</Portuguese>
       <Spanish>nuera</Spanish>
     </meta>
+    <semanticField>kinship</semanticField>
+    <category>OTHER</category>
     <languageFamily>Choco</languageFamily>
     <language>Embeɹá (phonemic)</language>
     <source>Saɹa, Solomon. A Tɹi-Lingual Dictionaɹj of Embeɹá-Spanish-English</source>
@@ -445,6 +525,8 @@
       <Portuguese>sogra</Portuguese>
       <Spanish>suegra</Spanish>
     </meta>
+    <semanticField>kinship</semanticField>
+    <category>OTHER</category>
     <languageFamily>Guahiban</languageFamily>
     <language>Guayabero (phono)</language>
     <source>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano. AP</source>
@@ -456,6 +538,8 @@
       <Portuguese>sogro</Portuguese>
       <Spanish>suegro</Spanish>
     </meta>
+    <semanticField>kinship</semanticField>
+    <category>OTHER</category>
     <languageFamily>Choco</languageFamily>
     <language>Embeɹá (phonemic)</language>
     <source>Saɹa, Solomon. A Tɹi-Lingual Dictionaɹj of Embeɹá-Spanish-English</source>
@@ -467,6 +551,8 @@
       <Portuguese>auto-denominação do grupo</Portuguese>
       <Spanish></Spanish>
     </meta>
+    <semanticField>kinship</semanticField>
+    <category>OTHER</category>
     <languageFamily>Guahiban</languageFamily>
     <language>Macaguan (phono)</language>
     <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
@@ -478,6 +564,8 @@
       <Portuguese>denominação usada pelos caçadores e agricultores</Portuguese>
       <Spanish></Spanish>
     </meta>
+    <semanticField>kinship</semanticField>
+    <category>OTHER</category>
     <languageFamily>Záparo</languageFamily>
     <language>Iquito (ildp06); orthography</language>
     <source></source>
@@ -489,6 +577,8 @@
       <Portuguese>clã</Portuguese>
       <Spanish>clan</Spanish>
     </meta>
+    <semanticField>kinship</semanticField>
+    <category>OTHER</category>
     <languageFamily>Peba-yagua</languageFamily>
     <language>Yagua (phonemic) YAD IDS</language>
     <source></source>

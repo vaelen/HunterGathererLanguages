@@ -7,6 +7,10 @@ import groovy.xml.MarkupBuilder
  */
 class DataImporter {
 
+    static SEMANTIC_FIELDS = [:]
+    static CATEGORIES = [:]
+    static DEFAULT_CATEGORY = "OTHER"
+
     /**
      * Convert all of the CSV files in the csv directory to XML files in the
      * xml directory.
@@ -22,6 +26,7 @@ class DataImporter {
      * directory to XML files in the xml directory.
      */
     static convertCSV(files) {
+        parseSemanticFields()
         files.each { name ->
             convertCSV(new File("csv/${name}.csv"), new File("xml/${name}.xml"))
         }
@@ -40,6 +45,8 @@ class DataImporter {
     static convertCSV(File input, File output) {
         def metadata = []
         def records = []
+
+        String fileName = input.name.replaceAll(/\.[^\.]+$/, '');
 
         // First parse CSV
         input.withReader('UTF-8') { reader ->
@@ -70,6 +77,8 @@ class DataImporter {
                         if(value) {
                             records[i]['meta'] = metadata[i]
                             records[i]['data'] = [
+                                'semanticField':getSemanticField(metadata[i]['English'], fileName),
+                                'category':getCategory(metadata[i]['English']),
                                 'languageFamily':languageFamily,
                                 'language':language,
                                 'source':source,
@@ -97,6 +106,36 @@ class DataImporter {
                 }
             }
         }
+    }
+
+    static synchronized parseSemanticFields() {
+        parseSemanticFields(new File("semanticFields.tab"))
+    }
+
+    static synchronized parseSemanticFields(File file) {
+        file.withReader() { reader ->
+            reader.eachLine() { line ->
+                def parts = line.split("\t")
+                SEMANTIC_FIELDS[parts[0]] = parts[1]
+                CATEGORIES[parts[0]] = parts[2]
+            }
+        }
+    }
+
+    static String getSemanticField(word, fallback) {
+        def semanticField = SEMANTIC_FIELDS[word]
+        if(!semanticField) {
+            semanticField = fallback
+        }
+        return semanticField
+    }
+
+    static String getCategory(word) {
+        def category = CATEGORIES[word]
+        if(!category) {
+            category = DEFAULT_CATEGORY
+        }
+        return category
     }
 }
 

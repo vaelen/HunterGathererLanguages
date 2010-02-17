@@ -8,6 +8,8 @@
       <Distribution>Dasyprocta fuliginosa: Amazonia north of Bolivia; Dasyprocta prymnolopha: Brazil only</Distribution>
       <Comments>InfoNatura website (http://www.natureserve.org/infonatura), Museu Goeldi animals database</Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Isolate</languageFamily>
     <language>Huaorani</language>
     <source>Summer Institute of Lingusitics 1959</source>
@@ -22,6 +24,8 @@
       <Distribution>Amazonia west of Rio Branco [InfoNat shows absent from Rio Negro, but this seems to be false]</Distribution>
       <Comments>InfoNat</Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Guahiban</languageFamily>
     <language>Macaguan (phono)</language>
     <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
@@ -36,6 +40,8 @@
       <Distribution></Distribution>
       <Comments></Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Isolate</languageFamily>
     <language>Huaorani</language>
     <source>Summer Institute of Lingusitics 1959</source>
@@ -50,6 +56,8 @@
       <Distribution>Widespread Amazonia</Distribution>
       <Comments></Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Guahiban</languageFamily>
     <language>Guayabero (phono)</language>
     <source>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano. AP</source>
@@ -64,6 +72,8 @@
       <Distribution></Distribution>
       <Comments>edible delicacy (compare also edible  'maniwara' ants)</Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Isolate</languageFamily>
     <language>Huaorani</language>
     <source>Summer Institute of Lingusitics 1959</source>
@@ -78,6 +88,8 @@
       <Distribution></Distribution>
       <Comments>painful sting; ritual significance among various groups</Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Guahiban</languageFamily>
     <language>Macaguan (phono)</language>
     <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
@@ -92,6 +104,8 @@
       <Distribution>Widespread in Amazonia</Distribution>
       <Comments>Museu Goeldi animals database; other armadillo types are of different families; e.g. giant armadillo. Ignore these?</Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Guahiban</languageFamily>
     <language>Macaguan (phono)</language>
     <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
@@ -106,6 +120,8 @@
       <Distribution></Distribution>
       <Comments></Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Guahiban</languageFamily>
     <language>Macaguan (phono)</language>
     <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
@@ -120,6 +136,8 @@
       <Distribution></Distribution>
       <Comments>prioritize honey-making bees</Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Guahiban</languageFamily>
     <language>Macaguan (phono)</language>
     <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
@@ -134,6 +152,8 @@
       <Distribution></Distribution>
       <Comments></Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Isolate</languageFamily>
     <language>Huaorani</language>
     <source>Summer Institute of Lingusitics 1959</source>
@@ -148,6 +168,8 @@
       <Distribution></Distribution>
       <Comments>prioritize edible caterpillers</Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Isolate</languageFamily>
     <language>Andoke (Phon)</language>
     <source>Landaburu, Jon.  1979. La Langue des Andoke. -- Entered by Kelsey Neely</source>
@@ -162,6 +184,8 @@
       <Distribution>Widespread Amazonia</Distribution>
       <Comments>Museu Goeldi animals database</Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Guahiban</languageFamily>
     <language>Guayabero (phono)</language>
     <source>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano. AP</source>
@@ -176,6 +200,8 @@
       <Distribution></Distribution>
       <Comments></Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Tupi-Guaraní</languageFamily>
     <language>Cocama</language>
     <source>Daniel</source>
@@ -190,6 +216,8 @@
       <Distribution>Widespread South America</Distribution>
       <Comments>InfoNat</Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Isolate</languageFamily>
     <language>Huaorani</language>
     <source>Summer Institute of Lingusitics 1959</source>
@@ -204,6 +232,8 @@
       <Distribution>Widespread South America</Distribution>
       <Comments>InfoNat</Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Nadahup</languageFamily>
     <language>Nadêb Rç (phonemic)</language>
     <source>Martins, Valteir. 2005. Reconstrução fonológica do Protomaku Oriental [Phonological reconstruction of eastern Protomaku]. Ph. D. diss., Vrije Universiteit, Amsterdam. Amsterdam: LOT. [ɨ is written ɯ in Martins]; Martins, Senn. Nadeb lexicon, ms; Weir, E.M. Helen 1984. A negação e outros tópicos da gramática Nadëb. Dissertação de Mestrado em Lingüística. Campinas: IEL-UNICAMP. AP</source>
@@ -218,6 +248,8 @@
       <Distribution></Distribution>
       <Comments></Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Isolate</languageFamily>
     <language>Andoke (Phon)</language>
     <source>Landaburu, Jon.  1979. La Langue des Andoke. -- Entered by Kelsey Neely</source>
@@ -232,6 +264,8 @@
       <Distribution>Widespread Amazonia</Distribution>
       <Comments>InfoNat</Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Guahiban</languageFamily>
     <language>Guayabero (phono)</language>
     <source>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano. AP</source>
@@ -246,6 +280,8 @@
       <Distribution>Not native; widespread</Distribution>
       <Comments></Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Isolate</languageFamily>
     <language>Huaorani</language>
     <source>Summer Institute of Lingusitics 1959</source>
@@ -260,6 +296,8 @@
       <Distribution>Widespread Amazonia</Distribution>
       <Comments>InfoNat</Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Nadahup</languageFamily>
     <language>Nadêb Rç (phonemic)</language>
     <source>Martins, Valteir. 2005. Reconstrução fonológica do Protomaku Oriental [Phonological reconstruction of eastern Protomaku]. Ph. D. diss., Vrije Universiteit, Amsterdam. Amsterdam: LOT. [ɨ is written ɯ in Martins]; Martins, Senn. Nadeb lexicon, ms; Weir, E.M. Helen 1984. A negação e outros tópicos da gramática Nadëb. Dissertação de Mestrado em Lingüística. Campinas: IEL-UNICAMP. AP</source>
@@ -274,6 +312,8 @@
       <Distribution>Downstream of major rapids and waterfalls</Distribution>
       <Comments></Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Isolate</languageFamily>
     <language>Andoke (Phon)</language>
     <source>Landaburu, Jon.  1979. La Langue des Andoke. -- Entered by Kelsey Neely</source>
@@ -288,6 +328,8 @@
       <Distribution></Distribution>
       <Comments></Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Isolate</languageFamily>
     <language>Huaorani</language>
     <source>Summer Institute of Lingusitics 1959</source>
@@ -302,6 +344,8 @@
       <Distribution></Distribution>
       <Comments>Museu Goeldi animals database</Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Guahiban</languageFamily>
     <language>Macaguan (phono)</language>
     <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
@@ -316,6 +360,8 @@
       <Distribution></Distribution>
       <Comments></Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Isolate</languageFamily>
     <language>Huaorani</language>
     <source>Summer Institute of Lingusitics 1959</source>
@@ -330,6 +376,8 @@
       <Distribution>big rivers only</Distribution>
       <Comments></Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Nadahup</languageFamily>
     <language>Nadêb Rç (phonemic)</language>
     <source>Martins, Valteir. 2005. Reconstrução fonológica do Protomaku Oriental [Phonological reconstruction of eastern Protomaku]. Ph. D. diss., Vrije Universiteit, Amsterdam. Amsterdam: LOT. [ɨ is written ɯ in Martins]; Martins, Senn. Nadeb lexicon, ms; Weir, E.M. Helen 1984. A negação e outros tópicos da gramática Nadëb. Dissertação de Mestrado em Lingüística. Campinas: IEL-UNICAMP. AP</source>
@@ -344,6 +392,8 @@
       <Distribution></Distribution>
       <Comments></Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Guahiban</languageFamily>
     <language>Macaguan (phono)</language>
     <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
@@ -359,6 +409,8 @@
       <Comments>Museu Goeldi animals database,
 InfoNat</Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Guahiban</languageFamily>
     <language>Macaguan (phono)</language>
     <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
@@ -373,6 +425,8 @@ InfoNat</Comments>
       <Distribution>NW Amazon only, east of Andes, west of Rio Negro</Distribution>
       <Comments>InfoNat</Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Isolate</languageFamily>
     <language>Huaorani</language>
     <source>Summer Institute of Lingusitics 1959</source>
@@ -387,6 +441,8 @@ InfoNat</Comments>
       <Distribution></Distribution>
       <Comments></Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Isolate</languageFamily>
     <language>Huaorani</language>
     <source>Summer Institute of Lingusitics 1959</source>
@@ -401,6 +457,8 @@ InfoNat</Comments>
       <Distribution>Widespread Amazonia</Distribution>
       <Comments>InfoNat</Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Nadahup</languageFamily>
     <language>Nadêb Rç (phonemic)</language>
     <source>Martins, Valteir. 2005. Reconstrução fonológica do Protomaku Oriental [Phonological reconstruction of eastern Protomaku]. Ph. D. diss., Vrije Universiteit, Amsterdam. Amsterdam: LOT. [ɨ is written ɯ in Martins]; Martins, Senn. Nadeb lexicon, ms; Weir, E.M. Helen 1984. A negação e outros tópicos da gramática Nadëb. Dissertação de Mestrado em Lingüística. Campinas: IEL-UNICAMP. AP</source>
@@ -415,6 +473,8 @@ InfoNat</Comments>
       <Distribution>Brazil only; other howlers are found elsewhere</Distribution>
       <Comments>Museu Goeldi animals database, InfoNat</Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Guahiban</languageFamily>
     <language>Guayabero (phono)</language>
     <source>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano. AP</source>
@@ -429,6 +489,8 @@ InfoNat</Comments>
       <Distribution>Widespread</Distribution>
       <Comments></Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Isolate</languageFamily>
     <language>Huaorani</language>
     <source>Summer Institute of Lingusitics 1959</source>
@@ -443,6 +505,8 @@ InfoNat</Comments>
       <Distribution></Distribution>
       <Comments></Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Guahiban</languageFamily>
     <language>Macaguan (phono)</language>
     <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
@@ -457,6 +521,8 @@ InfoNat</Comments>
       <Distribution>Widespread Amazonia</Distribution>
       <Comments>Museu Goeldi animals database</Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Isolate</languageFamily>
     <language>Huaorani</language>
     <source>Summer Institute of Lingusitics 1959</source>
@@ -472,6 +538,8 @@ InfoNat</Comments>
       <Comments>Museu Goeldi animals database,
 InfoNat</Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Isolate</languageFamily>
     <language>Huaorani</language>
     <source>Summer Institute of Lingusitics 1959</source>
@@ -486,6 +554,8 @@ InfoNat</Comments>
       <Distribution>Northern Amazonia (N of Solimões), not in northern Colombia; Dark-winged trumpeter is found south of Solimões</Distribution>
       <Comments>Museu Goeldi animals database, InfoNat</Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Nadahup</languageFamily>
     <language>Nadêb Rç (phonemic)</language>
     <source>Martins, Valteir. 2005. Reconstrução fonológica do Protomaku Oriental [Phonological reconstruction of eastern Protomaku]. Ph. D. diss., Vrije Universiteit, Amsterdam. Amsterdam: LOT. [ɨ is written ɯ in Martins]; Martins, Senn. Nadeb lexicon, ms; Weir, E.M. Helen 1984. A negação e outros tópicos da gramática Nadëb. Dissertação de Mestrado em Lingüística. Campinas: IEL-UNICAMP. AP</source>
@@ -500,6 +570,8 @@ InfoNat</Comments>
       <Distribution>Widespread Amazonia</Distribution>
       <Comments></Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Guahiban</languageFamily>
     <language>Macaguan (phono)</language>
     <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
@@ -514,6 +586,8 @@ InfoNat</Comments>
       <Distribution></Distribution>
       <Comments></Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Guahiban</languageFamily>
     <language>Macaguan (phono)</language>
     <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
@@ -528,6 +602,8 @@ InfoNat</Comments>
       <Distribution>Widespread Amazonia</Distribution>
       <Comments></Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Guahiban</languageFamily>
     <language>Macaguan (phono)</language>
     <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
@@ -542,6 +618,8 @@ InfoNat</Comments>
       <Distribution>Different types have different localized ranges</Distribution>
       <Comments>InfoNat</Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Guahiban</languageFamily>
     <language>Guayabero (phono)</language>
     <source>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano. AP</source>
@@ -556,6 +634,8 @@ InfoNat</Comments>
       <Distribution>NW Amazon: N of Amazon R., W of Rio Branco, into E Ecuador</Distribution>
       <Comments>Museu Goeldi animals database, InfoNat</Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Isolate</languageFamily>
     <language>Huaorani</language>
     <source>Summer Institute of Lingusitics 1959</source>
@@ -570,6 +650,8 @@ InfoNat</Comments>
       <Distribution>Widespread Amazonia</Distribution>
       <Comments></Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Tupi-Guarani</languageFamily>
     <language>Nheengatu (ortho)</language>
     <source>John Blaha (Grenand)</source>
@@ -585,6 +667,8 @@ InfoNat</Comments>
       <Comments>Museu Goeldi animals database
 , InfoNat</Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Guahiban</languageFamily>
     <language>Guayabero (phono)</language>
     <source>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano. AP</source>
@@ -599,6 +683,8 @@ InfoNat</Comments>
       <Distribution>Widespread Amazonia</Distribution>
       <Comments>InfoNat</Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Guahiban</languageFamily>
     <language>Guayabero (phono)</language>
     <source>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano. AP</source>
@@ -613,6 +699,8 @@ InfoNat</Comments>
       <Distribution></Distribution>
       <Comments></Comments>
     </meta>
+    <semanticField>FAUNA/FLORA</semanticField>
+    <category>Basic Vocabulary</category>
     <languageFamily>Guahiban</languageFamily>
     <language>Macaguan (phono)</language>
     <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
@@ -627,6 +715,8 @@ InfoNat</Comments>
       <Distribution>Widespread Amazonia</Distribution>
       <Comments>Museu Goeldi animals database, InfoNat</Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Guahiban</languageFamily>
     <language>Macaguan (phono)</language>
     <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
@@ -641,6 +731,8 @@ InfoNat</Comments>
       <Distribution>Large rivers only, northern Amazonia</Distribution>
       <Comments>InfoNat</Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Nadahup</languageFamily>
     <language>Nadêb Rç (phonemic)</language>
     <source>Martins, Valteir. 2005. Reconstrução fonológica do Protomaku Oriental [Phonological reconstruction of eastern Protomaku]. Ph. D. diss., Vrije Universiteit, Amsterdam. Amsterdam: LOT. [ɨ is written ɯ in Martins]; Martins, Senn. Nadeb lexicon, ms; Weir, E.M. Helen 1984. A negação e outros tópicos da gramática Nadëb. Dissertação de Mestrado em Lingüística. Campinas: IEL-UNICAMP. AP</source>
@@ -655,6 +747,8 @@ InfoNat</Comments>
       <Distribution></Distribution>
       <Comments></Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Guahiban</languageFamily>
     <language>Guayabero (phono)</language>
     <source>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano. AP</source>
@@ -669,6 +763,8 @@ InfoNat</Comments>
       <Distribution>Widespread</Distribution>
       <Comments></Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Isolate</languageFamily>
     <language>Andoke (Phon)</language>
     <source>Landaburu, Jon.  1979. La Langue des Andoke. -- Entered by Kelsey Neely</source>
@@ -683,6 +779,8 @@ InfoNat</Comments>
       <Distribution>Widespread Amazonia, but absent in central-western Colombia</Distribution>
       <Comments>InfoNat</Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Guahiban</languageFamily>
     <language>Macaguan (phono)</language>
     <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
@@ -697,6 +795,8 @@ InfoNat</Comments>
       <Distribution>Widespread Amazonia</Distribution>
       <Comments>InfoNat</Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Choco</languageFamily>
     <language>Embeɹá (phonemic)</language>
     <source>Saɹa, Solomon. A Tɹi-Lingual Dictionaɹj of Embeɹá-Spanish-English</source>
@@ -711,6 +811,8 @@ InfoNat</Comments>
       <Distribution>Widespread</Distribution>
       <Comments></Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Guahiban</languageFamily>
     <language>Macaguan (phono)</language>
     <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
@@ -725,6 +827,8 @@ InfoNat</Comments>
       <Distribution>Widespread</Distribution>
       <Comments>Museu Goeldi animals database</Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Guahiban</languageFamily>
     <language>Macaguan (phono)</language>
     <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
@@ -739,6 +843,8 @@ InfoNat</Comments>
       <Distribution>Widespread Amazonia</Distribution>
       <Comments>Museu Goeldi animals database, InfoNat</Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Choco</languageFamily>
     <language>Embeɹá (phonemic)</language>
     <source>Saɹa, Solomon. A Tɹi-Lingual Dictionaɹj of Embeɹá-Spanish-English</source>
@@ -753,6 +859,8 @@ InfoNat</Comments>
       <Distribution>Widespread Amazonia, except NE Colombia?</Distribution>
       <Comments>InfoNat</Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Guahiban</languageFamily>
     <language>Guayabero (phono)</language>
     <source>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano. AP</source>
@@ -767,6 +875,8 @@ InfoNat</Comments>
       <Distribution>Widespread Amazonia</Distribution>
       <Comments></Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Guahiban</languageFamily>
     <language>Macaguan (phono)</language>
     <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
@@ -781,6 +891,8 @@ InfoNat</Comments>
       <Distribution></Distribution>
       <Comments>Museu Goeldi animals database</Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Guahiban</languageFamily>
     <language>Macaguan (phono)</language>
     <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
@@ -795,6 +907,8 @@ InfoNat</Comments>
       <Distribution></Distribution>
       <Comments></Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Jivaro</languageFamily>
     <language>Aguaruna (phonemic)</language>
     <source>Daniel</source>
@@ -809,6 +923,8 @@ InfoNat</Comments>
       <Distribution>Widespread Amazonia</Distribution>
       <Comments>InfoNat</Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Nadahup</languageFamily>
     <language>Nadêb Rç (phonemic)</language>
     <source>Martins, Valteir. 2005. Reconstrução fonológica do Protomaku Oriental [Phonological reconstruction of eastern Protomaku]. Ph. D. diss., Vrije Universiteit, Amsterdam. Amsterdam: LOT. [ɨ is written ɯ in Martins]; Martins, Senn. Nadeb lexicon, ms; Weir, E.M. Helen 1984. A negação e outros tópicos da gramática Nadëb. Dissertação de Mestrado em Lingüística. Campinas: IEL-UNICAMP. AP</source>
@@ -823,6 +939,8 @@ InfoNat</Comments>
       <Distribution>Widespread South America</Distribution>
       <Comments>InfoNat</Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Guahiban</languageFamily>
     <language>Macaguan (phono)</language>
     <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
@@ -837,6 +955,8 @@ InfoNat</Comments>
       <Distribution></Distribution>
       <Comments></Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Choco</languageFamily>
     <language>Embeɹá (phonemic)</language>
     <source>Saɹa, Solomon. A Tɹi-Lingual Dictionaɹj of Embeɹá-Spanish-English</source>
@@ -851,6 +971,8 @@ InfoNat</Comments>
       <Distribution>Widespread Amazonia</Distribution>
       <Comments>InfoNat</Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Isolate</languageFamily>
     <language>Huaorani</language>
     <source>Summer Institute of Lingusitics 1959</source>
@@ -865,6 +987,8 @@ InfoNat</Comments>
       <Distribution></Distribution>
       <Comments></Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Choco</languageFamily>
     <language>Embeɹá (phonemic)</language>
     <source>Saɹa, Solomon. A Tɹi-Lingual Dictionaɹj of Embeɹá-Spanish-English</source>
@@ -879,6 +1003,8 @@ InfoNat</Comments>
       <Distribution></Distribution>
       <Comments></Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Isolate</languageFamily>
     <language>Huaorani</language>
     <source>Summer Institute of Lingusitics 1959</source>
@@ -893,6 +1019,8 @@ InfoNat</Comments>
       <Distribution>Widespread South America</Distribution>
       <Comments>Wikipedia</Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Choco</languageFamily>
     <language>Embeɹá (phonemic)</language>
     <source>Saɹa, Solomon. A Tɹi-Lingual Dictionaɹj of Embeɹá-Spanish-English</source>
@@ -907,6 +1035,8 @@ InfoNat</Comments>
       <Distribution>Widespread Amazonia</Distribution>
       <Comments></Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Nadahup</languageFamily>
     <language>Nadêb Rç (phonemic)</language>
     <source>Martins, Valteir. 2005. Reconstrução fonológica do Protomaku Oriental [Phonological reconstruction of eastern Protomaku]. Ph. D. diss., Vrije Universiteit, Amsterdam. Amsterdam: LOT. [ɨ is written ɯ in Martins]; Martins, Senn. Nadeb lexicon, ms; Weir, E.M. Helen 1984. A negação e outros tópicos da gramática Nadëb. Dissertação de Mestrado em Lingüística. Campinas: IEL-UNICAMP. AP</source>
@@ -921,6 +1051,8 @@ InfoNat</Comments>
       <Distribution>Guianan squirrel may be in NW Amazonia; mostly E Amazonia. Other types also have restricted ranges.</Distribution>
       <Comments>InfoNat</Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Guahiban</languageFamily>
     <language>Macaguan (phono)</language>
     <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
@@ -935,6 +1067,8 @@ InfoNat</Comments>
       <Distribution>Widespread South America</Distribution>
       <Comments>Museu Goeldi animals database</Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Isolate</languageFamily>
     <language>Huaorani</language>
     <source>Summer Institute of Lingusitics 1959</source>
@@ -949,6 +1083,8 @@ InfoNat</Comments>
       <Distribution>Widespread</Distribution>
       <Comments>Food source</Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Guahiban</languageFamily>
     <language>Guayabero (phono)</language>
     <source>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano. AP</source>
@@ -963,6 +1099,8 @@ InfoNat</Comments>
       <Distribution>Widespread</Distribution>
       <Comments>Important food source; Red-foot tortoise associated with Tupi ritual (see Balée 2000)</Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Isolate</languageFamily>
     <language>Huaorani</language>
     <source>Summer Institute of Lingusitics 1959</source>
@@ -977,6 +1115,8 @@ InfoNat</Comments>
       <Distribution>Widespread Amazonia</Distribution>
       <Comments>Museu Goeldi animals database, InfoNat</Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Isolate</languageFamily>
     <language>Huaorani</language>
     <source>Summer Institute of Lingusitics 1959</source>
@@ -991,6 +1131,8 @@ InfoNat</Comments>
       <Distribution>Widespread South America</Distribution>
       <Comments>Museu Goeldi animals database</Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Choco</languageFamily>
     <language>Embeɹá (phonemic)</language>
     <source>Saɹa, Solomon. A Tɹi-Lingual Dictionaɹj of Embeɹá-Spanish-English</source>
@@ -1005,6 +1147,8 @@ InfoNat</Comments>
       <Distribution></Distribution>
       <Comments></Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Isolate</languageFamily>
     <language>Huaorani</language>
     <source>Summer Institute of Lingusitics 1959</source>
@@ -1019,6 +1163,8 @@ InfoNat</Comments>
       <Distribution>Amazonia</Distribution>
       <Comments>InfoNat</Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Guahiban</languageFamily>
     <language>Macaguan (phono)</language>
     <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
@@ -1033,6 +1179,8 @@ InfoNat</Comments>
       <Distribution>Widespread Amazonia</Distribution>
       <Comments></Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Isolate</languageFamily>
     <language>Huaorani</language>
     <source>Summer Institute of Lingusitics 1959</source>
@@ -1047,6 +1195,8 @@ InfoNat</Comments>
       <Distribution>Widespread Amazonia</Distribution>
       <Comments>Museu Goeldi animals database, InfoNat</Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Jivaro</languageFamily>
     <language>Aguaruna (phonemic)</language>
     <source>Daniel</source>
@@ -1061,6 +1211,8 @@ InfoNat</Comments>
       <Distribution>SW Amazonia and Peru-Colombia-Ecuador border region (not in Rio Negro at all?)</Distribution>
       <Comments>InfoNat</Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Guahiban</languageFamily>
     <language>Macaguan (phono)</language>
     <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
@@ -1075,6 +1227,8 @@ InfoNat</Comments>
       <Distribution>western Amazonia, W of Rio Branco</Distribution>
       <Comments>InfoNat</Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Guahiban</languageFamily>
     <language>Guayabero (phono)</language>
     <source>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano. AP</source>
@@ -1089,6 +1243,8 @@ InfoNat</Comments>
       <Distribution>Widespread Amazonia</Distribution>
       <Comments>InfoNat</Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Tupi-Guarani</languageFamily>
     <language>Nheengatu (ortho)</language>
     <source>John Blaha (Grenand)</source>
@@ -1103,6 +1259,8 @@ InfoNat</Comments>
       <Distribution></Distribution>
       <Comments></Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Isolate</languageFamily>
     <language>Huaorani</language>
     <source>Summer Institute of Lingusitics 1959</source>
@@ -1117,6 +1275,8 @@ InfoNat</Comments>
       <Distribution></Distribution>
       <Comments></Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Guahiban</languageFamily>
     <language>Macaguan (phono)</language>
     <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
@@ -1131,6 +1291,8 @@ InfoNat</Comments>
       <Distribution></Distribution>
       <Comments></Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Guahiban</languageFamily>
     <language>Macaguan (phono)</language>
     <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
@@ -1145,6 +1307,8 @@ InfoNat</Comments>
       <Distribution></Distribution>
       <Comments></Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Guahiban</languageFamily>
     <language>Macaguan (phono)</language>
     <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
@@ -1159,6 +1323,8 @@ InfoNat</Comments>
       <Distribution></Distribution>
       <Comments></Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Isolate</languageFamily>
     <language>Huaorani</language>
     <source>Summer Institute of Lingusitics 1959</source>
@@ -1173,6 +1339,8 @@ InfoNat</Comments>
       <Distribution></Distribution>
       <Comments></Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Isolate</languageFamily>
     <language>Huaorani</language>
     <source>Summer Institute of Lingusitics 1959</source>
@@ -1187,6 +1355,8 @@ InfoNat</Comments>
       <Distribution></Distribution>
       <Comments></Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Guahiban</languageFamily>
     <language>Guayabero (phono)</language>
     <source>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano. AP</source>
@@ -1201,6 +1371,8 @@ InfoNat</Comments>
       <Distribution></Distribution>
       <Comments>esp. in chonta palms</Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Tupi-Guarani</languageFamily>
     <language>Nheengatu (ortho)</language>
     <source>John Blaha (Grenand)</source>
@@ -1215,6 +1387,8 @@ InfoNat</Comments>
       <Distribution></Distribution>
       <Comments></Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Choco</languageFamily>
     <language>Embeɹá (phonemic)</language>
     <source>Saɹa, Solomon. A Tɹi-Lingual Dictionaɹj of Embeɹá-Spanish-English</source>
@@ -1229,6 +1403,8 @@ InfoNat</Comments>
       <Distribution></Distribution>
       <Comments></Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Choco</languageFamily>
     <language>Embeɹá (phonemic)</language>
     <source>Saɹa, Solomon. A Tɹi-Lingual Dictionaɹj of Embeɹá-Spanish-English</source>
@@ -1243,6 +1419,8 @@ InfoNat</Comments>
       <Distribution></Distribution>
       <Comments></Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Guahiban</languageFamily>
     <language>Macaguan (phono)</language>
     <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
@@ -1257,6 +1435,8 @@ InfoNat</Comments>
       <Distribution></Distribution>
       <Comments></Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Guahiban</languageFamily>
     <language>Macaguan (phono)</language>
     <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
@@ -1271,6 +1451,8 @@ InfoNat</Comments>
       <Distribution></Distribution>
       <Comments></Comments>
     </meta>
+    <semanticField>FAUNA/FLORA</semanticField>
+    <category>Basic Vocabulary</category>
     <languageFamily>Guahiban</languageFamily>
     <language>Macaguan (phono)</language>
     <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
@@ -1285,6 +1467,8 @@ InfoNat</Comments>
       <Distribution></Distribution>
       <Comments></Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Guahiban</languageFamily>
     <language>Macaguan (phono)</language>
     <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
@@ -1299,6 +1483,8 @@ InfoNat</Comments>
       <Distribution></Distribution>
       <Comments></Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Guahiban</languageFamily>
     <language>Macaguan (phono)</language>
     <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
@@ -1313,6 +1499,8 @@ InfoNat</Comments>
       <Distribution></Distribution>
       <Comments></Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Guahiban</languageFamily>
     <language>Guayabero (phono)</language>
     <source>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano. AP</source>
@@ -1327,6 +1515,8 @@ InfoNat</Comments>
       <Distribution></Distribution>
       <Comments></Comments>
     </meta>
+    <semanticField>animals</semanticField>
+    <category>OTHER</category>
     <languageFamily>Yanomam</languageFamily>
     <language>Yanomami (wca) (MM 07)(phonemic)</language>
     <source>Mattéi-Müller, Marie-Claude 2007a. Lengua y cultura Yanomamï. Diccionario ilustrado Yanomamï-Español, Español-Yanomamï. Caracas: Epsilon Libros.; Migliazza, Ernest C. 1972. Yanomama grammar and intelligibility; Finkers, Juan. 1986. Los Yanomami y su sistema alimenticio. Vicariato Apostolico de Puerto Ayacucho.; Ramirez, Henri. 1994. Le Parler Yanomamɨ des Xamatauteri. publisher unknown.; entered by Kelsey Neely</source>

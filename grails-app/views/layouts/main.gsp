@@ -78,9 +78,9 @@
                     <div class="bd">
                       <ul>
                         <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="demographicData">Data</g:link></li>
-                        <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="demographicFeatureCategory">Feature Categories</g:link></li>
                         <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="demographicFeature">Features</g:link></li>
-                      </ul>
+                        <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="demographicFeatureCategory">Feature Categories</g:link></li>
+</ul>
                     </div>
                   </div>
                 </li>
@@ -89,8 +89,8 @@
                     <div class="bd">
                       <ul>
                         <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="ethnographicData">Data</g:link></li>
-                        <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="ethnographicFeatureCategory">Feature Categories</g:link></li>
                         <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="ethnographicFeature">Features</g:link></li>
+                        <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="ethnographicFeatureCategory">Feature Categories</g:link></li>
                       </ul>
                     </div>
                   </div>
@@ -100,8 +100,8 @@
                     <div class="bd">
                       <ul>
                         <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="geneticData">Data</g:link></li>
-                        <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="geneticFeatureCategory">Feature Categories</g:link></li>
                         <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="geneticFeature">Features</g:link></li>
+                        <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="geneticFeatureCategory">Feature Categories</g:link></li>
                       </ul>
                     </div>
                   </div>
@@ -111,8 +111,8 @@
                     <div class="bd">
                       <ul>
                         <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="grammaticalData">Data</g:link></li>
-                        <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="grammaticalFeatureCategory">Feature Categories</g:link></li>
                         <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="grammaticalFeature">Features</g:link></li>
+                        <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="grammaticalFeatureCategory">Feature Categories</g:link></li>
                       </ul>
                     </div>
                   </div>
@@ -122,8 +122,8 @@
                     <div class="bd">
                       <ul>
                         <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="lexicalData">Data</g:link></li>
-                        <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="lexicalFeatureCategory">Feature Categories</g:link></li>
                         <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="lexicalFeature">Features</g:link></li>
+                        <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="lexicalFeatureCategory">Feature Categories</g:link></li>
                         <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="reconstruction">Reconstructions</g:link></li>
                         <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="reconstructionData">Reconstruction Data</g:link></li>
                       </ul>
