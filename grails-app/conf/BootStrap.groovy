@@ -9,6 +9,7 @@ class BootStrap {
          }
          def partsOfSpeech = PartOfSpeech.list()
          if(!partsOfSpeech) {
+             new PartOfSpeech(name:"Unknown").save()
              new PartOfSpeech(name:"Noun").save()
              new PartOfSpeech(name:"Verb").save()
              new PartOfSpeech(name:"Adjective").save()

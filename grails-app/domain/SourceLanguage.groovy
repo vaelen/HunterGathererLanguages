@@ -42,6 +42,6 @@ class SourceLanguage {
 
 
     String toString() {
-        return name
+        return "$name ($family)"
     }
 }
