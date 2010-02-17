@@ -1,1 +1,3 @@
 This application is used to track linguistic information about hunter gatherer languages.
+
+Before running the application you will need to place a valid DataSource.groovy file in the grails-app/conf/ directory.
