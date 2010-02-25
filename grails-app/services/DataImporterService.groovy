@@ -6,7 +6,9 @@ import groovy.util.XmlParser
  * This class imports data from an XML file.
  * @author Andrew Young <andrew at vaelen.org>
  */
-class DataImporter {
+class DataImporterService {
+
+    boolean transactional = true
 
     static SEMANTIC_FIELDS = [:]
     static CATEGORIES = [:]
@@ -194,19 +196,23 @@ class DataImporter {
         return category
     }
 
-    static importLexcialXML() {
+    static String getValueFromXMLElement(element) {
+        return element.value.flatten()[0]
+    }
+
+    static importLexicalXML() {
         def files = []
         new File("xml").eachFileMatch(~/.*\.xml/) { file -> files << file }
         importLexcialXML(files)
     }
 
-    static importLexcialXML(files) {
+    static importLexicalXML(files) {
         files.each { file ->
             importLexcialXML(file)
         }
     }
 
-    static importLexcialXML(File input) {
+    static importLexicalXML(File input) {
         def entries = new XmlParser().parse(input)
         println entries
 
@@ -216,25 +222,24 @@ class DataImporter {
         def caseStudyRegion = PartOfSpeech.findByName("All")
         println caseStudyRegion
 
-
         entries.entry.each() { entry ->
             def meta = entry.meta
 
-            def english = meta.English
-            def portuguese = meta.Portuguese
-            def spanish = meta.Spanish
-            def latin = meta.Latin
-            def comments = meta.Distribution + "\n" + meta.Comments
-            def semanticFieldName = meta.semanticField
-            def categoryName = meta.category
+            def english = getValueFromXMLElement(meta.English)
+            def portuguese = getValueFromXMLElement(meta.Portuguese)
+            def spanish = getValueFromXMLElement(meta.Spanish)
+            def latin = getValueFromXMLElement(meta.Latin)
+            def comments = getValueFromXMLElement(meta.Distribution) + "\n" + getValueFromXMLElement(meta.Comments)
+            def semanticFieldName = getValueFromXMLElement(meta.semanticField)
+            def categoryName = getValueFromXMLElement(meta.category)
 
             entry.item.each { item ->
 
-                def languageFamilyName = item.languageFamily
-                def languageName = item.language
-                def sourceName = item.source
-                def originalForm = item.originalForm
-                def phonemicizedForm = item.phonemicizedForm
+                def languageFamilyName = getValueFromXMLElement(item.languageFamily)
+                def languageName = getValueFromXMLElement(item.language)
+                def sourceName = getValueFromXMLElement(item.source)
+                def originalForm = getValueFromXMLElement(item.originalForm)
+                def phonemicizedForm = getValueFromXMLElement(item.phonemicizedForm)
 
                 def lexicalFeature = createLexicalFeature(english, portuguese, spanish, latin, comments, pos, caseStudyRegion, semanticFieldName, categoryName);
                 println lexicalFeature
@@ -251,6 +256,7 @@ class DataImporter {
 
             }
         }
+        LexicalData.list()
     }
 
     static createSourceLanguage(languageFamilyName, languageName, caseStudyRegion) {
@@ -271,11 +277,11 @@ class DataImporter {
      * Otherwise return it.
      */
     static createLexicalFeature(english, portuguese, spanish, latin, comments, pos, caseStudyRegion, semanticFieldName, categoryName) {
-        def lexicalFeature = LexicalFeatureCategory.findByEnglishHeadword(english)
+        def lexicalFeature = LexicalFeature.findByEnglishHeadword(english)
         if(!lexicalFeature) {
             def semanticField = createSemanticField(semanticFieldName)
             def category = createLexicalFeatureCategory(categoryName)
-            lexicalFeature = new LexicalFeatureCategory(
+            lexicalFeature = new LexicalFeature(
                 englishHeadword:english,
                 portugueseHeadword: portuguese,
                 spanishHeadword: spanish,
