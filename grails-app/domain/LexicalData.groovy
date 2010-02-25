@@ -26,14 +26,14 @@ class LexicalData {
     }
 
     static constraints = {
-        lexicalFeature(blank:false)
+        lexicalFeature(blank:false, unique:'sourceLanguage')
         sourceLanguage(blank:false)
-        sources()
-        sourcePages()
+        sources(blank:true, nullable:true)
+        sourcePages(blank:true, nullable:true)
         originalForm(blank:false)
         phonemicizedForm(blank:false)
-        glossInSource()
-        reconstructions()
+        glossInSource(blank:true, nullable:true)
+        reconstructions(blank:true, nullable:true)
         loanSource(blank:true, nullable:true)
         inheritanceLevel(blank:true, nullable:true)
         phylogeneticCode(range:1..9, blank:true, nullable:true)

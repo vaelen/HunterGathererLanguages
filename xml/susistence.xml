@@ -337,157 +337,94 @@
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Achagua (mm98) Phono</language>
+      <language>Achagua (mm98)</language>
       <source>Meléndez Lozano, Miguel Ángel. 1998a. La lengua achagua, estudio gramatical. Lenguas Aborígenes de Colombia, Descripciones, 11. Santafé de Bogotá: CCELA, UNIANDES. AP</source>
       <originalForm>θitúwa (hr01), púja (h&amp;r)</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Achagua (mm98) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>θitúwa (hr01), púja (h&amp;r)</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>θitúwa (hr01), púja (h&amp;r)</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Aɾawak</languageFamily>
-      <language>Piapoco (dk95) Phono</language>
+      <language>Piapoco (dk95)</language>
       <source>Klumpp, Deloris Pharris de. 1995. Vocabulario piapoco-español. Bogotá: ILV.</source>
       <originalForm>θitúa (hɾ01), demá[pu] (dp91), tʃukùlu</originalForm>
       <phonemicizedForm>NONE</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Piapoco (dk95) Ortho</language>
+      <language>Piapoco (dk95)</language>
       <source>Person entering data: AP</source>
       <originalForm>θitúa (hr01), demá[pu] (dp91), chucùlu</originalForm>
       <phonemicizedForm>NONE</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Yucuna (sy05) Phono</language>
+      <language>Yucuna (sy05)</language>
       <source>Schauer, Junia, compiler, and others. 2005. Meke kemakánaka puráka7aloji: wapura7akó chu, eyá karíwana chu (Diccionario bilingüe: Yukuna - Español; Español - Yukuna). 1st ed. Bogotá: Editorial Fundación para el Desarollo de los Pueblos Marginados. 328 p</source>
       <originalForm>ihihila</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>ijijila</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Yucuna (sy05) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>ijijila</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Tariana (aa01) Phono</language>
+      <language>Tariana (aa01)</language>
       <source>Aikhenvald, Alexandra Y. 2001. Dicionário Tariana-Português e Português-Tariana. Boletim do MPEG 17/1. Belém.</source>
       <originalForm>siduána</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>siduána</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Tariana (aa01) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>siduána</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Baniwa (hr01a) Phono</language>
+      <language>Baniwa (hr01a)</language>
       <source>Ramirez, Henri. 2001a. Dicionário Baniwa-Português. Manaus: Editora da Universidade do Amazonas.</source>
       <originalForm>kaːpáwi, t̪ídoa</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>kaapáwi, ttídoa</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Baniwa (hr01a) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>kaapáwi, ttídoa</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Resígaɾo (ta79) Phono</language>
+      <language>Resígaɾo (ta79)</language>
       <source>Allin, Trevor R .1979. Vocabulario resígaro.  Documento de Trabajo, 16.</source>
       <originalForm>noótsígú</originalForm>
       <phonemicizedForm>NONE</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Resígaro (ta79) Ortho</language>
+      <language>Resígaro (ta79)</language>
       <source>Person entering data: AP</source>
       <originalForm>noótsígú</originalForm>
       <phonemicizedForm>NONE</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Kabiyari (hr01) Phono</language>
+      <language>Kabiyari (hr01)</language>
       <source>Ramirez, Henri. 2001. Línguas Arawak da Amazônia setentrional: comparação e descrição. Manaus: Editora da Universidade</source>
       <originalForm>t̪inúá</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>t̪inúá</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Kabiyari (hr01) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>t̪inúá</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Warekena (aa98) Phono</language>
+      <language>Warekena (aa98)</language>
       <source>Aikhenvald, Alexandra 1998. Warekena. En: Desmond Derbishire &amp; Geoffrey Pullum (eds.), Handbook of Amazonian Languages, vol. 4: 225-439. Berlín: Mouton de Gruyter.</source>
       <originalForm>isíbua</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>isíbua</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Warekena (aa98) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>isíbua</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Yavitero (jm87) Phono</language>
+      <language>Yavitero (jm87)</language>
       <source>Mosonyi, Jorge Carlos, 1987 El idioma Yavitero, Caracas, Venezuela, 241 pages.</source>
       <originalForm>ʃumetsa, tsawita</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>ʃumetsa, c̷awita</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Yavitero (jm87) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>ʃumetsa, c̷awita</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Bare (aa95) Phono</language>
+      <language>Bare (aa95)</language>
       <source>Aikhenvald, Alexandra. 1995a. Baré. Munich: LINCOM Europa.</source>
       <originalForm>dabid'aha</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>dabid'aha</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Bare (aa95) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>dabid'aha</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Paresi (ab08) Phono</language>
+      <language>Paresi (ab08)</language>
       <source>Brandao, Ana Paula</source>
       <originalForm>kuˈre</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Paresi (ab08) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>kore</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>kore</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
@@ -902,129 +839,80 @@
     </item>
     <item>
       <languageFamily>Aɾawak</languageFamily>
-      <language>Piapoco (dk95) Phono</language>
+      <language>Piapoco (dk95)</language>
       <source>Klumpp, Deloris Pharris de. 1995. Vocabulario piapoco-español. Bogotá: ILV.</source>
       <originalForm>siɾipíwa</originalForm>
       <phonemicizedForm>NONE</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Piapoco (dk95) Ortho</language>
+      <language>Piapoco (dk95)</language>
       <source>Person entering data: AP</source>
       <originalForm>siripíwa</originalForm>
       <phonemicizedForm>NONE</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Yucuna (sy05) Phono</language>
+      <language>Yucuna (sy05)</language>
       <source>Schauer, Junia, compiler, and others. 2005. Meke kemakánaka puráka7aloji: wapura7akó chu, eyá karíwana chu (Diccionario bilingüe: Yukuna - Español; Español - Yukuna). 1st ed. Bogotá: Editorial Fundación para el Desarollo de los Pueblos Marginados. 328 p</source>
       <originalForm>wapaʔaná</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>wapa'aná</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Yucuna (sy05) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>wapa'aná</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Tariana (aa01) Phono</language>
+      <language>Tariana (aa01)</language>
       <source>Aikhenvald, Alexandra Y. 2001. Dicionário Tariana-Português e Português-Tariana. Boletim do MPEG 17/1. Belém.</source>
       <originalForm>mawípi</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>mawípi</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Tariana (aa01) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>mawípi</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Baniwa (hr01a) Phono</language>
+      <language>Baniwa (hr01a)</language>
       <source>Ramirez, Henri. 2001a. Dicionário Baniwa-Português. Manaus: Editora da Universidade do Amazonas.</source>
       <originalForm>mawípi</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>mawípi</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Baniwa (hr01a) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>mawípi</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Resígaɾo (ta79) Phono</language>
+      <language>Resígaɾo (ta79)</language>
       <source>Allin, Trevor R .1979. Vocabulario resígaro.  Documento de Trabajo, 16.</source>
       <originalForm>vápaánú, váʔpaánahú</originalForm>
       <phonemicizedForm>NONE</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Resígaro (ta79) Ortho</language>
+      <language>Resígaro (ta79)</language>
       <source>Person entering data: AP</source>
       <originalForm>vá?paánú, vá?paánahú</originalForm>
       <phonemicizedForm>NONE</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Kabiyari (hr01) Phono</language>
+      <language>Kabiyari (hr01)</language>
       <source>Ramirez, Henri. 2001. Línguas Arawak da Amazônia setentrional: comparação e descrição. Manaus: Editora da Universidade</source>
       <originalForm>wápaʔna</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>wápaʔna</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Kabiyari (hr01) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>wápaʔna</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Yavitero (jm87) Phono</language>
+      <language>Yavitero (jm87)</language>
       <source>Mosonyi, Jorge Carlos, 1987 El idioma Yavitero, Caracas, Venezuela, 241 pages.</source>
       <originalForm>watáha</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>watája</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Yavitero (jm87) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>watája</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Paresi (ab08) Phono</language>
+      <language>Paresi (ab08)</language>
       <source>Brandao, Ana Paula</source>
       <originalForm>--</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>--</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Paresi (ab08) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>--</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Mandawaka (hr01) Phono</language>
+      <language>Mandawaka (hr01)</language>
       <source>Ramirez, Henri. 2001. Línguas Arawak da Amazônia setentrional: comparação e descrição. Manaus: Editora da Universidade</source>
       <originalForm>wiɾúhune</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Mandawaka (hr01) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>wirúhune</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>wirúhune</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Záparo</languageFamily>
@@ -1491,133 +1379,84 @@
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Achagua (mm98) Phono</language>
+      <language>Achagua (mm98)</language>
       <source>Meléndez Lozano, Miguel Ángel. 1998a. La lengua achagua, estudio gramatical. Lenguas Aborígenes de Colombia, Descripciones, 11. Santafé de Bogotá: CCELA, UNIANDES. AP</source>
       <originalForm>-tʃáwi[dau] (hr01), tʃáwidaaʃi (h&amp;r)</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Achagua (mm98) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>-tʃáwi[dau] (hr01), tʃáwidaaʃi (h&amp;r)</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>-tʃáwi[dau] (hr01), tʃáwidaaʃi (h&amp;r)</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Aɾawak</languageFamily>
-      <language>Piapoco (dk95) Phono</language>
+      <language>Piapoco (dk95)</language>
       <source>Klumpp, Deloris Pharris de. 1995. Vocabulario piapoco-español. Bogotá: ILV.</source>
       <originalForm>demápu</originalForm>
       <phonemicizedForm>NONE</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Piapoco (dk95) Ortho</language>
+      <language>Piapoco (dk95)</language>
       <source>Person entering data: AP</source>
       <originalForm>demápu</originalForm>
       <phonemicizedForm>NONE</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Yucuna (sy05) Phono</language>
+      <language>Yucuna (sy05)</language>
       <source>Schauer, Junia, compiler, and others. 2005. Meke kemakánaka puráka7aloji: wapura7akó chu, eyá karíwana chu (Diccionario bilingüe: Yukuna - Español; Español - Yukuna). 1st ed. Bogotá: Editorial Fundación para el Desarollo de los Pueblos Marginados. 328 p</source>
       <originalForm>wiɾaʔapaɾa</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>wira'apara</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Yucuna (sy05) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>wira'apara</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Tariana (aa01) Phono</language>
+      <language>Tariana (aa01)</language>
       <source>Aikhenvald, Alexandra Y. 2001. Dicionário Tariana-Português e Português-Tariana. Boletim do MPEG 17/1. Belém.</source>
       <originalForm>(jawi) [tia]pu (dp91), jawitʰépu (aa01)</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>(yawi) [tia]pu (dp91), yawithépu (aa01)</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Tariana (aa01) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>(yawi) [tia]pu (dp91), yawithépu (aa01)</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Baniwa (hr01a) Phono</language>
+      <language>Baniwa (hr01a)</language>
       <source>Ramirez, Henri. 2001a. Dicionário Baniwa-Português. Manaus: Editora da Universidade do Amazonas.</source>
       <originalForm>dzawithíapo</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>dzawithíapo</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Baniwa (hr01a) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>dzawithíapo</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Resígaɾo (ta79) Phono</language>
+      <language>Resígaɾo (ta79)</language>
       <source>Allin, Trevor R .1979. Vocabulario resígaro.  Documento de Trabajo, 16.</source>
       <originalForm>-jawi[tʰíapu] (hɾ01)</originalForm>
       <phonemicizedForm>NONE</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Resígaro (ta79) Ortho</language>
+      <language>Resígaro (ta79)</language>
       <source>Person entering data: AP</source>
       <originalForm>-jawi[thíapu] (hr01)</originalForm>
       <phonemicizedForm>NONE</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Warekena (aa98) Phono</language>
+      <language>Warekena (aa98)</language>
       <source>Aikhenvald, Alexandra 1998. Warekena. En: Desmond Derbishire &amp; Geoffrey Pullum (eds.), Handbook of Amazonian Languages, vol. 4: 225-439. Berlín: Mouton de Gruyter.</source>
       <originalForm>-dawi[tu-lé] (hr01)</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>-dawi[tu-lé] (hr01)</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Warekena (aa98) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>-dawi[tu-lé] (hr01)</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Yavitero (jm87) Phono</language>
+      <language>Yavitero (jm87)</language>
       <source>Mosonyi, Jorge Carlos, 1987 El idioma Yavitero, Caracas, Venezuela, 241 pages.</source>
       <originalForm>[ta]po</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>[ta]po</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Yavitero (jm87) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>[ta]po</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Paresi (ab08) Phono</language>
+      <language>Paresi (ab08)</language>
       <source>Brandao, Ana Paula</source>
       <originalForm>ˈhitu</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>ˈhito</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Paresi (ab08) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>ˈhito</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Wapishana (ms95) Phono</language>
+      <language>Wapishana (ms95)</language>
       <source>Santos, Manuel Gomes dos . 2006. Uma gramática do Wapixana (Aruak): aspectos da fonologia, da morfologia e da sintaxe. Tese de doutorado. Campinas, SP: UNICAMP</source>
       <originalForm>sumaɽa</originalForm>
       <phonemicizedForm>NONE</phonemicizedForm>
@@ -1989,80 +1828,52 @@
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Yucuna (sy05) Phono</language>
+      <language>Yucuna (sy05)</language>
       <source>Schauer, Junia, compiler, and others. 2005. Meke kemakánaka puráka7aloji: wapura7akó chu, eyá karíwana chu (Diccionario bilingüe: Yukuna - Español; Español - Yukuna). 1st ed. Bogotá: Editorial Fundación para el Desarollo de los Pueblos Marginados. 328 p</source>
       <originalForm>kawí 'bebida fermentada'</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>kawí 'bebida fermentada'</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Yucuna (sy05) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>kawí 'bebida fermentada'</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Tariana (aa01) Phono</language>
+      <language>Tariana (aa01)</language>
       <source>Aikhenvald, Alexandra Y. 2001. Dicionário Tariana-Português e Português-Tariana. Boletim do MPEG 17/1. Belém.</source>
       <originalForm>pajáɾu taɾadá-peɾi</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>payáɾu taɾadá-peɾi (pa-yá-ɾu 'caxiri', taɾadá 'be alive')</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Tariana (aa01) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>payáɾu taɾadá-peɾi (pa-yá-ɾu 'caxiri', taɾadá 'be alive')</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Baniwa (hr01a) Phono</language>
+      <language>Baniwa (hr01a)</language>
       <source>Ramirez, Henri. 2001a. Dicionário Baniwa-Português. Manaus: Editora da Universidade do Amazonas.</source>
       <originalForm>pádzawaɻo</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>pádzawaro</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Baniwa (hr01a) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>pádzawaro</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Resígaɾo (ta79) Phono</language>
+      <language>Resígaɾo (ta79)</language>
       <source>Allin, Trevor R .1979. Vocabulario resígaro.  Documento de Trabajo, 16.</source>
       <originalForm>kadʒíigíbú</originalForm>
       <phonemicizedForm>NONE</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Resígaro (ta79) Ortho</language>
+      <language>Resígaro (ta79)</language>
       <source>Person entering data: AP</source>
       <originalForm>kaǰíigíbú</originalForm>
       <phonemicizedForm>NONE</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Wapishana (ms95) Phono</language>
+      <language>Wapishana (ms95)</language>
       <source>Santos, Manuel Gomes dos . 2006. Uma gramática do Wapixana (Aruak): aspectos da fonologia, da morfologia e da sintaxe. Tese de doutorado. Campinas, SP: UNICAMP</source>
       <originalForm>paɽakaɽi</originalForm>
       <phonemicizedForm>NONE</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Mandawaka (hr01) Phono</language>
+      <language>Mandawaka (hr01)</language>
       <source>Ramirez, Henri. 2001. Línguas Arawak da Amazônia setentrional: comparação e descrição. Manaus: Editora da Universidade</source>
       <originalForm>jaláki</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Mandawaka (hr01) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>jaláki</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>jaláki</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
@@ -2312,17 +2123,10 @@
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Paresi (ab08) Phono</language>
+      <language>Paresi (ab08)</language>
       <source>Brandao, Ana Paula</source>
       <originalForm>koðeto nolone</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Paresi (ab08) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>kozeto nolone</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>kozeto nolone</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Záparo</languageFamily>
@@ -2555,73 +2359,45 @@
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Yucuna (sy05) Phono</language>
+      <language>Yucuna (sy05)</language>
       <source>Schauer, Junia, compiler, and others. 2005. Meke kemakánaka puráka7aloji: wapura7akó chu, eyá karíwana chu (Diccionario bilingüe: Yukuna - Español; Español - Yukuna). 1st ed. Bogotá: Editorial Fundación para el Desarollo de los Pueblos Marginados. 328 p</source>
       <originalForm>mawiɾu halá amúɾaʔatakanami (de piña)</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>mawiru jalá amúra'atakanami (mawiru 'pineapple', jalá'liquid', amúra'atakanami 'to ferment')</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Yucuna (sy05) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>mawiru jalá amúra'atakanami (mawiru 'pineapple', jalá'liquid', amúra'atakanami 'to ferment')</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Tariana (aa01) Phono</language>
+      <language>Tariana (aa01)</language>
       <source>Aikhenvald, Alexandra Y. 2001. Dicionário Tariana-Português e Português-Tariana. Boletim do MPEG 17/1. Belém.</source>
       <originalForm>húːne japé 'caxiri feito com batata inglesa' áwhi japé 'caxiri de cará' saɲápe 'caxiri de cana'</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>húːne yapé 'caxiri feito com batata inglesa' áwhi yapé 'caxiri de cará' saɲápe 'caxiri de cana' (ya 'caxiri' , húːne 'batata doce' , áwhi 'cará')</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Tariana (aa01) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>húːne yapé 'caxiri feito com batata inglesa' áwhi yapé 'caxiri de cará' saɲápe 'caxiri de cana' (ya 'caxiri' , húːne 'batata doce' , áwhi 'cará')</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Baniwa (hr01a) Phono</language>
+      <language>Baniwa (hr01a)</language>
       <source>Ramirez, Henri. 2001a. Dicionário Baniwa-Português. Manaus: Editora da Universidade do Amazonas.</source>
       <originalForm>káat̪iwa, jaɺákhi 'caxiri made from cane'</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>káattiwa, yalákhi 'caxiri made from cane'</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Baniwa (hr01a) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>káattiwa, yalákhi 'caxiri made from cane'</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Resígaɾo (ta79) Phono</language>
+      <language>Resígaɾo (ta79)</language>
       <source>Allin, Trevor R .1979. Vocabulario resígaro.  Documento de Trabajo, 16.</source>
       <originalForm>méémeʔó</originalForm>
       <phonemicizedForm>NONE</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Resígaro (ta79) Ortho</language>
+      <language>Resígaro (ta79)</language>
       <source>Person entering data: AP</source>
       <originalForm>mééme?ó</originalForm>
       <phonemicizedForm>NONE</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Paresi (ab08) Phono</language>
+      <language>Paresi (ab08)</language>
       <source>Brandao, Ana Paula</source>
       <originalForm>oloniti</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Paresi (ab08) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>oloniti</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>oloniti</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
@@ -2812,31 +2588,17 @@
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Yucuna (sy05) Phono</language>
+      <language>Yucuna (sy05)</language>
       <source>Schauer, Junia, compiler, and others. 2005. Meke kemakánaka puráka7aloji: wapura7akó chu, eyá karíwana chu (Diccionario bilingüe: Yukuna - Español; Español - Yukuna). 1st ed. Bogotá: Editorial Fundación para el Desarollo de los Pueblos Marginados. 328 p</source>
       <originalForm>kapitʃiɾí</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>kapichirí</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Yucuna (sy05) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>kapichirí</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Paresi (ab08) Phono</language>
+      <language>Paresi (ab08)</language>
       <source>Brandao, Ana Paula</source>
       <originalForm>tuˈnuhi</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Paresi (ab08) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>toˈnohi</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>toˈnohi</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Záparo</languageFamily>
@@ -3111,59 +2873,31 @@
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Yucuna (sy05) Phono</language>
+      <language>Yucuna (sy05)</language>
       <source>Schauer, Junia, compiler, and others. 2005. Meke kemakánaka puráka7aloji: wapura7akó chu, eyá karíwana chu (Diccionario bilingüe: Yukuna - Español; Español - Yukuna). 1st ed. Bogotá: Editorial Fundación para el Desarollo de los Pueblos Marginados. 328 p</source>
       <originalForm>mahmaʔahohi</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>majma'ajoji</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Yucuna (sy05) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>majma'ajoji</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Tariana (aa01) Phono</language>
+      <language>Tariana (aa01)</language>
       <source>Aikhenvald, Alexandra Y. 2001. Dicionário Tariana-Português e Português-Tariana. Boletim do MPEG 17/1. Belém.</source>
       <originalForm>kadúitʃi</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>kadúiči</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Tariana (aa01) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>kadúiči</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Yavitero (jm87) Phono</language>
+      <language>Yavitero (jm87)</language>
       <source>Mosonyi, Jorge Carlos, 1987 El idioma Yavitero, Caracas, Venezuela, 241 pages.</source>
       <originalForm>mahu'ita</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>mahu'ita</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Yavitero (jm87) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>mahu'ita</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Paresi (ab08) Phono</language>
+      <language>Paresi (ab08)</language>
       <source>Brandao, Ana Paula</source>
       <originalForm>koˈwae</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Paresi (ab08) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>koˈwae</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>koˈwae</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
@@ -3466,115 +3200,73 @@
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Achagua (mm98) Phono</language>
+      <language>Achagua (mm98)</language>
       <source>Meléndez Lozano, Miguel Ángel. 1998a. La lengua achagua, estudio gramatical. Lenguas Aborígenes de Colombia, Descripciones, 11. Santafé de Bogotá: CCELA, UNIANDES. AP</source>
       <originalForm>-tésu</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Achagua (mm98) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>-tésu</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>-tésu</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Aɾawak</languageFamily>
-      <language>Piapoco (dk95) Phono</language>
+      <language>Piapoco (dk95)</language>
       <source>Klumpp, Deloris Pharris de. 1995. Vocabulario piapoco-español. Bogotá: ILV.</source>
       <originalForm>tʃukùluta</originalForm>
       <phonemicizedForm>NONE</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Piapoco (dk95) Ortho</language>
+      <language>Piapoco (dk95)</language>
       <source>Person entering data: AP</source>
       <originalForm>chucùluta</originalForm>
       <phonemicizedForm>NONE</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Yucuna (sy05) Phono</language>
+      <language>Yucuna (sy05)</language>
       <source>Schauer, Junia, compiler, and others. 2005. Meke kemakánaka puráka7aloji: wapura7akó chu, eyá karíwana chu (Diccionario bilingüe: Yukuna - Español; Español - Yukuna). 1st ed. Bogotá: Editorial Fundación para el Desarollo de los Pueblos Marginados. 328 p</source>
       <originalForm>anaʔakahe</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>ana'akaje</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Yucuna (sy05) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>ana'akaje</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Tariana (aa01) Phono</language>
+      <language>Tariana (aa01)</language>
       <source>Aikhenvald, Alexandra Y. 2001. Dicionário Tariana-Português e Português-Tariana. Boletim do MPEG 17/1. Belém.</source>
       <originalForm>dʰilítu</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>dhilítu</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Tariana (aa01) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>dhilítu</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Baniwa (hr01a) Phono</language>
+      <language>Baniwa (hr01a)</language>
       <source>Ramirez, Henri. 2001a. Dicionário Baniwa-Português. Manaus: Editora da Universidade do Amazonas.</source>
       <originalForm>-iitsaɺéta</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>-iitsaléta</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Baniwa (hr01a) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>-iitsaléta</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Resígaɾo (ta79) Phono</language>
+      <language>Resígaɾo (ta79)</language>
       <source>Allin, Trevor R .1979. Vocabulario resígaro.  Documento de Trabajo, 16.</source>
       <originalForm>eeʔpʰi-kʰú</originalForm>
       <phonemicizedForm>NONE</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Resígaro (ta79) Ortho</language>
+      <language>Resígaro (ta79)</language>
       <source>Person entering data: AP</source>
       <originalForm>ee?phi-khú</originalForm>
       <phonemicizedForm>NONE</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Bare (aa95) Phono</language>
+      <language>Bare (aa95)</language>
       <source>Aikhenvald, Alexandra. 1995a. Baré. Munich: LINCOM Europa.</source>
       <originalForm>tʃawada</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>tʃawada</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Bare (aa95) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>tʃawada</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Paresi (ab08) Phono</language>
+      <language>Paresi (ab08)</language>
       <source>Brandao, Ana Paula</source>
       <originalForm>maidjatati</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Paresi (ab08) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>mairatati</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>mairatati</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Záparo</languageFamily>
@@ -3786,31 +3478,24 @@
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Resígaɾo (ta79) Phono</language>
+      <language>Resígaɾo (ta79)</language>
       <source>Allin, Trevor R .1979. Vocabulario resígaro.  Documento de Trabajo, 16.</source>
       <originalForm>oʔdoú</originalForm>
       <phonemicizedForm>NONE</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Resígaro (ta79) Ortho</language>
+      <language>Resígaro (ta79)</language>
       <source>Person entering data: AP</source>
       <originalForm>o?doú</originalForm>
       <phonemicizedForm>NONE</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Paresi (ab08) Phono</language>
+      <language>Paresi (ab08)</language>
       <source>Brandao, Ana Paula</source>
       <originalForm>ʃimjatjati</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Paresi (ab08) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>ximatyati</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>ximatyati</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Záparo</languageFamily>
@@ -4106,101 +3791,59 @@
     </item>
     <item>
       <languageFamily>Aɾawak</languageFamily>
-      <language>Piapoco (dk95) Phono</language>
+      <language>Piapoco (dk95)</language>
       <source>Klumpp, Deloris Pharris de. 1995. Vocabulario piapoco-español. Bogotá: ILV.</source>
       <originalForm>í:deka</originalForm>
       <phonemicizedForm>NONE</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Piapoco (dk95) Ortho</language>
+      <language>Piapoco (dk95)</language>
       <source>Person entering data: AP</source>
       <originalForm>íideca</originalForm>
       <phonemicizedForm>NONE</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Tariana (aa01) Phono</language>
+      <language>Tariana (aa01)</language>
       <source>Aikhenvald, Alexandra Y. 2001. Dicionário Tariana-Português e Português-Tariana. Boletim do MPEG 17/1. Belém.</source>
       <originalForm>di-wíni 'caça'</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>di-wíni 'caça'</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Tariana (aa01) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>di-wíni 'caça'</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Baniwa (hr01a) Phono</language>
+      <language>Baniwa (hr01a)</language>
       <source>Ramirez, Henri. 2001a. Dicionário Baniwa-Português. Manaus: Editora da Universidade do Amazonas.</source>
       <originalForm>-winíta 'caçar, pescar'</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>-winíta 'caçar, pescar'</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Baniwa (hr01a) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>-winíta 'caçar, pescar'</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Warekena (aa98) Phono</language>
+      <language>Warekena (aa98)</language>
       <source>Aikhenvald, Alexandra 1998. Warekena. En: Desmond Derbishire &amp; Geoffrey Pullum (eds.), Handbook of Amazonian Languages, vol. 4: 225-439. Berlín: Mouton de Gruyter.</source>
       <originalForm>jamaɺa</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>yamaɺa</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Warekena (aa98) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>yamaɺa</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Yavitero (jm87) Phono</language>
+      <language>Yavitero (jm87)</language>
       <source>Mosonyi, Jorge Carlos, 1987 El idioma Yavitero, Caracas, Venezuela, 241 pages.</source>
       <originalForm>winahata</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>winahata</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Yavitero (jm87) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>winahata</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Bare (aa95) Phono</language>
+      <language>Bare (aa95)</language>
       <source>Aikhenvald, Alexandra. 1995a. Baré. Munich: LINCOM Europa.</source>
       <originalForm>hesawa</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>hesawa</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Bare (aa95) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>hesawa</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Paresi (ab08) Phono</language>
+      <language>Paresi (ab08)</language>
       <source>Brandao, Ana Paula</source>
       <originalForm>θanekwati</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Paresi (ab08) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>zanekwati</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>zanekwati</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
@@ -4429,17 +4072,10 @@
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Bare (aa95) Phono</language>
+      <language>Bare (aa95)</language>
       <source>Aikhenvald, Alexandra. 1995a. Baré. Munich: LINCOM Europa.</source>
       <originalForm>hesawa</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Bare (aa95) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>hesawa</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>hesawa</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Jivaro</languageFamily>
@@ -4679,91 +4315,49 @@
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Yucuna (sy05) Phono</language>
+      <language>Yucuna (sy05)</language>
       <source>Schauer, Junia, compiler, and others. 2005. Meke kemakánaka puráka7aloji: wapura7akó chu, eyá karíwana chu (Diccionario bilingüe: Yukuna - Español; Español - Yukuna). 1st ed. Bogotá: Editorial Fundación para el Desarollo de los Pueblos Marginados. 328 p</source>
       <originalForm>puputʃí 'torta hecha del almidón de yuca)</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>pupuchí 'torta hecha del almidón de yuca)</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Yucuna (sy05) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>pupuchí 'torta hecha del almidón de yuca)</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Tariana (aa01) Phono</language>
+      <language>Tariana (aa01)</language>
       <source>Aikhenvald, Alexandra Y. 2001. Dicionário Tariana-Português e Português-Tariana. Boletim do MPEG 17/1. Belém.</source>
       <originalForm>peːtʰé, paitʰé</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>peːthé, paithé</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Tariana (aa01) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>peːthé, paithé</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Baniwa (hr01a) Phono</language>
+      <language>Baniwa (hr01a)</language>
       <source>Ramirez, Henri. 2001a. Dicionário Baniwa-Português. Manaus: Editora da Universidade do Amazonas.</source>
       <originalForm>peéthe, -ooɺéthe</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>peéthe, -ooléthe</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Baniwa (hr01a) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>peéthe, -ooléthe</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Kabiyari (hr01) Phono</language>
+      <language>Kabiyari (hr01)</language>
       <source>Ramirez, Henri. 2001. Línguas Arawak da Amazônia setentrional: comparação e descrição. Manaus: Editora da Universidade</source>
       <originalForm>kúnhu</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>kúnhu</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Kabiyari (hr01) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>kúnhu</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Warekena (aa98) Phono</language>
+      <language>Warekena (aa98)</language>
       <source>Aikhenvald, Alexandra 1998. Warekena. En: Desmond Derbishire &amp; Geoffrey Pullum (eds.), Handbook of Amazonian Languages, vol. 4: 225-439. Berlín: Mouton de Gruyter.</source>
       <originalForm>ka:ka</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>ka:ka</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Warekena (aa98) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>ka:ka</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Paresi (ab08) Phono</language>
+      <language>Paresi (ab08)</language>
       <source>Brandao, Ana Paula</source>
       <originalForm>θomokwa</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>zomokwa</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Paresi (ab08) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>zomokwa</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Wapishana (ms95) Phono</language>
+      <language>Wapishana (ms95)</language>
       <source>Santos, Manuel Gomes dos . 2006. Uma gramática do Wapixana (Aruak): aspectos da fonologia, da morfologia e da sintaxe. Tese de doutorado. Campinas, SP: UNICAMP</source>
       <originalForm>baɖa</originalForm>
       <phonemicizedForm>NONE</phonemicizedForm>
@@ -4907,77 +4501,42 @@
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Yucuna (sy05) Phono</language>
+      <language>Yucuna (sy05)</language>
       <source>Schauer, Junia, compiler, and others. 2005. Meke kemakánaka puráka7aloji: wapura7akó chu, eyá karíwana chu (Diccionario bilingüe: Yukuna - Español; Español - Yukuna). 1st ed. Bogotá: Editorial Fundación para el Desarollo de los Pueblos Marginados. 328 p</source>
       <originalForm>kujeɾa kahɾuni</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>kuyera kajruni</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Yucuna (sy05) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>kuyera kajruni</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Tariana (aa01) Phono</language>
+      <language>Tariana (aa01)</language>
       <source>Aikhenvald, Alexandra Y. 2001. Dicionário Tariana-Português e Português-Tariana. Boletim do MPEG 17/1. Belém.</source>
       <originalForm>tíja</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>tíya</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Tariana (aa01) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>tíya</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Baniwa (hr01a) Phono</language>
+      <language>Baniwa (hr01a)</language>
       <source>Ramirez, Henri. 2001a. Dicionário Baniwa-Português. Manaus: Editora da Universidade do Amazonas.</source>
       <originalForm>kóoja, át̪a, towáda</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>kóoya, átta, towáda</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Baniwa (hr01a) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>kóoya, átta, towáda</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Kabiyari (hr01) Phono</language>
+      <language>Kabiyari (hr01)</language>
       <source>Ramirez, Henri. 2001. Línguas Arawak da Amazônia setentrional: comparação e descrição. Manaus: Editora da Universidade</source>
       <originalForm>kaʔɾú</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>kaʔrú</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Kabiyari (hr01) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>kaʔrú</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Paresi (ab08) Phono</language>
+      <language>Paresi (ab08)</language>
       <source>Brandao, Ana Paula</source>
       <originalForm>hitʃitsa</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>hitxitsa</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Paresi (ab08) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>hitxitsa</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Wapishana (ms95) Phono</language>
+      <language>Wapishana (ms95)</language>
       <source>Santos, Manuel Gomes dos . 2006. Uma gramática do Wapixana (Aruak): aspectos da fonologia, da morfologia e da sintaxe. Tese de doutorado. Campinas, SP: UNICAMP</source>
       <originalForm>bun</originalForm>
       <phonemicizedForm>NONE</phonemicizedForm>
@@ -5227,87 +4786,45 @@
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Achagua (mm98) Phono</language>
+      <language>Achagua (mm98)</language>
       <source>Meléndez Lozano, Miguel Ángel. 1998a. La lengua achagua, estudio gramatical. Lenguas Aborígenes de Colombia, Descripciones, 11. Santafé de Bogotá: CCELA, UNIANDES. AP</source>
       <originalForm>á:ta</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>á:ta</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Achagua (mm98) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>á:ta</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Yucuna (sy05) Phono</language>
+      <language>Yucuna (sy05)</language>
       <source>Schauer, Junia, compiler, and others. 2005. Meke kemakánaka puráka7aloji: wapura7akó chu, eyá karíwana chu (Diccionario bilingüe: Yukuna - Español; Español - Yukuna). 1st ed. Bogotá: Editorial Fundación para el Desarollo de los Pueblos Marginados. 328 p</source>
       <originalForm>taʔahónahi (de yuca)</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>ta'ajónaji (de yuca)</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Yucuna (sy05) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>ta'ajónaji (de yuca)</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Tariana (aa01) Phono</language>
+      <language>Tariana (aa01)</language>
       <source>Aikhenvald, Alexandra Y. 2001. Dicionário Tariana-Português e Português-Tariana. Boletim do MPEG 17/1. Belém.</source>
       <originalForm>ãda 'ralo'</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>ãda 'ralo'</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Tariana (aa01) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>ãda 'ralo'</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Baniwa (hr01a) Phono</language>
+      <language>Baniwa (hr01a)</language>
       <source>Ramirez, Henri. 2001a. Dicionário Baniwa-Português. Manaus: Editora da Universidade do Amazonas.</source>
       <originalForm>áada</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>áada</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Baniwa (hr01a) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>áada</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Kabiyari (hr01) Phono</language>
+      <language>Kabiyari (hr01)</language>
       <source>Ramirez, Henri. 2001. Línguas Arawak da Amazônia setentrional: comparação e descrição. Manaus: Editora da Universidade</source>
       <originalForm>áana</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>áana</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Kabiyari (hr01) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>áana</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Paresi (ab08) Phono</language>
+      <language>Paresi (ab08)</language>
       <source>Brandao, Ana Paula</source>
       <originalForm>tʃimjare</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Paresi (ab08) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>tximare</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>tximare</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Záparo</languageFamily>
@@ -5483,59 +5000,38 @@
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Tariana (aa01) Phono</language>
+      <language>Tariana (aa01)</language>
       <source>Aikhenvald, Alexandra Y. 2001. Dicionário Tariana-Português e Português-Tariana. Boletim do MPEG 17/1. Belém.</source>
       <originalForm>kajáma</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>kayáma</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Tariana (aa01) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>kayáma</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Baniwa (hr01a) Phono</language>
+      <language>Baniwa (hr01a)</language>
       <source>Ramirez, Henri. 2001a. Dicionário Baniwa-Português. Manaus: Editora da Universidade do Amazonas.</source>
       <originalForm>jóoɻa</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>yóora</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Baniwa (hr01a) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>yóora</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Resígaɾo (ta79) Phono</language>
+      <language>Resígaɾo (ta79)</language>
       <source>Allin, Trevor R .1979. Vocabulario resígaro.  Documento de Trabajo, 16.</source>
       <originalForm>teíʔiku</originalForm>
       <phonemicizedForm>NONE</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Resígaro (ta79) Ortho</language>
+      <language>Resígaro (ta79)</language>
       <source>Person entering data: AP</source>
       <originalForm>teí?iku</originalForm>
       <phonemicizedForm>NONE</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Paresi (ab08) Phono</language>
+      <language>Paresi (ab08)</language>
       <source>Brandao, Ana Paula</source>
       <originalForm>maˈtjai</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Paresi (ab08) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>maˈtyai</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>maˈtyai</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Záparo</languageFamily>
@@ -5683,45 +5179,24 @@
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Tariana (aa01) Phono</language>
+      <language>Tariana (aa01)</language>
       <source>Aikhenvald, Alexandra Y. 2001. Dicionário Tariana-Português e Português-Tariana. Boletim do MPEG 17/1. Belém.</source>
       <originalForm>puáli 'forno'</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>puáli 'forno'</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Tariana (aa01) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>puáli 'forno'</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Kabiyari (hr01) Phono</language>
+      <language>Kabiyari (hr01)</language>
       <source>Ramirez, Henri. 2001. Línguas Arawak da Amazônia setentrional: comparação e descrição. Manaus: Editora da Universidade</source>
       <originalForm>puɾi (foɾno)</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>puri (forno)</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Kabiyari (hr01) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>puri (forno)</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Mandawaka (hr01) Phono</language>
+      <language>Mandawaka (hr01)</language>
       <source>Ramirez, Henri. 2001. Línguas Arawak da Amazônia setentrional: comparação e descrição. Manaus: Editora da Universidade</source>
       <originalForm>há:li</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Mandawaka (hr01) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>há:li</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>há:li</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Jivaro</languageFamily>
@@ -5982,101 +5457,59 @@
     </item>
     <item>
       <languageFamily>Aɾawak</languageFamily>
-      <language>Piapoco (dk95) Phono</language>
+      <language>Piapoco (dk95)</language>
       <source>Klumpp, Deloris Pharris de. 1995. Vocabulario piapoco-español. Bogotá: ILV.</source>
       <originalForm>matʃúka</originalForm>
       <phonemicizedForm>NONE</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Piapoco (dk95) Ortho</language>
+      <language>Piapoco (dk95)</language>
       <source>Person entering data: AP</source>
       <originalForm>machúca</originalForm>
       <phonemicizedForm>NONE</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Yucuna (sy05) Phono</language>
+      <language>Yucuna (sy05)</language>
       <source>Schauer, Junia, compiler, and others. 2005. Meke kemakánaka puráka7aloji: wapura7akó chu, eyá karíwana chu (Diccionario bilingüe: Yukuna - Español; Español - Yukuna). 1st ed. Bogotá: Editorial Fundación para el Desarollo de los Pueblos Marginados. 328 p</source>
       <originalForm>uʔuwí</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>u'uwí</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Yucuna (sy05) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>u'uwí</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Tariana (aa01) Phono</language>
+      <language>Tariana (aa01)</language>
       <source>Aikhenvald, Alexandra Y. 2001. Dicionário Tariana-Português e Português-Tariana. Boletim do MPEG 17/1. Belém.</source>
       <originalForm>kupʰe na-tuda-nípe 'farinha de peixe'</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>kuphe na-tuda-nípe 'farinha de peixe' (kuphe 'peixe')</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Tariana (aa01) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>kuphe na-tuda-nípe 'farinha de peixe' (kuphe 'peixe')</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Baniwa (hr01a) Phono</language>
+      <language>Baniwa (hr01a)</language>
       <source>Ramirez, Henri. 2001a. Dicionário Baniwa-Português. Manaus: Editora da Universidade do Amazonas.</source>
       <originalForm>matsóka</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>matsóka</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Baniwa (hr01a) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>matsóka</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Warekena (aa98) Phono</language>
+      <language>Warekena (aa98)</language>
       <source>Aikhenvald, Alexandra 1998. Warekena. En: Desmond Derbishire &amp; Geoffrey Pullum (eds.), Handbook of Amazonian Languages, vol. 4: 225-439. Berlín: Mouton de Gruyter.</source>
       <originalForm>matsuka</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>matsuka</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Warekena (aa98) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>matsuka</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Paresi (ab08) Phono</language>
+      <language>Paresi (ab08)</language>
       <source>Brandao, Ana Paula</source>
       <originalForm>tjoˈlohe</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>tyoˈlohe</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Paresi (ab08) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>tyoˈlohe</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Mandawaka (hr01) Phono</language>
+      <language>Mandawaka (hr01)</language>
       <source>Ramirez, Henri. 2001. Línguas Arawak da Amazônia setentrional: comparação e descrição. Manaus: Editora da Universidade</source>
       <originalForm>matʃúka</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Mandawaka (hr01) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>matʃúka</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>matʃúka</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Záparo</languageFamily>
@@ -6312,87 +5745,52 @@
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Achagua (mm98) Phono</language>
+      <language>Achagua (mm98)</language>
       <source>Meléndez Lozano, Miguel Ángel. 1998a. La lengua achagua, estudio gramatical. Lenguas Aborígenes de Colombia, Descripciones, 11. Santafé de Bogotá: CCELA, UNIANDES. AP</source>
       <originalForm>á:na</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Achagua (mm98) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>á:na</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>á:na</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Aɾawak</languageFamily>
-      <language>Piapoco (dk95) Phono</language>
+      <language>Piapoco (dk95)</language>
       <source>Klumpp, Deloris Pharris de. 1995. Vocabulario piapoco-español. Bogotá: ILV.</source>
       <originalForm>ajáiba 'pilón'</originalForm>
       <phonemicizedForm>NONE</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Piapoco (dk95) Ortho</language>
+      <language>Piapoco (dk95)</language>
       <source>Person entering data: AP</source>
       <originalForm>ayáiba 'pilón'</originalForm>
       <phonemicizedForm>NONE</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Yucuna (sy05) Phono</language>
+      <language>Yucuna (sy05)</language>
       <source>Schauer, Junia, compiler, and others. 2005. Meke kemakánaka puráka7aloji: wapura7akó chu, eyá karíwana chu (Diccionario bilingüe: Yukuna - Español; Español - Yukuna). 1st ed. Bogotá: Editorial Fundación para el Desarollo de los Pueblos Marginados. 328 p</source>
       <originalForm>tuhlákaʔaɾuna</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>tujláka'aruna</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Yucuna (sy05) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>tujláka'aruna</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Tariana (aa01) Phono</language>
+      <language>Tariana (aa01)</language>
       <source>Aikhenvald, Alexandra Y. 2001. Dicionário Tariana-Português e Português-Tariana. Boletim do MPEG 17/1. Belém.</source>
       <originalForm>jéːda 'pequeno pilão para preparo do epadú'</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>yéːda 'pequeno pilão para preparo do epadú'</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Tariana (aa01) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>yéːda 'pequeno pilão para preparo do epadú'</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Baniwa (hr01a) Phono</language>
+      <language>Baniwa (hr01a)</language>
       <source>Ramirez, Henri. 2001a. Dicionário Baniwa-Português. Manaus: Editora da Universidade do Amazonas.</source>
       <originalForm>aanáda</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>aanáda</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Baniwa (hr01a) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>aanáda</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Paresi (ab08) Phono</language>
+      <language>Paresi (ab08)</language>
       <source>Brandao, Ana Paula</source>
       <originalForm>ˈnotʃi (nuˈtʃi 'neto')</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Paresi (ab08) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>ˈnotxi (noˈtxi 'neto')</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>ˈnotxi (noˈtxi 'neto')</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
@@ -6541,59 +5939,38 @@
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Baniwa (hr01a) Phono</language>
+      <language>Baniwa (hr01a)</language>
       <source>Ramirez, Henri. 2001a. Dicionário Baniwa-Português. Manaus: Editora da Universidade do Amazonas.</source>
       <originalForm>-tothíoko</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>-tothíoko</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Baniwa (hr01a) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>-tothíoko</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Resígaɾo (ta79) Phono</language>
+      <language>Resígaɾo (ta79)</language>
       <source>Allin, Trevor R .1979. Vocabulario resígaro.  Documento de Trabajo, 16.</source>
       <originalForm>tʰoʔkʰoótsií</originalForm>
       <phonemicizedForm>NONE</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Resígaro (ta79) Ortho</language>
+      <language>Resígaro (ta79)</language>
       <source>Person entering data: AP</source>
       <originalForm>tho?khoótsií</originalForm>
       <phonemicizedForm>NONE</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Yavitero (jm87) Phono</language>
+      <language>Yavitero (jm87)</language>
       <source>Mosonyi, Jorge Carlos, 1987 El idioma Yavitero, Caracas, Venezuela, 241 pages.</source>
       <originalForm>wi'jaľ̥i</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>wi'yaľ̥i</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Yavitero (jm87) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>wi'yaľ̥i</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Paresi (ab08) Phono</language>
+      <language>Paresi (ab08)</language>
       <source>Brandao, Ana Paula</source>
       <originalForm>ˈnatse</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Paresi (ab08) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>ˈnatse</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>ˈnatse</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
@@ -6934,73 +6311,52 @@
     </item>
     <item>
       <languageFamily>Aɾawak</languageFamily>
-      <language>Piapoco (dk95) Phono</language>
+      <language>Piapoco (dk95)</language>
       <source>Klumpp, Deloris Pharris de. 1995. Vocabulario piapoco-español. Bogotá: ILV.</source>
       <originalForm>ùlibàna</originalForm>
       <phonemicizedForm>NONE</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Piapoco (dk95) Ortho</language>
+      <language>Piapoco (dk95)</language>
       <source>Person entering data: AP</source>
       <originalForm>ùlibàna</originalForm>
       <phonemicizedForm>NONE</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Yucuna (sy05) Phono</language>
+      <language>Yucuna (sy05)</language>
       <source>Schauer, Junia, compiler, and others. 2005. Meke kemakánaka puráka7aloji: wapura7akó chu, eyá karíwana chu (Diccionario bilingüe: Yukuna - Español; Español - Yukuna). 1st ed. Bogotá: Editorial Fundación para el Desarollo de los Pueblos Marginados. 328 p</source>
       <originalForm>wehɾukú</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>wejrukú</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Yucuna (sy05) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>wejrukú</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Baniwa (hr01a) Phono</language>
+      <language>Baniwa (hr01a)</language>
       <source>Ramirez, Henri. 2001a. Dicionário Baniwa-Português. Manaus: Editora da Universidade do Amazonas.</source>
       <originalForm>moɺóko</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>molóko</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Baniwa (hr01a) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>molóko</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Resígaɾo (ta79) Phono</language>
+      <language>Resígaɾo (ta79)</language>
       <source>Allin, Trevor R .1979. Vocabulario resígaro.  Documento de Trabajo, 16.</source>
       <originalForm>noótsígú</originalForm>
       <phonemicizedForm>NONE</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Resígaro (ta79) Ortho</language>
+      <language>Resígaro (ta79)</language>
       <source>Person entering data: AP</source>
       <originalForm>noótsígú</originalForm>
       <phonemicizedForm>NONE</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Yavitero (jm87) Phono</language>
+      <language>Yavitero (jm87)</language>
       <source>Mosonyi, Jorge Carlos, 1987 El idioma Yavitero, Caracas, Venezuela, 241 pages.</source>
       <originalForm>lansa (Spanish loan)</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Yavitero (jm87) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>lansa (Spanish loan)</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>lansa (Spanish loan)</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
@@ -7289,108 +6645,73 @@
     </item>
     <item>
       <languageFamily>Aɾawak</languageFamily>
-      <language>Piapoco (dk95) Phono</language>
+      <language>Piapoco (dk95)</language>
       <source>Klumpp, Deloris Pharris de. 1995. Vocabulario piapoco-español. Bogotá: ILV.</source>
       <originalForm>káini jàasu dúakái</originalForm>
       <phonemicizedForm>NONE</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Piapoco (dk95) Ortho</language>
+      <language>Piapoco (dk95)</language>
       <source>Person entering data: AP</source>
       <originalForm>cáini yàasu dúacái (cáini 'mandioca', yàasu 'of the', dúacái 'starch')</originalForm>
       <phonemicizedForm>NONE</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Yucuna (sy05) Phono</language>
+      <language>Yucuna (sy05)</language>
       <source>Schauer, Junia, compiler, and others. 2005. Meke kemakánaka puráka7aloji: wapura7akó chu, eyá karíwana chu (Diccionario bilingüe: Yukuna - Español; Español - Yukuna). 1st ed. Bogotá: Editorial Fundación para el Desarollo de los Pueblos Marginados. 328 p</source>
       <originalForm>ituʔuɾú</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>itu'urú</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Yucuna (sy05) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>itu'urú</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Tariana (aa01) Phono</language>
+      <language>Tariana (aa01)</language>
       <source>Aikhenvald, Alexandra Y. 2001. Dicionário Tariana-Português e Português-Tariana. Boletim do MPEG 17/1. Belém.</source>
       <originalForm>kainíki 'tapioca'</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>kainíki 'tapioca'</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Tariana (aa01) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>kainíki 'tapioca'</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Baniwa (hr01a) Phono</language>
+      <language>Baniwa (hr01a)</language>
       <source>Ramirez, Henri. 2001a. Dicionário Baniwa-Português. Manaus: Editora da Universidade do Amazonas.</source>
       <originalForm>mhéet̪i</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>mhéetti</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Baniwa (hr01a) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>mhéetti</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Resígaɾo (ta79) Phono</language>
+      <language>Resígaɾo (ta79)</language>
       <source>Allin, Trevor R .1979. Vocabulario resígaro.  Documento de Trabajo, 16.</source>
       <originalForm>peégí</originalForm>
       <phonemicizedForm>NONE</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Resígaro (ta79) Ortho</language>
+      <language>Resígaro (ta79)</language>
       <source>Person entering data: AP</source>
       <originalForm>peégí</originalForm>
       <phonemicizedForm>NONE</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Warekena (aa98) Phono</language>
+      <language>Warekena (aa98)</language>
       <source>Aikhenvald, Alexandra 1998. Warekena. En: Desmond Derbishire &amp; Geoffrey Pullum (eds.), Handbook of Amazonian Languages, vol. 4: 225-439. Berlín: Mouton de Gruyter.</source>
       <originalForm>ʃiweʃi</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>ʃiweʃi</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Warekena (aa98) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>ʃiweʃi</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Yavitero (jm87) Phono</language>
+      <language>Yavitero (jm87)</language>
       <source>Mosonyi, Jorge Carlos, 1987 El idioma Yavitero, Caracas, Venezuela, 241 pages.</source>
       <originalForm>ľ̥iwéľ̥i</originalForm>
       <phonemicizedForm>NONE</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Paresi (ab08) Phono</language>
+      <language>Paresi (ab08)</language>
       <source>Brandao, Ana Paula</source>
       <originalForm>keˈnajki</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Paresi (ab08) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>keˈnaiki</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>keˈnaiki</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
@@ -7573,45 +6894,24 @@
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Tariana (aa01) Phono</language>
+      <language>Tariana (aa01)</language>
       <source>Aikhenvald, Alexandra Y. 2001. Dicionário Tariana-Português e Português-Tariana. Boletim do MPEG 17/1. Belém.</source>
       <originalForm>ɲumúku, jumúku</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>ɲumúku, yumúku</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Tariana (aa01) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>ɲumúku, yumúku</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Baniwa (hr01a) Phono</language>
+      <language>Baniwa (hr01a)</language>
       <source>Ramirez, Henri. 2001a. Dicionário Baniwa-Português. Manaus: Editora da Universidade do Amazonas.</source>
       <originalForm>koɻíakaa, kamókaa 'mingau'</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>koríakaa, kamókaa 'mingau'</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Baniwa (hr01a) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>koríakaa, kamókaa 'mingau'</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Paresi (ab08) Phono</language>
+      <language>Paresi (ab08)</language>
       <source>Brandao, Ana Paula</source>
       <originalForm>kataðere</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Paresi (ab08) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>katazere</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>katazere</phonemicizedForm>
     </item>
   </entry>
   <entry>
@@ -7696,63 +6996,42 @@
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Tariana (aa01) Phono</language>
+      <language>Tariana (aa01)</language>
       <source>Aikhenvald, Alexandra Y. 2001. Dicionário Tariana-Português e Português-Tariana. Boletim do MPEG 17/1. Belém.</source>
       <originalForm>hiɾína</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>hiɾína</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Tariana (aa01) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>hiɾína</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Baniwa (hr01a) Phono</language>
+      <language>Baniwa (hr01a)</language>
       <source>Ramirez, Henri. 2001a. Dicionário Baniwa-Português. Manaus: Editora da Universidade do Amazonas.</source>
       <originalForm>t̪iɻoɺípi</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>ttirolípi</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Baniwa (hr01a) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>ttirolípi</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Resígaɾo (ta79) Phono</language>
+      <language>Resígaɾo (ta79)</language>
       <source>Allin, Trevor R .1979. Vocabulario resígaro.  Documento de Trabajo, 16.</source>
       <originalForm>pasoviíté</originalForm>
       <phonemicizedForm>NONE</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Resígaro (ta79) Ortho</language>
+      <language>Resígaro (ta79)</language>
       <source>Person entering data: AP</source>
       <originalForm>pasoviíté</originalForm>
       <phonemicizedForm>NONE</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Paresi (ab08) Phono</language>
+      <language>Paresi (ab08)</language>
       <source>Brandao, Ana Paula</source>
       <originalForm>terehukakalati</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>terehokakalati</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Paresi (ab08) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>terehokakalati</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Wapishana (ms95) Phono</language>
+      <language>Wapishana (ms95)</language>
       <source>Santos, Manuel Gomes dos . 2006. Uma gramática do Wapixana (Aruak): aspectos da fonologia, da morfologia e da sintaxe. Tese de doutorado. Campinas, SP: UNICAMP</source>
       <originalForm>niʐu</originalForm>
       <phonemicizedForm>NONE</phonemicizedForm>
@@ -7890,45 +7169,24 @@
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Yucuna (sy05) Phono</language>
+      <language>Yucuna (sy05)</language>
       <source>Schauer, Junia, compiler, and others. 2005. Meke kemakánaka puráka7aloji: wapura7akó chu, eyá karíwana chu (Diccionario bilingüe: Yukuna - Español; Español - Yukuna). 1st ed. Bogotá: Editorial Fundación para el Desarollo de los Pueblos Marginados. 328 p</source>
       <originalForm>kawajá</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>kawayá</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Yucuna (sy05) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>kawayá</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Tariana (aa01) Phono</language>
+      <language>Tariana (aa01)</language>
       <source>Aikhenvald, Alexandra Y. 2001. Dicionário Tariana-Português e Português-Tariana. Boletim do MPEG 17/1. Belém.</source>
       <originalForm>néɾi i-wádo</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>néɾi i-wádo (néri '?', wádo '?')</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Tariana (aa01) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>néɾi i-wádo (néri '?', wádo '?')</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Baniwa (hr01a) Phono</language>
+      <language>Baniwa (hr01a)</language>
       <source>Ramirez, Henri. 2001a. Dicionário Baniwa-Português. Manaus: Editora da Universidade do Amazonas.</source>
       <originalForm>mháitsi</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Baniwa (hr01a) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>mháitsi</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>mháitsi</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Tupi-Guarani</languageFamily>
@@ -8084,122 +7342,73 @@
     </item>
     <item>
       <languageFamily>Aɾawak</languageFamily>
-      <language>Piapoco (dk95) Phono</language>
+      <language>Piapoco (dk95)</language>
       <source>Klumpp, Deloris Pharris de. 1995. Vocabulario piapoco-español. Bogotá: ILV.</source>
       <originalForm>kuláli</originalForm>
       <phonemicizedForm>NONE</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Piapoco (dk95) Ortho</language>
+      <language>Piapoco (dk95)</language>
       <source>Person entering data: AP</source>
       <originalForm>culáli</originalForm>
       <phonemicizedForm>NONE</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Yucuna (sy05) Phono</language>
+      <language>Yucuna (sy05)</language>
       <source>Schauer, Junia, compiler, and others. 2005. Meke kemakánaka puráka7aloji: wapura7akó chu, eyá karíwana chu (Diccionario bilingüe: Yukuna - Español; Español - Yukuna). 1st ed. Bogotá: Editorial Fundación para el Desarollo de los Pueblos Marginados. 328 p</source>
       <originalForm>haʔapá</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>ja'apá</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Yucuna (sy05) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>ja'apá</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Tariana (aa01) Phono</language>
+      <language>Tariana (aa01)</language>
       <source>Aikhenvald, Alexandra Y. 2001. Dicionário Tariana-Português e Português-Tariana. Boletim do MPEG 17/1. Belém.</source>
       <originalForm>pupáwa</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>pupáwa</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Tariana (aa01) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>pupáwa</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Baniwa (hr01a) Phono</language>
+      <language>Baniwa (hr01a)</language>
       <source>Ramirez, Henri. 2001a. Dicionário Baniwa-Português. Manaus: Editora da Universidade do Amazonas.</source>
       <originalForm>mawakóɺia</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>mawakólia</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Baniwa (hr01a) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>mawakólia</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Kabiyari (hr01) Phono</language>
+      <language>Kabiyari (hr01)</language>
       <source>Ramirez, Henri. 2001. Línguas Arawak da Amazônia setentrional: comparação e descrição. Manaus: Editora da Universidade</source>
       <originalForm>apáɾi</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>apári</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Kabiyari (hr01) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>apári</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Yavitero (jm87) Phono</language>
+      <language>Yavitero (jm87)</language>
       <source>Mosonyi, Jorge Carlos, 1987 El idioma Yavitero, Caracas, Venezuela, 241 pages.</source>
       <originalForm>mawáuli</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>mawáuli</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Yavitero (jm87) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>mawáuli</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Paresi (ab08) Phono</language>
+      <language>Paresi (ab08)</language>
       <source>Brandao, Ana Paula</source>
       <originalForm>iˈriwa (kaʃiniti), ˈhuwiti</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>iˈriwa (kaxiniti), ˈhowiti</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Paresi (ab08) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>iˈriwa (kaxiniti), ˈhowiti</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Wapishana (ms95) Phono</language>
+      <language>Wapishana (ms95)</language>
       <source>Santos, Manuel Gomes dos . 2006. Uma gramática do Wapixana (Aruak): aspectos da fonologia, da morfologia e da sintaxe. Tese de doutorado. Campinas, SP: UNICAMP</source>
       <originalForm>uɽaɽi</originalForm>
       <phonemicizedForm>NONE</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Mandawaka (hr01) Phono</language>
+      <language>Mandawaka (hr01)</language>
       <source>Ramirez, Henri. 2001. Línguas Arawak da Amazônia setentrional: comparação e descrição. Manaus: Editora da Universidade</source>
       <originalForm>mawákuli</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Mandawaka (hr01) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>mawákuli</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>mawákuli</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Záparo</languageFamily>
@@ -8474,115 +7683,66 @@
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Achagua (mm98) Phono</language>
+      <language>Achagua (mm98)</language>
       <source>Meléndez Lozano, Miguel Ángel. 1998a. La lengua achagua, estudio gramatical. Lenguas Aborígenes de Colombia, Descripciones, 11. Santafé de Bogotá: CCELA, UNIANDES. AP</source>
       <originalForm>tʃakátui</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>tʃakátui</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Achagua (mm98) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>tʃakátui</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Yucuna (sy05) Phono</language>
+      <language>Yucuna (sy05)</language>
       <source>Schauer, Junia, compiler, and others. 2005. Meke kemakánaka puráka7aloji: wapura7akó chu, eyá karíwana chu (Diccionario bilingüe: Yukuna - Español; Español - Yukuna). 1st ed. Bogotá: Editorial Fundación para el Desarollo de los Pueblos Marginados. 328 p</source>
       <originalForm>hiɾú</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>jirú</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Yucuna (sy05) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>jirú</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Tariana (aa01) Phono</language>
+      <language>Tariana (aa01)</language>
       <source>Aikhenvald, Alexandra Y. 2001. Dicionário Tariana-Português e Português-Tariana. Boletim do MPEG 17/1. Belém.</source>
       <originalForm>jupítʃí</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>yupíčí</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Tariana (aa01) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>yupíčí</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Baniwa (hr01a) Phono</language>
+      <language>Baniwa (hr01a)</language>
       <source>Ramirez, Henri. 2001a. Dicionário Baniwa-Português. Manaus: Editora da Universidade do Amazonas.</source>
       <originalForm>dopítsi, oɻopéma</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>dopítsi, oropéma</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Baniwa (hr01a) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>dopítsi, oropéma</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Resígaɾo (ta79) Phono</language>
+      <language>Resígaɾo (ta79)</language>
       <source>Allin, Trevor R .1979. Vocabulario resígaro.  Documento de Trabajo, 16.</source>
       <originalForm>tsʰídóogí</originalForm>
       <phonemicizedForm>NONE</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Resígaro (ta79) Ortho</language>
+      <language>Resígaro (ta79)</language>
       <source>Person entering data: AP</source>
       <originalForm>tshídóogí</originalForm>
       <phonemicizedForm>NONE</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Kabiyari (hr01) Phono</language>
+      <language>Kabiyari (hr01)</language>
       <source>Ramirez, Henri. 2001. Línguas Arawak da Amazônia setentrional: comparação e descrição. Manaus: Editora da Universidade</source>
       <originalForm>t̪íɾuɾi</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>t̪íruri</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Kabiyari (hr01) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>t̪íruri</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Paresi (ab08) Phono</language>
+      <language>Paresi (ab08)</language>
       <source>Brandao, Ana Paula</source>
       <originalForm>aˈtjwa</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>aˈtyoa</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Paresi (ab08) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>aˈtyoa</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Mandawaka (hr01) Phono</language>
+      <language>Mandawaka (hr01)</language>
       <source>Ramirez, Henri. 2001. Línguas Arawak da Amazônia setentrional: comparação e descrição. Manaus: Editora da Universidade</source>
       <originalForm>duhí:zi</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Mandawaka (hr01) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>duhí:zi</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>duhí:zi</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Záparo</languageFamily>
@@ -9023,87 +8183,45 @@
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Yucuna (sy05) Phono</language>
+      <language>Yucuna (sy05)</language>
       <source>Schauer, Junia, compiler, and others. 2005. Meke kemakánaka puráka7aloji: wapura7akó chu, eyá karíwana chu (Diccionario bilingüe: Yukuna - Español; Español - Yukuna). 1st ed. Bogotá: Editorial Fundación para el Desarollo de los Pueblos Marginados. 328 p</source>
       <originalForm>jenahi</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>yenaji</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Yucuna (sy05) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>yenaji</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Tariana (aa01) Phono</language>
+      <language>Tariana (aa01)</language>
       <source>Aikhenvald, Alexandra Y. 2001. Dicionário Tariana-Português e Português-Tariana. Boletim do MPEG 17/1. Belém.</source>
       <originalForm>niɲá-na</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>niɲá-na</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Tariana (aa01) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>niɲá-na</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Baniwa (hr01a) Phono</language>
+      <language>Baniwa (hr01a)</language>
       <source>Ramirez, Henri. 2001a. Dicionário Baniwa-Português. Manaus: Editora da Universidade do Amazonas.</source>
       <originalForm>-ɲhánaa</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>-ñhánaa</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Baniwa (hr01a) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>-ñhánaa</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Warekena (aa98) Phono</language>
+      <language>Warekena (aa98)</language>
       <source>Aikhenvald, Alexandra 1998. Warekena. En: Desmond Derbishire &amp; Geoffrey Pullum (eds.), Handbook of Amazonian Languages, vol. 4: 225-439. Berlín: Mouton de Gruyter.</source>
       <originalForm>mana</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>mana</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Warekena (aa98) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>mana</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Yavitero (jm87) Phono</language>
+      <language>Yavitero (jm87)</language>
       <source>Mosonyi, Jorge Carlos, 1987 El idioma Yavitero, Caracas, Venezuela, 241 pages.</source>
       <originalForm>imanaha</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>imanaha</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Yavitero (jm87) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>imanaha</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Paresi (ab08) Phono</language>
+      <language>Paresi (ab08)</language>
       <source>Brandao, Ana Paula</source>
       <originalForm>hidjulati</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Paresi (ab08) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>hirolati</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>hirolati</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
@@ -9367,73 +8485,45 @@
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Yucuna (sy05) Phono</language>
+      <language>Yucuna (sy05)</language>
       <source>Schauer, Junia, compiler, and others. 2005. Meke kemakánaka puráka7aloji: wapura7akó chu, eyá karíwana chu (Diccionario bilingüe: Yukuna - Español; Español - Yukuna). 1st ed. Bogotá: Editorial Fundación para el Desarollo de los Pueblos Marginados. 328 p</source>
       <originalForm>tʃaʔawí, wétʃaʔahi</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>cha'awí, wécha'aji</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Yucuna (sy05) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>cha'awí, wécha'aji</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Tariana (aa01) Phono</language>
+      <language>Tariana (aa01)</language>
       <source>Aikhenvald, Alexandra Y. 2001. Dicionário Tariana-Português e Português-Tariana. Boletim do MPEG 17/1. Belém.</source>
       <originalForm>upítʃí</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>upíčí</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Tariana (aa01) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>upíčí</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Resígaɾo (ta79) Phono</language>
+      <language>Resígaɾo (ta79)</language>
       <source>Allin, Trevor R .1979. Vocabulario resígaro.  Documento de Trabajo, 16.</source>
       <originalForm>opíitsí(kó)</originalForm>
       <phonemicizedForm>NONE</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Resígaro (ta79) Ortho</language>
+      <language>Resígaro (ta79)</language>
       <source>Person entering data: AP</source>
       <originalForm>opíitsí(kó)</originalForm>
       <phonemicizedForm>NONE</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Yavitero (jm87) Phono</language>
+      <language>Yavitero (jm87)</language>
       <source>Mosonyi, Jorge Carlos, 1987 El idioma Yavitero, Caracas, Venezuela, 241 pages.</source>
       <originalForm>ka'kuľi</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>ka'kuľi</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Yavitero (jm87) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>ka'kuľi</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Paresi (ab08) Phono</language>
+      <language>Paresi (ab08)</language>
       <source>Brandao, Ana Paula</source>
       <originalForm>ˈkoho</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Paresi (ab08) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>ˈkoho</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>ˈkoho</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
@@ -9602,21 +8692,14 @@
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Kabiyari (hr01) Phono</language>
+      <language>Kabiyari (hr01)</language>
       <source>Ramirez, Henri. 2001. Línguas Arawak da Amazônia setentrional: comparação e descrição. Manaus: Editora da Universidade</source>
       <originalForm>ménaa (ɾoça)</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>ménaa (roça)</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Kabiyari (hr01) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>ménaa (roça)</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Wapishana (ms95) Phono</language>
+      <language>Wapishana (ms95)</language>
       <source>Santos, Manuel Gomes dos . 2006. Uma gramática do Wapixana (Aruak): aspectos da fonologia, da morfologia e da sintaxe. Tese de doutorado. Campinas, SP: UNICAMP</source>
       <originalForm>ʐakap (roça)</originalForm>
       <phonemicizedForm>NONE</phonemicizedForm>
@@ -9694,17 +8777,10 @@
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Kabiyari (hr01) Phono</language>
+      <language>Kabiyari (hr01)</language>
       <source>Ramirez, Henri. 2001. Línguas Arawak da Amazônia setentrional: comparação e descrição. Manaus: Editora da Universidade</source>
       <originalForm>páná</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Kabiyari (hr01) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>páná</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>páná</phonemicizedForm>
     </item>
   </entry>
   <entry>
@@ -9726,73 +8802,45 @@
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Yucuna (sy05) Phono</language>
+      <language>Yucuna (sy05)</language>
       <source>Schauer, Junia, compiler, and others. 2005. Meke kemakánaka puráka7aloji: wapura7akó chu, eyá karíwana chu (Diccionario bilingüe: Yukuna - Español; Español - Yukuna). 1st ed. Bogotá: Editorial Fundación para el Desarollo de los Pueblos Marginados. 328 p</source>
       <originalForm>haʔapákahe</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>ja'apákaje</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Yucuna (sy05) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>ja'apákaje</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Tariana (aa01) Phono</language>
+      <language>Tariana (aa01)</language>
       <source>Aikhenvald, Alexandra Y. 2001. Dicionário Tariana-Português e Português-Tariana. Boletim do MPEG 17/1. Belém.</source>
       <originalForm>emháni</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>emháni</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Tariana (aa01) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>emháni</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Baniwa (hr01a) Phono</language>
+      <language>Baniwa (hr01a)</language>
       <source>Ramirez, Henri. 2001a. Dicionário Baniwa-Português. Manaus: Editora da Universidade do Amazonas.</source>
       <originalForm>-áanhi</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>-áanhi</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Baniwa (hr01a) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>-áanhi</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Resígaɾo (ta79) Phono</language>
+      <language>Resígaɾo (ta79)</language>
       <source>Allin, Trevor R .1979. Vocabulario resígaro.  Documento de Trabajo, 16.</source>
       <originalForm>híʔvu</originalForm>
       <phonemicizedForm>NONE</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Resígaro (ta79) Ortho</language>
+      <language>Resígaro (ta79)</language>
       <source>Person entering data: AP</source>
       <originalForm>hí?vu</originalForm>
       <phonemicizedForm>NONE</phonemicizedForm>
     </item>
     <item>
       <languageFamily>Arawak</languageFamily>
-      <language>Yavitero (jm87) Phono</language>
+      <language>Yavitero (jm87)</language>
       <source>Mosonyi, Jorge Carlos, 1987 El idioma Yavitero, Caracas, Venezuela, 241 pages.</source>
       <originalForm>heha</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Yavitero (jm87) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>heha</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <phonemicizedForm>heha</phonemicizedForm>
     </item>
   </entry>
   <entry>
