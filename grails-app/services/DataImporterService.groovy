@@ -264,42 +264,46 @@ class DataImporterService {
                 def originalForm = getValueFromXMLElement(item.originalForm)
                 def phonemicizedForm = getValueFromXMLElement(item.phonemicizedForm)
 
-                def lexicalFeature = createLexicalFeature(english, portuguese, spanish, latin, comments, pos, caseStudyRegion, semanticFieldName, categoryName);
-                logOutput("Lexical Feature: ${lexicalFeature}")
+                def lexicalFeature = createLexicalFeature(english, portuguese, spanish, latin, comments, pos, caseStudyRegion, semanticFieldName, categoryName, logOutput);
+                def language = createSourceLanguage(languageFamilyName, languageName, caseStudyRegion, logOutput)
 
-                def language = createSourceLanguage(languageFamilyName, languageName, caseStudyRegion)
-                logOutput("Language: ${language}")
-
-                sessionFactory.getCurrentSession().flush()
-                sessionFactory.getCurrentSession().clear()
-
-                def lexicalData = null; //LexicalData.findByLexicalFeatureAndSourceLanguage(lexicalFeature, language)
+                def lexicalData = LexicalData.findByLexicalFeatureAndSourceLanguage(lexicalFeature, language)
 
                 if(!lexicalData) {
                     lexicalData = new LexicalData(
 //                        'lexicalFeature': lexicalFeature,
 //                        'sourceLanguage': language,
                         'originalForm': originalForm,
-                        'phonemicizedForm': phonemicizedForm
+                        'phonemicizedForm': phonemicizedForm,
+                        'etymologyNotes': '',
+                        'semanticNotes': '',
+                        'phonologyNotes': '',
+                        'grammaticalNotes': '',
+                        'generalNotes': ''
                     )
-                    lexicalData.lexicalFeature = lexicalFeature
-                    lexicalData.sourceLanguage = language
+                    if(lexicalFeature) {
+                        lexicalData.lexicalFeature = lexicalFeature
+                    }
+                    if(language) {
+                        lexicalData.sourceLanguage = language
+                    }
 
-                    lexicalData.save()
+                    if(!lexicalData.save()) {
+                        lexicalData.errors.each { error ->
+                            logOutput("Error Saving Lexical Data: ${error}")
+                        }
+                        lexicalData = null
+                    } else {
+                        logOutput("Created Lexical Data: ${lexicalData}")
+                    }
 
-                    logOutput("Created Lexical Data: ${lexicalData}")
-
-                    sessionFactory.getCurrentSession().flush()
-                    sessionFactory.getCurrentSession().clear()
-
-                    createdObjects << lexicalData
+                    if(lexicalData) {
+                        createdObjects << lexicalData
+                    }
                 }
 
             }
         }
-
-        sessionFactory.getCurrentSession().flush()
-        sessionFactory.getCurrentSession().clear()
 
         def lexicalDataList = LexicalData.list()
 
@@ -311,7 +315,7 @@ class DataImporterService {
         return ['output':outputBuffer.toString(), 'lexicalDataList':lexicalDataList, 'createdObjects':createdObjects]
     }
 
-    def createSourceLanguage(languageFamilyName, languageName, caseStudyRegion) {
+    def createSourceLanguage(languageFamilyName, languageName, caseStudyRegion, logOutput) {
         println "createSourceLanguage(languageFamilyName: ${languageFamilyName}, languageName: ${languageName}, caseStudyRegion: ${caseStudyRegion})"
         def language = SourceLanguage.findByFamilyAndName(languageFamilyName, languageName)
         if(!language) {
@@ -319,12 +323,23 @@ class DataImporterService {
                 'family': languageFamilyName,
                 'name': languageName,
 //                'caseStudyRegion': caseStudyRegion,
-                'isoCode': 'xxx'
+                'isoCode': 'xxx',
+                'otherNames': '',
+                'subGroup': '',
+                'longitude': 0,
+                'latitude': 0,
+                'notes': ''
             )
             language.caseStudyRegion = caseStudyRegion
-            language.save()
+            if(!language.save()) {
+                language.errors.each { error ->
+                    logOutput("Error Saving Source Language: ${error}")
+                }
+                language = null
+            } else {
+                logOutput("Created Source Language: ${language}")
+            }
         }
-        assert language
         return language
     }
 
@@ -332,24 +347,36 @@ class DataImporterService {
      * Create a given LexicalFeature object if it doesn't already exist.
      * Otherwise return it.
      */
-    def createLexicalFeature(english, portuguese, spanish, latin, comments, pos, caseStudyRegion, semanticFieldName, categoryName) {
+    def createLexicalFeature(english, portuguese, spanish, latin, comments, pos, caseStudyRegion, semanticFieldName, categoryName, logOutput) {
         def lexicalFeature = LexicalFeature.findByEnglishHeadword(english)
         if(!lexicalFeature) {
-            def semanticField = createSemanticField(semanticFieldName)
-            def category = createLexicalFeatureCategory(categoryName)
+            def semanticField = createSemanticField(semanticFieldName, logOutput)
+            def category = createLexicalFeatureCategory(categoryName, logOutput)
             lexicalFeature = new LexicalFeature(
                 'englishHeadword':english,
                 'portugueseHeadword': portuguese,
                 'spanishHeadword': spanish,
                 'latinHeadword': latin,
+                'frenchHeadword': '',
                 'partOfSpeech':pos,
-                'semanticField':semanticField,
-                'category':category,
-                'caseStudyRegion': caseStudyRegion
+                'caseStudyRegion': caseStudyRegion,
+                'comments': comments
             )
-            lexicalFeature.save()
+            if(semanticField) {
+                lexicalFeature.semanticField = semanticField
+            }
+            if(category) {
+                lexicalFeature.category = category
+            }
+            if(!lexicalFeature.save()) {
+                lexicalFeature.errors.each { error ->
+                    logOutput("Error Saving Lexical Feature: ${error}")
+                }
+                lexicalFeature = null
+            } else {
+                logOutput("Created Lexical Feature: ${lexicalFeature}")
+            }
         }
-        assert lexicalFeature
         return lexicalFeature
     }
 
@@ -357,13 +384,19 @@ class DataImporterService {
      * Create a given LexicalFeatureCategory object if it doesn't already exist.
      * Otherwise return it.
      */
-    def createLexicalFeatureCategory(name) {
+    def createLexicalFeatureCategory(name, logOutput) {
         def category = LexicalFeatureCategory.findByName(name)
         if(!category) {
             category = new LexicalFeatureCategory('name':name)
-            category.save()
+            if(!category.save()) {
+                category.errors.each { error ->
+                    logOutput("Error Saving Lexical Feature Category: ${error}")
+                }
+                category = null
+            } else {
+                logOutput("Created Lexical Feature Category: ${category}")
+            }
         }
-        assert category
         return category
     }
 
@@ -371,13 +404,19 @@ class DataImporterService {
      * Create a given SemanticField object if it doesn't already exist.
      * Otherwise return it.
      */
-    def createSemanticField(name) {
+    def createSemanticField(name, logOutput) {
         def semanticField = SemanticField.findByName(name)
         if(!semanticField) {
             semanticField = new SemanticField('name':name)
-            semanticField.save()
+            if(!semanticField.save()) {
+                semanticField.errors.each { error ->
+                    logOutput("Error Saving Semantic Field: ${error}")
+                }
+                semanticField = null
+            } else {
+                logOutput("Created Semantic Field: ${semanticField}")
+            }
         }
-        assert semanticField
         return semanticField
     }
 }

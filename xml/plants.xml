@@ -5,10 +5,10 @@
       <Portuguese>urucum</Portuguese>
       <Spanish>achiote</Spanish>
       <Latin>Bixa orellana</Latin>
-      <Use?>red dye, treat skin</Use?>
-      <Domesticated?>yes</Domesticated?>
-      <Time/Place of Domestication>SW Amazonia, possibly SE (Clement email)</Time/Place of Domestication>
-      <Distribution (for non-domesticates)?>secondary scrub vegetation and indigenous gardens</Distribution (for non-domesticates)?>
+      <Use>red dye, treat skin</Use>
+      <Domesticated>yes</Domesticated>
+      <Time-Place-Of-Domestication>SW Amazonia, possibly SE (Clement email)</Time-Place-Of-Domestication>
+      <Distribution>secondary scrub vegetation and indigenous gardens</Distribution>
       <Sources of information>La Rotta, Constanza. Especies utilizadas por la comunidad mirana, Schultes, R. E. 1990. Gifts of the Amazon flora to the world. Arnoldia 50, no. 2: 21-34.</Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -424,10 +424,10 @@
       <Portuguese>breu</Portuguese>
       <Spanish>brea</Spanish>
       <Latin>Protium aracouchini</Latin>
-      <Use?>resin for caulk, incense</Use?>
-      <Domesticated?>no</Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?>Secondary forests. Brazil, Bolivia, Colombia, Costa Rica, Ecuador, Franch Guiana, Guyana, Panama, Peru, Suriname, Venezuela</Distribution (for non-domesticates)?>
+      <Use>resin for caulk, incense</Use>
+      <Domesticated>no</Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution>Secondary forests. Brazil, Bolivia, Colombia, Costa Rica, Ecuador, Franch Guiana, Guyana, Panama, Peru, Suriname, Venezuela</Distribution>
       <Sources of information>La Rotta, Constanza. Especies utilizadas por la comunidad mirana</Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -685,10 +685,10 @@
       <Portuguese>cana para flechas, frecheira, Cana-do-rio</Portuguese>
       <Spanish>caña flecha, caña brava, caña isana</Spanish>
       <Latin>Gynerium sagittatum</Latin>
-      <Use?>arrow shafts, harpoons, darts, house construction, baskets, sieves</Use?>
-      <Domesticated?>no</Domesticated?>
-      <Time/Place of Domestication>Peru 2600-2000 BC</Time/Place of Domestication>
-      <Distribution (for non-domesticates)?></Distribution (for non-domesticates)?>
+      <Use>arrow shafts, harpoons, darts, house construction, baskets, sieves</Use>
+      <Domesticated>no</Domesticated>
+      <Time-Place-Of-Domestication>Peru 2600-2000 BC</Time-Place-Of-Domestication>
+      <Distribution></Distribution>
       <Sources of information>http://www.sfiber.com/News_SF/BioFuelsfromPeru.pdf</Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -911,10 +911,10 @@
       <Portuguese>abacate</Portuguese>
       <Spanish>palta, aguacate</Spanish>
       <Latin>Persea americana</Latin>
-      <Use?>edible fruit</Use?>
-      <Domesticated?>yes</Domesticated?>
-      <Time/Place of Domestication>Central America 5000 BC</Time/Place of Domestication>
-      <Distribution (for non-domesticates)?>secondary scrub vegetation and indigenous gardens</Distribution (for non-domesticates)?>
+      <Use>edible fruit</Use>
+      <Domesticated>yes</Domesticated>
+      <Time-Place-Of-Domestication>Central America 5000 BC</Time-Place-Of-Domestication>
+      <Distribution>secondary scrub vegetation and indigenous gardens</Distribution>
       <Sources of information>La Rotta, Constanza. Especies utilizadas por la comunidad mirana</Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -1215,10 +1215,10 @@
       <Portuguese>banana</Portuguese>
       <Spanish>cambur, bellaco, variedad de plátano</Spanish>
       <Latin>Musa sp.</Latin>
-      <Use?>edible fruit</Use?>
-      <Domesticated?>yes</Domesticated?>
-      <Time/Place of Domestication>Papua New Guinea/ SE Asia</Time/Place of Domestication>
-      <Distribution (for non-domesticates)?></Distribution (for non-domesticates)?>
+      <Use>edible fruit</Use>
+      <Domesticated>yes</Domesticated>
+      <Time-Place-Of-Domestication>Papua New Guinea/ SE Asia</Time-Place-Of-Domestication>
+      <Distribution></Distribution>
       <Sources of information></Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -1701,10 +1701,10 @@
       <Portuguese>bananeira do mato</Portuguese>
       <Spanish>plátano, bijao (Peru)</Spanish>
       <Latin>Heliconia sp.</Latin>
-      <Use?>roofing, wrapping</Use?>
-      <Domesticated?>no</Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?></Distribution (for non-domesticates)?>
+      <Use>roofing, wrapping</Use>
+      <Domesticated>no</Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution></Distribution>
       <Sources of information></Sources of information>
       <Comments>plantain = plátano in Spanish, I don't know about "bastard plaintain". Is plaintain a word? Or is it plantain?</Comments>
       <semanticField>plants</semanticField>
@@ -2047,10 +2047,10 @@
       <Portuguese>feijão</Portuguese>
       <Spanish>frijoles, frejol, caraotas (negras, rojas, blancas)</Spanish>
       <Latin></Latin>
-      <Use?>edible</Use?>
-      <Domesticated?>yes</Domesticated?>
-      <Time/Place of Domestication>4000-3000 BC</Time/Place of Domestication>
-      <Distribution (for non-domesticates)?></Distribution (for non-domesticates)?>
+      <Use>edible</Use>
+      <Domesticated>yes</Domesticated>
+      <Time-Place-Of-Domestication>4000-3000 BC</Time-Place-Of-Domestication>
+      <Distribution></Distribution>
       <Sources of information>Kaplan, L. (1965) Archaeology and domestication in American phaseolus (beans).</Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -2323,10 +2323,10 @@
       <Portuguese>envira</Portuguese>
       <Spanish>tortuga caspi, pretina (Peru for tree and tumpline); carahuasca (Peru)</Spanish>
       <Latin>Duguetia sp. OR Fusaea longifolia OR Guatteria chrysopetala</Latin>
-      <Use?>cloth-like bark, used for tumplines, etc.</Use?>
-      <Domesticated?>no</Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?>secondary forests, native to Brazil</Distribution (for non-domesticates)?>
+      <Use>cloth-like bark, used for tumplines, etc.</Use>
+      <Domesticated>no</Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution>secondary forests, native to Brazil</Distribution>
       <Sources of information>La Rotta, Constanza. Especies utilizadas por la comunidad mirana; New international encyclopedia, Volume 3, p. 343</Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -2444,10 +2444,10 @@
       <Portuguese>cabaça</Portuguese>
       <Spanish>calabaza, auyama (Dominican Republic and Venezuela), ayote (parts of Central America), zapallo (parts of South America), tutumo (Peru for Crescentia cujete), huingo (Peru for Crescentia cujete)</Spanish>
       <Latin>Crescentia cujete (round variety); Lagenaria siceraria (bottle variety)</Latin>
-      <Use?>dippers, containers, asthma</Use?>
-      <Domesticated?>yes</Domesticated?>
-      <Time/Place of Domestication>Central America 8000 BC</Time/Place of Domestication>
-      <Distribution (for non-domesticates)?>indigenous gardens</Distribution (for non-domesticates)?>
+      <Use>dippers, containers, asthma</Use>
+      <Domesticated>yes</Domesticated>
+      <Time-Place-Of-Domestication>Central America 8000 BC</Time-Place-Of-Domestication>
+      <Distribution>indigenous gardens</Distribution>
       <Sources of information>La Rotta, Constanza. Especies utilizadas por la comunidad mirana</Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -2853,10 +2853,10 @@
       <Portuguese>castanha</Portuguese>
       <Spanish>castaña</Spanish>
       <Latin>Couepia edulis OR Bertholletia excelsa</Latin>
-      <Use?>edible nut</Use?>
-      <Domesticated?></Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?>Secondary forests. [For Bertholletia]: elev: consistently about 200m. Brazil, Bolivia, Peru, Venezuela, Guyana, French Guiana</Distribution (for non-domesticates)?>
+      <Use>edible nut</Use>
+      <Domesticated></Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution>Secondary forests. [For Bertholletia]: elev: consistently about 200m. Brazil, Bolivia, Peru, Venezuela, Guyana, French Guiana</Distribution>
       <Sources of information>La Rotta, Constanza. Especies utilizadas por la comunidad mirana</Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -2967,10 +2967,10 @@
       <Portuguese>cedro da mata</Portuguese>
       <Spanish>cedro misionero, cedro amargo</Spanish>
       <Latin>Cedrela fissilis</Latin>
-      <Use?>wood for lumber</Use?>
-      <Domesticated?>no</Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?>Brazil, Colombia, Paraguay, Argentina, Panama, Bolívia, Ecuador, Peru</Distribution (for non-domesticates)?>
+      <Use>wood for lumber</Use>
+      <Domesticated>no</Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution>Brazil, Colombia, Paraguay, Argentina, Panama, Bolívia, Ecuador, Peru</Distribution>
       <Sources of information></Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -3144,10 +3144,10 @@
       <Portuguese>buriti</Portuguese>
       <Spanish>moriche (Col, Ven), aguaje (Col, Peru), achual</Spanish>
       <Latin>Mauritia flexuosa</Latin>
-      <Use?>edible fruit, juice, string from leaves, woven mats</Use?>
-      <Domesticated?></Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?>Brazil, Bolivia, Colombia, Ecuador, French Guiana, Guyana, Peru, Venezuela; in and near swamps</Distribution (for non-domesticates)?>
+      <Use>edible fruit, juice, string from leaves, woven mats</Use>
+      <Domesticated></Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution>Brazil, Bolivia, Colombia, Ecuador, French Guiana, Guyana, Peru, Venezuela; in and near swamps</Distribution>
       <Sources of information></Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -3504,10 +3504,10 @@
       <Portuguese>piquia</Portuguese>
       <Spanish>almendro</Spanish>
       <Latin>Caryocar villosum</Latin>
-      <Use?>edible fruit</Use?>
-      <Domesticated?>no</Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?></Distribution (for non-domesticates)?>
+      <Use>edible fruit</Use>
+      <Domesticated>no</Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution></Distribution>
       <Sources of information></Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -3612,10 +3612,10 @@
       <Portuguese>cacau</Portuguese>
       <Spanish>cacao</Spanish>
       <Latin>Theobroma cacao</Latin>
-      <Use?>edible fruit; chocolate from seeds (mesoamerica only)</Use?>
-      <Domesticated?>yes</Domesticated?>
-      <Time/Place of Domestication>NW Amazonia, Andean foothills Ecuador and Colombia (Clement email)</Time/Place of Domestication>
-      <Distribution (for non-domesticates)?>secondary forest</Distribution (for non-domesticates)?>
+      <Use>edible fruit; chocolate from seeds (mesoamerica only)</Use>
+      <Domesticated>yes</Domesticated>
+      <Time-Place-Of-Domestication>NW Amazonia, Andean foothills Ecuador and Colombia (Clement email)</Time-Place-Of-Domestication>
+      <Distribution>secondary forest</Distribution>
       <Sources of information>La Rotta, Constanza. Especies utilizadas por la comunidad mirana.  Schultes, R. E. 1990. Gifts of the Amazon flora to the world. Arnoldia 50, no. 2: 21-34; Hirst, Kris K. Chocolate domestication: the history of the domestication of chocolate (About.com)</Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -3810,10 +3810,10 @@
       <Portuguese>cana de açucar</Portuguese>
       <Spanish>caña de azúcar</Spanish>
       <Latin>Saccharum officinarm</Latin>
-      <Use?>sweet juice</Use?>
-      <Domesticated?>yes</Domesticated?>
-      <Time/Place of Domestication>New Guinea 10000 years ago</Time/Place of Domestication>
-      <Distribution (for non-domesticates)?>min. 24 inches of annual precipitation</Distribution (for non-domesticates)?>
+      <Use>sweet juice</Use>
+      <Domesticated>yes</Domesticated>
+      <Time-Place-Of-Domestication>New Guinea 10000 years ago</Time-Place-Of-Domestication>
+      <Distribution>min. 24 inches of annual precipitation</Distribution>
       <Sources of information>Laurent Grivet, C. Daniels, J.C. Glaszmann, and A. D’Hont.  A review of recent molecular genetics information for sugarcane evolution and domestication.</Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -4317,10 +4317,10 @@
       <Portuguese>caju</Portuguese>
       <Spanish>anarcado, castaña de cajú, nuez de la India, marañon, cajú</Spanish>
       <Latin>Anacardium occidentale</Latin>
-      <Use?>edible, medicinal</Use?>
-      <Domesticated?>yes, also native</Domesticated?>
-      <Time/Place of Domestication>native to northeastern Brazil</Time/Place of Domestication>
-      <Distribution (for non-domesticates)?>secondary scrub vegetation and indigenous gardens</Distribution (for non-domesticates)?>
+      <Use>edible, medicinal</Use>
+      <Domesticated>yes, also native</Domesticated>
+      <Time-Place-Of-Domestication>native to northeastern Brazil</Time-Place-Of-Domestication>
+      <Distribution>secondary scrub vegetation and indigenous gardens</Distribution>
       <Sources of information>La Rotta, Constanza. Especies utilizadas por la comunidad mirana</Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -4572,10 +4572,10 @@
       <Portuguese>cajueiro do mato</Portuguese>
       <Spanish>anarcado</Spanish>
       <Latin>Anacardium giganteum</Latin>
-      <Use?>edible fruit and nuts</Use?>
-      <Domesticated?>no</Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?>Brazil, Peru, Suriname, Venezuela, Guyana</Distribution (for non-domesticates)?>
+      <Use>edible fruit and nuts</Use>
+      <Domesticated>no</Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution>Brazil, Peru, Suriname, Venezuela, Guyana</Distribution>
       <Sources of information></Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -4701,10 +4701,10 @@
       <Portuguese>cipó</Portuguese>
       <Spanish>tamishi, bejuco yare</Spanish>
       <Latin>Heteropsis spruceana</Latin>
-      <Use?>baskets, cords</Use?>
-      <Domesticated?>no</Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?>secondary forest, floodplain</Distribution (for non-domesticates)?>
+      <Use>baskets, cords</Use>
+      <Domesticated>no</Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution>secondary forest, floodplain</Distribution>
       <Sources of information>La Rotta, Constanza. Especies utilizadas por la comunidad mirana</Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -4963,10 +4963,10 @@
       <Portuguese>coca</Portuguese>
       <Spanish>coca</Spanish>
       <Latin>Erythroxylum coca</Latin>
-      <Use?>leaves are chewed, or toasted and powdered; mild narcotic</Use?>
-      <Domesticated?>yes</Domesticated?>
-      <Time/Place of Domestication>dry coastal Peru 1900 BC</Time/Place of Domestication>
-      <Distribution (for non-domesticates)?>secondary scrub vegetation. lower alt. of eastern Andes</Distribution (for non-domesticates)?>
+      <Use>leaves are chewed, or toasted and powdered; mild narcotic</Use>
+      <Domesticated>yes</Domesticated>
+      <Time-Place-Of-Domestication>dry coastal Peru 1900 BC</Time-Place-Of-Domestication>
+      <Distribution>secondary scrub vegetation. lower alt. of eastern Andes</Distribution>
       <Sources of information>La Rotta, Constanza. Especies utilizadas por la comunidad mirana; Schultes, R. E. 1990. Gifts of the Amazon flora to the world. Arnoldia 50, no. 2: 21-34.</Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -5189,10 +5189,10 @@
       <Portuguese>algodão</Portuguese>
       <Spanish>algodón</Spanish>
       <Latin>Gossypium. (barbadense: long fibers; hirsutum: short fibers)</Latin>
-      <Use?>used for cloth, medicine, making arrows</Use?>
-      <Domesticated?>yes</Domesticated?>
-      <Time/Place of Domestication>barbadense: NW SA spreading northward; hirsutum: Caribbean and Mesoamerica, spreading south (Clement email)</Time/Place of Domestication>
-      <Distribution (for non-domesticates)?>secondary scrub vegetation</Distribution (for non-domesticates)?>
+      <Use>used for cloth, medicine, making arrows</Use>
+      <Domesticated>yes</Domesticated>
+      <Time-Place-Of-Domestication>barbadense: NW SA spreading northward; hirsutum: Caribbean and Mesoamerica, spreading south (Clement email)</Time-Place-Of-Domestication>
+      <Distribution>secondary scrub vegetation</Distribution>
       <Sources of information>La Rotta, Constanza. Especies utilizadas por la comunidad mirana</Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -5640,10 +5640,10 @@
       <Portuguese>macaranduba, balatá</Portuguese>
       <Spanish>balatá, balata</Spanish>
       <Latin>Manilkara huberi</Latin>
-      <Use?>rubber source, edible fruit</Use?>
-      <Domesticated?>no</Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?>Brazil, French Guiana, Suriname</Distribution (for non-domesticates)?>
+      <Use>rubber source, edible fruit</Use>
+      <Domesticated>no</Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution>Brazil, French Guiana, Suriname</Distribution>
       <Sources of information></Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -5747,10 +5747,10 @@
       <Portuguese>andirobeira</Portuguese>
       <Spanish>andiroba, cedro macho, caoba bastarda</Spanish>
       <Latin>Carapa guianensis</Latin>
-      <Use?>edible fruit, lumber</Use?>
-      <Domesticated?>no</Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?>Widespread Amazonia</Distribution (for non-domesticates)?>
+      <Use>edible fruit, lumber</Use>
+      <Domesticated>no</Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution>Widespread Amazonia</Distribution>
       <Sources of information></Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -5840,10 +5840,10 @@
       <Portuguese>curare</Portuguese>
       <Spanish>curare</Spanish>
       <Latin>Curarea tecunarum</Latin>
-      <Use?>fish poison, male contraceptive, kind of trap</Use?>
-      <Domesticated?>influence Huaorani's mvmts, possibly</Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?>Brazil, Colombia, Ecuador, Peru; secondary forest</Distribution (for non-domesticates)?>
+      <Use>fish poison, male contraceptive, kind of trap</Use>
+      <Domesticated>influence Huaorani's mvmts, possibly</Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution>Brazil, Colombia, Ecuador, Peru; secondary forest</Distribution>
       <Sources of information>Schultes, R. E. 1990. Gifts of the Amazon flora to the world. Arnoldia 50, no. 2: 21-34.</Sources of information>
       <Comments>very important in the Rio Negro area Hm, there is also the curare for poison darts; is this different or the same?</Comments>
       <semanticField>plants</semanticField>
@@ -6007,10 +6007,10 @@
       <Portuguese>anani</Portuguese>
       <Spanish>peramán, mani, ojoru</Spanish>
       <Latin>Symphonia globulifera</Latin>
-      <Use?>lumber, firewood, caulk boats, wounds, ulcers</Use?>
-      <Domesticated?>no</Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?></Distribution (for non-domesticates)?>
+      <Use>lumber, firewood, caulk boats, wounds, ulcers</Use>
+      <Domesticated>no</Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution></Distribution>
       <Sources of information></Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -6143,10 +6143,10 @@
       <Portuguese>timbó</Portuguese>
       <Spanish>barbasco,  matapez (Colombia)</Spanish>
       <Latin>Lonchocarpus sp.</Latin>
-      <Use?>fish poison, stuns fish</Use?>
-      <Domesticated?></Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?>secondary forests and secondary srcrub  vegetation</Distribution (for non-domesticates)?>
+      <Use>fish poison, stuns fish</Use>
+      <Domesticated></Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution>secondary forests and secondary srcrub  vegetation</Distribution>
       <Sources of information>La Rotta, Constanza. Especies utilizadas por la comunidad mirana</Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -6495,10 +6495,10 @@
       <Portuguese>genipapo</Portuguese>
       <Spanish>bigrande, jago, maluco, caruto, Kaguá, genipapa</Spanish>
       <Latin>Genipapa americana</Latin>
-      <Use?>fruit treats bronchitis, jaundice; drink; black dye?</Use?>
-      <Domesticated?></Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?>northern South America (south to Peru)</Distribution (for non-domesticates)?>
+      <Use>fruit treats bronchitis, jaundice; drink; black dye?</Use>
+      <Domesticated></Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution>northern South America (south to Peru)</Distribution>
       <Sources of information></Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -6610,10 +6610,10 @@
       <Portuguese>angico</Portuguese>
       <Spanish>angico</Spanish>
       <Latin>Parapiptadenia rigida</Latin>
-      <Use?></Use?>
-      <Domesticated?>no</Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?>Brazil</Distribution (for non-domesticates)?>
+      <Use></Use>
+      <Domesticated>no</Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution>Brazil</Distribution>
       <Sources of information></Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -6633,10 +6633,10 @@
       <Portuguese>ayahuasca</Portuguese>
       <Spanish>ayahuasca</Spanish>
       <Latin>Banisteriopsis caapi</Latin>
-      <Use?>hallucinogenic drink</Use?>
-      <Domesticated?></Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?>Peru, Ecuador</Distribution (for non-domesticates)?>
+      <Use>hallucinogenic drink</Use>
+      <Domesticated></Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution>Peru, Ecuador</Distribution>
       <Sources of information></Sources of information>
       <Comments>called 'Banisterium' according to Aschmann 1993. (p.141)</Comments>
       <semanticField>plants</semanticField>
@@ -6869,10 +6869,10 @@
       <Portuguese>japurá</Portuguese>
       <Spanish>oreja de murcielago</Spanish>
       <Latin>Erisma japura</Latin>
-      <Use?>edible fruit</Use?>
-      <Domesticated?></Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?>secondary forest</Distribution (for non-domesticates)?>
+      <Use>edible fruit</Use>
+      <Domesticated></Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution>secondary forest</Distribution>
       <Sources of information>La Rotta, Constanza. Especies utilizadas por la comunidad mirana.</Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -6934,10 +6934,10 @@
       <Portuguese>sumaumeira</Portuguese>
       <Spanish>ceiba, lupuna (Peru for Ceiba sp.)</Spanish>
       <Latin>Ceiba pentandra</Latin>
-      <Use?>cotton-like fiber, sometimes added to ayahuasca</Use?>
-      <Domesticated?>no</Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?>northern South America</Distribution (for non-domesticates)?>
+      <Use>cotton-like fiber, sometimes added to ayahuasca</Use>
+      <Domesticated>no</Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution>northern South America</Distribution>
       <Sources of information></Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -7105,10 +7105,10 @@
       <Portuguese>patoá, patuá</Portuguese>
       <Spanish>ungurahui (Peru), palma de seje, milpesos, patabá</Spanish>
       <Latin>Jessenia bataua</Latin>
-      <Use?>edible fruit</Use?>
-      <Domesticated?>no</Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?></Distribution (for non-domesticates)?>
+      <Use>edible fruit</Use>
+      <Domesticated>no</Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution></Distribution>
       <Sources of information></Sources of information>
       <Comments>influence Huaorani's mvmts</Comments>
       <semanticField>plants</semanticField>
@@ -7360,10 +7360,10 @@
       <Portuguese>tucumã</Portuguese>
       <Spanish>cumare</Spanish>
       <Latin>Astrocaryum aculeatum</Latin>
-      <Use?>edible fruit, may be used for production of biodiesel, making hammocks with fiber</Use?>
-      <Domesticated?></Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?>Brazil</Distribution (for non-domesticates)?>
+      <Use>edible fruit, may be used for production of biodiesel, making hammocks with fiber</Use>
+      <Domesticated></Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution>Brazil</Distribution>
       <Sources of information></Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -7538,10 +7538,10 @@
       <Portuguese></Portuguese>
       <Spanish>chambira</Spanish>
       <Latin>Astrocaryum chambira</Latin>
-      <Use?>edible fruit; fibers used for weaving hammocks, bags, ropes, etc.</Use?>
-      <Domesticated?></Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?>Colombia, Ecuador, Peru, Venezuela</Distribution (for non-domesticates)?>
+      <Use>edible fruit; fibers used for weaving hammocks, bags, ropes, etc.</Use>
+      <Domesticated></Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution>Colombia, Ecuador, Peru, Venezuela</Distribution>
       <Sources of information></Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -7716,10 +7716,10 @@
       <Portuguese>murumuru</Portuguese>
       <Spanish>huicungo (Peru)</Spanish>
       <Latin>Astrocaryum murumuru</Latin>
-      <Use?>used in construction, edible fruit</Use?>
-      <Domesticated?></Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?>Amazonia area</Distribution (for non-domesticates)?>
+      <Use>used in construction, edible fruit</Use>
+      <Domesticated></Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution>Amazonia area</Distribution>
       <Sources of information></Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -7831,10 +7831,10 @@
       <Portuguese>babaçu</Portuguese>
       <Spanish>palma de chontaduro</Spanish>
       <Latin>Orbignya barbosiana</Latin>
-      <Use?>use oil for cooking and perfume. leaves for roof of house</Use?>
-      <Domesticated?></Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?>northern Brazil</Distribution (for non-domesticates)?>
+      <Use>use oil for cooking and perfume. leaves for roof of house</Use>
+      <Domesticated></Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution>northern Brazil</Distribution>
       <Sources of information></Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -8086,10 +8086,10 @@
       <Portuguese>açaí</Portuguese>
       <Spanish>huasaí</Spanish>
       <Latin>Euterpe precatoria</Latin>
-      <Use?>edible buds, fruit used for juice, trunks used for decoration; inner part of stem edible; trunk used in house construction; medicinal roots</Use?>
-      <Domesticated?></Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?>floodplains, swamp; northern Brazil</Distribution (for non-domesticates)?>
+      <Use>edible buds, fruit used for juice, trunks used for decoration; inner part of stem edible; trunk used in house construction; medicinal roots</Use>
+      <Domesticated></Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution>floodplains, swamp; northern Brazil</Distribution>
       <Sources of information></Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -8362,10 +8362,10 @@
       <Portuguese>jauari</Portuguese>
       <Spanish>huiririma (Peru)</Spanish>
       <Latin>Astrocaryum jauari</Latin>
-      <Use?>making jewelery, hammocks made from fiber, fishing bait</Use?>
-      <Domesticated?></Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?>Amazonas state</Distribution (for non-domesticates)?>
+      <Use>making jewelery, hammocks made from fiber, fishing bait</Use>
+      <Domesticated></Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution>Amazonas state</Distribution>
       <Sources of information></Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -8477,10 +8477,10 @@
       <Portuguese>cará roxo</Portuguese>
       <Spanish>camote, sachapapa</Spanish>
       <Latin>Dioscorea sp.</Latin>
-      <Use?>edible tubers, medicinal</Use?>
-      <Domesticated?>yes</Domesticated?>
-      <Time/Place of Domestication>Colombian sierra</Time/Place of Domestication>
-      <Distribution (for non-domesticates)?>secondary scrub vegetation</Distribution (for non-domesticates)?>
+      <Use>edible tubers, medicinal</Use>
+      <Domesticated>yes</Domesticated>
+      <Time-Place-Of-Domestication>Colombian sierra</Time-Place-Of-Domestication>
+      <Distribution>secondary scrub vegetation</Distribution>
       <Sources of information>La Rotta, Constanza. Especies utilizadas por la comunidad mirana</Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -8704,10 +8704,10 @@
       <Portuguese>cará (branco, comprido)</Portuguese>
       <Spanish>camote, sachapapa</Spanish>
       <Latin>Dioscorea sp.</Latin>
-      <Use?>edible tubers, medicinal</Use?>
-      <Domesticated?>yes</Domesticated?>
-      <Time/Place of Domestication>Colombian sierra</Time/Place of Domestication>
-      <Distribution (for non-domesticates)?>secondary scrub vegetation</Distribution (for non-domesticates)?>
+      <Use>edible tubers, medicinal</Use>
+      <Domesticated>yes</Domesticated>
+      <Time-Place-Of-Domestication>Colombian sierra</Time-Place-Of-Domestication>
+      <Distribution>secondary scrub vegetation</Distribution>
       <Sources of information>La Rotta, Constanza. Especies utilizadas por la comunidad mirana</Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -8826,10 +8826,10 @@
       <Portuguese>limão</Portuguese>
       <Spanish>limon</Spanish>
       <Latin>genus Citrus</Latin>
-      <Use?>edible fruit</Use?>
-      <Domesticated?>yes</Domesticated?>
-      <Time/Place of Domestication>introduced through Spanish Conquest</Time/Place of Domestication>
-      <Distribution (for non-domesticates)?>secondary scrub vegetation; indigenous gardens</Distribution (for non-domesticates)?>
+      <Use>edible fruit</Use>
+      <Domesticated>yes</Domesticated>
+      <Time-Place-Of-Domestication>introduced through Spanish Conquest</Time-Place-Of-Domestication>
+      <Distribution>secondary scrub vegetation; indigenous gardens</Distribution>
       <Sources of information>La Rotta, Constanza. Especies utilizadas por la comunidad mirana.</Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -9060,10 +9060,10 @@
       <Portuguese>milho</Portuguese>
       <Spanish>mazorca, maiz</Spanish>
       <Latin>Zea mays</Latin>
-      <Use?>edible, animal feed, flour</Use?>
-      <Domesticated?>yes</Domesticated?>
-      <Time/Place of Domestication>orig S. Mexican highlands 9000 years ago</Time/Place of Domestication>
-      <Distribution (for non-domesticates)?></Distribution (for non-domesticates)?>
+      <Use>edible, animal feed, flour</Use>
+      <Domesticated>yes</Domesticated>
+      <Time-Place-Of-Domestication>orig S. Mexican highlands 9000 years ago</Time-Place-Of-Domestication>
+      <Distribution></Distribution>
       <Sources of information>Wang, R.L., Stec, A., Hey, J., Lukens, L., Doebley, J. (1999). The limits of selection during maize domestication.</Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -9626,10 +9626,10 @@
       <Portuguese>mandioca</Portuguese>
       <Spanish>yuca</Spanish>
       <Latin>Manihot sp.</Latin>
-      <Use?>alcoholic drinks, medicinal,</Use?>
-      <Domesticated?>yes</Domesticated?>
-      <Time/Place of Domestication>SW Amazonia (Clements email)</Time/Place of Domestication>
-      <Distribution (for non-domesticates)?>secondary scrub vegetation</Distribution (for non-domesticates)?>
+      <Use>alcoholic drinks, medicinal,</Use>
+      <Domesticated>yes</Domesticated>
+      <Time-Place-Of-Domestication>SW Amazonia (Clements email)</Time-Place-Of-Domestication>
+      <Distribution>secondary scrub vegetation</Distribution>
       <Sources of information>La Rotta, Constanza. Especies utilizadas por la comunidad mirana; Charles Clement email; Schultes, R. E. 1990. Gifts of the Amazon flora to the world. Arnoldia 50, no. 2: 21-34.</Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -10181,10 +10181,10 @@
       <Portuguese>macaxeira</Portuguese>
       <Spanish>yuca</Spanish>
       <Latin>Manihot sp.</Latin>
-      <Use?></Use?>
-      <Domesticated?>yes</Domesticated?>
-      <Time/Place of Domestication>orig SW Amazonia?</Time/Place of Domestication>
-      <Distribution (for non-domesticates)?></Distribution (for non-domesticates)?>
+      <Use></Use>
+      <Domesticated>yes</Domesticated>
+      <Time-Place-Of-Domestication>orig SW Amazonia?</Time-Place-Of-Domestication>
+      <Distribution></Distribution>
       <Sources of information></Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -10660,10 +10660,10 @@
       <Portuguese>amapa</Portuguese>
       <Spanish>amargo</Spanish>
       <Latin>Parahancornia amapa</Latin>
-      <Use?>fruit edible</Use?>
-      <Domesticated?>no</Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?>secondary forests and fertile lowland</Distribution (for non-domesticates)?>
+      <Use>fruit edible</Use>
+      <Domesticated>no</Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution>secondary forests and fertile lowland</Distribution>
       <Sources of information>La Rotta, Constanza. Especies utilizadas por la comunidad mirana.</Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -10746,10 +10746,10 @@
       <Portuguese>cogumelo</Portuguese>
       <Spanish>champiñón, hongo</Spanish>
       <Latin>(edible generic)</Latin>
-      <Use?>edible</Use?>
-      <Domesticated?>no</Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?></Distribution (for non-domesticates)?>
+      <Use>edible</Use>
+      <Domesticated>no</Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution></Distribution>
       <Sources of information></Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -11029,10 +11029,10 @@
       <Portuguese>visgueiro, faveira, angelim-saia</Portuguese>
       <Spanish>pashoco colorada, cascarón, toco, pashaco (Peru for Parkia velutina)</Spanish>
       <Latin>Parkia pendula</Latin>
-      <Use?>edible fruit</Use?>
-      <Domesticated?>no</Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?>secondary forests</Distribution (for non-domesticates)?>
+      <Use>edible fruit</Use>
+      <Domesticated>no</Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution>secondary forests</Distribution>
       <Sources of information>La Rotta, Constanza. Especies utilizadas por la comunidad mirana</Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -11080,10 +11080,10 @@
       <Portuguese>caraná</Portuguese>
       <Spanish>irapay, hoja de irapay, caraná</Spanish>
       <Latin>Mauritiella armata OR Lepidocaryum tenue (irapay), Mauritius carana</Latin>
-      <Use?>roof thatch</Use?>
-      <Domesticated?>no</Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?>Mauritia carana is limited principally to the Rio Negro and Upper Orinoco regions</Distribution (for non-domesticates)?>
+      <Use>roof thatch</Use>
+      <Domesticated>no</Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution>Mauritia carana is limited principally to the Rio Negro and Upper Orinoco regions</Distribution>
       <Sources of information>Field guide to palms</Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -11299,10 +11299,10 @@
       <Portuguese>mamão</Portuguese>
       <Spanish>papaya, lechosa, melón de árbol, mamón, fruta bomba</Spanish>
       <Latin>Carica papaya</Latin>
-      <Use?>edible fruit, medicinal</Use?>
-      <Domesticated?>yes</Domesticated?>
-      <Time/Place of Domestication>originated in the Mayan region (Clements email)</Time/Place of Domestication>
-      <Distribution (for non-domesticates)?></Distribution (for non-domesticates)?>
+      <Use>edible fruit, medicinal</Use>
+      <Domesticated>yes</Domesticated>
+      <Time-Place-Of-Domestication>originated in the Mayan region (Clements email)</Time-Place-Of-Domestication>
+      <Distribution></Distribution>
       <Sources of information>Charles Clement email</Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -11540,10 +11540,10 @@
       <Portuguese>paxiuba</Portuguese>
       <Spanish>pona, huacrapona, cashapona, macanilla, pachiuba</Spanish>
       <Latin>Iriartea exorrhiza OR Iriartea deltoidea</Latin>
-      <Use?>split trunk used for planks; possible starch source; decorative, animals eat fruit; spiny roots used as graters (?)</Use?>
-      <Domesticated?>no</Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?>Widespread Amazonia</Distribution (for non-domesticates)?>
+      <Use>split trunk used for planks; possible starch source; decorative, animals eat fruit; spiny roots used as graters (?)</Use>
+      <Domesticated>no</Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution>Widespread Amazonia</Distribution>
       <Sources of information></Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -11774,10 +11774,10 @@
       <Portuguese>pupunha</Portuguese>
       <Spanish>pijuayo (Peru), palma de melocotón/durazno,  duraznero, melocotonero</Spanish>
       <Latin>Bactris gasipaes</Latin>
-      <Use?>fruit and seeds edible</Use?>
-      <Domesticated?>yes</Domesticated?>
-      <Time/Place of Domestication>Orig. E. PeruvAndes, spread by Madeira river; Central America to Amazonia</Time/Place of Domestication>
-      <Distribution (for non-domesticates)?>NOT in  venez, 200+m</Distribution (for non-domesticates)?>
+      <Use>fruit and seeds edible</Use>
+      <Domesticated>yes</Domesticated>
+      <Time-Place-Of-Domestication>Orig. E. PeruvAndes, spread by Madeira river; Central America to Amazonia</Time-Place-Of-Domestication>
+      <Distribution>NOT in  venez, 200+m</Distribution>
       <Sources of information>Clement, Charles.R., Rival, Laura, Cole, David M. Mobility and migration in indigenous Amazonia: contemporary ethnoecological perspectives. Ch. 6; Schultes, R. E. 1990. Gifts of the Amazon flora to the world. Arnoldia 50, no. 2: 21-34.</Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -12085,10 +12085,10 @@
       <Portuguese>amendoim</Portuguese>
       <Spanish>maní</Spanish>
       <Latin>Arachis hypogaea</Latin>
-      <Use?>seeds edible</Use?>
-      <Domesticated?>yes</Domesticated?>
-      <Time/Place of Domestication>orig. N. Parana basin in Mato Grosso and Bolivia (Clements)</Time/Place of Domestication>
-      <Distribution (for non-domesticates)?></Distribution (for non-domesticates)?>
+      <Use>seeds edible</Use>
+      <Domesticated>yes</Domesticated>
+      <Time-Place-Of-Domestication>orig. N. Parana basin in Mato Grosso and Bolivia (Clements)</Time-Place-Of-Domestication>
+      <Distribution></Distribution>
       <Sources of information></Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -12256,10 +12256,10 @@
       <Portuguese>abacaxi</Portuguese>
       <Spanish>piña</Spanish>
       <Latin>Ananas comosus</Latin>
-      <Use?>edible fruit, drink, medicinal</Use?>
-      <Domesticated?>yes</Domesticated?>
-      <Time/Place of Domestication>native to S. Brazil and Paraguay; secondary scrub vegetation</Time/Place of Domestication>
-      <Distribution (for non-domesticates)?></Distribution (for non-domesticates)?>
+      <Use>edible fruit, drink, medicinal</Use>
+      <Domesticated>yes</Domesticated>
+      <Time-Place-Of-Domestication>native to S. Brazil and Paraguay; secondary scrub vegetation</Time-Place-Of-Domestication>
+      <Distribution></Distribution>
       <Sources of information>La Rotta, Constanza. Especies utilizadas por la comunidad mirana; Schultes, R. E. 1990. Gifts of the Amazon flora to the world. Arnoldia 50, no. 2: 21-34.</Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -12721,10 +12721,10 @@
       <Portuguese>batata</Portuguese>
       <Spanish>papa</Spanish>
       <Latin>Solanum tuberosum</Latin>
-      <Use?>edible</Use?>
-      <Domesticated?>yes</Domesticated?>
-      <Time/Place of Domestication>orig. in S. Peru 5000BC</Time/Place of Domestication>
-      <Distribution (for non-domesticates)?>secondary scrub vegetation</Distribution (for non-domesticates)?>
+      <Use>edible</Use>
+      <Domesticated>yes</Domesticated>
+      <Time-Place-Of-Domestication>orig. in S. Peru 5000BC</Time-Place-Of-Domestication>
+      <Distribution>secondary scrub vegetation</Distribution>
       <Sources of information>La Rotta, Constanza. Especies utilizadas por la comunidad mirana</Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -12976,10 +12976,10 @@
       <Portuguese>caraipe</Portuguese>
       <Spanish>apacharama</Spanish>
       <Latin>Licania apetala</Latin>
-      <Use?>wood for posts, forked poles, and dormers</Use?>
-      <Domesticated?>no</Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?></Distribution (for non-domesticates)?>
+      <Use>wood for posts, forked poles, and dormers</Use>
+      <Domesticated>no</Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution></Distribution>
       <Sources of information></Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -13069,10 +13069,10 @@
       <Portuguese>copaiba</Portuguese>
       <Spanish>copaiba, aceitillo</Spanish>
       <Latin>Copaifera sp.</Latin>
-      <Use?>resin, ironwood, medicinal</Use?>
-      <Domesticated?>no</Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?>secondary forests</Distribution (for non-domesticates)?>
+      <Use>resin, ironwood, medicinal</Use>
+      <Domesticated>no</Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution>secondary forests</Distribution>
       <Sources of information>La Rotta, Constanza. Especies utilizadas por la comunidad mirana.</Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -13148,10 +13148,10 @@
       <Portuguese>cedron, serve pra tudo</Portuguese>
       <Spanish>cedrón</Spanish>
       <Latin>Simaba cedron</Latin>
-      <Use?>medicinal</Use?>
-      <Domesticated?>no</Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?>native to Colombia and C. America</Distribution (for non-domesticates)?>
+      <Use>medicinal</Use>
+      <Domesticated>no</Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution>native to Colombia and C. America</Distribution>
       <Sources of information></Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -13171,10 +13171,10 @@
       <Portuguese>pimenta</Portuguese>
       <Spanish>ají, pimentón/pimiento rojo, pucunucho (Peru), charapilla (Peru)</Spanish>
       <Latin>Capsicum spp.</Latin>
-      <Use?>edible fruit, medicinal</Use?>
-      <Domesticated?>yes</Domesticated?>
-      <Time/Place of Domestication>Central America 4000 BC</Time/Place of Domestication>
-      <Distribution (for non-domesticates)?>secondary scrub vegetation, indigenous garden</Distribution (for non-domesticates)?>
+      <Use>edible fruit, medicinal</Use>
+      <Domesticated>yes</Domesticated>
+      <Time-Place-Of-Domestication>Central America 4000 BC</Time-Place-Of-Domestication>
+      <Distribution>secondary scrub vegetation, indigenous garden</Distribution>
       <Sources of information>La Rotta, Constanza. Especies utilizadas por la comunidad mirana</Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -13628,10 +13628,10 @@
       <Portuguese>fava</Portuguese>
       <Spanish>ayocote</Spanish>
       <Latin>Phaseolus coccineus</Latin>
-      <Use?>edible</Use?>
-      <Domesticated?>yes</Domesticated?>
-      <Time/Place of Domestication>orig. in mountains of Central America</Time/Place of Domestication>
-      <Distribution (for non-domesticates)?></Distribution (for non-domesticates)?>
+      <Use>edible</Use>
+      <Domesticated>yes</Domesticated>
+      <Time-Place-Of-Domestication>orig. in mountains of Central America</Time-Place-Of-Domestication>
+      <Distribution></Distribution>
       <Sources of information></Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -13644,10 +13644,10 @@
       <Portuguese>abóbora</Portuguese>
       <Spanish>calabaza, calabacines, auyamas, zapallos,  tutumo (Peru), huingo (Peru)</Spanish>
       <Latin>Cucurbita sp.</Latin>
-      <Use?>edible fruit, seeds/latex medicinal</Use?>
-      <Domesticated?>yes</Domesticated?>
-      <Time/Place of Domestication>Tupi-Guarani in Paraguay</Time/Place of Domestication>
-      <Distribution (for non-domesticates)?></Distribution (for non-domesticates)?>
+      <Use>edible fruit, seeds/latex medicinal</Use>
+      <Domesticated>yes</Domesticated>
+      <Time-Place-Of-Domestication>Tupi-Guarani in Paraguay</Time-Place-Of-Domestication>
+      <Distribution></Distribution>
       <Sources of information></Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -13857,10 +13857,10 @@
       <Portuguese>apui</Portuguese>
       <Spanish>renaco</Spanish>
       <Latin>Ficus Fagifolia</Latin>
-      <Use?>bark medicinal, leaves once used as paper</Use?>
-      <Domesticated?>no</Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?>native to Brazil</Distribution (for non-domesticates)?>
+      <Use>bark medicinal, leaves once used as paper</Use>
+      <Domesticated>no</Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution>native to Brazil</Distribution>
       <Sources of information></Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -13929,10 +13929,10 @@
       <Portuguese>batata-doce</Portuguese>
       <Spanish>camote, batata dulce, batata</Spanish>
       <Latin>Ipomoea batatas</Latin>
-      <Use?>edible tubers, medicinal</Use?>
-      <Domesticated?>yes</Domesticated?>
-      <Time/Place of Domestication>orig NW Amazonia-Orinoco 2500 BC</Time/Place of Domestication>
-      <Distribution (for non-domesticates)?></Distribution (for non-domesticates)?>
+      <Use>edible tubers, medicinal</Use>
+      <Domesticated>yes</Domesticated>
+      <Time-Place-Of-Domestication>orig NW Amazonia-Orinoco 2500 BC</Time-Place-Of-Domestication>
+      <Distribution></Distribution>
       <Sources of information>Charles Clement email; Dan Austin</Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -14352,10 +14352,10 @@
       <Portuguese>murupita, leiteira, tapuru</Portuguese>
       <Spanish>caucho masham, caucho masho (Peru)</Spanish>
       <Latin>Sapium marmieri</Latin>
-      <Use?>rubber source</Use?>
-      <Domesticated?>no</Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?></Distribution (for non-domesticates)?>
+      <Use>rubber source</Use>
+      <Domesticated>no</Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution></Distribution>
       <Sources of information></Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -14467,10 +14467,10 @@
       <Portuguese>tabaco</Portuguese>
       <Spanish>tabaco</Spanish>
       <Latin>Nicotiana tabacum</Latin>
-      <Use?>leaves smoked, chewed, used in rituals, medicinal</Use?>
-      <Domesticated?>yes</Domesticated?>
-      <Time/Place of Domestication>orig. edge of trop. forest in/near Bolivia, spread thru lowlands to Carib. and Mesoamerica</Time/Place of Domestication>
-      <Distribution (for non-domesticates)?>secondary scrub vegetation</Distribution (for non-domesticates)?>
+      <Use>leaves smoked, chewed, used in rituals, medicinal</Use>
+      <Domesticated>yes</Domesticated>
+      <Time-Place-Of-Domestication>orig. edge of trop. forest in/near Bolivia, spread thru lowlands to Carib. and Mesoamerica</Time-Place-Of-Domestication>
+      <Distribution>secondary scrub vegetation</Distribution>
       <Sources of information>La Rotta, Constanza. Especies utilizadas por la comunidad mirana.</Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -15033,10 +15033,10 @@
       <Portuguese>cumarurana</Portuguese>
       <Spanish>cumaru</Spanish>
       <Latin>Taralea oppositifolia</Latin>
-      <Use?>perfume, wood for lumber, poles, posts, decorative plaques</Use?>
-      <Domesticated?>no</Domesticated?>
-      <Time/Place of Domestication>orig. in Guyana and Orinoco</Time/Place of Domestication>
-      <Distribution (for non-domesticates)?></Distribution (for non-domesticates)?>
+      <Use>perfume, wood for lumber, poles, posts, decorative plaques</Use>
+      <Domesticated>no</Domesticated>
+      <Time-Place-Of-Domestication>orig. in Guyana and Orinoco</Time-Place-Of-Domestication>
+      <Distribution></Distribution>
       <Sources of information></Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -15063,10 +15063,10 @@
       <Portuguese>cunuri</Portuguese>
       <Spanish></Spanish>
       <Latin>Cunurea spruceana</Latin>
-      <Use?>edible nut</Use?>
-      <Domesticated?>no</Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?></Distribution (for non-domesticates)?>
+      <Use>edible nut</Use>
+      <Domesticated>no</Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution></Distribution>
       <Sources of information></Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -15100,10 +15100,10 @@
       <Portuguese>maraja</Portuguese>
       <Spanish>cubarro, chascarrá, Chontilla (Bolivia, Colombia, Espina (Colombia), Neja, Peru), Uva De Montaña (Venezuela)</Spanish>
       <Latin>Bactris maraja/concinna</Latin>
-      <Use?>animals eat the fruit</Use?>
-      <Domesticated?>no</Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?>northern Brazil</Distribution (for non-domesticates)?>
+      <Use>animals eat the fruit</Use>
+      <Domesticated>no</Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution>northern Brazil</Distribution>
       <Sources of information></Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -15201,10 +15201,10 @@
       <Portuguese>ucuqui</Portuguese>
       <Spanish>yugo, camitillo del monte (Peru)</Spanish>
       <Latin>Pouteria ucuqui</Latin>
-      <Use?>wood for forked poles, fruit edible, medicinal (worms in stomach)</Use?>
-      <Domesticated?></Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?>secondary forest</Distribution (for non-domesticates)?>
+      <Use>wood for forked poles, fruit edible, medicinal (worms in stomach)</Use>
+      <Domesticated></Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution>secondary forest</Distribution>
       <Sources of information>La Rotta, Constanza. Especies utilizadas por la comunidad mirana.</Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -15315,10 +15315,10 @@
       <Portuguese>cipo d'agua</Portuguese>
       <Spanish>bejuco de agua</Spanish>
       <Latin>Doliocarpus cf. guianensis</Latin>
-      <Use?>edible, drink</Use?>
-      <Domesticated?>no</Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?>secondary forests</Distribution (for non-domesticates)?>
+      <Use>edible, drink</Use>
+      <Domesticated>no</Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution>secondary forests</Distribution>
       <Sources of information>La Rotta, Constanza. Especies utilizadas por la comunidad mirana.</Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -15373,10 +15373,10 @@
       <Portuguese>cucura</Portuguese>
       <Spanish>uva de monte, uvilla (Peru)</Spanish>
       <Latin>Pourouma cecropiifolia</Latin>
-      <Use?>edible fruit</Use?>
-      <Domesticated?></Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?>Western Amazon basin and northern Bolivia</Distribution (for non-domesticates)?>
+      <Use>edible fruit</Use>
+      <Domesticated></Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution>Western Amazon basin and northern Bolivia</Distribution>
       <Sources of information></Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -15578,10 +15578,10 @@
       <Portuguese>taioba branca</Portuguese>
       <Spanish>huitina xxx (Peru), ñame</Spanish>
       <Latin>Xanthosoma spp, fam Araceae</Latin>
-      <Use?></Use?>
-      <Domesticated?>yes</Domesticated?>
-      <Time/Place of Domestication>northern lowland SA</Time/Place of Domestication>
-      <Distribution (for non-domesticates)?></Distribution (for non-domesticates)?>
+      <Use></Use>
+      <Domesticated>yes</Domesticated>
+      <Time-Place-Of-Domestication>northern lowland SA</Time-Place-Of-Domestication>
+      <Distribution></Distribution>
       <Sources of information></Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -15952,10 +15952,10 @@
       <Portuguese>inga</Portuguese>
       <Spanish>guaba, shimbillo (Peru)</Spanish>
       <Latin>Inga acumitata</Latin>
-      <Use?>edible seeds</Use?>
-      <Domesticated?>yes</Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?>Secondary scrub vegetation and indigenous gardens.North and South America (Brazil, Peru, Bolivia, Suriname, Colombia)</Distribution (for non-domesticates)?>
+      <Use>edible seeds</Use>
+      <Domesticated>yes</Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution>Secondary scrub vegetation and indigenous gardens.North and South America (Brazil, Peru, Bolivia, Suriname, Colombia)</Distribution>
       <Sources of information>La Rotta, Constanza. Especies utilizadas por la comunidad mirana.</Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -16193,10 +16193,10 @@
       <Portuguese>anona</Portuguese>
       <Spanish>guanábana</Spanish>
       <Latin>Annona montana</Latin>
-      <Use?>edible fruit, medicinal plant</Use?>
-      <Domesticated?>yes</Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?>secondary scrub vegetation and indigenous gardens</Distribution (for non-domesticates)?>
+      <Use>edible fruit, medicinal plant</Use>
+      <Domesticated>yes</Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution>secondary scrub vegetation and indigenous gardens</Distribution>
       <Sources of information>La Rotta, Constanza. Especies utilizadas por la comunidad mirana.</Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -16336,10 +16336,10 @@
       <Portuguese>bacaba</Portuguese>
       <Spanish>bacaba, caima, mapora, pusui</Spanish>
       <Latin>Oenocarpus bacaba</Latin>
-      <Use?>edible fruit, juice, oil for cooking</Use?>
-      <Domesticated?></Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?>Amazonas and Pará states in Brazil</Distribution (for non-domesticates)?>
+      <Use>edible fruit, juice, oil for cooking</Use>
+      <Domesticated></Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution>Amazonas and Pará states in Brazil</Distribution>
       <Sources of information></Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -16507,10 +16507,10 @@
       <Portuguese>taboca</Portuguese>
       <Spanish>carricillo, huasca maronilla, bambú</Spanish>
       <Latin>Olyra sp.</Latin>
-      <Use?>leaves w/ water medicinal, hollow stems for flutes, etc.</Use?>
-      <Domesticated?>no</Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?></Distribution (for non-domesticates)?>
+      <Use>leaves w/ water medicinal, hollow stems for flutes, etc.</Use>
+      <Domesticated>no</Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution></Distribution>
       <Sources of information></Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -16699,10 +16699,10 @@
       <Portuguese>tatapiririca</Portuguese>
       <Spanish>tamu, cedro macho</Spanish>
       <Latin>Tapirira guianensis</Latin>
-      <Use?>timber, edible fruit, bark/flower medicinal</Use?>
-      <Domesticated?></Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?>Colombia to Guianas, Trinidad, Ecuador, Bolivia, Brazil, Paraguay, Peru.</Distribution (for non-domesticates)?>
+      <Use>timber, edible fruit, bark/flower medicinal</Use>
+      <Domesticated></Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution>Colombia to Guianas, Trinidad, Ecuador, Bolivia, Brazil, Paraguay, Peru.</Distribution>
       <Sources of information></Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -16736,10 +16736,10 @@
       <Portuguese>matamata branco</Portuguese>
       <Spanish>machimango blanco, machimango negro</Spanish>
       <Latin>Eschweilera coriacea</Latin>
-      <Use?>wood for construction; bark fiber for rope</Use?>
-      <Domesticated?>no</Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?>secondary forests</Distribution (for non-domesticates)?>
+      <Use>wood for construction; bark fiber for rope</Use>
+      <Domesticated>no</Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution>secondary forests</Distribution>
       <Sources of information>La Rotta, Constanza. Especies utilizadas por la comunidad mirana</Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -16815,10 +16815,10 @@
       <Portuguese></Portuguese>
       <Spanish>mishqui panga, mishquipanga</Spanish>
       <Latin>Renealmia alpina</Latin>
-      <Use?>dye for fibers or skin; edible fruit</Use?>
-      <Domesticated?></Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?></Distribution (for non-domesticates)?>
+      <Use>dye for fibers or skin; edible fruit</Use>
+      <Domesticated></Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution></Distribution>
       <Sources of information></Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -16838,10 +16838,10 @@
       <Portuguese>seringa</Portuguese>
       <Spanish>caucho, siringa, shiringa</Spanish>
       <Latin>Hevea sp.</Latin>
-      <Use?>rubber</Use?>
-      <Domesticated?>no</Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?>secondary forests</Distribution (for non-domesticates)?>
+      <Use>rubber</Use>
+      <Domesticated>no</Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution>secondary forests</Distribution>
       <Sources of information>La Rotta, Constanza. Especies utilizadas por la comunidad mirana.</Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -17057,10 +17057,10 @@
       <Portuguese>capim, grama</Portuguese>
       <Spanish>hierba</Spanish>
       <Latin></Latin>
-      <Use?></Use?>
-      <Domesticated?></Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?></Distribution (for non-domesticates)?>
+      <Use></Use>
+      <Domesticated></Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution></Distribution>
       <Sources of information></Sources of information>
       <Comments></Comments>
       <semanticField>ENVIRONMENT</semanticField>
@@ -17073,10 +17073,10 @@
       <Portuguese></Portuguese>
       <Spanish></Spanish>
       <Latin></Latin>
-      <Use?></Use?>
-      <Domesticated?></Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?></Distribution (for non-domesticates)?>
+      <Use></Use>
+      <Domesticated></Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution></Distribution>
       <Sources of information></Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -17089,10 +17089,10 @@
       <Portuguese></Portuguese>
       <Spanish></Spanish>
       <Latin></Latin>
-      <Use?></Use?>
-      <Domesticated?></Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?></Distribution (for non-domesticates)?>
+      <Use></Use>
+      <Domesticated></Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution></Distribution>
       <Sources of information></Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -17105,10 +17105,10 @@
       <Portuguese></Portuguese>
       <Spanish></Spanish>
       <Latin></Latin>
-      <Use?></Use?>
-      <Domesticated?></Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?></Distribution (for non-domesticates)?>
+      <Use></Use>
+      <Domesticated></Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution></Distribution>
       <Sources of information></Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -17121,10 +17121,10 @@
       <Portuguese></Portuguese>
       <Spanish></Spanish>
       <Latin></Latin>
-      <Use?></Use?>
-      <Domesticated?></Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?></Distribution (for non-domesticates)?>
+      <Use></Use>
+      <Domesticated></Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution></Distribution>
       <Sources of information></Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -17137,10 +17137,10 @@
       <Portuguese></Portuguese>
       <Spanish></Spanish>
       <Latin></Latin>
-      <Use?></Use?>
-      <Domesticated?></Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?></Distribution (for non-domesticates)?>
+      <Use></Use>
+      <Domesticated></Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution></Distribution>
       <Sources of information></Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -17153,10 +17153,10 @@
       <Portuguese></Portuguese>
       <Spanish></Spanish>
       <Latin></Latin>
-      <Use?></Use?>
-      <Domesticated?></Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?></Distribution (for non-domesticates)?>
+      <Use></Use>
+      <Domesticated></Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution></Distribution>
       <Sources of information></Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -17169,10 +17169,10 @@
       <Portuguese></Portuguese>
       <Spanish></Spanish>
       <Latin></Latin>
-      <Use?></Use?>
-      <Domesticated?></Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?></Distribution (for non-domesticates)?>
+      <Use></Use>
+      <Domesticated></Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution></Distribution>
       <Sources of information></Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -17185,10 +17185,10 @@
       <Portuguese></Portuguese>
       <Spanish></Spanish>
       <Latin></Latin>
-      <Use?></Use?>
-      <Domesticated?></Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?></Distribution (for non-domesticates)?>
+      <Use></Use>
+      <Domesticated></Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution></Distribution>
       <Sources of information></Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -17201,10 +17201,10 @@
       <Portuguese></Portuguese>
       <Spanish></Spanish>
       <Latin></Latin>
-      <Use?></Use?>
-      <Domesticated?></Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?></Distribution (for non-domesticates)?>
+      <Use></Use>
+      <Domesticated></Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution></Distribution>
       <Sources of information></Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -17217,10 +17217,10 @@
       <Portuguese></Portuguese>
       <Spanish></Spanish>
       <Latin></Latin>
-      <Use?></Use?>
-      <Domesticated?></Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?></Distribution (for non-domesticates)?>
+      <Use></Use>
+      <Domesticated></Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution></Distribution>
       <Sources of information></Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -17233,10 +17233,10 @@
       <Portuguese></Portuguese>
       <Spanish></Spanish>
       <Latin></Latin>
-      <Use?></Use?>
-      <Domesticated?></Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?></Distribution (for non-domesticates)?>
+      <Use></Use>
+      <Domesticated></Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution></Distribution>
       <Sources of information></Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -17249,10 +17249,10 @@
       <Portuguese></Portuguese>
       <Spanish></Spanish>
       <Latin></Latin>
-      <Use?></Use?>
-      <Domesticated?></Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?></Distribution (for non-domesticates)?>
+      <Use></Use>
+      <Domesticated></Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution></Distribution>
       <Sources of information></Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -17265,10 +17265,10 @@
       <Portuguese></Portuguese>
       <Spanish></Spanish>
       <Latin></Latin>
-      <Use?></Use?>
-      <Domesticated?></Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?></Distribution (for non-domesticates)?>
+      <Use></Use>
+      <Domesticated></Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution></Distribution>
       <Sources of information></Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -17281,10 +17281,10 @@
       <Portuguese></Portuguese>
       <Spanish></Spanish>
       <Latin></Latin>
-      <Use?></Use?>
-      <Domesticated?></Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?></Distribution (for non-domesticates)?>
+      <Use></Use>
+      <Domesticated></Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution></Distribution>
       <Sources of information></Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -17297,10 +17297,10 @@
       <Portuguese></Portuguese>
       <Spanish></Spanish>
       <Latin></Latin>
-      <Use?></Use?>
-      <Domesticated?></Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?></Distribution (for non-domesticates)?>
+      <Use></Use>
+      <Domesticated></Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution></Distribution>
       <Sources of information></Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -17313,10 +17313,10 @@
       <Portuguese></Portuguese>
       <Spanish></Spanish>
       <Latin></Latin>
-      <Use?></Use?>
-      <Domesticated?></Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?></Distribution (for non-domesticates)?>
+      <Use></Use>
+      <Domesticated></Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution></Distribution>
       <Sources of information></Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -17329,10 +17329,10 @@
       <Portuguese></Portuguese>
       <Spanish></Spanish>
       <Latin></Latin>
-      <Use?></Use?>
-      <Domesticated?></Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?></Distribution (for non-domesticates)?>
+      <Use></Use>
+      <Domesticated></Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution></Distribution>
       <Sources of information></Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -17345,10 +17345,10 @@
       <Portuguese></Portuguese>
       <Spanish></Spanish>
       <Latin></Latin>
-      <Use?></Use?>
-      <Domesticated?></Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?></Distribution (for non-domesticates)?>
+      <Use></Use>
+      <Domesticated></Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution></Distribution>
       <Sources of information></Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -17361,10 +17361,10 @@
       <Portuguese></Portuguese>
       <Spanish></Spanish>
       <Latin></Latin>
-      <Use?></Use?>
-      <Domesticated?></Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?></Distribution (for non-domesticates)?>
+      <Use></Use>
+      <Domesticated></Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution></Distribution>
       <Sources of information></Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
@@ -17377,10 +17377,10 @@
       <Portuguese></Portuguese>
       <Spanish></Spanish>
       <Latin></Latin>
-      <Use?></Use?>
-      <Domesticated?></Domesticated?>
-      <Time/Place of Domestication></Time/Place of Domestication>
-      <Distribution (for non-domesticates)?></Distribution (for non-domesticates)?>
+      <Use></Use>
+      <Domesticated></Domesticated>
+      <Time-Place-Of-Domestication></Time-Place-Of-Domestication>
+      <Distribution></Distribution>
       <Sources of information></Sources of information>
       <Comments></Comments>
       <semanticField>plants</semanticField>
