@@ -297,14 +297,24 @@ class DataImporterService {
                             lexicalData = new LexicalData(
         //                        'lexicalFeature': lexicalFeature,
         //                        'sourceLanguage': language,
-                                'originalForm': item['originalForm'],
-                                'phonemicizedForm': item['phonemicizedForm'],
+                                'originalForm': '',
+                                'phonemicizedForm': '',
                                 'etymologyNotes': '',
                                 'semanticNotes': '',
                                 'phonologyNotes': '',
                                 'grammaticalNotes': '',
                                 'generalNotes': ''
                             )
+                            if(item['originalForm']) {
+                                lexicalData.originalForm = item['originalForm']
+                            } else {
+                                lexicalData.originalForm = item['phonemicizedForm']
+                            }
+                            if(item['phonemicizedForm']) {
+                                lexicalData.phonemicizedForm = item['phonemicizedForm']
+                            } else {
+                                lexicalData.phonemicizedForm = item['originalForm']
+                            }
                             lexicalData.lexicalFeature = lexicalFeature
                             lexicalData.sourceLanguage = language
 
@@ -338,6 +348,12 @@ class DataImporterService {
 
     def createSourceLanguage(languageFamilyName, languageName, caseStudyRegion, languageCache, logOutput) {
 //        println "createSourceLanguage(languageFamilyName: ${languageFamilyName}, languageName: ${languageName}, caseStudyRegion: ${caseStudyRegion})"
+        if(!languageFamilyName) {
+            languageFamilyName = 'UNKNOWN'
+        }
+        if(!languageName) {
+            languageName = 'UNKNOWN'
+        }
         def cacheKey = "${languageFamilyName}||${languageName}"
         def language = languageCache[cacheKey]
         if(!language) {
@@ -385,14 +401,26 @@ class DataImporterService {
                 def category = createLexicalFeatureCategory(meta['category'], logOutput)
                 lexicalFeature = new LexicalFeature(
                     'englishHeadword':meta['englishHeadword'],
-                    'portugueseHeadword': meta['portugueseHeadword'],
-                    'spanishHeadword': meta['spanishHeadword'],
-                    'latinHeadword': meta['latinHeadword'],
+                    'portugueseHeadword': '',
+                    'spanishHeadword': '',
+                    'latinHeadword': '',
                     'frenchHeadword': '',
                     'partOfSpeech':pos,
                     'caseStudyRegion': caseStudyRegion,
-                    'comments': meta['comments']
+                    'comments': ''
                 )
+                if(meta['portugueseHeadword']) {
+                    lexicalFeature.portugueseHeadword = meta['portugueseHeadword']
+                }
+                if(meta['spanishHeadword']) {
+                    lexicalFeature.spanishHeadword = meta['spanishHeadword']
+                }
+                if(meta['latinHeadword']) {
+                    lexicalFeature.latinHeadword = meta['latinHeadword']
+                }
+                if(meta['comments']) {
+                    lexicalFeature.comments = meta['comments']
+                }
                 if(semanticField) {
                     lexicalFeature.semanticField = semanticField
                 }
