@@ -269,6 +269,7 @@ class DataImporterService {
         entries.entry.each() { entry ->
             def meta = [:]
             entry.meta[0].field.each { f ->
+//                println "Name: ${f.'@name'}, Value: ${f.value}"
                 meta[f.'@name'] = getValueFromXMLElement(f)
             }
 
@@ -276,50 +277,52 @@ class DataImporterService {
 
             def lexicalFeature = createLexicalFeature(meta, pos, caseStudyRegion, logOutput);
 
-            entry.item.each { i ->
+            if(lexicalFeature) {
 
-                def item = [:]
-                i.field.each { f ->
-                   item[f.'@name'] = getValueFromXMLElement(f)
-                }
+                entry.item.each { i ->
 
-                def language = createSourceLanguage(item['languageFamily'], item['language'], caseStudyRegion, languageCache, logOutput)
-
-                def lexicalData = LexicalData.findByLexicalFeatureAndSourceLanguage(lexicalFeature, language)
-
-                if(!lexicalData) {
-                    lexicalData = new LexicalData(
-//                        'lexicalFeature': lexicalFeature,
-//                        'sourceLanguage': language,
-                        'originalForm': item['originalForm'],
-                        'phonemicizedForm': item['phonemicizedForm'],
-                        'etymologyNotes': '',
-                        'semanticNotes': '',
-                        'phonologyNotes': '',
-                        'grammaticalNotes': '',
-                        'generalNotes': ''
-                    )
-                    if(lexicalFeature) {
-                        lexicalData.lexicalFeature = lexicalFeature
+                    def item = [:]
+                    i.field.each { f ->
+//                       println "Name: ${f.'@name'}, Value: ${f.value}"
+                       item[f.'@name'] = getValueFromXMLElement(f)
                     }
+
+                    def language = createSourceLanguage(item['languageFamily'], item['language'], caseStudyRegion, languageCache, logOutput)
+
                     if(language) {
-                        lexicalData.sourceLanguage = language
-                    }
 
-                    if(!lexicalData.save(flush:true)) {
-                        lexicalData.errors.each { error ->
-                            logOutput("Error Saving Lexical Data: ${error}")
+                        def lexicalData = LexicalData.findByLexicalFeatureAndSourceLanguage(lexicalFeature, language)
+
+                        if(!lexicalData) {
+                            lexicalData = new LexicalData(
+        //                        'lexicalFeature': lexicalFeature,
+        //                        'sourceLanguage': language,
+                                'originalForm': item['originalForm'],
+                                'phonemicizedForm': item['phonemicizedForm'],
+                                'etymologyNotes': '',
+                                'semanticNotes': '',
+                                'phonologyNotes': '',
+                                'grammaticalNotes': '',
+                                'generalNotes': ''
+                            )
+                            lexicalData.lexicalFeature = lexicalFeature
+                            lexicalData.sourceLanguage = language
+
+                            if(!lexicalData.save(flush:true)) {
+                                lexicalData.errors.each { error ->
+                                    logOutput("Error Saving Lexical Data: ${error}")
+                                }
+                                lexicalData = null
+                            } else {
+                                logOutput("Created Lexical Data: ${lexicalData}")
+                            }
+
+                            if(lexicalData) {
+                                createdObjects << lexicalData
+                            }
                         }
-                        lexicalData = null
-                    } else {
-                        logOutput("Created Lexical Data: ${lexicalData}")
-                    }
-
-                    if(lexicalData) {
-                        createdObjects << lexicalData
                     }
                 }
-
             }
         }
 
@@ -374,33 +377,36 @@ class DataImporterService {
      * Otherwise return it.
      */
     def createLexicalFeature(meta, pos, caseStudyRegion, logOutput) {
-        def lexicalFeature = LexicalFeature.findByEnglishHeadword(meta['englishHeadword'])
-        if(!lexicalFeature) {
-            def semanticField = createSemanticField(meta['semanticField'], logOutput)
-            def category = createLexicalFeatureCategory(meta['category'], logOutput)
-            lexicalFeature = new LexicalFeature(
-                'englishHeadword':meta['englishHeadword'],
-                'portugueseHeadword': meta['portugueseHeadword'],
-                'spanishHeadword': meta['spanishHeadword'],
-                'latinHeadword': meta['latinHeadword'],
-                'frenchHeadword': '',
-                'partOfSpeech':pos,
-                'caseStudyRegion': caseStudyRegion,
-                'comments': meta['comments']
-            )
-            if(semanticField) {
-                lexicalFeature.semanticField = semanticField
-            }
-            if(category) {
-                lexicalFeature.category = category
-            }
-            if(!lexicalFeature.save()) {
-                lexicalFeature.errors.each { error ->
-                    logOutput("Error Saving Lexical Feature: ${error}")
+        def lexicalFeature = null
+        if(meta['englishHeadword']) {
+            lexicalFeature = LexicalFeature.findByEnglishHeadword(meta['englishHeadword'])
+            if(!lexicalFeature) {
+                def semanticField = createSemanticField(meta['semanticField'], logOutput)
+                def category = createLexicalFeatureCategory(meta['category'], logOutput)
+                lexicalFeature = new LexicalFeature(
+                    'englishHeadword':meta['englishHeadword'],
+                    'portugueseHeadword': meta['portugueseHeadword'],
+                    'spanishHeadword': meta['spanishHeadword'],
+                    'latinHeadword': meta['latinHeadword'],
+                    'frenchHeadword': '',
+                    'partOfSpeech':pos,
+                    'caseStudyRegion': caseStudyRegion,
+                    'comments': meta['comments']
+                )
+                if(semanticField) {
+                    lexicalFeature.semanticField = semanticField
                 }
-                lexicalFeature = null
-            } else {
-                logOutput("Created Lexical Feature: ${lexicalFeature}")
+                if(category) {
+                    lexicalFeature.category = category
+                }
+                if(!lexicalFeature.save()) {
+                    lexicalFeature.errors.each { error ->
+                        logOutput("Error Saving Lexical Feature: ${error}")
+                    }
+                    lexicalFeature = null
+                } else {
+                    logOutput("Created Lexical Feature: ${lexicalFeature}")
+                }
             }
         }
         return lexicalFeature
