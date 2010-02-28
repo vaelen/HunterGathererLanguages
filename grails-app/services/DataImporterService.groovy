@@ -20,20 +20,20 @@ class DataImporterService {
      * Convert all of the CSV files in the csv directory to XML files in the
      * xml directory.
      */
-    static convertCSV() {
+    static convertLexicalCSV() {
         def files = []
         new File("csv").eachFileMatch(~/.*\.csv/) { file -> files << file.name.replaceAll(/\.csv/, '') }
-        convertCSV(files)
+        convertLexicalCSV(files)
     }
 
     /**
      * Convert the given list of CSV files (without extensions) in the csv
      * directory to XML files in the xml directory.
      */
-    static convertCSV(files) {
+    static convertLexicalCSV(files) {
         parseSemanticFields()
         files.each { name ->
-            convertCSV(new File("csv/${name}.csv"), new File("xml/${name}.xml"))
+            convertLexicalCSV(new File("csv/${name}.csv"), new File("xml/${name}.xml"))
         }
     }
 
@@ -47,7 +47,7 @@ class DataImporterService {
      * words that are shared between all entries.  These are marked by an
      * empty first column.
      */
-    static convertCSV(File input, File output) {
+    static convertLexicalCSV(File input, File output) {
         def metadata = []
         def records = []
 
@@ -92,7 +92,26 @@ class DataImporterService {
                     def source = third
                     data.eachWithIndex() { value, i ->
                         if(!metaSet) {
-                            records[i]['meta'] = metadata[i]
+                            records[i]['meta'] = ['comments':'']
+                            metadata[i].each { metaKey, metaValue ->
+                                switch(metaKey) {
+                                    case "English":
+                                        records[i]['meta']['englishHeadword'] = metaValue
+                                        break
+                                    case "Portuguese":
+                                        records[i]['meta']['portugueseHeadword'] = metaValue
+                                        break
+                                    case "Spanish":
+                                        records[i]['meta']['spanishHeadword'] = metaValue
+                                        break
+                                    case "Latin":
+                                        records[i]['meta']['latinHeadword'] = metaValue
+                                        break
+                                    default:
+                                        records[i]['meta']['comments'] += metaValue + "\n"
+                                        break
+                                }
+                            }
                             records[i]['meta']['semanticField'] = getSemanticField(metadata[i]['English'], fileName)
                             records[i]['meta']['category'] = getCategory(metadata[i]['English'])
                         }
@@ -151,15 +170,15 @@ class DataImporterService {
         // Then create XML
         output.withWriter('UTF-8') { writer ->
             def builder = new MarkupBuilder(writer)
-            builder.entries {
+            builder.entries('type':'lexical') {
                 records.each { record ->
                     entry {
                         meta {
-                            record['meta'].each {field -> "$field.key"(field.value) }
+                            record['meta'].each {metaKey, metaValue -> field(name:metaKey, metaValue ) }
                         }
                         record['data'].each {d ->
                             item {
-                                d.each { field -> "$field.key"(field.value) }
+                                d.each { fieldKey, fieldValue -> field(name:fieldKey, fieldValue) }
                             }
                         }
                     }
