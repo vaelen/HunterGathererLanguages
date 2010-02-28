@@ -246,6 +246,8 @@ class DataImporterService {
 
         def createdObjects = []
 
+        def languageCache = [:]
+
         def outputBuffer = new StringWriter()
         def output = new PrintWriter(outputBuffer)
 
@@ -265,26 +267,23 @@ class DataImporterService {
         logOutput("Case Study Region: ${caseStudyRegion}")
 
         entries.entry.each() { entry ->
-            def meta = entry.meta
+            def meta = [:]
+            entry.meta[0].field.each { f ->
+                meta[f.'@name'] = getValueFromXMLElement(f)
+            }
 
-            def english = getValueFromXMLElement(meta.English)
-            def portuguese = getValueFromXMLElement(meta.Portuguese)
-            def spanish = getValueFromXMLElement(meta.Spanish)
-            def latin = getValueFromXMLElement(meta.Latin)
-            def comments = getValueFromXMLElement(meta.Distribution) + "\n" + getValueFromXMLElement(meta.Comments)
-            def semanticFieldName = getValueFromXMLElement(meta.semanticField)
-            def categoryName = getValueFromXMLElement(meta.category)
+            println meta
 
-            entry.item.each { item ->
+            def lexicalFeature = createLexicalFeature(meta, pos, caseStudyRegion, logOutput);
 
-                def languageFamilyName = getValueFromXMLElement(item.languageFamily)
-                def languageName = getValueFromXMLElement(item.language)
-                def sourceName = getValueFromXMLElement(item.source)
-                def originalForm = getValueFromXMLElement(item.originalForm)
-                def phonemicizedForm = getValueFromXMLElement(item.phonemicizedForm)
+            entry.item.each { i ->
 
-                def lexicalFeature = createLexicalFeature(english, portuguese, spanish, latin, comments, pos, caseStudyRegion, semanticFieldName, categoryName, logOutput);
-                def language = createSourceLanguage(languageFamilyName, languageName, caseStudyRegion, logOutput)
+                def item = [:]
+                i.field.each { f ->
+                   item[f.'@name'] = getValueFromXMLElement(f)
+                }
+
+                def language = createSourceLanguage(item['languageFamily'], item['language'], caseStudyRegion, languageCache, logOutput)
 
                 def lexicalData = LexicalData.findByLexicalFeatureAndSourceLanguage(lexicalFeature, language)
 
@@ -292,8 +291,8 @@ class DataImporterService {
                     lexicalData = new LexicalData(
 //                        'lexicalFeature': lexicalFeature,
 //                        'sourceLanguage': language,
-                        'originalForm': originalForm,
-                        'phonemicizedForm': phonemicizedForm,
+                        'originalForm': item['originalForm'],
+                        'phonemicizedForm': item['phonemicizedForm'],
                         'etymologyNotes': '',
                         'semanticNotes': '',
                         'phonologyNotes': '',
@@ -307,7 +306,7 @@ class DataImporterService {
                         lexicalData.sourceLanguage = language
                     }
 
-                    if(!lexicalData.save()) {
+                    if(!lexicalData.save(flush:true)) {
                         lexicalData.errors.each { error ->
                             logOutput("Error Saving Lexical Data: ${error}")
                         }
@@ -334,9 +333,16 @@ class DataImporterService {
         return ['output':outputBuffer.toString(), 'lexicalDataList':lexicalDataList, 'createdObjects':createdObjects]
     }
 
-    def createSourceLanguage(languageFamilyName, languageName, caseStudyRegion, logOutput) {
-        println "createSourceLanguage(languageFamilyName: ${languageFamilyName}, languageName: ${languageName}, caseStudyRegion: ${caseStudyRegion})"
-        def language = SourceLanguage.findByFamilyAndName(languageFamilyName, languageName)
+    def createSourceLanguage(languageFamilyName, languageName, caseStudyRegion, languageCache, logOutput) {
+//        println "createSourceLanguage(languageFamilyName: ${languageFamilyName}, languageName: ${languageName}, caseStudyRegion: ${caseStudyRegion})"
+        def cacheKey = "${languageFamilyName}||${languageName}"
+        def language = languageCache[cacheKey]
+        if(!language) {
+            language = SourceLanguage.findByFamilyAndName(languageFamilyName, languageName)
+            if(language) {
+                languageCache[cacheKey] = language
+            }
+        }
         if(!language) {
             language = new SourceLanguage(
                 'family': languageFamilyName,
@@ -357,6 +363,7 @@ class DataImporterService {
                 language = null
             } else {
                 logOutput("Created Source Language: ${language}")
+                languageCache[cacheKey] = language
             }
         }
         return language
@@ -366,20 +373,20 @@ class DataImporterService {
      * Create a given LexicalFeature object if it doesn't already exist.
      * Otherwise return it.
      */
-    def createLexicalFeature(english, portuguese, spanish, latin, comments, pos, caseStudyRegion, semanticFieldName, categoryName, logOutput) {
-        def lexicalFeature = LexicalFeature.findByEnglishHeadword(english)
+    def createLexicalFeature(meta, pos, caseStudyRegion, logOutput) {
+        def lexicalFeature = LexicalFeature.findByEnglishHeadword(meta['englishHeadword'])
         if(!lexicalFeature) {
-            def semanticField = createSemanticField(semanticFieldName, logOutput)
-            def category = createLexicalFeatureCategory(categoryName, logOutput)
+            def semanticField = createSemanticField(meta['semanticField'], logOutput)
+            def category = createLexicalFeatureCategory(meta['category'], logOutput)
             lexicalFeature = new LexicalFeature(
-                'englishHeadword':english,
-                'portugueseHeadword': portuguese,
-                'spanishHeadword': spanish,
-                'latinHeadword': latin,
+                'englishHeadword':meta['englishHeadword'],
+                'portugueseHeadword': meta['portugueseHeadword'],
+                'spanishHeadword': meta['spanishHeadword'],
+                'latinHeadword': meta['latinHeadword'],
                 'frenchHeadword': '',
                 'partOfSpeech':pos,
                 'caseStudyRegion': caseStudyRegion,
-                'comments': comments
+                'comments': meta['comments']
             )
             if(semanticField) {
                 lexicalFeature.semanticField = semanticField
