@@ -6,3 +6,6 @@ Also, the mail.jar that ships with grails can cause conflicts with the one that 
 
 	rm `~/.grails/1.2.0.RC2/projects/HunterGathererLanguages -name mail.jar`
 
+When configuring the database, be sure to use UTF-8.  Using a connection string like the following one should accomplish this for MySQL:
+
+	jdbc:mysql://servername.example.com/hunter_gatherer?useUnicode=yes&characterEncoding=UTF-8
