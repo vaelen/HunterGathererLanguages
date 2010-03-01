@@ -1,3 +1,8 @@
 This application is used to track linguistic information about hunter gatherer languages.
 
 Before running the application you will need to place a valid DataSource.groovy file in the grails-app/conf/ directory.
+
+Also, the mail.jar that ships with grails can cause conflicts with the one that ships with tomcat.  To fix these problems, run this command after compiling the app but before creating the war file (replace 1.2.0.RC2 with the version of grails you are using):
+
+	rm `~/.grails/1.2.0.RC2/projects/HunterGathererLanguages -name mail.jar`
+
