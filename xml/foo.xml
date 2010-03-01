@@ -1,1140 +1,1545 @@
-<entries>
+<entries type='lexical'>
   <entry>
     <meta>
-      <English>agouti (Black agouti, Black-rumped agouti)</English>
-      <Portuguese>cutia</Portuguese>
-      <Spanish>Guatusa Negra, Añuje, Agutí (black-rumped), picure</Spanish>
-      <Latin>Dasyprocta spp.</Latin>
-      <Distribution>Dasyprocta fuliginosa: Amazonia north of Bolivia; Dasyprocta prymnolopha: Brazil only</Distribution>
-      <Comments>InfoNatura website (http://www.natureserve.org/infonatura), Museu Goeldi animals database</Comments>
-      <semanticField>animals</semanticField>
-      <category>OTHER</category>
+      <field name='comments'>Dasyprocta fuliginosa: Amazonia north of Bolivia; Dasyprocta prymnolopha: Brazil only
+InfoNatura website (http://www.natureserve.org/infonatura), Museu Goeldi animals database
+</field>
+      <field name='englishHeadword'>agouti (Black agouti, Black-rumped agouti)</field>
+      <field name='portugueseHeadword'>cutia</field>
+      <field name='spanishHeadword'>Guatusa Negra, Añuje, Agutí (black-rumped), picure</field>
+      <field name='latinHeadword'>Dasyprocta spp.</field>
+      <field name='semanticField'>animals</field>
+      <field name='category'>OTHER</field>
     </meta>
     <item>
-      <languageFamily>Bora-Witoto</languageFamily>
-      <language>Bora boa</language>
-      <source>Aschmann, R. P. 1993.  Proto Witotoan, SIL and University of Texas at Arlington Publications in Linguistics, 114. Dallas: SIL and University of Texas at Arlington.  (entered by Leslie Smith)</source>
-      <originalForm>pɨrḯmïxɨ {añuje}</originalForm>
-      <phonemicizedForm>pɨrɯ́mɯxɨ {añuje}</phonemicizedForm>
+      <field name='languageFamily'>Bora-Witoto</field>
+      <field name='language'>Bora</field>
+      <field name='source'>Aschmann, R. P. 1993.  Proto Witotoan, SIL and University of Texas at Arlington Publications in Linguistics, 114. Dallas: SIL and University of Texas at Arlington.  (entered by Leslie Smith)</field>
+      <field name='originalForm'>pɨrḯmïxɨ {añuje}</field>
+      <field name='phonemicizedForm'>pɨrɯ́mɯxɨ {añuje}</field>
     </item>
     <item>
-      <languageFamily>Bora-Witoto</languageFamily>
-      <language>Muinane bmr</language>
-      <source>Aschmann, R. P. 1993.  Proto Witotoan, SIL and University of Texas at Arlington Publications in Linguistics, 114. Dallas: SIL and University of Texas at Arlington.  (entered by Leslie Smith)</source>
-      <originalForm>ɸáttɨ</originalForm>
-      <phonemicizedForm>ɸáttɨ</phonemicizedForm>
+      <field name='languageFamily'>Bora-Witoto</field>
+      <field name='language'>Muinane bmr</field>
+      <field name='source'>Aschmann, R. P. 1993.  Proto Witotoan, SIL and University of Texas at Arlington Publications in Linguistics, 114. Dallas: SIL and University of Texas at Arlington.  (entered by Leslie Smith)</field>
+      <field name='originalForm'>ɸáttɨ</field>
+      <field name='phonemicizedForm'>ɸáttɨ</field>
     </item>
     <item>
-      <languageFamily>Bora-Witoto</languageFamily>
-      <language>Ocaina oca</language>
-      <source>Aschmann, R. P. 1993.  Proto Witotoan, SIL and University of Texas at Arlington Publications in Linguistics, 114. Dallas: SIL and University of Texas at Arlington. (entered by Leslie Smith)</source>
-      <originalForm>ɸḯḯtʸo, mõõno</originalForm>
-      <phonemicizedForm>ɸɯ́ɯ́tʲo, mõõno</phonemicizedForm>
+      <field name='languageFamily'>Bora-Witoto</field>
+      <field name='language'>Ocaina</field>
+      <field name='source'>Aschmann, R. P. 1993.  Proto Witotoan, SIL and University of Texas at Arlington Publications in Linguistics, 114. Dallas: SIL and University of Texas at Arlington. (entered by Leslie Smith)</field>
+      <field name='originalForm'>ɸḯḯtʸo, mõõno</field>
+      <field name='phonemicizedForm'>ɸɯ́ɯ́tʲo, mõõno</field>
     </item>
     <item>
-      <languageFamily>Bora-Witoto</languageFamily>
-      <language>Nɨpode Huitoto hux</language>
-      <source>Aschmann, R. P. 1993.  Proto Witotoan, SIL and University of Texas at Arlington Publications in Linguistics, 114. Dallas: SIL and University of Texas at Arlington.  (entered by Leslie Smith)</source>
-      <originalForm>mḯgui, okáina</originalForm>
-      <phonemicizedForm>mɯ́gui, okáina</phonemicizedForm>
+      <field name='languageFamily'>Bora-Witoto</field>
+      <field name='language'>Nɨpode Huitoto hux</field>
+      <field name='source'>Aschmann, R. P. 1993.  Proto Witotoan, SIL and University of Texas at Arlington Publications in Linguistics, 114. Dallas: SIL and University of Texas at Arlington.  (entered by Leslie Smith)</field>
+      <field name='originalForm'>mḯgui, okáina</field>
+      <field name='phonemicizedForm'>mɯ́gui, okáina</field>
     </item>
     <item>
-      <languageFamily>Bora-Witoto</languageFamily>
-      <language>Mɨnɨca Huitoto hto</language>
-      <source>Aschmann, R. P. 1993.  Proto Witotoan, SIL and University of Texas at Arlington Publications in Linguistics, 114. Dallas: SIL and University of Texas at Arlington.  (entered by Leslie Smith)</source>
-      <originalForm>mḯgui, ɸḯ.ïdo, okáina</originalForm>
-      <phonemicizedForm>mɯ́gui, ɸɯ́.ɯdo, okáina</phonemicizedForm>
+      <field name='languageFamily'>Bora-Witoto</field>
+      <field name='language'>Mɨnɨca Huitoto hto</field>
+      <field name='source'>Aschmann, R. P. 1993.  Proto Witotoan, SIL and University of Texas at Arlington Publications in Linguistics, 114. Dallas: SIL and University of Texas at Arlington.  (entered by Leslie Smith)</field>
+      <field name='originalForm'>mḯgui, ɸḯ.ïdo, okáina</field>
+      <field name='phonemicizedForm'>mɯ́gui, ɸɯ́.ɯdo, okáina</field>
     </item>
     <item>
-      <languageFamily>Bora-Witoto</languageFamily>
-      <language>Murui Huitoto huu</language>
-      <source>Aschmann, R. P. 1993.  Proto Witotoan, SIL and University of Texas at Arlington Publications in Linguistics, 114. Dallas: SIL and University of Texas at Arlington.  (entered by Leslie Smith)</source>
-      <originalForm>mïgui, ɸïdo, okaina</originalForm>
-      <phonemicizedForm>mɯgui, ɸɯdo, okaina</phonemicizedForm>
+      <field name='languageFamily'>Bora-Witoto</field>
+      <field name='language'>Murui Huitoto huu</field>
+      <field name='source'>Aschmann, R. P. 1993.  Proto Witotoan, SIL and University of Texas at Arlington Publications in Linguistics, 114. Dallas: SIL and University of Texas at Arlington.  (entered by Leslie Smith)</field>
+      <field name='originalForm'>mïgui, ɸïdo, okaina</field>
+      <field name='phonemicizedForm'>mɯgui, ɸɯdo, okaina</field>
     </item>
     <item>
-      <languageFamily>Unclassified</languageFamily>
-      <language>Puinave</language>
-      <source>Mario Girón Higuita. 2008. Una gramática del wã⁄nsöjöt (Puinave).LOT, Utrecht.</source>
-      <originalForm>bo´</originalForm>
-      <phonemicizedForm>poʔ</phonemicizedForm>
+      <field name='languageFamily'>Unclassified</field>
+      <field name='language'>Puinave</field>
+      <field name='source'>Mario Girón Higuita. 2008. Una gramática del wã⁄nsöjöt (Puinave).LOT, Utrecht.</field>
+      <field name='originalForm'>bo´</field>
+      <field name='phonemicizedForm'>poʔ</field>
     </item>
     <item>
-      <languageFamily>Tucanoan</languageFamily>
-      <language>Cubeo (cub) (NM) phonemic</language>
-      <source>Morse, Nancy L., Jay K. Salser and Neva Salser, compilers. 1999. Diccionario ilustrado bilingüe: cubeo—español español—cubeo. Bogotá: Editorial Alberto Lleras Camargo. v, 495 p.
-http://www.sil.org/americas/colombia/pubs/abstract.asp?id=40337</source>
-      <originalForm>ɣʉbʉkakɔ</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Tucanoan</field>
+      <field name='language'>Cubeo</field>
+      <field name='source'>Morse, Nancy L., Jay K. Salser and Neva Salser, compilers. 1999. Diccionario ilustrado bilingüe: cubeo—español español—cubeo. Bogotá: Editorial Alberto Lleras Camargo. v, 495 p.
+http://www.sil.org/americas/colombia/pubs/abstract.asp?id=40337</field>
+      <field name='originalForm'>ɣʉbʉkakɔ</field>
+      <field name='phonemicizedForm'>jʉbʉcaco</field>
     </item>
     <item>
-      <languageFamily>Tucanoan</languageFamily>
-      <language>Cubeo (cub) (NM) orthographic</language>
-      <source>KN</source>
-      <originalForm>jʉbʉcaco</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Tucanoan</field>
+      <field name='language'>Carapana</field>
+      <field name='source'>Metzger, Ronald G., compiler. 2000. Marĩ yaye mena Carapana, yaia yaye mena Español macãrĩcã tuti = Carapana-Español, diccionario de 1000 palabras. Bogotá: Editorial Alberta Lleras Camargo. v, 157 p.</field>
+      <field name='originalForm'>buu, wese buu</field>
+      <field name='phonemicizedForm'>buu, wɛsɛ buu</field>
     </item>
     <item>
-      <languageFamily>Tucanoan</languageFamily>
-      <language>Carapana</language>
-      <source>Metzger, Ronald G., compiler. 2000. Marĩ yaye mena Carapana, yaia yaye mena Español macãrĩcã tuti = Carapana-Español, diccionario de 1000 palabras. Bogotá: Editorial Alberta Lleras Camargo. v, 157 p.</source>
-      <originalForm>buu, wese buu</originalForm>
-      <phonemicizedForm>buu, wɛsɛ buu</phonemicizedForm>
+      <field name='languageFamily'>Tucanoan</field>
+      <field name='language'>Guanano</field>
+      <field name='source'></field>
+      <field name='originalForm'>bo'so</field>
+      <field name='phonemicizedForm'>boʔso</field>
     </item>
     <item>
-      <languageFamily>Tucanoan</languageFamily>
-      <language>Guanano gvc (stenz rev)</language>
-      <source></source>
-      <originalForm>bo'so</originalForm>
-      <phonemicizedForm>boʔso</phonemicizedForm>
+      <field name='languageFamily'>Tucanoan</field>
+      <field name='language'>Macuna</field>
+      <field name='source'>Smothermon, Jeffrey R. and Josephine H. Smothermon, compilers. 1993. Masa ye, gawa ye rãca ãmara tuti (Macuna - español diccionario de 850 palabras). Bogotá: Editorial Alberto Lleras Camargo. 206 p.</field>
+      <field name='originalForm'>bu</field>
+      <field name='phonemicizedForm'>bu</field>
     </item>
     <item>
-      <languageFamily>Tucanoan</languageFamily>
-      <language>Macuna</language>
-      <source>Smothermon, Jeffrey R. and Josephine H. Smothermon, compilers. 1993. Masa ye, gawa ye rãca ãmara tuti (Macuna - español diccionario de 850 palabras). Bogotá: Editorial Alberto Lleras Camargo. 206 p.</source>
-      <originalForm>bu</originalForm>
-      <phonemicizedForm>bu</phonemicizedForm>
+      <field name='languageFamily'>Tucanoan</field>
+      <field name='language'>Piratapuyo</field>
+      <field name='source'>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano.</field>
+      <field name='originalForm'>buu</field>
+      <field name='phonemicizedForm'>NONE</field>
     </item>
     <item>
-      <languageFamily>Tucanoan</languageFamily>
-      <language>Piratapuyo</language>
-      <source>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano.</source>
-      <originalForm>buu</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Tucanoan</field>
+      <field name='language'>Tucano</field>
+      <field name='source'>West, Birdie 1980. Gramática popular del tucano. Bogotá: MG.; Ramirez, Henri. 1996b. A fala tukano dos Ye'pâ-masa. Tomo 2: Dicionário. CEPLA Working Papers in Amerindian Linguistics. Guajará-Mirim: UNIR.</field>
+      <field name='originalForm'>buû</field>
+      <field name='phonemicizedForm'>buû</field>
     </item>
     <item>
-      <languageFamily>Tucanoan</languageFamily>
-      <language>Tucano hr97</language>
-      <source>West, Birdie 1980. Gramática popular del tucano. Bogotá: MG.; Ramirez, Henri. 1996b. A fala tukano dos Ye'pâ-masa. Tomo 2: Dicionário. CEPLA Working Papers in Amerindian Linguistics. Guajará-Mirim: UNIR.</source>
-      <originalForm>buû</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Tucanoan</field>
+      <field name='language'>Tuyuka</field>
+      <field name='source'>Tamayo L., César 1988. Mi primer diccionario: español-tuyuca, tuyuca-español (primera edición), ed. por J. Barnes. Bogotá: ILV.</field>
+      <field name='originalForm'>búu</field>
+      <field name='phonemicizedForm'>búu</field>
     </item>
     <item>
-      <languageFamily>Tucanoan</languageFamily>
-      <language>Tucano</language>
-      <source>AP</source>
-      <originalForm>buû</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Tucanoan</field>
+      <field name='language'>Yuruti</field>
+      <field name='source'>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano.</field>
+      <field name='originalForm'>búu</field>
+      <field name='phonemicizedForm'>búu</field>
     </item>
     <item>
-      <languageFamily>Tucanoan</languageFamily>
-      <language>Tuyuka</language>
-      <source>Tamayo L., César 1988. Mi primer diccionario: español-tuyuca, tuyuca-español (primera edición), ed. por J. Barnes. Bogotá: ILV.</source>
-      <originalForm>búu</originalForm>
-      <phonemicizedForm>búu</phonemicizedForm>
+      <field name='languageFamily'>Tucanoan</field>
+      <field name='language'>Orejon</field>
+      <field name='source'>"Velie, Daniel and Velie Virginia. (2008) (second edition). Vocabulario orejon. Serie Lingüística Peruana No. 16. Yarinacocha, ILV.</field>
+      <field name='originalForm'>codome ago (ago is a copular enclitic which marks female gender), moñeteaco ago, maiteaco ago</field>
+      <field name='phonemicizedForm'>korome ago, moɲeteako ago maiteako ago</field>
     </item>
     <item>
-      <languageFamily>Tucanoan</languageFamily>
-      <language>Yuruti</language>
-      <source>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano.</source>
-      <originalForm>búu</originalForm>
-      <phonemicizedForm>búu</phonemicizedForm>
+      <field name='languageFamily'>Tucanoan</field>
+      <field name='language'>Koreguaje</field>
+      <field name='source'>"Cook, Dorothy and Gralow, Frances. 2001. Diccionario bilingüe: Koreguaje - Español, Español - Koreguaje. Bogotá: Editorial Alberto Lleras Camargo.</field>
+      <field name='originalForm'>vʉ</field>
+      <field name='phonemicizedForm'>bƱ</field>
     </item>
     <item>
-      <languageFamily>Tucanoan</languageFamily>
-      <language>Orejon</language>
-      <source>"Velie, Daniel and Velie Virginia. (2008) (second edition). Vocabulario orejon. Serie Lingüística Peruana No. 16. Yarinacocha, ILV.</source>
-      <originalForm>codome ago (ago is a copular enclitic which marks female gender), moñeteaco ago, maiteaco ago</originalForm>
-      <phonemicizedForm>korome ago, moɲeteako ago maiteako ago</phonemicizedForm>
+      <field name='phonemicizedForm'>´wɨ</field>
     </item>
     <item>
-      <languageFamily>Tucanoan</languageFamily>
-      <language>Koreguaje</language>
-      <source>"Cook, Dorothy and Gralow, Frances. 2001. Diccionario bilingüe: Koreguaje - Español, Español - Koreguaje. Bogotá: Editorial Alberto Lleras Camargo.</source>
-      <originalForm>vʉ</originalForm>
-      <phonemicizedForm>bƱ</phonemicizedForm>
+      <field name='languageFamily'>Isolate</field>
+      <field name='language'>Candoshi</field>
+      <field name='source'>Tuggy, John. 2008. Vocabulario candoshi de Loreto (2da. Ed). Serie Lingüística Peruana no. 2. ILV, Lima.</field>
+      <field name='originalForm'>póllová</field>
+      <field name='phonemicizedForm'>póntʃowá</field>
     </item>
     <item>
-      <phonemicizedForm>´wɨ</phonemicizedForm>
+      <field name='languageFamily'>Isolate</field>
+      <field name='language'>Taushiro</field>
+      <field name='source'>Alicea Ortiz, Neftalí. 1975. Vocabulario taushiro. Datos etnolinguisticos no. 22. ILV, Lima.</field>
+      <field name='originalForm'>vinti</field>
+      <field name='phonemicizedForm'>winti</field>
     </item>
     <item>
-      <languageFamily>Isolate</languageFamily>
-      <language>Candoshi</language>
-      <source>Tuggy, John. 2008. Vocabulario candoshi de Loreto (2da. Ed). Serie Lingüística Peruana no. 2. ILV, Lima.</source>
-      <originalForm>póllová</originalForm>
-      <phonemicizedForm>póntʃowá</phonemicizedForm>
+      <field name='languageFamily'>Yanomam</field>
+      <field name='language'>Ninam</field>
+      <field name='source'>IDS; Gómez, Gale Goodwin 1990. The Shiriana dialect of Yanam (Northern Brazil). Ph.D. diss., Columbia University; Migliazza, Ernest C. 1972. Yanomama grammar and intelligibility; entered by Kelsey Neely</field>
+      <field name='originalForm'>~$ihIna (gom), thõmɨ (EM72)</field>
+      <field name='phonemicizedForm'>~ʃihɯna (gom), tʰõmɨ</field>
     </item>
     <item>
-      <languageFamily>Isolate</languageFamily>
-      <language>Taushiro</language>
-      <source>Alicea Ortiz, Neftalí. 1975. Vocabulario taushiro. Datos etnolinguisticos no. 22. ILV, Lima.</source>
-      <originalForm>vinti</originalForm>
-      <phonemicizedForm>winti</phonemicizedForm>
+      <field name='languageFamily'>Yanomam</field>
+      <field name='language'>Ninam</field>
+      <field name='source'>IDS; Gómez, Gale Goodwin 1990. The Shiriana dialect of Yanam (Northern Brazil). Ph.D. diss., Columbia University; entered by Megan Gibler</field>
+      <field name='originalForm'>~$ihIna (gom)</field>
+      <field name='phonemicizedForm'>~ʃihɯna (gom)</field>
     </item>
     <item>
-      <languageFamily>Yanomam</languageFamily>
-      <language>Ninam (shb) (IDS)</language>
-      <source>IDS; Gómez, Gale Goodwin 1990. The Shiriana dialect of Yanam (Northern Brazil). Ph.D. diss., Columbia University; Migliazza, Ernest C. 1972. Yanomama grammar and intelligibility; entered by Kelsey Neely</source>
-      <originalForm>~$ihIna (gom), thõmɨ (EM72)</originalForm>
-      <phonemicizedForm>~ʃihɯna (gom), tʰõmɨ</phonemicizedForm>
+      <field name='languageFamily'>Yanomam</field>
+      <field name='language'>Yanomam</field>
+      <field name='source'>Migliazza, Ernest C. 1972. Yanomama grammar and intelligibility; Smole, William J. 1976. The Yanoama Indians. University of Texas Press: Austin.; Milliken, William, and Bruce Albert. 1999. Yanomami A Forest People. Royal Botanic Gardens, Kew.; entered by Kelsey Neely</field>
+      <field name='originalForm'>thõmɨ</field>
+      <field name='phonemicizedForm'>tʰõmɨ</field>
     </item>
     <item>
-      <languageFamily>Yanomam</languageFamily>
-      <language>Ninam shb (IDS)</language>
-      <source>IDS; Gómez, Gale Goodwin 1990. The Shiriana dialect of Yanam (Northern Brazil). Ph.D. diss., Columbia University; entered by Megan Gibler</source>
-      <originalForm>~$ihIna (gom)</originalForm>
-      <phonemicizedForm>~ʃihɯna (gom)</phonemicizedForm>
+      <field name='languageFamily'>Yanomam</field>
+      <field name='language'>Yanomami</field>
+      <field name='source'>Mattéi-Müller, Marie-Claude 2007a. Lengua y cultura Yanomamï. Diccionario ilustrado Yanomamï-Español, Español-Yanomamï. Caracas: Epsilon Libros.; Migliazza, Ernest C. 1972. Yanomama grammar and intelligibility; Finkers, Juan. 1986. Los Yanomami y su sistema alimenticio. Vicariato Apostolico de Puerto Ayacucho.; Ramirez, Henri. 1994. Le Parler Yanomamɨ des Xamatauteri. publisher unknown.; entered by Kelsey Neely</field>
+      <field name='originalForm'>thõmɨ, thõmɨmorewë, amotha (JF86)</field>
+      <field name='phonemicizedForm'>tʰõmɨ, tʰõmɨmoɾewə (also means thief), amotʰa</field>
     </item>
     <item>
-      <languageFamily>Yanomam</languageFamily>
-      <language>Yanomam (guu)(EM72)</language>
-      <source>Migliazza, Ernest C. 1972. Yanomama grammar and intelligibility; Smole, William J. 1976. The Yanoama Indians. University of Texas Press: Austin.; Milliken, William, and Bruce Albert. 1999. Yanomami A Forest People. Royal Botanic Gardens, Kew.; entered by Kelsey Neely</source>
-      <originalForm>thõmɨ</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Yanomam</field>
+      <field name='language'>Sanumá</field>
+      <field name='source'>Taylor, Kenneth I. 1972. Sanuma (Yanoama) food prohibitions: the multiple classification of society and fauna. Ph.D. diss. Madison: University of Wisconsin.; Migliazza, Ernest C. 1972. Yanomama grammar and intelligibility; entered by Kelsey Neely</field>
+      <field name='originalForm'>thomɨ a, thomɨ sianana a, thomɨ gɨgɨ (general classification?)</field>
+      <field name='phonemicizedForm'>tʰomɨ a, tʰomɨ sianana a, tʰomɨ kɨkɨ</field>
     </item>
     <item>
-      <languageFamily>Yanomam</languageFamily>
-      <language>Yanomam (guu)(phonemic)</language>
-      <source>Migliazza, Ernest C. 1972. Yanomama grammar and intelligibility; Smole, William J. 1976. The Yanoama Indians. University of Texas Press: Austin.; Milliken, William, and Bruce Albert. 1999. Yanomami A Forest People. Royal Botanic Gardens, Kew.; entered by Kelsey Neely</source>
-      <originalForm>tʰõmɨ</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Carib</field>
+      <field name='language'>Akawaio</field>
+      <field name='source'>Edwards 1980 MAR</field>
+      <field name='originalForm'>aguu</field>
+      <field name='phonemicizedForm'>agu</field>
     </item>
     <item>
-      <languageFamily>Yanomam</languageFamily>
-      <language>Yanomami (wca) (MM 07)</language>
-      <source>Mattéi-Müller, Marie-Claude 2007a. Lengua y cultura Yanomamï. Diccionario ilustrado Yanomamï-Español, Español-Yanomamï. Caracas: Epsilon Libros.; Migliazza, Ernest C. 1972. Yanomama grammar and intelligibility; Finkers, Juan. 1986. Los Yanomami y su sistema alimenticio. Vicariato Apostolico de Puerto Ayacucho.; Ramirez, Henri. 1994. Le Parler Yanomamɨ des Xamatauteri. publisher unknown.; entered by Kelsey Neely</source>
-      <originalForm>thõmɨ, thõmɨmorewë, amotha (JF86)</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Carib</field>
+      <field name='language'>pbh Eñepa</field>
+      <field name='source'>Mattei-Muller 1994, MAR</field>
+      <field name='originalForm'>akuñ (MM)</field>
+      <field name='phonemicizedForm'>akuɲ  (MM)</field>
     </item>
     <item>
-      <languageFamily>Yanomam</languageFamily>
-      <language>Yanomami (wca) (MM 07)(phonemic)</language>
-      <source>Mattéi-Müller, Marie-Claude 2007a. Lengua y cultura Yanomamï. Diccionario ilustrado Yanomamï-Español, Español-Yanomamï. Caracas: Epsilon Libros.; Migliazza, Ernest C. 1972. Yanomama grammar and intelligibility; Finkers, Juan. 1986. Los Yanomami y su sistema alimenticio. Vicariato Apostolico de Puerto Ayacucho.; Ramirez, Henri. 1994. Le Parler Yanomamɨ des Xamatauteri. publisher unknown.; entered by Kelsey Neely</source>
-      <originalForm>tʰõmɨ, tʰõmɨmoɾewə (also means thief), amotʰa</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Carib</field>
+      <field name='language'>Makiritari</field>
+      <field name='source'></field>
+      <field name='originalForm'>aha:dadi (KH)</field>
+      <field name='phonemicizedForm'>aha:dadi (KH)</field>
     </item>
     <item>
-      <languageFamily>Yanomam</languageFamily>
-      <language>Sanumá (xsu) (KT74)(orthographic)</language>
-      <source>Taylor, Kenneth I. 1972. Sanuma (Yanoama) food prohibitions: the multiple classification of society and fauna. Ph.D. diss. Madison: University of Wisconsin.; Migliazza, Ernest C. 1972. Yanomama grammar and intelligibility; entered by Kelsey Neely</source>
-      <originalForm>thomɨ a, thomɨ sianana a, thomɨ gɨgɨ (general classification?)</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Carib</field>
+      <field name='language'>Pemon</field>
+      <field name='source'>Armellada, Cesáreo 1981. Karina Baeza; Edwards 1980. Melody A Ross. Edwards 1977. Melody A Ross</field>
+      <field name='originalForm'>akuurii (E1980)</field>
+      <field name='phonemicizedForm'>akuri (E1980)</field>
     </item>
     <item>
-      <languageFamily>Yanomam</languageFamily>
-      <language>Sanumá (xsu) (KT74)</language>
-      <source>Taylor, Kenneth I. 1972. Sanuma (Yanoama) food prohibitions: the multiple classification of society and fauna. Ph.D. diss. Madison: University of Wisconsin.; Migliazza, Ernest C. 1972. Yanomama grammar and intelligibility; entered by Kelsey Neely</source>
-      <originalForm>tʰomɨ a, tʰomɨ sianana a, tʰomɨ kɨkɨ</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Carib</field>
+      <field name='language'>Waimiri Atroari</field>
+      <field name='source'>Bruno, 2004. Melody A Ross</field>
+      <field name='originalForm'>axiwi</field>
+      <field name='phonemicizedForm'>aʃiwi</field>
     </item>
     <item>
-      <languageFamily>Carib</languageFamily>
-      <language>Akawaio ake Orthographic</language>
-      <source>Edwards 1980 MAR</source>
-      <originalForm>aguu</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Aɾawak</field>
+      <field name='language'>Piapoco (dk95)</field>
+      <field name='source'>Klumpp, Deloris Pharris de. 1995. Vocabulario piapoco-español. Bogotá: ILV.</field>
+      <field name='originalForm'>pí:si  (dp91)</field>
+      <field name='phonemicizedForm'>NONE</field>
     </item>
     <item>
-      <languageFamily>Carib</languageFamily>
-      <language>Akawaio ake Phonemic</language>
-      <source>Edwards 1980 MAR</source>
-      <originalForm>agu</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Arawak</field>
+      <field name='language'>Piapoco (dk95)</field>
+      <field name='source'>Person entering data: AP</field>
+      <field name='originalForm'>píisi  (dp91)</field>
+      <field name='phonemicizedForm'>NONE</field>
     </item>
     <item>
-      <languageFamily>Carib</languageFamily>
-      <language>pbh Eñepa
- IDS orthographic</language>
-      <source>Mattei-Muller 1994, MAR</source>
-      <originalForm>akuñ (MM)</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Arawak</field>
+      <field name='language'>Yucuna (sy05)</field>
+      <field name='source'>Schauer, Junia, compiler, and others. 2005. Meke kemakánaka puráka7aloji: wapura7akó chu, eyá karíwana chu (Diccionario bilingüe: Yukuna - Español; Español - Yukuna). 1st ed. Bogotá: Editorial Fundación para el Desarollo de los Pueblos Marginados. 328 p</field>
+      <field name='originalForm'>pitʃi (dp91)</field>
+      <field name='phonemicizedForm'>pitʃi (dp91)</field>
     </item>
     <item>
-      <languageFamily>Carib</languageFamily>
-      <language>pbh Eñepa IDS phonemic</language>
-      <source>Mattei-Muller 1994, MAR</source>
-      <originalForm>akuɲ  (MM)</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Arawak</field>
+      <field name='language'>Tariana (aa01)</field>
+      <field name='source'>Aikhenvald, Alexandra Y. 2001. Dicionário Tariana-Português e Português-Tariana. Boletim do MPEG 17/1. Belém.</field>
+      <field name='originalForm'>*pítʃi  (dp91), pʰítʃi</field>
+      <field name='phonemicizedForm'>*píči  (dp91), phíči</field>
     </item>
     <item>
-      <languageFamily>Carib</languageFamily>
-      <language>Makiritari (MCH) IDS, (Katherine Hall 1988?) Orthography</language>
-      <source></source>
-      <originalForm>aha:dadi (KH)</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Arawak</field>
+      <field name='language'>Baniwa</field>
+      <field name='source'>Ramirez, Henri. 2001a. Dicionário Baniwa-Português. Manaus: Editora da Universidade do Amazonas.</field>
+      <field name='originalForm'>phíitsi</field>
+      <field name='phonemicizedForm'>phíitsi</field>
     </item>
     <item>
-      <languageFamily>Carib</languageFamily>
-      <language>Makiritari (MCH) IPA</language>
-      <source></source>
-      <originalForm>aha:dadi (KH)</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Arawak</field>
+      <field name='language'>Resígaɾo</field>
+      <field name='source'>Allin, Trevor R .1979. Vocabulario resígaro.  Documento de Trabajo, 16.</field>
+      <field name='originalForm'>pʰíiʔtsí  (dp91)</field>
+      <field name='phonemicizedForm'>NONE</field>
     </item>
     <item>
-      <languageFamily>Carib</languageFamily>
-      <language>Pemon (AOC) Orthography (All entries from CA1981)</language>
-      <source>Armellada, Cesáreo 1981. Karina Baeza; Edwards 1980. Melody A Ross. Edwards 1977. Melody A Ross</source>
-      <originalForm>akuurii (E1980)</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Arawak</field>
+      <field name='language'>Resígaro</field>
+      <field name='source'>Person entering data: AP</field>
+      <field name='originalForm'>phíi?tsí  (dp91)</field>
+      <field name='phonemicizedForm'>NONE</field>
     </item>
     <item>
-      <languageFamily>Carib</languageFamily>
-      <language>Pemon (AOC) IPA (All entries from CA1981)</language>
-      <source>Armellada, Cesáreo 1981. Karina Baeza; Edwards 1980. Melody A Ross. Edwards 1977. Melody A Ross</source>
-      <originalForm>akuri (E1980)</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Arawak</field>
+      <field name='language'>Kabiyari (hr01)</field>
+      <field name='source'>Ramirez, Henri. 2001. Línguas Arawak da Amazônia setentrional: comparação e descrição. Manaus: Editora da Universidade</field>
+      <field name='originalForm'>phíit̪i</field>
+      <field name='phonemicizedForm'>phíit̪i</field>
     </item>
     <item>
-      <languageFamily>Carib</languageFamily>
-      <language>Waimiri Atroari</language>
-      <source>Bruno, 2004. Melody A Ross</source>
-      <originalForm>axiwi</originalForm>
-      <phonemicizedForm>aʃiwi</phonemicizedForm>
+      <field name='languageFamily'>Arawak</field>
+      <field name='language'>Warekena (aa98)</field>
+      <field name='source'>Aikhenvald, Alexandra 1998. Warekena. En: Desmond Derbishire &amp; Geoffrey Pullum (eds.), Handbook of Amazonian Languages, vol. 4: 225-439. Berlín: Mouton de Gruyter.</field>
+      <field name='originalForm'>wajuɺu</field>
+      <field name='phonemicizedForm'>wayuɺu</field>
     </item>
     <item>
-      <languageFamily>Aɾawak</languageFamily>
-      <language>Piapoco (dk95)</language>
-      <source>Klumpp, Deloris Pharris de. 1995. Vocabulario piapoco-español. Bogotá: ILV.</source>
-      <originalForm>pí:si  (dp91)</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Arawak</field>
+      <field name='language'>Yavitero (jm87)</field>
+      <field name='source'>Mosonyi, Jorge Carlos, 1987 El idioma Yavitero, Caracas, Venezuela, 241 pages.</field>
+      <field name='originalForm'>wajútu</field>
+      <field name='phonemicizedForm'>wayútu</field>
     </item>
     <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Piapoco (dk95)</language>
-      <source>Person entering data: AP</source>
-      <originalForm>píisi  (dp91)</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Arawak</field>
+      <field name='language'>Paresi (ab08)</field>
+      <field name='source'>Brandao, Ana Paula</field>
+      <field name='originalForm'>hekere</field>
+      <field name='phonemicizedForm'>hekere</field>
     </item>
     <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Yucuna (sy05)</language>
-      <source>Schauer, Junia, compiler, and others. 2005. Meke kemakánaka puráka7aloji: wapura7akó chu, eyá karíwana chu (Diccionario bilingüe: Yukuna - Español; Español - Yukuna). 1st ed. Bogotá: Editorial Fundación para el Desarollo de los Pueblos Marginados. 328 p</source>
-      <originalForm>pitʃi (dp91)</originalForm>
-      <phonemicizedForm>pitʃi (dp91)</phonemicizedForm>
+      <field name='languageFamily'>Arawak</field>
+      <field name='language'>Wapishana (ms95)</field>
+      <field name='source'>Santos, Manuel Gomes dos . 2006. Uma gramática do Wapixana (Aruak): aspectos da fonologia, da morfologia e da sintaxe. Tese de doutorado. Campinas, SP: UNICAMP</field>
+      <field name='originalForm'>sukuɽɨ</field>
+      <field name='phonemicizedForm'>sukuɽɨ</field>
     </item>
     <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Tariana (aa01)</language>
-      <source>Aikhenvald, Alexandra Y. 2001. Dicionário Tariana-Português e Português-Tariana. Boletim do MPEG 17/1. Belém.</source>
-      <originalForm>*pítʃi  (dp91), pʰítʃi</originalForm>
-      <phonemicizedForm>*píči  (dp91), phíči</phonemicizedForm>
+      <field name='languageFamily'>Arawak</field>
+      <field name='language'>Mandawaka (hr01)</field>
+      <field name='source'>Ramirez, Henri. 2001. Línguas Arawak da Amazônia setentrional: comparação e descrição. Manaus: Editora da Universidade</field>
+      <field name='originalForm'>híʒi</field>
+      <field name='phonemicizedForm'>híʒi</field>
     </item>
     <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Baniwa (hr01a)</language>
-      <source>Ramirez, Henri. 2001a. Dicionário Baniwa-Português. Manaus: Editora da Universidade do Amazonas.</source>
-      <originalForm>phíitsi</originalForm>
-      <phonemicizedForm>phíitsi</phonemicizedForm>
+      <field name='languageFamily'>Arawak</field>
+      <field name='language'>Proto-Arawak</field>
+      <field name='source'></field>
+      <field name='originalForm'>pʰɨkɨli  (dp91)</field>
+      <field name='phonemicizedForm'>NONE</field>
     </item>
     <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Resígaɾo (ta79)</language>
-      <source>Allin, Trevor R .1979. Vocabulario resígaro.  Documento de Trabajo, 16.</source>
-      <originalForm>pʰíiʔtsí  (dp91)</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Jivaro</field>
+      <field name='language'>Ashuar</field>
+      <field name='source'>Fast, Gerhard; Warkentin de Fast, Ruby and Fast, Daniel. 1996. Diccionario Shiwiar-Ashuar-Castellano. Serie Lingüística Peruana No. 36. Yarinacocha, ILV.</field>
+      <field name='originalForm'>káyuk, agutí</field>
+      <field name='phonemicizedForm'>kajuk, aguti</field>
     </item>
     <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Resígaro (ta79)</language>
-      <source>Person entering data: AP</source>
-      <originalForm>phíi?tsí  (dp91)</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Jivaro</field>
+      <field name='language'>Huambisa</field>
+      <field name='source'>Jakway, Martha (recop.). 1987 (2nd.ed.). Vocabulario huambisa.Serie Lingüística peruana no. 24 Lima, ILV.</field>
+      <field name='originalForm'>kayuk</field>
+      <field name='phonemicizedForm'>kajuk</field>
     </item>
     <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Kabiyari (hr01)</language>
-      <source>Ramirez, Henri. 2001. Línguas Arawak da Amazônia setentrional: comparação e descrição. Manaus: Editora da Universidade</source>
-      <originalForm>phíit̪i</originalForm>
-      <phonemicizedForm>phíit̪i</phonemicizedForm>
+      <field name='languageFamily'>Jivaro</field>
+      <field name='language'>Aguaruna</field>
+      <field name='source'>Wipio, Gerardo (recop.). (1996). Diccionario aguaruna-castellano, castellano-aguaruna.ILV, Lima.</field>
+      <field name='originalForm'>káyuk(a)</field>
+      <field name='phonemicizedForm'>kájuk(a)</field>
     </item>
     <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Warekena (aa98)</language>
-      <source>Aikhenvald, Alexandra 1998. Warekena. En: Desmond Derbishire &amp; Geoffrey Pullum (eds.), Handbook of Amazonian Languages, vol. 4: 225-439. Berlín: Mouton de Gruyter.</source>
-      <originalForm>wajuɺu</originalForm>
-      <phonemicizedForm>wayuɺu</phonemicizedForm>
+      <field name='languageFamily'>Isolate</field>
+      <field name='language'>Páez</field>
+      <field name='source'></field>
+      <field name='originalForm'>ñu´py le´chcŭe (le´chcŭe=small)</field>
+      <field name='phonemicizedForm'>NONE</field>
     </item>
     <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Yavitero (jm87)</language>
-      <source>Mosonyi, Jorge Carlos, 1987 El idioma Yavitero, Caracas, Venezuela, 241 pages.</source>
-      <originalForm>wajútu</originalForm>
-      <phonemicizedForm>wayútu</phonemicizedForm>
+      <field name='languageFamily'>Peba-Yaguan</field>
+      <field name='language'>Yagua</field>
+      <field name='source'>Powlison, Paul (recop.). (1995). Diccionario yagua-castellano. Serie Lingüística Peruana no. 35. ILV, Lima.</field>
+      <field name='originalForm'>mutu</field>
+      <field name='phonemicizedForm'>mutu</field>
     </item>
     <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Paresi (ab08)</language>
-      <source>Brandao, Ana Paula</source>
-      <originalForm>hekere</originalForm>
-      <phonemicizedForm>hekere</phonemicizedForm>
+      <field name='languageFamily'>Tupi-Guarani</field>
+      <field name='language'>Nheengatu</field>
+      <field name='source'>John Blaha (Grenand)</field>
+      <field name='originalForm'>akuti, akutia</field>
+      <field name='phonemicizedForm'>akuti, akutia</field>
     </item>
     <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Wapishana (ms95)</language>
-      <source>Santos, Manuel Gomes dos . 2006. Uma gramática do Wapixana (Aruak): aspectos da fonologia, da morfologia e da sintaxe. Tese de doutorado. Campinas, SP: UNICAMP</source>
-      <originalForm>sukuɽɨ</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='language'>Yuhup</field>
+      <field name='source'>Martins, Valteir. 2005. Reconstrução fonológica do Protomaku Oriental [Phonological reconstruction of eastern Protomaku]. Ph. D. diss., Vrije Universiteit, Amsterdam. Amsterdam: LOT. AP</field>
+      <field name='originalForm'>bɛ̃̂t</field>
+      <field name='phonemicizedForm'>NONE</field>
     </item>
     <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Wapishana (ms95) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>sukuɽɨ</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='language'>Dâw</field>
+      <field name='source'>Martins, Valteir. 2005. Reconstrução fonológica do Protomaku Oriental [Phonological reconstruction of eastern Protomaku]. Ph. D. diss., Vrije Universiteit, Amsterdam. Amsterdam: LOT. AP</field>
+      <field name='originalForm'>mɛ̃̌t</field>
+      <field name='phonemicizedForm'>NONE</field>
     </item>
     <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Mandawaka (hr01)</language>
-      <source>Ramirez, Henri. 2001. Línguas Arawak da Amazônia setentrional: comparação e descrição. Manaus: Editora da Universidade</source>
-      <originalForm>híʒi</originalForm>
-      <phonemicizedForm>híʒi</phonemicizedForm>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='language'>Nadêb Rç</field>
+      <field name='source'>Martins, Valteir. 2005. Reconstrução fonológica do Protomaku Oriental [Phonological reconstruction of eastern Protomaku]. Ph. D. diss., Vrije Universiteit, Amsterdam. Amsterdam: LOT. [ɨ is written ɯ in Martins]; Martins, Senn. Nadeb lexicon, ms; Weir, E.M. Helen 1984. A negação e outros tópicos da gramática Nadëb. Dissertação de Mestrado em Lingüística. Campinas: IEL-UNICAMP. AP</field>
+      <field name='originalForm'>majãːw</field>
+      <field name='phonemicizedForm'>NONE</field>
     </item>
     <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Proto-Arawak</language>
-      <source></source>
-      <originalForm>pʰɨkɨli  (dp91)</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='language'>Nadeb RN</field>
+      <field name='source'>Martins, Valteir. 2005. Reconstrução fonológica do Protomaku Oriental [Phonological reconstruction of eastern Protomaku]. Ph. D. diss., Vrije Universiteit, Amsterdam. Amsterdam: LOT. AP</field>
+      <field name='originalForm'>mijãːw</field>
+      <field name='phonemicizedForm'>NONE</field>
     </item>
     <item>
-      <languageFamily>Jivaro</languageFamily>
-      <language>Ashuar</language>
-      <source>Fast, Gerhard; Warkentin de Fast, Ruby and Fast, Daniel. 1996. Diccionario Shiwiar-Ashuar-Castellano. Serie Lingüística Peruana No. 36. Yarinacocha, ILV.</source>
-      <originalForm>káyuk, agutí</originalForm>
-      <phonemicizedForm>kajuk, aguti</phonemicizedForm>
+      <field name='languageFamily'>Guahiban</field>
+      <field name='language'>Guayabero</field>
+      <field name='source'>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano. AP</field>
+      <field name='originalForm'>bɨl</field>
+      <field name='phonemicizedForm'>NONE</field>
     </item>
     <item>
-      <languageFamily>Jivaro</languageFamily>
-      <language>Huambisa</language>
-      <source>Jakway, Martha (recop.). 1987 (2nd.ed.). Vocabulario huambisa.Serie Lingüística peruana no. 24 Lima, ILV.</source>
-      <originalForm>kayuk</originalForm>
-      <phonemicizedForm>kajuk</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Jivaro</languageFamily>
-      <language>Aguaruna</language>
-      <source>Wipio, Gerardo (recop.). (1996). Diccionario aguaruna-castellano, castellano-aguaruna.ILV, Lima.</source>
-      <originalForm>káyuk(a)</originalForm>
-      <phonemicizedForm>kájuk(a)</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Isolate</languageFamily>
-      <language>Páez</language>
-      <source></source>
-      <originalForm>ñu´py le´chcŭe (le´chcŭe=small)</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Peba-Yaguan</languageFamily>
-      <language>Yagua</language>
-      <source>Powlison, Paul (recop.). (1995). Diccionario yagua-castellano. Serie Lingüística Peruana no. 35. ILV, Lima.</source>
-      <originalForm>mutu</originalForm>
-      <phonemicizedForm>mutu</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Tupi-Guarani</languageFamily>
-      <language>Nheengatu</language>
-      <source>John Blaha (Grenand)</source>
-      <originalForm>akuti, akutia</originalForm>
-      <phonemicizedForm>akuti, akutia</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Nadahup</languageFamily>
-      <language>Yuhup</language>
-      <source>Martins, Valteir. 2005. Reconstrução fonológica do Protomaku Oriental [Phonological reconstruction of eastern Protomaku]. Ph. D. diss., Vrije Universiteit, Amsterdam. Amsterdam: LOT. AP</source>
-      <originalForm>bɛ̃̂t</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Nadahup</languageFamily>
-      <language>Dâw</language>
-      <source>Martins, Valteir. 2005. Reconstrução fonológica do Protomaku Oriental [Phonological reconstruction of eastern Protomaku]. Ph. D. diss., Vrije Universiteit, Amsterdam. Amsterdam: LOT. AP</source>
-      <originalForm>mɛ̃̌t</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Nadahup</languageFamily>
-      <language>Nadêb Rç</language>
-      <source>Martins, Valteir. 2005. Reconstrução fonológica do Protomaku Oriental [Phonological reconstruction of eastern Protomaku]. Ph. D. diss., Vrije Universiteit, Amsterdam. Amsterdam: LOT. [ɨ is written ɯ in Martins]; Martins, Senn. Nadeb lexicon, ms; Weir, E.M. Helen 1984. A negação e outros tópicos da gramática Nadëb. Dissertação de Mestrado em Lingüística. Campinas: IEL-UNICAMP. AP</source>
-      <originalForm>majãːw</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Nadahup</languageFamily>
-      <language>Nadeb RN</language>
-      <source>Martins, Valteir. 2005. Reconstrução fonológica do Protomaku Oriental [Phonological reconstruction of eastern Protomaku]. Ph. D. diss., Vrije Universiteit, Amsterdam. Amsterdam: LOT. AP</source>
-      <originalForm>mijãːw</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Guahiban</languageFamily>
-      <language>Guayabero</language>
-      <source>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano. AP</source>
-      <originalForm>bɨl</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Isolate</languageFamily>
-      <language>Huaorani</language>
-      <source>Summer Institute of Lingusitics 1959</source>
-      <originalForm>kóba (variety of agouti)</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Isolate</field>
+      <field name='language'>Huaorani</field>
+      <field name='source'>Summer Institute of Lingusitics 1959</field>
+      <field name='originalForm'>kóba (variety of agouti)</field>
+      <field name='phonemicizedForm'>NONE</field>
     </item>
   </entry>
   <entry>
     <meta>
-      <English>Green Acouchi</English>
-      <Portuguese>cutiara</Portuguese>
-      <Spanish>Guatín, Punchana Guatín, Punchana, curi, picurito rabudo, picurito rabilargo</Spanish>
-      <Latin>Myoprocta pratti</Latin>
-      <Distribution>Amazonia west of Rio Branco [InfoNat shows absent from Rio Negro, but this seems to be false]</Distribution>
-      <Comments>InfoNat</Comments>
-      <semanticField>animals</semanticField>
-      <category>OTHER</category>
+      <field name='comments'>Amazonia west of Rio Branco [InfoNat shows absent from Rio Negro, but this seems to be false]
+InfoNat
+</field>
+      <field name='englishHeadword'>Green Acouchi</field>
+      <field name='portugueseHeadword'>cutiara</field>
+      <field name='spanishHeadword'>Guatín, Punchana Guatín, Punchana, curi, picurito rabudo, picurito rabilargo</field>
+      <field name='latinHeadword'>Myoprocta pratti</field>
+      <field name='semanticField'>animals</field>
+      <field name='category'>OTHER</field>
     </meta>
     <item>
-      <languageFamily>Tucanoan</languageFamily>
-      <language>Cubeo (cub) (NM) phonemic</language>
-      <source>Morse, Nancy L., Jay K. Salser and Neva Salser, compilers. 1999. Diccionario ilustrado bilingüe: cubeo—español español—cubeo. Bogotá: Editorial Alberto Lleras Camargo. v, 495 p.
-http://www.sil.org/americas/colombia/pubs/abstract.asp?id=40337</source>
-      <originalForm>buɨ</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Tucanoan</field>
+      <field name='language'>Cubeo</field>
+      <field name='source'>Morse, Nancy L., Jay K. Salser and Neva Salser, compilers. 1999. Diccionario ilustrado bilingüe: cubeo—español español—cubeo. Bogotá: Editorial Alberto Lleras Camargo. v, 495 p.
+http://www.sil.org/americas/colombia/pubs/abstract.asp?id=40337</field>
+      <field name='originalForm'>buɨ</field>
+      <field name='phonemicizedForm'>buʉ</field>
     </item>
     <item>
-      <languageFamily>Tucanoan</languageFamily>
-      <language>Cubeo (cub) (NM) orthographic</language>
-      <source>KN</source>
-      <originalForm>buʉ</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Tucanoan</field>
+      <field name='language'>Tucano</field>
+      <field name='source'>West, Birdie 1980. Gramática popular del tucano. Bogotá: MG.; Ramirez, Henri. 1996b. A fala tukano dos Ye'pâ-masa. Tomo 2: Dicionário. CEPLA Working Papers in Amerindian Linguistics. Guajará-Mirim: UNIR.</field>
+      <field name='originalForm'>bosô</field>
+      <field name='phonemicizedForm'>bosô</field>
     </item>
     <item>
-      <languageFamily>Tucanoan</languageFamily>
-      <language>Tucano hr97</language>
-      <source>West, Birdie 1980. Gramática popular del tucano. Bogotá: MG.; Ramirez, Henri. 1996b. A fala tukano dos Ye'pâ-masa. Tomo 2: Dicionário. CEPLA Working Papers in Amerindian Linguistics. Guajará-Mirim: UNIR.</source>
-      <originalForm>bosô</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Tucanoan</field>
+      <field name='language'>Orejon</field>
+      <field name='source'>"Velie, Daniel and Velie Virginia. (2008) (second edition). Vocabulario orejon. Serie Lingüística Peruana No. 16. Yarinacocha, ILV.</field>
+      <field name='originalForm'>quɨña ago, maso ago</field>
+      <field name='phonemicizedForm'>kɨɲa ago, maso ago</field>
     </item>
     <item>
-      <languageFamily>Tucanoan</languageFamily>
-      <language>Tucano</language>
-      <source>AP</source>
-      <originalForm>bosô</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Tucanoan</field>
+      <field name='language'>Koreguaje</field>
+      <field name='source'>"Cook, Dorothy and Gralow, Frances. 2001. Diccionario bilingüe: Koreguaje - Español, Español - Koreguaje. Bogotá: Editorial Alberto Lleras Camargo.</field>
+      <field name='originalForm'>vʉ</field>
+      <field name='phonemicizedForm'>bƱ</field>
     </item>
     <item>
-      <languageFamily>Tucanoan</languageFamily>
-      <language>Orejon</language>
-      <source>"Velie, Daniel and Velie Virginia. (2008) (second edition). Vocabulario orejon. Serie Lingüística Peruana No. 16. Yarinacocha, ILV.</source>
-      <originalForm>quɨña ago, maso ago</originalForm>
-      <phonemicizedForm>kɨɲa ago, maso ago</phonemicizedForm>
+      <field name='languageFamily'>Tucanoan</field>
+      <field name='language'>Desano</field>
+      <field name='source'></field>
+      <field name='originalForm'>bui</field>
+      <field name='phonemicizedForm'>bui</field>
     </item>
     <item>
-      <languageFamily>Tucanoan</languageFamily>
-      <language>Koreguaje</language>
-      <source>"Cook, Dorothy and Gralow, Frances. 2001. Diccionario bilingüe: Koreguaje - Español, Español - Koreguaje. Bogotá: Editorial Alberto Lleras Camargo.</source>
-      <originalForm>vʉ</originalForm>
-      <phonemicizedForm>bƱ</phonemicizedForm>
+      <field name='languageFamily'>Isolate</field>
+      <field name='language'>Taushiro</field>
+      <field name='source'>Alicea Ortiz, Neftalí. 1975. Vocabulario taushiro. Datos etnolinguisticos no. 22. ILV, Lima.</field>
+      <field name='originalForm'>unti´chi</field>
+      <field name='phonemicizedForm'>untiʔʃi</field>
     </item>
     <item>
-      <languageFamily>Tucanoan</languageFamily>
-      <language>Desano</language>
-      <source></source>
-      <originalForm>bui</originalForm>
-      <phonemicizedForm>bui</phonemicizedForm>
+      <field name='languageFamily'>Yanomam</field>
+      <field name='language'>Yanomami</field>
+      <field name='source'>Mattéi-Müller, Marie-Claude 2007a. Lengua y cultura Yanomamï. Diccionario ilustrado Yanomamï-Español, Español-Yanomamï. Caracas: Epsilon Libros.; Migliazza, Ernest C. 1972. Yanomama grammar and intelligibility; Finkers, Juan. 1986. Los Yanomami y su sistema alimenticio. Vicariato Apostolico de Puerto Ayacucho.; Ramirez, Henri. 1994. Le Parler Yanomamɨ des Xamatauteri. publisher unknown.; entered by Kelsey Neely</field>
+      <field name='originalForm'>shihena</field>
+      <field name='phonemicizedForm'>ʃihena</field>
     </item>
     <item>
-      <languageFamily>Isolate</languageFamily>
-      <language>Taushiro</language>
-      <source>Alicea Ortiz, Neftalí. 1975. Vocabulario taushiro. Datos etnolinguisticos no. 22. ILV, Lima.</source>
-      <originalForm>unti´chi</originalForm>
-      <phonemicizedForm>untiʔʃi</phonemicizedForm>
+      <field name='languageFamily'>Arawak</field>
+      <field name='language'>Yucuna (sy05)</field>
+      <field name='source'>Schauer, Junia, compiler, and others. 2005. Meke kemakánaka puráka7aloji: wapura7akó chu, eyá karíwana chu (Diccionario bilingüe: Yukuna - Español; Español - Yukuna). 1st ed. Bogotá: Editorial Fundación para el Desarollo de los Pueblos Marginados. 328 p</field>
+      <field name='originalForm'>pʰitʃí</field>
+      <field name='phonemicizedForm'>phichí</field>
     </item>
     <item>
-      <languageFamily>Yanomam</languageFamily>
-      <language>Yanomami (wca) (MM 07)</language>
-      <source>Mattéi-Müller, Marie-Claude 2007a. Lengua y cultura Yanomamï. Diccionario ilustrado Yanomamï-Español, Español-Yanomamï. Caracas: Epsilon Libros.; Migliazza, Ernest C. 1972. Yanomama grammar and intelligibility; Finkers, Juan. 1986. Los Yanomami y su sistema alimenticio. Vicariato Apostolico de Puerto Ayacucho.; Ramirez, Henri. 1994. Le Parler Yanomamɨ des Xamatauteri. publisher unknown.; entered by Kelsey Neely</source>
-      <originalForm>shihena</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Arawak</field>
+      <field name='language'>Baniwa</field>
+      <field name='source'>Ramirez, Henri. 2001a. Dicionário Baniwa-Português. Manaus: Editora da Universidade do Amazonas.</field>
+      <field name='originalForm'>póot̪o</field>
+      <field name='phonemicizedForm'>póotto</field>
     </item>
     <item>
-      <languageFamily>Yanomam</languageFamily>
-      <language>Yanomami (wca) (MM 07)(phonemic)</language>
-      <source>Mattéi-Müller, Marie-Claude 2007a. Lengua y cultura Yanomamï. Diccionario ilustrado Yanomamï-Español, Español-Yanomamï. Caracas: Epsilon Libros.; Migliazza, Ernest C. 1972. Yanomama grammar and intelligibility; Finkers, Juan. 1986. Los Yanomami y su sistema alimenticio. Vicariato Apostolico de Puerto Ayacucho.; Ramirez, Henri. 1994. Le Parler Yanomamɨ des Xamatauteri. publisher unknown.; entered by Kelsey Neely</source>
-      <originalForm>ʃihena</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Arawak</field>
+      <field name='language'>Kabiyari (hr01)</field>
+      <field name='source'>Ramirez, Henri. 2001. Línguas Arawak da Amazônia setentrional: comparação e descrição. Manaus: Editora da Universidade</field>
+      <field name='originalForm'>púut̪u</field>
+      <field name='phonemicizedForm'>púut̪u</field>
     </item>
     <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Yucuna (sy05)</language>
-      <source>Schauer, Junia, compiler, and others. 2005. Meke kemakánaka puráka7aloji: wapura7akó chu, eyá karíwana chu (Diccionario bilingüe: Yukuna - Español; Español - Yukuna). 1st ed. Bogotá: Editorial Fundación para el Desarollo de los Pueblos Marginados. 328 p</source>
-      <originalForm>pʰitʃí</originalForm>
-      <phonemicizedForm>phichí</phonemicizedForm>
+      <field name='languageFamily'>Jivaro</field>
+      <field name='language'>Ashuar</field>
+      <field name='source'>Fast, Gerhard; Warkentin de Fast, Ruby and Fast, Daniel. 1996. Diccionario Shiwiar-Ashuar-Castellano. Serie Lingüística Peruana No. 36. Yarinacocha, ILV.</field>
+      <field name='originalForm'>yungkíts</field>
+      <field name='phonemicizedForm'>juŋkits</field>
     </item>
     <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Baniwa (hr01a)</language>
-      <source>Ramirez, Henri. 2001a. Dicionário Baniwa-Português. Manaus: Editora da Universidade do Amazonas.</source>
-      <originalForm>póot̪o</originalForm>
-      <phonemicizedForm>póotto</phonemicizedForm>
+      <field name='languageFamily'>Jivaro</field>
+      <field name='language'>Huambisa</field>
+      <field name='source'>Jakway, Martha (recop.). 1987 (2nd.ed.). Vocabulario huambisa.Serie Lingüística peruana no. 24 Lima, ILV.</field>
+      <field name='originalForm'>yagkits</field>
+      <field name='phonemicizedForm'>jaŋgkits</field>
     </item>
     <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Kabiyari (hr01)</language>
-      <source>Ramirez, Henri. 2001. Línguas Arawak da Amazônia setentrional: comparação e descrição. Manaus: Editora da Universidade</source>
-      <originalForm>púut̪u</originalForm>
-      <phonemicizedForm>púut̪u</phonemicizedForm>
+      <field name='languageFamily'>Quechua</field>
+      <field name='language'>Inga</field>
+      <field name='source'>Tandioy, Domingo, Stephen Levinsohn and Alonso Maffla (comp). 1997. Diccionario Inga-Español.</field>
+      <field name='originalForm'>kui</field>
+      <field name='phonemicizedForm'>NONE</field>
     </item>
     <item>
-      <languageFamily>Jivaro</languageFamily>
-      <language>Ashuar</language>
-      <source>Fast, Gerhard; Warkentin de Fast, Ruby and Fast, Daniel. 1996. Diccionario Shiwiar-Ashuar-Castellano. Serie Lingüística Peruana No. 36. Yarinacocha, ILV.</source>
-      <originalForm>yungkíts</originalForm>
-      <phonemicizedForm>juŋkits</phonemicizedForm>
+      <field name='languageFamily'>Isolate</field>
+      <field name='language'>Páez</field>
+      <field name='source'></field>
+      <field name='originalForm'>lanzh, ñu´py le´chcŭe</field>
+      <field name='phonemicizedForm'>NONE</field>
     </item>
     <item>
-      <languageFamily>Jivaro</languageFamily>
-      <language>Huambisa</language>
-      <source>Jakway, Martha (recop.). 1987 (2nd.ed.). Vocabulario huambisa.Serie Lingüística peruana no. 24 Lima, ILV.</source>
-      <originalForm>yagkits</originalForm>
-      <phonemicizedForm>jaŋgkits</phonemicizedForm>
+      <field name='languageFamily'>Peba-Yaguan</field>
+      <field name='language'>Yagua</field>
+      <field name='source'>Powlison, Paul (recop.). (1995). Diccionario yagua-castellano. Serie Lingüística Peruana no. 35. ILV, Lima.</field>
+      <field name='originalForm'>mucosiy</field>
+      <field name='phonemicizedForm'>mukõsij</field>
     </item>
     <item>
-      <languageFamily>Quechua</languageFamily>
-      <language>Inga</language>
-      <source>Tandioy, Domingo, Stephen Levinsohn and Alonso Maffla (comp). 1997. Diccionario Inga-Español.</source>
-      <originalForm>kui</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Tupi-Guarani</field>
+      <field name='language'>Nheengatu</field>
+      <field name='source'>John Blaha (Grenand)</field>
+      <field name='originalForm'>akuti waya (akuti=cutia, waya=rabo, doesn't match specfically, same genus)</field>
+      <field name='phonemicizedForm'>akuti waya (akuti=cutia, waya=rabo, doesn't match specfically, same genus)</field>
     </item>
     <item>
-      <languageFamily>Isolate</languageFamily>
-      <language>Páez</language>
-      <source></source>
-      <originalForm>lanzh, ñu´py le´chcŭe</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='language'>Nadêb Rç</field>
+      <field name='source'>Martins, Valteir. 2005. Reconstrução fonológica do Protomaku Oriental [Phonological reconstruction of eastern Protomaku]. Ph. D. diss., Vrije Universiteit, Amsterdam. Amsterdam: LOT. [ɨ is written ɯ in Martins]; Martins, Senn. Nadeb lexicon, ms; Weir, E.M. Helen 1984. A negação e outros tópicos da gramática Nadëb. Dissertação de Mestrado em Lingüística. Campinas: IEL-UNICAMP. AP</field>
+      <field name='originalForm'>bahe</field>
+      <field name='phonemicizedForm'>NONE</field>
     </item>
     <item>
-      <languageFamily>Peba-Yaguan</languageFamily>
-      <language>Yagua</language>
-      <source>Powlison, Paul (recop.). (1995). Diccionario yagua-castellano. Serie Lingüística Peruana no. 35. ILV, Lima.</source>
-      <originalForm>mucosiy</originalForm>
-      <phonemicizedForm>mukõsij</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Tupi-Guarani</languageFamily>
-      <language>Nheengatu</language>
-      <source>John Blaha (Grenand)</source>
-      <originalForm>akuti waya (akuti=cutia, waya=rabo, doesn't match specfically, same genus)</originalForm>
-      <phonemicizedForm>akuti waya (akuti=cutia, waya=rabo, doesn't match specfically, same genus)</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Nadahup</languageFamily>
-      <language>Nadêb Rç</language>
-      <source>Martins, Valteir. 2005. Reconstrução fonológica do Protomaku Oriental [Phonological reconstruction of eastern Protomaku]. Ph. D. diss., Vrije Universiteit, Amsterdam. Amsterdam: LOT. [ɨ is written ɯ in Martins]; Martins, Senn. Nadeb lexicon, ms; Weir, E.M. Helen 1984. A negação e outros tópicos da gramática Nadëb. Dissertação de Mestrado em Lingüística. Campinas: IEL-UNICAMP. AP</source>
-      <originalForm>bahe</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
-    </item>
-    <item>
-      <languageFamily>Guahiban</languageFamily>
-      <language>Macaguan</language>
-      <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
-      <originalForm>bʉn</originalForm>
-      <phonemicizedForm>bɨn</phonemicizedForm>
+      <field name='languageFamily'>Guahiban</field>
+      <field name='language'>Macaguan</field>
+      <field name='source'>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</field>
+      <field name='originalForm'>bʉn</field>
+      <field name='phonemicizedForm'>bɨn</field>
     </item>
   </entry>
   <entry>
     <meta>
-      <English>alligator</English>
-      <Portuguese>jacaré</Portuguese>
-      <Spanish>babilla; cachirre</Spanish>
-      <Latin>genus Alligator</Latin>
-      <Distribution></Distribution>
-      <Comments></Comments>
-      <semanticField>animals</semanticField>
-      <category>OTHER</category>
+      <field name='comments'>
+
+</field>
+      <field name='englishHeadword'>alligator</field>
+      <field name='portugueseHeadword'>jacaré</field>
+      <field name='spanishHeadword'>babilla; cachirre</field>
+      <field name='latinHeadword'>genus Alligator</field>
+      <field name='semanticField'>animals</field>
+      <field name='category'>OTHER</field>
     </meta>
     <item>
-      <languageFamily>Bora-Witoto</languageFamily>
-      <language>Bora (T98)</language>
-      <source></source>
-      <originalForm>nihba (caiman)</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Bora-Witoto</field>
+      <field name='language'>Bora (T98)</field>
+      <field name='source'></field>
+      <field name='originalForm'>nihba (caiman)</field>
+      <field name='phonemicizedForm'>NONE</field>
     </item>
     <item>
-      <languageFamily>Bora-Witoto</languageFamily>
-      <language>Ocaina oca (Leach)</language>
-      <source>Leach, Ilo M. 1969. Vocabulario ocaina. ILV-SLP 4. http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=559 (entered by Leslie Smith)</source>
-      <originalForm>jonhóónm̈a</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Bora-Witoto</field>
+      <field name='language'>Ocaina</field>
+      <field name='source'>Leach, Ilo M. 1969. Vocabulario ocaina. ILV-SLP 4. http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=559 (entered by Leslie Smith)</field>
+      <field name='originalForm'>jonhóónm̈a</field>
+      <field name='phonemicizedForm'>honhóónm̵a</field>
     </item>
     <item>
-      <languageFamily>Bora-Witoto</languageFamily>
-      <language>Ocaina oca (Leach</language>
-      <source>Leach, Ilo M. 1969. Vocabulario ocaina. ILV-SLP 4. http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=559 (entered by Leslie Smith)</source>
-      <originalForm>honhóónm̵a</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Unclassified</field>
+      <field name='language'>Puinave pui</field>
+      <field name='source'></field>
+      <field name='originalForm'>hamna; wou</field>
+      <field name='phonemicizedForm'>hamna; wou</field>
     </item>
     <item>
-      <languageFamily>Unclassified</languageFamily>
-      <language>Puinave pui (IDS)</language>
-      <source></source>
-      <originalForm>hamna; wou</originalForm>
-      <phonemicizedForm>hamna; wou</phonemicizedForm>
+      <field name='languageFamily'>Tucanoan</field>
+      <field name='language'>Carapana</field>
+      <field name='source'>Metzger, Ronald G., compiler. 2000. Marĩ yaye mena Carapana, yaia yaye mena Español macãrĩcã tuti = Carapana-Español, diccionario de 1000 palabras. Bogotá: Editorial Alberta Lleras Camargo. v, 157 p.</field>
+      <field name='originalForm'>ʉso</field>
+      <field name='phonemicizedForm'>ɨsɔ</field>
     </item>
     <item>
-      <languageFamily>Tucanoan</languageFamily>
-      <language>Carapana</language>
-      <source>Metzger, Ronald G., compiler. 2000. Marĩ yaye mena Carapana, yaia yaye mena Español macãrĩcã tuti = Carapana-Español, diccionario de 1000 palabras. Bogotá: Editorial Alberta Lleras Camargo. v, 157 p.</source>
-      <originalForm>ʉso</originalForm>
-      <phonemicizedForm>ɨsɔ</phonemicizedForm>
+      <field name='languageFamily'>Tucanoan</field>
+      <field name='language'>Macuna</field>
+      <field name='source'>Smothermon, Jeffrey R. and Josephine H. Smothermon, compilers. 1993. Masa ye, gawa ye rãca ãmara tuti (Macuna - español diccionario de 850 palabras). Bogotá: Editorial Alberto Lleras Camargo. 206 p.</field>
+      <field name='originalForm'>gʉso, jea gʉso, ria gʉso</field>
+      <field name='phonemicizedForm'>gɨso, xɛa gɨso, lia gɨso</field>
     </item>
     <item>
-      <languageFamily>Tucanoan</languageFamily>
-      <language>Macuna</language>
-      <source>Smothermon, Jeffrey R. and Josephine H. Smothermon, compilers. 1993. Masa ye, gawa ye rãca ãmara tuti (Macuna - español diccionario de 850 palabras). Bogotá: Editorial Alberto Lleras Camargo. 206 p.</source>
-      <originalForm>gʉso, jea gʉso, ria gʉso</originalForm>
-      <phonemicizedForm>gɨso, xɛa gɨso, lia gɨso</phonemicizedForm>
+      <field name='languageFamily'>Tucanoan</field>
+      <field name='language'>Piratapuyo</field>
+      <field name='source'>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano.</field>
+      <field name='originalForm'>ɨ'so</field>
+      <field name='phonemicizedForm'>NONE</field>
     </item>
     <item>
-      <languageFamily>Tucanoan</languageFamily>
-      <language>Piratapuyo</language>
-      <source>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano.</source>
-      <originalForm>ɨ'so</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Tucanoan</field>
+      <field name='language'>Tanimuca tnc</field>
+      <field name='source'>Gaviria, Sofia Victoria – Luis José Azcárate 1979. Fonología y lexicología de la lengua tanimuka. Bogotá: Universidad de los Andes, Facultad de Artes y Ciencias, Departamento de Antropología</field>
+      <field name='originalForm'>kahu</field>
+      <field name='phonemicizedForm'>kahu</field>
     </item>
     <item>
-      <languageFamily>Tucanoan</languageFamily>
-      <language>Tanimuca tnc</language>
-      <source>Gaviria, Sofia Victoria – Luis José Azcárate 1979. Fonología y lexicología de la lengua tanimuka. Bogotá: Universidad de los Andes, Facultad de Artes y Ciencias, Departamento de Antropología</source>
-      <originalForm>kahu</originalForm>
-      <phonemicizedForm>kahu</phonemicizedForm>
+      <field name='languageFamily'>Tucanoan</field>
+      <field name='language'>Tucano</field>
+      <field name='source'>West, Birdie 1980. Gramática popular del tucano. Bogotá: MG.; Ramirez, Henri. 1996b. A fala tukano dos Ye'pâ-masa. Tomo 2: Dicionário. CEPLA Working Papers in Amerindian Linguistics. Guajará-Mirim: UNIR.</field>
+      <field name='originalForm'>ɨsó</field>
+      <field name='phonemicizedForm'>ɨsó</field>
     </item>
     <item>
-      <languageFamily>Tucanoan</languageFamily>
-      <language>Tucano hr97</language>
-      <source>West, Birdie 1980. Gramática popular del tucano. Bogotá: MG.; Ramirez, Henri. 1996b. A fala tukano dos Ye'pâ-masa. Tomo 2: Dicionário. CEPLA Working Papers in Amerindian Linguistics. Guajará-Mirim: UNIR.</source>
-      <originalForm>ɨsó</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Tucanoan</field>
+      <field name='language'>Tuyuka tue IDS</field>
+      <field name='source'>IDS list</field>
+      <field name='originalForm'>ɨ'so</field>
+      <field name='phonemicizedForm'>ɨʔso</field>
     </item>
     <item>
-      <languageFamily>Tucanoan</languageFamily>
-      <language>Tucano</language>
-      <source>AP</source>
-      <originalForm>ɨsó</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Tucanoan</field>
+      <field name='language'>Yuruti</field>
+      <field name='source'>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano.</field>
+      <field name='originalForm'>ɨ́so</field>
+      <field name='phonemicizedForm'>ɨ́so</field>
     </item>
     <item>
-      <languageFamily>Tucanoan</languageFamily>
-      <language>Tuyuka tue IDS orthographic</language>
-      <source>IDS list</source>
-      <originalForm>ɨ'so</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Tucanoan</field>
+      <field name='language'>Orejon</field>
+      <field name='source'>"Velie, Daniel and Velie Virginia. (2008) (second edition). Vocabulario orejon. Serie Lingüística Peruana No. 16. Yarinacocha, ILV.</field>
+      <field name='originalForm'>ñucabɨ ago</field>
+      <field name='phonemicizedForm'>ɲukabɨ ago</field>
     </item>
     <item>
-      <languageFamily>Tucanoan</languageFamily>
-      <language>Tuyuka tue IDS phonemic</language>
-      <source>Jagannathan, D</source>
-      <originalForm>ɨʔso</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Tucanoan</field>
+      <field name='language'>Koreguaje</field>
+      <field name='source'>"Cook, Dorothy and Gralow, Frances. 2001. Diccionario bilingüe: Koreguaje - Español, Español - Koreguaje. Bogotá: Editorial Alberto Lleras Camargo.</field>
+      <field name='originalForm'>okoroche</field>
+      <field name='phonemicizedForm'>okhorodʒe</field>
     </item>
     <item>
-      <languageFamily>Tucanoan</languageFamily>
-      <language>Yuruti</language>
-      <source>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano.</source>
-      <originalForm>ɨ́so</originalForm>
-      <phonemicizedForm>ɨ́so</phonemicizedForm>
+      <field name='phonemicizedForm'>bɨ´ʔɨ</field>
     </item>
     <item>
-      <languageFamily>Tucanoan</languageFamily>
-      <language>Orejon</language>
-      <source>"Velie, Daniel and Velie Virginia. (2008) (second edition). Vocabulario orejon. Serie Lingüística Peruana No. 16. Yarinacocha, ILV.</source>
-      <originalForm>ñucabɨ ago</originalForm>
-      <phonemicizedForm>ɲukabɨ ago</phonemicizedForm>
+      <field name='languageFamily'>Tucanoan</field>
+      <field name='language'>Desano</field>
+      <field name='source'></field>
+      <field name='originalForm'>diaquẽ</field>
+      <field name='phonemicizedForm'>diakẽ</field>
     </item>
     <item>
-      <languageFamily>Tucanoan</languageFamily>
-      <language>Koreguaje</language>
-      <source>"Cook, Dorothy and Gralow, Frances. 2001. Diccionario bilingüe: Koreguaje - Español, Español - Koreguaje. Bogotá: Editorial Alberto Lleras Camargo.</source>
-      <originalForm>okoroche</originalForm>
-      <phonemicizedForm>okhorodʒe</phonemicizedForm>
+      <field name='languageFamily'>Isolate</field>
+      <field name='language'>Candoshi</field>
+      <field name='source'>Tuggy, John. 2008. Vocabulario candoshi de Loreto (2da. Ed). Serie Lingüística Peruana no. 2. ILV, Lima.</field>
+      <field name='originalForm'>shanita</field>
+      <field name='phonemicizedForm'>ʃanita</field>
     </item>
     <item>
-      <phonemicizedForm>bɨ´ʔɨ</phonemicizedForm>
+      <field name='languageFamily'>Isolate</field>
+      <field name='language'>Taushiro</field>
+      <field name='source'>Alicea Ortiz, Neftalí. 1975. Vocabulario taushiro. Datos etnolinguisticos no. 22. ILV, Lima.</field>
+      <field name='originalForm'>hunta</field>
+      <field name='phonemicizedForm'>hunta</field>
     </item>
     <item>
-      <languageFamily>Tucanoan</languageFamily>
-      <language>Desano</language>
-      <source></source>
-      <originalForm>diaquẽ</originalForm>
-      <phonemicizedForm>diakẽ</phonemicizedForm>
+      <field name='languageFamily'>Yanomam</field>
+      <field name='language'>Ninam</field>
+      <field name='source'>IDS; Gómez, Gale Goodwin 1990. The Shiriana dialect of Yanam (Northern Brazil). Ph.D. diss., Columbia University; Migliazza, Ernest C. 1972. Yanomama grammar and intelligibility; entered by Kelsey Neely</field>
+      <field name='originalForm'>arasi, weri, aras+wari (gom)</field>
+      <field name='phonemicizedForm'>aɾasi, weɾi, aɾas+waɾi (gom)</field>
     </item>
     <item>
-      <languageFamily>Isolate</languageFamily>
-      <language>Candoshi</language>
-      <source>Tuggy, John. 2008. Vocabulario candoshi de Loreto (2da. Ed). Serie Lingüística Peruana no. 2. ILV, Lima.</source>
-      <originalForm>shanita</originalForm>
-      <phonemicizedForm>ʃanita</phonemicizedForm>
+      <field name='languageFamily'>Yanomam</field>
+      <field name='language'>Ninam</field>
+      <field name='source'>IDS; Gómez, Gale Goodwin 1990. The Shiriana dialect of Yanam (Northern Brazil). Ph.D. diss., Columbia University; entered by Megan Gibler</field>
+      <field name='originalForm'>arasi, weri, aras+wari (gom)</field>
+      <field name='phonemicizedForm'>arasi, weri, aras+wari (gom)</field>
     </item>
     <item>
-      <languageFamily>Isolate</languageFamily>
-      <language>Taushiro</language>
-      <source>Alicea Ortiz, Neftalí. 1975. Vocabulario taushiro. Datos etnolinguisticos no. 22. ILV, Lima.</source>
-      <originalForm>hunta</originalForm>
-      <phonemicizedForm>hunta</phonemicizedForm>
+      <field name='languageFamily'>Yanomam</field>
+      <field name='language'>Yanomami</field>
+      <field name='source'>Mattéi-Müller, Marie-Claude 2007a. Lengua y cultura Yanomamï. Diccionario ilustrado Yanomamï-Español, Español-Yanomamï. Caracas: Epsilon Libros.; Migliazza, Ernest C. 1972. Yanomama grammar and intelligibility; Finkers, Juan. 1986. Los Yanomami y su sistema alimenticio. Vicariato Apostolico de Puerto Ayacucho.; Ramirez, Henri. 1994. Le Parler Yanomamɨ des Xamatauteri. publisher unknown.; entered by Kelsey Neely</field>
+      <field name='originalForm'>iwa</field>
+      <field name='phonemicizedForm'>iwa (general term)</field>
     </item>
     <item>
-      <languageFamily>Yanomam</languageFamily>
-      <language>Ninam (shb) (IDS)</language>
-      <source>IDS; Gómez, Gale Goodwin 1990. The Shiriana dialect of Yanam (Northern Brazil). Ph.D. diss., Columbia University; Migliazza, Ernest C. 1972. Yanomama grammar and intelligibility; entered by Kelsey Neely</source>
-      <originalForm>arasi, weri, aras+wari (gom)</originalForm>
-      <phonemicizedForm>aɾasi, weɾi, aɾas+waɾi (gom)</phonemicizedForm>
+      <field name='languageFamily'>Carib</field>
+      <field name='language'>Akawaio</field>
+      <field name='source'>Edwards 1980 MAR</field>
+      <field name='originalForm'>agaree (E1977)</field>
+      <field name='phonemicizedForm'>agare (E1977)</field>
     </item>
     <item>
-      <languageFamily>Yanomam</languageFamily>
-      <language>Ninam shb (IDS)</language>
-      <source>IDS; Gómez, Gale Goodwin 1990. The Shiriana dialect of Yanam (Northern Brazil). Ph.D. diss., Columbia University; entered by Megan Gibler</source>
-      <originalForm>arasi, weri, aras+wari (gom)</originalForm>
-      <phonemicizedForm>arasi, weri, aras+wari (gom)</phonemicizedForm>
+      <field name='languageFamily'>Carib</field>
+      <field name='language'>pbh Eñepa</field>
+      <field name='source'>Mattei-Muller 1994, MAR</field>
+      <field name='originalForm'>onwe (MM)</field>
+      <field name='phonemicizedForm'>onwe (MM)</field>
     </item>
     <item>
-      <languageFamily>Yanomam</languageFamily>
-      <language>Yanomami (wca) (MM 07)</language>
-      <source>Mattéi-Müller, Marie-Claude 2007a. Lengua y cultura Yanomamï. Diccionario ilustrado Yanomamï-Español, Español-Yanomamï. Caracas: Epsilon Libros.; Migliazza, Ernest C. 1972. Yanomama grammar and intelligibility; Finkers, Juan. 1986. Los Yanomami y su sistema alimenticio. Vicariato Apostolico de Puerto Ayacucho.; Ramirez, Henri. 1994. Le Parler Yanomamɨ des Xamatauteri. publisher unknown.; entered by Kelsey Neely</source>
-      <originalForm>iwa</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Carib</field>
+      <field name='language'>Makushi (mbc)</field>
+      <field name='source'>Carson, Neusa 1979. Key 1997. Melody A Ross</field>
+      <field name='originalForm'>akaré</field>
+      <field name='phonemicizedForm'>akaré</field>
     </item>
     <item>
-      <languageFamily>Yanomam</languageFamily>
-      <language>Yanomami (wca) (MM 07)(phonemic)</language>
-      <source>Mattéi-Müller, Marie-Claude 2007a. Lengua y cultura Yanomamï. Diccionario ilustrado Yanomamï-Español, Español-Yanomamï. Caracas: Epsilon Libros.; Migliazza, Ernest C. 1972. Yanomama grammar and intelligibility; Finkers, Juan. 1986. Los Yanomami y su sistema alimenticio. Vicariato Apostolico de Puerto Ayacucho.; Ramirez, Henri. 1994. Le Parler Yanomamɨ des Xamatauteri. publisher unknown.; entered by Kelsey Neely</source>
-      <originalForm>iwa (general term)</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Carib</field>
+      <field name='language'>Pemon</field>
+      <field name='source'>Armellada, Cesáreo 1981. Karina Baeza; Edwards 1980. Melody A Ross. Edwards 1977. Melody A Ross</field>
+      <field name='originalForm'>akaree (E1977)</field>
+      <field name='phonemicizedForm'>akare (E1977)</field>
     </item>
     <item>
-      <languageFamily>Carib</languageFamily>
-      <language>Akawaio ake Orthographic</language>
-      <source>Edwards 1980 MAR</source>
-      <originalForm>agaree (E1977)</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Carib</field>
+      <field name='language'>Waimiri Atroari</field>
+      <field name='source'>Bruno, 2004. Melody A Ross</field>
+      <field name='originalForm'>iake</field>
+      <field name='phonemicizedForm'>yakɛ</field>
     </item>
     <item>
-      <languageFamily>Carib</languageFamily>
-      <language>Akawaio ake Phonemic</language>
-      <source>Edwards 1980 MAR</source>
-      <originalForm>agare (E1977)</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Cariban</field>
+      <field name='language'>Yabarana</field>
+      <field name='source'>Méndez Arocha, A. 1959. Un vocabulario yabarana con apuntes fonémicos. Antropológica 7: 63-84. AP</field>
+      <field name='originalForm'>kai'mana</field>
+      <field name='phonemicizedForm'>NONE</field>
     </item>
     <item>
-      <languageFamily>Carib</languageFamily>
-      <language>pbh Eñepa
- IDS orthographic</language>
-      <source>Mattei-Muller 1994, MAR</source>
-      <originalForm>onwe (MM)</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Cariban</field>
+      <field name='language'>Yukpa</field>
+      <field name='source'>Vegamian, Félix María de 1978. Diccionario ilustrado yupa-español, español-yupa, con onomástica y apuntaciones gramaticales. Guarenas/Caracas: Formateca. AP</field>
+      <field name='originalForm'>ariye</field>
+      <field name='phonemicizedForm'>NONE</field>
     </item>
     <item>
-      <languageFamily>Carib</languageFamily>
-      <language>pbh Eñepa IDS phonemic</language>
-      <source>Mattei-Muller 1994, MAR</source>
-      <originalForm>onwe (MM)</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Arawak</field>
+      <field name='language'>Achagua</field>
+      <field name='source'>Meléndez Lozano, Miguel Ángel. 1998a. La lengua achagua, estudio gramatical. Lenguas Aborígenes de Colombia, Descripciones, 11. Santafé de Bogotá: CCELA, UNIANDES. AP</field>
+      <field name='originalForm'>katʃúiɻi (hr01)</field>
+      <field name='phonemicizedForm'>katʃúiɻi (hr01)</field>
     </item>
     <item>
-      <languageFamily>Carib</languageFamily>
-      <language>Makushi (mbc) orthographic</language>
-      <source>Carson, Neusa 1979. Key 1997. Melody A Ross</source>
-      <originalForm>akaré</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Aɾawak</field>
+      <field name='language'>Piapoco (dk95)</field>
+      <field name='source'>Klumpp, Deloris Pharris de. 1995. Vocabulario piapoco-español. Bogotá: ILV.</field>
+      <field name='originalForm'>katsúiɾi (hɾ01), katʃuíɾi</field>
+      <field name='phonemicizedForm'>NONE</field>
     </item>
     <item>
-      <languageFamily>Carib</languageFamily>
-      <language>Makushi (mbc) phonemic</language>
-      <source>Carson, Neusa 1979. Key 1997. Melody A Ross</source>
-      <originalForm>akaré</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Arawak</field>
+      <field name='language'>Piapoco (dk95)</field>
+      <field name='source'>Person entering data: AP</field>
+      <field name='originalForm'>katsúiri (hr01), cachuíri</field>
+      <field name='phonemicizedForm'>NONE</field>
     </item>
     <item>
-      <languageFamily>Carib</languageFamily>
-      <language>Pemon (AOC) Orthography (All entries from CA1981)</language>
-      <source>Armellada, Cesáreo 1981. Karina Baeza; Edwards 1980. Melody A Ross. Edwards 1977. Melody A Ross</source>
-      <originalForm>akaree (E1977)</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Arawak</field>
+      <field name='language'>Yucuna (sy05)</field>
+      <field name='source'>Schauer, Junia, compiler, and others. 2005. Meke kemakánaka puráka7aloji: wapura7akó chu, eyá karíwana chu (Diccionario bilingüe: Yukuna - Español; Español - Yukuna). 1st ed. Bogotá: Editorial Fundación para el Desarollo de los Pueblos Marginados. 328 p</field>
+      <field name='originalForm'>juhɾemi, lánawaɾu ; caimán gɾande', kahjú</field>
+      <field name='phonemicizedForm'>yujremi, lánawaru ; caimán grande', kajyú</field>
     </item>
     <item>
-      <languageFamily>Carib</languageFamily>
-      <language>Pemon (AOC) IPA (All entries from CA1981)</language>
-      <source>Armellada, Cesáreo 1981. Karina Baeza; Edwards 1980. Melody A Ross. Edwards 1977. Melody A Ross</source>
-      <originalForm>akare (E1977)</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Arawak</field>
+      <field name='language'>Tariana (aa01)</field>
+      <field name='source'>Aikhenvald, Alexandra Y. 2001. Dicionário Tariana-Português e Português-Tariana. Boletim do MPEG 17/1. Belém.</field>
+      <field name='originalForm'>káːs[iɾi] (dp91)</field>
+      <field name='phonemicizedForm'>káːs[iɾi] (dp91)</field>
     </item>
     <item>
-      <languageFamily>Carib</languageFamily>
-      <language>Waimiri Atroari</language>
-      <source>Bruno, 2004. Melody A Ross</source>
-      <originalForm>iake</originalForm>
-      <phonemicizedForm>yakɛ</phonemicizedForm>
+      <field name='languageFamily'>Arawak</field>
+      <field name='language'>Baniwa</field>
+      <field name='source'>Ramirez, Henri. 2001a. Dicionário Baniwa-Português. Manaus: Editora da Universidade do Amazonas.</field>
+      <field name='originalForm'>kátshiɻi</field>
+      <field name='phonemicizedForm'>kátshiri</field>
     </item>
     <item>
-      <languageFamily>Cariban</languageFamily>
-      <language>Yabarana</language>
-      <source>Méndez Arocha, A. 1959. Un vocabulario yabarana con apuntes fonémicos. Antropológica 7: 63-84. AP</source>
-      <originalForm>kai'mana</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Arawak</field>
+      <field name='language'>Resígaɾo</field>
+      <field name='source'>Allin, Trevor R .1979. Vocabulario resígaro.  Documento de Trabajo, 16.</field>
+      <field name='originalForm'>pegíinú</field>
+      <field name='phonemicizedForm'>NONE</field>
     </item>
     <item>
-      <languageFamily>Cariban</languageFamily>
-      <language>Yukpa</language>
-      <source>Vegamian, Félix María de 1978. Diccionario ilustrado yupa-español, español-yupa, con onomástica y apuntaciones gramaticales. Guarenas/Caracas: Formateca. AP</source>
-      <originalForm>ariye</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Arawak</field>
+      <field name='language'>Resígaro</field>
+      <field name='source'>Person entering data: AP</field>
+      <field name='originalForm'>pegíinú</field>
+      <field name='phonemicizedForm'>NONE</field>
     </item>
     <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Achagua (mm98)</language>
-      <source>Meléndez Lozano, Miguel Ángel. 1998a. La lengua achagua, estudio gramatical. Lenguas Aborígenes de Colombia, Descripciones, 11. Santafé de Bogotá: CCELA, UNIANDES. AP</source>
-      <originalForm>katʃúiɻi (hr01)</originalForm>
-      <phonemicizedForm>katʃúiɻi (hr01)</phonemicizedForm>
+      <field name='languageFamily'>Arawak</field>
+      <field name='language'>Kabiyari (hr01)</field>
+      <field name='source'>Ramirez, Henri. 2001. Línguas Arawak da Amazônia setentrional: comparação e descrição. Manaus: Editora da Universidade</field>
+      <field name='originalForm'>ka:tʃu[ɾi] (dp91), kátʃhuɾi</field>
+      <field name='phonemicizedForm'>ka:tʃu[ri] (dp91), kátʃhuri</field>
     </item>
     <item>
-      <languageFamily>Aɾawak</languageFamily>
-      <language>Piapoco (dk95)</language>
-      <source>Klumpp, Deloris Pharris de. 1995. Vocabulario piapoco-español. Bogotá: ILV.</source>
-      <originalForm>katsúiɾi (hɾ01), katʃuíɾi</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Arawak</field>
+      <field name='language'>Warekena (aa98)</field>
+      <field name='source'>Aikhenvald, Alexandra 1998. Warekena. En: Desmond Derbishire &amp; Geoffrey Pullum (eds.), Handbook of Amazonian Languages, vol. 4: 225-439. Berlín: Mouton de Gruyter.</field>
+      <field name='originalForm'>kadʰúili (hr01)</field>
+      <field name='phonemicizedForm'>kadʰúili (hr01)</field>
     </item>
     <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Piapoco (dk95)</language>
-      <source>Person entering data: AP</source>
-      <originalForm>katsúiri (hr01), cachuíri</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Arawak</field>
+      <field name='language'>Yavitero (jm87)</field>
+      <field name='source'>Mosonyi, Jorge Carlos, 1987 El idioma Yavitero, Caracas, Venezuela, 241 pages.</field>
+      <field name='originalForm'>kai'manu</field>
+      <field name='phonemicizedForm'>kai'manu</field>
     </item>
     <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Yucuna (sy05)</language>
-      <source>Schauer, Junia, compiler, and others. 2005. Meke kemakánaka puráka7aloji: wapura7akó chu, eyá karíwana chu (Diccionario bilingüe: Yukuna - Español; Español - Yukuna). 1st ed. Bogotá: Editorial Fundación para el Desarollo de los Pueblos Marginados. 328 p</source>
-      <originalForm>juhɾemi, lánawaɾu ; caimán gɾande', kahjú</originalForm>
-      <phonemicizedForm>yujremi, lánawaru ; caimán grande', kajyú</phonemicizedForm>
+      <field name='languageFamily'>Arawak</field>
+      <field name='language'>Paresi (ab08)</field>
+      <field name='source'>Brandao, Ana Paula</field>
+      <field name='originalForm'>ijakare, kanomenare</field>
+      <field name='phonemicizedForm'>iyakare, kanomenare</field>
     </item>
     <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Tariana (aa01)</language>
-      <source>Aikhenvald, Alexandra Y. 2001. Dicionário Tariana-Português e Português-Tariana. Boletim do MPEG 17/1. Belém.</source>
-      <originalForm>káːs[iɾi] (dp91)</originalForm>
-      <phonemicizedForm>káːs[iɾi] (dp91)</phonemicizedForm>
+      <field name='languageFamily'>Arawak</field>
+      <field name='language'>Wapishana (ms95)</field>
+      <field name='source'>Santos, Manuel Gomes dos . 2006. Uma gramática do Wapixana (Aruak): aspectos da fonologia, da morfologia e da sintaxe. Tese de doutorado. Campinas, SP: UNICAMP</field>
+      <field name='originalForm'>atuɽɨ</field>
+      <field name='phonemicizedForm'>atuɽɨ</field>
     </item>
     <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Baniwa (hr01a)</language>
-      <source>Ramirez, Henri. 2001a. Dicionário Baniwa-Português. Manaus: Editora da Universidade do Amazonas.</source>
-      <originalForm>kátshiɻi</originalForm>
-      <phonemicizedForm>kátshiri</phonemicizedForm>
+      <field name='languageFamily'>Arawak</field>
+      <field name='language'>Wapishana wap IDS</field>
+      <field name='source'></field>
+      <field name='originalForm'>kʰanawaˀda; atʰurɨ</field>
+      <field name='phonemicizedForm'>kʰanawaˀda; atʰurɨ</field>
     </item>
     <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Resígaɾo (ta79)</language>
-      <source>Allin, Trevor R .1979. Vocabulario resígaro.  Documento de Trabajo, 16.</source>
-      <originalForm>pegíinú</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Arawak</field>
+      <field name='language'>Mandawaka (hr01)</field>
+      <field name='source'>Ramirez, Henri. 2001. Línguas Arawak da Amazônia setentrional: comparação e descrição. Manaus: Editora da Universidade</field>
+      <field name='originalForm'>kadíːɾi</field>
+      <field name='phonemicizedForm'>kadíːri</field>
     </item>
     <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Resígaro (ta79)</language>
-      <source>Person entering data: AP</source>
-      <originalForm>pegíinú</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Arawak</field>
+      <field name='language'>Proto-Arawak</field>
+      <field name='source'></field>
+      <field name='originalForm'>kasiu[kɨtʰɨ]</field>
+      <field name='phonemicizedForm'>NONE</field>
     </item>
     <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Kabiyari (hr01)</language>
-      <source>Ramirez, Henri. 2001. Línguas Arawak da Amazônia setentrional: comparação e descrição. Manaus: Editora da Universidade</source>
-      <originalForm>ka:tʃu[ɾi] (dp91), kátʃhuɾi</originalForm>
-      <phonemicizedForm>ka:tʃu[ri] (dp91), kátʃhuri</phonemicizedForm>
+      <field name='languageFamily'>Arawak</field>
+      <field name='language'>Proto-Japurá-Colombia</field>
+      <field name='source'></field>
+      <field name='originalForm'>kajhui-li</field>
+      <field name='phonemicizedForm'>NONE</field>
     </item>
     <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Warekena (aa98)</language>
-      <source>Aikhenvald, Alexandra 1998. Warekena. En: Desmond Derbishire &amp; Geoffrey Pullum (eds.), Handbook of Amazonian Languages, vol. 4: 225-439. Berlín: Mouton de Gruyter.</source>
-      <originalForm>kadʰúili (hr01)</originalForm>
-      <phonemicizedForm>kadʰúili (hr01)</phonemicizedForm>
+      <field name='languageFamily'>Jivaro</field>
+      <field name='language'>Ashuar</field>
+      <field name='source'>Fast, Gerhard; Warkentin de Fast, Ruby and Fast, Daniel. 1996. Diccionario Shiwiar-Ashuar-Castellano. Serie Lingüística Peruana No. 36. Yarinacocha, ILV.</field>
+      <field name='originalForm'>yantána, kaníats (black alligator)</field>
+      <field name='phonemicizedForm'>jantana, kaniats</field>
     </item>
     <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Yavitero (jm87)</language>
-      <source>Mosonyi, Jorge Carlos, 1987 El idioma Yavitero, Caracas, Venezuela, 241 pages.</source>
-      <originalForm>kai'manu</originalForm>
-      <phonemicizedForm>kai'manu</phonemicizedForm>
+      <field name='languageFamily'>Jivaro</field>
+      <field name='language'>Huambisa</field>
+      <field name='source'>Jakway, Martha (recop.). 1987 (2nd.ed.). Vocabulario huambisa.Serie Lingüística peruana no. 24 Lima, ILV.</field>
+      <field name='originalForm'>uun yantana (yantana=lagarto)</field>
+      <field name='phonemicizedForm'>u:n jantana</field>
     </item>
     <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Paresi (ab08)</language>
-      <source>Brandao, Ana Paula</source>
-      <originalForm>ijakare, kanomenare</originalForm>
-      <phonemicizedForm>iyakare, kanomenare</phonemicizedForm>
+      <field name='languageFamily'>Jivaro</field>
+      <field name='language'>Aguaruna</field>
+      <field name='source'>Wipio, Gerardo (recop.). (1996). Diccionario aguaruna-castellano, castellano-aguaruna.ILV, Lima.</field>
+      <field name='originalForm'>semágkau</field>
+      <field name='phonemicizedForm'>sɨmángkau</field>
     </item>
     <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Wapishana (ms95)</language>
-      <source>Santos, Manuel Gomes dos . 2006. Uma gramática do Wapixana (Aruak): aspectos da fonologia, da morfologia e da sintaxe. Tese de doutorado. Campinas, SP: UNICAMP</source>
-      <originalForm>atuɽɨ</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Quechua</field>
+      <field name='language'>Quechua del Pastaza</field>
+      <field name='source'>Landerman, Peter. (2008, 2nd. ed.). Vocabulario Quechua del Pastaza. ILV, Yarinacocha.</field>
+      <field name='originalForm'>lagartu (Spanish loan)</field>
+      <field name='phonemicizedForm'>lagaɾtu</field>
     </item>
     <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Wapishana (ms95) Ortho</language>
-      <source>Person entering data: AP</source>
-      <originalForm>atuɽɨ</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Quechua</field>
+      <field name='language'>Napo Lowland Quichua</field>
+      <field name='source'>Orr, Carolyn and Betsy Wrisley (comp.). 1981. Vocabulario quichua del oriente. ILV, Quito.</field>
+      <field name='originalForm'>runa micuj lagartu</field>
+      <field name='phonemicizedForm'>ɾuna mikux lagaɾtu</field>
     </item>
     <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Wapishana wap IDS orthographic</language>
-      <source></source>
-      <originalForm>kʰanawaˀda; atʰurɨ</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Peba-Yaguan</field>
+      <field name='language'>Yagua</field>
+      <field name='source'>Powlison, Paul (recop.). (1995). Diccionario yagua-castellano. Serie Lingüística Peruana no. 35. ILV, Lima.</field>
+      <field name='originalForm'>nurtu</field>
+      <field name='phonemicizedForm'>nurtu</field>
     </item>
     <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Wapishana wap IDS phonemic</language>
-      <source>Person entering data: KB</source>
-      <originalForm>kʰanawaˀda; atʰurɨ</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Peba-yagua</field>
+      <field name='language'>Yagua YAD IDS</field>
+      <field name='source'></field>
+      <field name='originalForm'>nurutu</field>
+      <field name='phonemicizedForm'>nurutu</field>
     </item>
     <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Mandawaka (hr01)</language>
-      <source>Ramirez, Henri. 2001. Línguas Arawak da Amazônia setentrional: comparação e descrição. Manaus: Editora da Universidade</source>
-      <originalForm>kadíːɾi</originalForm>
-      <phonemicizedForm>kadíːri</phonemicizedForm>
+      <field name='languageFamily'>Pano</field>
+      <field name='language'>Matses</field>
+      <field name='source'>"Fleck, David. (2003). A grammar of matses. PhD Dissertation, Rice University.</field>
+      <field name='originalForm'>cachita</field>
+      <field name='phonemicizedForm'>katʃita</field>
     </item>
     <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Proto-Arawak</language>
-      <source></source>
-      <originalForm>kasiu[kɨtʰɨ]</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Isolate</field>
+      <field name='language'>Ticuna</field>
+      <field name='source'>Anderson, Doris. 1962. Conversational ticuna. Yarinacocha Press, Yarinacocha.</field>
+      <field name='originalForm'>coya</field>
+      <field name='phonemicizedForm'>koja</field>
     </item>
     <item>
-      <languageFamily>Arawak</languageFamily>
-      <language>Proto-Japurá-Colombia</language>
-      <source></source>
-      <originalForm>kajhui-li</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Tupi-Guarani</field>
+      <field name='language'>Nheengatu</field>
+      <field name='source'>John Blaha (Grenand)</field>
+      <field name='originalForm'>jakaré (generic term for all crocodilian species), diridiri (giant alligator, from arawak)</field>
+      <field name='phonemicizedForm'>yakaré (generic term for all crocodilian species) diridiri (giant alligator, from arawak)</field>
     </item>
     <item>
-      <languageFamily>Jivaro</languageFamily>
-      <language>Ashuar</language>
-      <source>Fast, Gerhard; Warkentin de Fast, Ruby and Fast, Daniel. 1996. Diccionario Shiwiar-Ashuar-Castellano. Serie Lingüística Peruana No. 36. Yarinacocha, ILV.</source>
-      <originalForm>yantána, kaníats (black alligator)</originalForm>
-      <phonemicizedForm>jantana, kaniats</phonemicizedForm>
+      <field name='languageFamily'>Isolate</field>
+      <field name='language'>Urarina</field>
+      <field name='source'>Olawsky, Knut. 2006 A grammar of Urarina. Mouton de Gruyter. Berlin.</field>
+      <field name='originalForm'>dʒakari (Portuguese loan?)</field>
+      <field name='phonemicizedForm'>tʃakaɽi</field>
     </item>
     <item>
-      <languageFamily>Jivaro</languageFamily>
-      <language>Huambisa</language>
-      <source>Jakway, Martha (recop.). 1987 (2nd.ed.). Vocabulario huambisa.Serie Lingüística peruana no. 24 Lima, ILV.</source>
-      <originalForm>uun yantana (yantana=lagarto)</originalForm>
-      <phonemicizedForm>u:n jantana</phonemicizedForm>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='language'>Nadêb Rç</field>
+      <field name='source'>Martins, Valteir. 2005. Reconstrução fonológica do Protomaku Oriental [Phonological reconstruction of eastern Protomaku]. Ph. D. diss., Vrije Universiteit, Amsterdam. Amsterdam: LOT. [ɨ is written ɯ in Martins]; Martins, Senn. Nadeb lexicon, ms; Weir, E.M. Helen 1984. A negação e outros tópicos da gramática Nadëb. Dissertação de Mestrado em Lingüística. Campinas: IEL-UNICAMP. AP</field>
+      <field name='originalForm'>wəː</field>
+      <field name='phonemicizedForm'>NONE</field>
     </item>
     <item>
-      <languageFamily>Jivaro</languageFamily>
-      <language>Aguaruna</language>
-      <source>Wipio, Gerardo (recop.). (1996). Diccionario aguaruna-castellano, castellano-aguaruna.ILV, Lima.</source>
-      <originalForm>semágkau</originalForm>
-      <phonemicizedForm>sɨmángkau</phonemicizedForm>
+      <field name='languageFamily'>Choco</field>
+      <field name='language'>Emberá</field>
+      <field name='source'>Sara, Solomon. A Tri-Lingual Dictionary of Emberá-Spanish-English</field>
+      <field name='originalForm'>koré</field>
+      <field name='phonemicizedForm'>NONE</field>
     </item>
     <item>
-      <languageFamily>Quechua</languageFamily>
-      <language>Quechua del Pastaza</language>
-      <source>Landerman, Peter. (2008, 2nd. ed.). Vocabulario Quechua del Pastaza. ILV, Yarinacocha.</source>
-      <originalForm>lagartu (Spanish loan)</originalForm>
-      <phonemicizedForm>lagaɾtu</phonemicizedForm>
+      <field name='languageFamily'>Choco</field>
+      <field name='language'>Embeɹá</field>
+      <field name='source'>Saɹa, Solomon. A Tɹi-Lingual Dictionaɹj of Embeɹá-Spanish-English</field>
+      <field name='originalForm'>koɹé</field>
+      <field name='phonemicizedForm'>NONE</field>
     </item>
     <item>
-      <languageFamily>Quechua</languageFamily>
-      <language>Napo Lowland Quichua</language>
-      <source>Orr, Carolyn and Betsy Wrisley (comp.). 1981. Vocabulario quichua del oriente. ILV, Quito.</source>
-      <originalForm>runa micuj lagartu</originalForm>
-      <phonemicizedForm>ɾuna mikux lagaɾtu</phonemicizedForm>
+      <field name='languageFamily'>Isolate</field>
+      <field name='language'>Andoke</field>
+      <field name='source'>Landaburu, Jon.  1979. La Langue des Andoke. -- Entered by Kelsey Neely</field>
+      <field name='originalForm'>tumi (small babilla caiman)</field>
+      <field name='phonemicizedForm'>tumi</field>
     </item>
     <item>
-      <languageFamily>Peba-Yaguan</languageFamily>
-      <language>Yagua</language>
-      <source>Powlison, Paul (recop.). (1995). Diccionario yagua-castellano. Serie Lingüística Peruana no. 35. ILV, Lima.</source>
-      <originalForm>nurtu</originalForm>
-      <phonemicizedForm>nurtu</phonemicizedForm>
+      <field name='languageFamily'>Guahiban</field>
+      <field name='language'>Guayabero</field>
+      <field name='source'>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano. AP</field>
+      <field name='originalForm'>mɨakléh, makléh</field>
+      <field name='phonemicizedForm'>NONE</field>
     </item>
     <item>
-      <languageFamily>Peba-yagua</languageFamily>
-      <language>Yagua YAD IDS</language>
-      <source></source>
-      <originalForm>nurutu</originalForm>
-      <phonemicizedForm>nurutu</phonemicizedForm>
+      <field name='languageFamily'>Guahiban</field>
+      <field name='language'>Macaguan</field>
+      <field name='source'>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</field>
+      <field name='originalForm'>makíp</field>
+      <field name='phonemicizedForm'>makíp</field>
     </item>
     <item>
-      <languageFamily>Pano</languageFamily>
-      <language>Matses</language>
-      <source>"Fleck, David. (2003). A grammar of matses. PhD Dissertation, Rice University.</source>
-      <originalForm>cachita</originalForm>
-      <phonemicizedForm>katʃita</phonemicizedForm>
+      <field name='languageFamily'>Isolate</field>
+      <field name='language'>Huaorani</field>
+      <field name='source'>Summer Institute of Lingusitics 1959</field>
+      <field name='originalForm'>nõma</field>
+      <field name='phonemicizedForm'>NONE</field>
     </item>
+  </entry>
+  <entry>
+    <meta>
+      <field name='comments'>Widespread Amazonia
+
+</field>
+      <field name='englishHeadword'>anaconda</field>
+      <field name='portugueseHeadword'>sucuri</field>
+      <field name='spanishHeadword'>anaconda, boa, boa acuática grande</field>
+      <field name='latinHeadword'>genus Eunectes</field>
+      <field name='semanticField'>animals</field>
+      <field name='category'>OTHER</field>
+    </meta>
     <item>
-      <languageFamily>Isolate</languageFamily>
-      <language>Ticuna</language>
-      <source>Anderson, Doris. 1962. Conversational ticuna. Yarinacocha Press, Yarinacocha.</source>
-      <originalForm>coya</originalForm>
-      <phonemicizedForm>koja</phonemicizedForm>
+      <field name='languageFamily'>Bora-Witoto</field>
+      <field name='language'>Bora</field>
+      <field name='source'>Aschmann, R. P. 1993.  Proto Witotoan, SIL and University of Texas at Arlington Publications in Linguistics, 114. Dallas: SIL and University of Texas at Arlington.  (entered by Leslie Smith)</field>
+      <field name='originalForm'>póóaá {Spanish?}, ííkwakhyo</field>
+      <field name='phonemicizedForm'>póóaá {Spanish?}, ííkwakhjo</field>
     </item>
     <item>
-      <languageFamily>Tupi-Guarani</languageFamily>
-      <language>Nheengatu</language>
-      <source>John Blaha (Grenand)</source>
-      <originalForm>jakaré (generic term for all crocodilian species), diridiri (giant alligator, from arawak)</originalForm>
-      <phonemicizedForm>yakaré (generic term for all crocodilian species) diridiri (giant alligator, from arawak)</phonemicizedForm>
+      <field name='languageFamily'>Bora-Witoto</field>
+      <field name='language'>Muinane bmr</field>
+      <field name='source'>Aschmann, R. P. 1993.  Proto Witotoan, SIL and University of Texas at Arlington Publications in Linguistics, 114. Dallas: SIL and University of Texas at Arlington.  (entered by Leslie Smith)</field>
+      <field name='originalForm'>búúa, ígáíβatɨ</field>
+      <field name='phonemicizedForm'>búúa, ígáíβatɨ</field>
     </item>
     <item>
-      <languageFamily>Isolate</languageFamily>
-      <language>Urarina</language>
-      <source>Olawsky, Knut. 2006 A grammar of Urarina. Mouton de Gruyter. Berlin.</source>
-      <originalForm>dʒakari (Portuguese loan?)</originalForm>
-      <phonemicizedForm>tʃakaɽi</phonemicizedForm>
+      <field name='languageFamily'>Bora-Witoto</field>
+      <field name='language'>Ocaina</field>
+      <field name='source'>Aschmann, R. P. 1993.  Proto Witotoan, SIL and University of Texas at Arlington Publications in Linguistics, 114. Dallas: SIL and University of Texas at Arlington. (entered by Leslie Smith)</field>
+      <field name='originalForm'>toxóóʔyo</field>
+      <field name='phonemicizedForm'>toxóóʔjo</field>
     </item>
     <item>
-      <languageFamily>Nadahup</languageFamily>
-      <language>Nadêb Rç</language>
-      <source>Martins, Valteir. 2005. Reconstrução fonológica do Protomaku Oriental [Phonological reconstruction of eastern Protomaku]. Ph. D. diss., Vrije Universiteit, Amsterdam. Amsterdam: LOT. [ɨ is written ɯ in Martins]; Martins, Senn. Nadeb lexicon, ms; Weir, E.M. Helen 1984. A negação e outros tópicos da gramática Nadëb. Dissertação de Mestrado em Lingüística. Campinas: IEL-UNICAMP. AP</source>
-      <originalForm>wəː</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Bora-Witoto</field>
+      <field name='language'>Nɨpode Huitoto hux</field>
+      <field name='source'>Aschmann, R. P. 1993.  Proto Witotoan, SIL and University of Texas at Arlington Publications in Linguistics, 114. Dallas: SIL and University of Texas at Arlington.  (entered by Leslie Smith)</field>
+      <field name='originalForm'>nú.io</field>
+      <field name='phonemicizedForm'>nú.io</field>
     </item>
     <item>
-      <languageFamily>Choco</languageFamily>
-      <language>Emberá</language>
-      <source>Sara, Solomon. A Tri-Lingual Dictionary of Emberá-Spanish-English</source>
-      <originalForm>koré</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Bora-Witoto</field>
+      <field name='language'>Mɨnɨca Huitoto hto</field>
+      <field name='source'>Aschmann, R. P. 1993.  Proto Witotoan, SIL and University of Texas at Arlington Publications in Linguistics, 114. Dallas: SIL and University of Texas at Arlington.  (entered by Leslie Smith)</field>
+      <field name='originalForm'>nú.io</field>
+      <field name='phonemicizedForm'>nú.io</field>
     </item>
     <item>
-      <languageFamily>Choco</languageFamily>
-      <language>Embeɹá</language>
-      <source>Saɹa, Solomon. A Tɹi-Lingual Dictionaɹj of Embeɹá-Spanish-English</source>
-      <originalForm>koɹé</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Bora-Witoto</field>
+      <field name='language'>Murui Huitoto huu</field>
+      <field name='source'>Aschmann, R. P. 1993.  Proto Witotoan, SIL and University of Texas at Arlington Publications in Linguistics, 114. Dallas: SIL and University of Texas at Arlington.  (entered by Leslie Smith)</field>
+      <field name='originalForm'>nu.i.o</field>
+      <field name='phonemicizedForm'>nu.i.o</field>
     </item>
     <item>
-      <languageFamily>Isolate</languageFamily>
-      <language>Andoke</language>
-      <source>Landaburu, Jon.  1979. La Langue des Andoke. -- Entered by Kelsey Neely</source>
-      <originalForm>tumi (small babilla caiman)</originalForm>
-      <phonemicizedForm>tumi</phonemicizedForm>
+      <field name='languageFamily'>Tucanoan</field>
+      <field name='language'>Carapana</field>
+      <field name='source'>Metzger, Ronald G., compiler. 2000. Marĩ yaye mena Carapana, yaia yaye mena Español macãrĩcã tuti = Carapana-Español, diccionario de 1000 palabras. Bogotá: Editorial Alberta Lleras Camargo. v, 157 p.</field>
+      <field name='originalForm'>pĩno</field>
+      <field name='phonemicizedForm'>pĩnɔ̃</field>
     </item>
     <item>
-      <languageFamily>Guahiban</languageFamily>
-      <language>Guayabero</language>
-      <source>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano. AP</source>
-      <originalForm>mɨakléh, makléh</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Tucanoan</field>
+      <field name='language'>Macuna</field>
+      <field name='source'>Smothermon, Jeffrey R. and Josephine H. Smothermon, compilers. 1993. Masa ye, gawa ye rãca ãmara tuti (Macuna - español diccionario de 850 palabras). Bogotá: Editorial Alberto Lleras Camargo. 206 p.</field>
+      <field name='originalForm'>jĩno</field>
+      <field name='phonemicizedForm'>xĩno</field>
     </item>
     <item>
-      <languageFamily>Guahiban</languageFamily>
-      <language>Macaguan</language>
-      <source>Buenaventura V., Edgar 1993. Observaciones preliminares acerca del idioma macaguán: apuntes culturales, fonología, apuntes gramaticales, vocabulario macaguán-español. Bogotá: ILV. AP</source>
-      <originalForm>makíp</originalForm>
-      <phonemicizedForm>makíp</phonemicizedForm>
+      <field name='languageFamily'>Tucanoan</field>
+      <field name='language'>Tucano</field>
+      <field name='source'>West, Birdie 1980. Gramática popular del tucano. Bogotá: MG.; Ramirez, Henri. 1996b. A fala tukano dos Ye'pâ-masa. Tomo 2: Dicionário. CEPLA Working Papers in Amerindian Linguistics. Guajará-Mirim: UNIR.</field>
+      <field name='originalForm'>diâ-u'tî'karo</field>
+      <field name='phonemicizedForm'>diâ-u'tî'karo</field>
     </item>
     <item>
-      <languageFamily>Isolate</languageFamily>
-      <language>Huaorani</language>
-      <source>Summer Institute of Lingusitics 1959</source>
-      <originalForm>nõma</originalForm>
-      <phonemicizedForm>NONE</phonemicizedForm>
+      <field name='languageFamily'>Tucanoan</field>
+      <field name='language'>Orejon</field>
+      <field name='source'>"Velie, Daniel and Velie Virginia. (2008) (second edition). Vocabulario orejon. Serie Lingüística Peruana No. 16. Yarinacocha, ILV.</field>
+      <field name='originalForm'>jai aña aguɨ (aguɨ marks male gender)</field>
+      <field name='phonemicizedForm'>xai aɲa agɨ</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Tucanoan</field>
+      <field name='language'>Koreguaje</field>
+      <field name='source'>"Cook, Dorothy and Gralow, Frances. 2001. Diccionario bilingüe: Koreguaje - Español, Español - Koreguaje. Bogotá: Editorial Alberto Lleras Camargo.</field>
+      <field name='originalForm'>ãkue aña</field>
+      <field name='phonemicizedForm'>ãkhue aɲa</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Tucanoan</field>
+      <field name='language'>Desano</field>
+      <field name='source'></field>
+      <field name='originalForm'>pĩru</field>
+      <field name='phonemicizedForm'>pĩru</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Tucanoan</field>
+      <field name='language'>Barasano</field>
+      <field name='source'></field>
+      <field name='originalForm'>hīdō</field>
+      <field name='phonemicizedForm'>NONE</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Isolate</field>
+      <field name='language'>Candoshi</field>
+      <field name='source'>Tuggy, John. 2008. Vocabulario candoshi de Loreto (2da. Ed). Serie Lingüística Peruana no. 2. ILV, Lima.</field>
+      <field name='originalForm'>isáriyá</field>
+      <field name='phonemicizedForm'>isáɾijá</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Yanomam</field>
+      <field name='language'>Ninam</field>
+      <field name='source'>IDS; Gómez, Gale Goodwin 1990. The Shiriana dialect of Yanam (Northern Brazil). Ph.D. diss., Columbia University; Migliazza, Ernest C. 1972. Yanomama grammar and intelligibility; entered by Kelsey Neely</field>
+      <field name='originalForm'>komkarak, ~okarimthok, $iwhirokamak (gom)</field>
+      <field name='phonemicizedForm'>komkaɾak, õkaɾimtʰok, ʃiwhiɾokamak (gom)</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Yanomam</field>
+      <field name='language'>Ninam</field>
+      <field name='source'>IDS; Gómez, Gale Goodwin 1990. The Shiriana dialect of Yanam (Northern Brazil). Ph.D. diss., Columbia University; entered by Megan Gibler</field>
+      <field name='originalForm'>komkarak, ~okarimthok, $iwhirokamak (gom)</field>
+      <field name='phonemicizedForm'>komkarak, ~okarimtʰok, ʃiwhirokamak (gom)</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Yanomam</field>
+      <field name='language'>Yanomami</field>
+      <field name='source'>Mattéi-Müller, Marie-Claude 2007a. Lengua y cultura Yanomamï. Diccionario ilustrado Yanomamï-Español, Español-Yanomamï. Caracas: Epsilon Libros.; Migliazza, Ernest C. 1972. Yanomama grammar and intelligibility; Finkers, Juan. 1986. Los Yanomami y su sistema alimenticio. Vicariato Apostolico de Puerto Ayacucho.; Ramirez, Henri. 1994. Le Parler Yanomamɨ des Xamatauteri. publisher unknown.; entered by Kelsey Neely</field>
+      <field name='originalForm'>wãkõya</field>
+      <field name='phonemicizedForm'>wãkõja</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Carib</field>
+      <field name='language'>Akawaio</field>
+      <field name='source'>Edwards 1980 MAR</field>
+      <field name='originalForm'>aura</field>
+      <field name='phonemicizedForm'>aʊra</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Carib</field>
+      <field name='language'>pbh Eñepa</field>
+      <field name='source'>Mattei-Muller 1994, MAR</field>
+      <field name='originalForm'>wi; uñemakërën (MM)</field>
+      <field name='phonemicizedForm'>wi; uɲemakërën (MM)</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Carib</field>
+      <field name='language'>Pemon</field>
+      <field name='source'>Armellada, Cesáreo 1981. Karina Baeza; Edwards 1980. Melody A Ross. Edwards 1977. Melody A Ross</field>
+      <field name='originalForm'>aura (E1980)</field>
+      <field name='phonemicizedForm'>aʊra (E1980)</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Arawak</field>
+      <field name='language'>Yucuna (sy05)</field>
+      <field name='source'>Schauer, Junia, compiler, and others. 2005. Meke kemakánaka puráka7aloji: wapura7akó chu, eyá karíwana chu (Diccionario bilingüe: Yukuna - Español; Español - Yukuna). 1st ed. Bogotá: Editorial Fundación para el Desarollo de los Pueblos Marginados. 328 p</field>
+      <field name='originalForm'>pijuté</field>
+      <field name='phonemicizedForm'>piyuté</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Arawak</field>
+      <field name='language'>Baniwa</field>
+      <field name='source'>Ramirez, Henri. 2001a. Dicionário Baniwa-Português. Manaus: Editora da Universidade do Amazonas.</field>
+      <field name='originalForm'>omáwaɺi</field>
+      <field name='phonemicizedForm'>omáwali</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Arawak</field>
+      <field name='language'>Paresi (ab08)</field>
+      <field name='source'>Brandao, Ana Paula</field>
+      <field name='originalForm'>menetse</field>
+      <field name='phonemicizedForm'>menetse</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Jivaro</field>
+      <field name='language'>Ashuar</field>
+      <field name='source'>Fast, Gerhard; Warkentin de Fast, Ruby and Fast, Daniel. 1996. Diccionario Shiwiar-Ashuar-Castellano. Serie Lingüística Peruana No. 36. Yarinacocha, ILV.</field>
+      <field name='originalForm'>pangkí, shukíim, puráu, yacumama</field>
+      <field name='phonemicizedForm'>paŋki, ʃuki:m, purau, jakumama</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Jivaro</field>
+      <field name='language'>Huambisa</field>
+      <field name='source'>Jakway, Martha (recop.). 1987 (2nd.ed.). Vocabulario huambisa.Serie Lingüística peruana no. 24 Lima, ILV.</field>
+      <field name='originalForm'>wichi pagki (wichi=submerged piece of wood; pagki=snake</field>
+      <field name='phonemicizedForm'>witʃi paŋgki</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Jivaro</field>
+      <field name='language'>Aguaruna</field>
+      <field name='source'>Wipio, Gerardo (recop.). (1996). Diccionario aguaruna-castellano, castellano-aguaruna.ILV, Lima.</field>
+      <field name='originalForm'>págki</field>
+      <field name='phonemicizedForm'>pángki</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Quechua</field>
+      <field name='language'>Quechua del Pastaza</field>
+      <field name='source'>Landerman, Peter. (2008, 2nd. ed.). Vocabulario Quechua del Pastaza. ILV, Yarinacocha.</field>
+      <field name='originalForm'>yacumama</field>
+      <field name='phonemicizedForm'>jakumama</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Quechua</field>
+      <field name='language'>Napo Lowland Quichua</field>
+      <field name='source'>Orr, Carolyn and Betsy Wrisley (comp.). 1981. Vocabulario quichua del oriente. ILV, Quito.</field>
+      <field name='originalForm'>amarun</field>
+      <field name='phonemicizedForm'>amaɾun</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Peba-Yaguan</field>
+      <field name='language'>Yagua</field>
+      <field name='source'>Powlison, Paul (recop.). (1995). Diccionario yagua-castellano. Serie Lingüística Peruana no. 35. ILV, Lima.</field>
+      <field name='originalForm'>jacodiy</field>
+      <field name='phonemicizedForm'>xakodij</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Tupi-Guarani</field>
+      <field name='language'>Nheengatu</field>
+      <field name='source'>John Blaha (Grenand)</field>
+      <field name='originalForm'>sukuɾiju, mbujawasu (possibly fictitious animal)</field>
+      <field name='phonemicizedForm'>çukuriyu, mbuyawaçu (possibly fictitious animal)</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='language'>Nadêb Rç</field>
+      <field name='source'>Martins, Valteir. 2005. Reconstrução fonológica do Protomaku Oriental [Phonological reconstruction of eastern Protomaku]. Ph. D. diss., Vrije Universiteit, Amsterdam. Amsterdam: LOT. [ɨ is written ɯ in Martins]; Martins, Senn. Nadeb lexicon, ms; Weir, E.M. Helen 1984. A negação e outros tópicos da gramática Nadëb. Dissertação de Mestrado em Lingüística. Campinas: IEL-UNICAMP. AP</field>
+      <field name='originalForm'>jɔːd</field>
+      <field name='phonemicizedForm'>NONE</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Isolate</field>
+      <field name='language'>Andoke</field>
+      <field name='source'>Landaburu, Jon.  1979. La Langue des Andoke. -- Entered by Kelsey Neely</field>
+      <field name='originalForm'>hʌ'pʌ</field>
+      <field name='phonemicizedForm'>hʌʔpʌ</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Guahiban</field>
+      <field name='language'>Guayabero</field>
+      <field name='source'>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano. AP</field>
+      <field name='originalForm'>hombói</field>
+      <field name='phonemicizedForm'>NONE</field>
+    </item>
+  </entry>
+  <entry>
+    <meta>
+      <field name='comments'>
+edible delicacy (compare also edible  'maniwara' ants)
+</field>
+      <field name='englishHeadword'>ant: leaf-cutter ant</field>
+      <field name='portugueseHeadword'>saúva</field>
+      <field name='spanishHeadword'>Colombia: zampopo, hormiga arriera; Venezuela: bachaco; Peru: curuhuinsi</field>
+      <field name='latinHeadword'>Atta sp.</field>
+      <field name='semanticField'>animals</field>
+      <field name='category'>OTHER</field>
+    </meta>
+    <item>
+      <field name='languageFamily'>Tucanoan</field>
+      <field name='language'>Carapana</field>
+      <field name='source'>Metzger, Ronald G., compiler. 2000. Marĩ yaye mena Carapana, yaia yaye mena Español macãrĩcã tuti = Carapana-Español, diccionario de 1000 palabras. Bogotá: Editorial Alberta Lleras Camargo. v, 157 p.</field>
+      <field name='originalForm'>bia puña</field>
+      <field name='phonemicizedForm'>bia puɲã</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Tucanoan</field>
+      <field name='language'>Guanano</field>
+      <field name='source'></field>
+      <field name='originalForm'>boka</field>
+      <field name='phonemicizedForm'>boka</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Tucanoan</field>
+      <field name='language'>Siriano</field>
+      <field name='source'>Brandrup, Beverly Ann 1980. Fonología del siriano. En: Vocabulario siriano-español. Lomalinda: ILV/MG.</field>
+      <field name='originalForm'>pṹtĩ́ɾã́mɨ́</field>
+      <field name='phonemicizedForm'>pṹtĩ́rã́mʉ́</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Tucanoan</field>
+      <field name='language'>Tanimuca tnc</field>
+      <field name='source'>Gaviria, Sofia Victoria – Luis José Azcárate 1979. Fonología y lexicología de la lengua tanimuka. Bogotá: Universidad de los Andes, Facultad de Artes y Ciencias, Departamento de Antropología</field>
+      <field name='originalForm'>bẽ'kã 'ka</field>
+      <field name='phonemicizedForm'>bẽ'kã 'ka</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Tucanoan</field>
+      <field name='language'>Tucano</field>
+      <field name='source'>West, Birdie 1980. Gramática popular del tucano. Bogotá: MG.; Ramirez, Henri. 1996b. A fala tukano dos Ye'pâ-masa. Tomo 2: Dicionário. CEPLA Working Papers in Amerindian Linguistics. Guajará-Mirim: UNIR.</field>
+      <field name='originalForm'>bia-põrá, bo'koro-, dɨpó-tĩ'a-, duhûsa, jamîkã</field>
+      <field name='phonemicizedForm'>bia-põrá, bo'koro-, dɨpó-tĩ'a-, duhûsa, jamîkã</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Tucanoan</field>
+      <field name='language'>Orejon</field>
+      <field name='source'>"Velie, Daniel and Velie Virginia. (2008) (second edition). Vocabulario orejon. Serie Lingüística Peruana No. 16. Yarinacocha, ILV.</field>
+      <field name='originalForm'>meca aguɨ</field>
+      <field name='phonemicizedForm'>meka agɨ</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Tucanoan</field>
+      <field name='language'>Koreguaje</field>
+      <field name='source'>"Cook, Dorothy and Gralow, Frances. 2001. Diccionario bilingüe: Koreguaje - Español, Español - Koreguaje. Bogotá: Editorial Alberto Lleras Camargo.</field>
+      <field name='originalForm'>meka</field>
+      <field name='phonemicizedForm'>mekha</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Tucanoan</field>
+      <field name='language'>Desano</field>
+      <field name='source'></field>
+      <field name='originalForm'>megãmʉ</field>
+      <field name='phonemicizedForm'>megãmɯ</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Tucanoan</field>
+      <field name='language'>Barasano</field>
+      <field name='source'></field>
+      <field name='originalForm'>bẽka</field>
+      <field name='phonemicizedForm'>NONE</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Isolate</field>
+      <field name='language'>Candoshi</field>
+      <field name='source'>Tuggy, John. 2008. Vocabulario candoshi de Loreto (2da. Ed). Serie Lingüística Peruana no. 2. ILV, Lima.</field>
+      <field name='originalForm'>goozi</field>
+      <field name='phonemicizedForm'>nkooʂi</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Yanomam</field>
+      <field name='language'>Yanomami</field>
+      <field name='source'>Mattéi-Müller, Marie-Claude 2007a. Lengua y cultura Yanomamï. Diccionario ilustrado Yanomamï-Español, Español-Yanomamï. Caracas: Epsilon Libros.; Migliazza, Ernest C. 1972. Yanomama grammar and intelligibility; Finkers, Juan. 1986. Los Yanomami y su sistema alimenticio. Vicariato Apostolico de Puerto Ayacucho.; Ramirez, Henri. 1994. Le Parler Yanomamɨ des Xamatauteri. publisher unknown.; entered by Kelsey Neely</field>
+      <field name='originalForm'>koye</field>
+      <field name='phonemicizedForm'>koje (leaf-cutter)</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Carib</field>
+      <field name='language'>Akawaio</field>
+      <field name='source'>Edwards 1980 MAR</field>
+      <field name='originalForm'>kiiawok</field>
+      <field name='phonemicizedForm'>kiawɔk</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Carib</field>
+      <field name='language'>pbh Eñepa</field>
+      <field name='source'>Mattei-Muller 1994, MAR</field>
+      <field name='originalForm'>eñarurukun (MM)</field>
+      <field name='phonemicizedForm'>eɲarurukun (MM)</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Carib</field>
+      <field name='language'>Makiritari</field>
+      <field name='source'></field>
+      <field name='originalForm'>ya:kö (KH) (means 'large ant')</field>
+      <field name='phonemicizedForm'>ja:kə (KH)</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Carib</field>
+      <field name='language'>Makushi (mbc)</field>
+      <field name='source'>Carson, Neusa 1979. Key 1997. Melody A Ross</field>
+      <field name='originalForm'>ayúú (generic ant)</field>
+      <field name='phonemicizedForm'>ayúú (generic ant)</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Carib</field>
+      <field name='language'>Pemon</field>
+      <field name='source'>Armellada, Cesáreo 1981. Karina Baeza; Edwards 1980. Melody A Ross. Edwards 1977. Melody A Ross</field>
+      <field name='originalForm'>kaiwak; kiiawok (E1980)</field>
+      <field name='phonemicizedForm'>kaiwak; kiawɔk (E1980)</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Cariban</field>
+      <field name='language'>Yukpa</field>
+      <field name='source'>Vegamian, Félix María de 1978. Diccionario ilustrado yupa-español, español-yupa, con onomástica y apuntaciones gramaticales. Guarenas/Caracas: Formateca. AP</field>
+      <field name='originalForm'>keyabu</field>
+      <field name='phonemicizedForm'>NONE</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Arawak</field>
+      <field name='language'>Achagua</field>
+      <field name='source'>Meléndez Lozano, Miguel Ángel. 1998a. La lengua achagua, estudio gramatical. Lenguas Aborígenes de Colombia, Descripciones, 11. Santafé de Bogotá: CCELA, UNIANDES. AP</field>
+      <field name='originalForm'>ké:ʃi (h&amp;r)</field>
+      <field name='phonemicizedForm'>kéeʃi (h&amp;r)</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Aɾawak</field>
+      <field name='language'>Piapoco (dk95)</field>
+      <field name='source'>Klumpp, Deloris Pharris de. 1995. Vocabulario piapoco-español. Bogotá: ILV.</field>
+      <field name='originalForm'>kuwé:</field>
+      <field name='phonemicizedForm'>NONE</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Arawak</field>
+      <field name='language'>Piapoco (dk95)</field>
+      <field name='source'>Person entering data: AP</field>
+      <field name='originalForm'>cuwée</field>
+      <field name='phonemicizedForm'>NONE</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Arawak</field>
+      <field name='language'>Yucuna (sy05)</field>
+      <field name='source'>Schauer, Junia, compiler, and others. 2005. Meke kemakánaka puráka7aloji: wapura7akó chu, eyá karíwana chu (Diccionario bilingüe: Yukuna - Español; Español - Yukuna). 1st ed. Bogotá: Editorial Fundación para el Desarollo de los Pueblos Marginados. 328 p</field>
+      <field name='originalForm'>kuhwé</field>
+      <field name='phonemicizedForm'>kujwé</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Arawak</field>
+      <field name='language'>Tariana (aa01)</field>
+      <field name='source'>Aikhenvald, Alexandra Y. 2001. Dicionário Tariana-Português e Português-Tariana. Boletim do MPEG 17/1. Belém.</field>
+      <field name='originalForm'>dáːne, maːki, kéːsu</field>
+      <field name='phonemicizedForm'>dáːne, maːki, kéːsu</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Arawak</field>
+      <field name='language'>Baniwa</field>
+      <field name='source'>Ramirez, Henri. 2001a. Dicionário Baniwa-Português. Manaus: Editora da Universidade do Amazonas.</field>
+      <field name='originalForm'>kóowhe</field>
+      <field name='phonemicizedForm'>kóowhe</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Arawak</field>
+      <field name='language'>Resígaɾo</field>
+      <field name='source'>Allin, Trevor R .1979. Vocabulario resígaro.  Documento de Trabajo, 16.</field>
+      <field name='originalForm'>huduúgí, kófé (edible ones)</field>
+      <field name='phonemicizedForm'>NONE</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Arawak</field>
+      <field name='language'>Resígaro</field>
+      <field name='source'>Person entering data: AP</field>
+      <field name='originalForm'>huduúgí, kófé (edible ones)</field>
+      <field name='phonemicizedForm'>NONE</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Arawak</field>
+      <field name='language'>Kabiyari (hr01)</field>
+      <field name='source'>Ramirez, Henri. 2001. Línguas Arawak da Amazônia setentrional: comparação e descrição. Manaus: Editora da Universidade</field>
+      <field name='originalForm'>kúuhe</field>
+      <field name='phonemicizedForm'>kúuhe</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Arawak</field>
+      <field name='language'>Yavitero (jm87)</field>
+      <field name='source'>Mosonyi, Jorge Carlos, 1987 El idioma Yavitero, Caracas, Venezuela, 241 pages.</field>
+      <field name='originalForm'>ka'wihitsu</field>
+      <field name='phonemicizedForm'>ka'wihic̷u</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Arawak</field>
+      <field name='language'>Paresi (ab08)</field>
+      <field name='source'>Brandao, Ana Paula</field>
+      <field name='originalForm'>'kota</field>
+      <field name='phonemicizedForm'>'kota</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Jivaro</field>
+      <field name='language'>Ashuar</field>
+      <field name='source'>Fast, Gerhard; Warkentin de Fast, Ruby and Fast, Daniel. 1996. Diccionario Shiwiar-Ashuar-Castellano. Serie Lingüística Peruana No. 36. Yarinacocha, ILV.</field>
+      <field name='originalForm'>week</field>
+      <field name='phonemicizedForm'>wɯ:k</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Jivaro</field>
+      <field name='language'>Huambisa</field>
+      <field name='source'>Jakway, Martha (recop.). 1987 (2nd.ed.). Vocabulario huambisa.Serie Lingüística peruana no. 24 Lima, ILV.</field>
+      <field name='originalForm'>week</field>
+      <field name='phonemicizedForm'>wɨ:k</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Jivaro</field>
+      <field name='language'>Aguaruna</field>
+      <field name='source'>Wipio, Gerardo (recop.). (1996). Diccionario aguaruna-castellano, castellano-aguaruna.ILV, Lima.</field>
+      <field name='originalForm'>weéka</field>
+      <field name='phonemicizedForm'>wɨ:ka</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Quechua</field>
+      <field name='language'>Napo Lowland Quichua</field>
+      <field name='source'>Orr, Carolyn and Betsy Wrisley (comp.). 1981. Vocabulario quichua del oriente. ILV, Quito.</field>
+      <field name='originalForm'>ucui</field>
+      <field name='phonemicizedForm'>ukui</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Peba-Yaguan</field>
+      <field name='language'>Yagua</field>
+      <field name='source'>Powlison, Paul (recop.). (1995). Diccionario yagua-castellano. Serie Lingüística Peruana no. 35. ILV, Lima.</field>
+      <field name='originalForm'>jati</field>
+      <field name='phonemicizedForm'>xatı̃</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Pano</field>
+      <field name='language'>Matses</field>
+      <field name='source'>"Fleck, David. (2003). A grammar of matses. PhD Dissertation, Rice University.</field>
+      <field name='originalForm'>mapidequid</field>
+      <field name='phonemicizedForm'>mapiɾekid</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Tupi-Guarani</field>
+      <field name='language'>Nheengatu</field>
+      <field name='source'>John Blaha (Grenand)</field>
+      <field name='originalForm'>saiwa, tasiwa (generic term for all ants)</field>
+      <field name='phonemicizedForm'>çaiwa, taçiwa (generic term for all ants)</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='language'>Yuhup</field>
+      <field name='source'>Martins, Valteir. 2005. Reconstrução fonológica do Protomaku Oriental [Phonological reconstruction of eastern Protomaku]. Ph. D. diss., Vrije Universiteit, Amsterdam. Amsterdam: LOT. AP</field>
+      <field name='originalForm'>hǔd, wɤk, wɤg</field>
+      <field name='phonemicizedForm'>NONE</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='language'>Dâw</field>
+      <field name='source'>Martins, Valteir. 2005. Reconstrução fonológica do Protomaku Oriental [Phonological reconstruction of eastern Protomaku]. Ph. D. diss., Vrije Universiteit, Amsterdam. Amsterdam: LOT. AP</field>
+      <field name='originalForm'>hǔd, wɤk</field>
+      <field name='phonemicizedForm'>NONE</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='language'>Nadêb Rç</field>
+      <field name='source'>Martins, Valteir. 2005. Reconstrução fonológica do Protomaku Oriental [Phonological reconstruction of eastern Protomaku]. Ph. D. diss., Vrije Universiteit, Amsterdam. Amsterdam: LOT. [ɨ is written ɯ in Martins]; Martins, Senn. Nadeb lexicon, ms; Weir, E.M. Helen 1984. A negação e outros tópicos da gramática Nadëb. Dissertação de Mestrado em Lingüística. Campinas: IEL-UNICAMP. AP</field>
+      <field name='originalForm'>wɤk̚</field>
+      <field name='phonemicizedForm'>NONE</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='language'>Nadeb RN</field>
+      <field name='source'>Martins, Valteir. 2005. Reconstrução fonológica do Protomaku Oriental [Phonological reconstruction of eastern Protomaku]. Ph. D. diss., Vrije Universiteit, Amsterdam. Amsterdam: LOT. AP</field>
+      <field name='originalForm'>wɤk̚</field>
+      <field name='phonemicizedForm'>NONE</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Unclassified</field>
+      <field name='language'>Warao</field>
+      <field name='source'>John Blaha (Romero-Figeroa)</field>
+      <field name='originalForm'>ahimu (kind of ant)</field>
+      <field name='phonemicizedForm'>ahimu (kind of ant)</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Choco</field>
+      <field name='language'>Emberá</field>
+      <field name='source'>Sara, Solomon. A Tri-Lingual Dictionary of Emberá-Spanish-English</field>
+      <field name='originalForm'>kaabudɨdˈɨ</field>
+      <field name='phonemicizedForm'>NONE</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Choco</field>
+      <field name='language'>Embeɹá</field>
+      <field name='source'>Saɹa, Solomon. A Tɹi-Lingual Dictionaɹj of Embeɹá-Spanish-English</field>
+      <field name='originalForm'>ka:budɨdˈɨ</field>
+      <field name='phonemicizedForm'>NONE</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Guahiban</field>
+      <field name='language'>Guayabero</field>
+      <field name='source'>Huber, R.; Reed, R. 1992. Comparative vocaulary: selected words in indigenous languages of Colombia. Instituto Linguistico de Verano. AP</field>
+      <field name='originalForm'>ɸaóe-t (ant in general)</field>
+      <field name='phonemicizedForm'>NONE</field>
+    </item>
+    <item>
+      <field name='languageFamily'>Isolate</field>
+      <field name='language'>Huaorani</field>
+      <field name='source'>Summer Institute of Lingusitics 1959</field>
+      <field name='originalForm'>GNhu, ghu (generic)</field>
+      <field name='phonemicizedForm'>NONE</field>
     </item>
   </entry>
 </entries>

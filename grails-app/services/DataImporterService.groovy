@@ -230,23 +230,19 @@ class DataImporterService {
         }
     }
 
-    def importLexicalXML() {
+    def importXML() {
         def files = []
         new File("xml").eachFileMatch(~/.*\.xml/) { file -> files << file }
-        importLexicalXML(files)
+        importXML(files)
     }
 
-    def importLexicalXML(files) {
+    def importXML(files) {
         files.each { file ->
-            importLexicalXML(file)
+            importXML(file)
         }
     }
 
-    def importLexicalXML(File input) {
-
-        def createdObjects = []
-
-        def languageCache = [:]
+    def importXML(File input) {
 
         def outputBuffer = new StringWriter()
         def output = new PrintWriter(outputBuffer)
@@ -258,7 +254,21 @@ class DataImporterService {
         }
 
         def entries = new XmlParser().parse(input)
-        logOutput("Entries: ${entries}")
+        def type = entries.'@type'
+        switch (type) {
+            case 'lexical':
+                importLexicalXML(entries, logOutput)
+                break
+            default:
+                break
+        }
+
+        return ['output':outputBuffer.toString()]
+    }
+
+    def importLexicalXML(entries, logOutput) {
+
+        def languageCache = [:]
 
         def pos = PartOfSpeech.findByName("Unknown")
         logOutput("Part Of Speech: ${pos}")
@@ -272,8 +282,6 @@ class DataImporterService {
 //                println "Name: ${f.'@name'}, Value: ${f.value}"
                 meta[f.'@name'] = getValueFromXMLElement(f)
             }
-
-            println meta
 
             def lexicalFeature = createLexicalFeature(meta, pos, caseStudyRegion, logOutput);
 
@@ -326,10 +334,6 @@ class DataImporterService {
                             } else {
                                 logOutput("Created Lexical Data: ${lexicalData}")
                             }
-
-                            if(lexicalData) {
-                                createdObjects << lexicalData
-                            }
                         }
                     }
                 }
@@ -339,11 +343,8 @@ class DataImporterService {
         def lexicalDataList = LexicalData.list()
 
         logOutput("Lexical Feature Count: ${LexicalFeature.list().size()}")
-
-        logOutput("Created Object Count: ${createdObjects.size()}")
         logOutput("Lexical Data Count: ${lexicalDataList.size()}")
 
-        return ['output':outputBuffer.toString(), 'lexicalDataList':lexicalDataList, 'createdObjects':createdObjects]
     }
 
     def createSourceLanguage(languageFamilyName, languageName, caseStudyRegion, languageCache, logOutput) {

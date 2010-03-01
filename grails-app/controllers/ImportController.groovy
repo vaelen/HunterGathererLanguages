@@ -5,7 +5,7 @@ class ImportController {
     def index = {}
 
     def importLexicalXML = {
-        dataImporterService.importLexicalXML()
+        dataImporterService.importXML()
     }
 
 }
