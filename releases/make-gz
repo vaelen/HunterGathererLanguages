@@ -1,0 +1,7 @@
+#!/bin/bash
+
+export DATE=`date +'%F-%H-%M-%S'`
+export FILE="hunter-$DATE.tar.gz"
+tar -hcvzf $FILE HunterGathererLanguages.war
+scp $FILE ayoung@file.laits.utexas.edu:/mnt/projects/hunter_gatherer/
+
