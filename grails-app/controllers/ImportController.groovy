@@ -4,8 +4,9 @@ class ImportController {
 
     def index = {}
 
-    def importLexicalXML = {
-        dataImporterService.importXML()
+    def importXML = {
+        InputStream importFile = request.getFile("file").inputStream
+        dataImporterService.importXML(importFile)
     }
 
 }

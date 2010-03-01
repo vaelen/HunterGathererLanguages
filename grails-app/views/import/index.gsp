@@ -6,9 +6,11 @@
     <title>Data Importer</title>
   </head>
   <body>
-    Actions:
-    <ul>
-      <li><g:link action="importLexicalXML">Import Lexical XML</g:link></li>
-    </ul>
+    Import XML:<br/>
+    <g:form controller="import" method="post" action="importXML"
+      enctype="multipart/form-data">
+        <input type="file" name="file"/><br/>
+        <input type="submit"/>
+    </g:form>
   </body>
 </html>

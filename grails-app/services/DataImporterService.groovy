@@ -243,6 +243,12 @@ class DataImporterService {
     }
 
     def importXML(File input) {
+        input.withInputStream() { inputStream ->
+            importXML(inputStream)
+        }
+    }
+
+    def importXML(InputStream input) {
 
         def outputBuffer = new StringWriter()
         def output = new PrintWriter(outputBuffer)
@@ -269,6 +275,7 @@ class DataImporterService {
     def importLexicalXML(entries, logOutput) {
 
         def languageCache = [:]
+        def sourceCache = [:]
 
         def pos = PartOfSpeech.findByName("Unknown")
         logOutput("Part Of Speech: ${pos}")
@@ -326,6 +333,11 @@ class DataImporterService {
                             lexicalData.lexicalFeature = lexicalFeature
                             lexicalData.sourceLanguage = language
 
+                            def source = createSource(item['source'], language, sourceCache, logOutput)
+                            if(source) {
+                                lexicalData.addToSources(source)
+                            }
+
                             if(!lexicalData.save(flush:true)) {
                                 lexicalData.errors.each { error ->
                                     logOutput("Error Saving Lexical Data: ${error}")
@@ -345,6 +357,40 @@ class DataImporterService {
         logOutput("Lexical Feature Count: ${LexicalFeature.list().size()}")
         logOutput("Lexical Data Count: ${lexicalDataList.size()}")
 
+    }
+
+    def createSource(title, sourceLanguage, sourceCache, logOutput) {
+        def source = null
+        if(title) {
+            source = sourceCache[title]
+            if(!source) {
+                source = Source.findByTitle(title)
+                if(source) {
+                    sourceCache[title] = source
+                }
+            }
+            if(!source) {
+                source = new Source(
+                    'editor':'UNKNOWN',
+                    'author':'UNKNOWN',
+                    'title':title,
+                    'placeOfPublication':'UNKNOWN',
+                    'dateOfPublication':'UNKNOWN',
+                    'publisher':'UNKNOWN',
+                    'publisherDetails':'',
+                    'sourceLanguage':sourceLanguage
+                )
+                if(!source.save()) {
+                    source.errors.each { error ->
+                        logOutput("Error Saving Source: ${error}")
+                    }
+                    source = null
+                } else {
+                    logOutput("Created Source: ${source}")
+                }
+            }
+        }
+        return source
     }
 
     def createSourceLanguage(languageFamilyName, languageName, caseStudyRegion, languageCache, logOutput) {
