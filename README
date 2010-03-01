@@ -9,3 +9,7 @@ Also, the mail.jar that ships with grails can cause conflicts with the one that 
 When configuring the database, be sure to use UTF-8.  Using a connection string like the following one should accomplish this for MySQL:
 
 	jdbc:mysql://servername.example.com/hunter_gatherer?useUnicode=yes&characterEncoding=UTF-8
+
+Also, you need to set the Hibernate dialect in your DataSource.groovy file to this value so that tables are created with a UTF-8 character set:
+
+	dialect = org.hibernate.dialect.MySQL5UTF8InnoDBDialect
