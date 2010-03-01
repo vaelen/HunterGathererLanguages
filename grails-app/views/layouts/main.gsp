@@ -56,7 +56,7 @@
     </head>
     <body>
         <div id="spinner" class="spinner" style="display:none;">
-            <img src="${resource(dir:'images',file:'spinner.gif')}" alt="Spinner" />
+            <img src="${resource(dir:'images/logos',file:'spinner.gif')}" alt="Spinner" />
         </div>	
         <%-- <div class="logo"><img src="${resource(dir:'images',file:'grails_logo.jpg')}" alt="Grails" /></div> --%>
         <div id="site-nav-wrapper" class="yui-skin-sam" style="margin-bottom: 1em;">
@@ -176,5 +176,28 @@
           </div>
         </div>
         <g:layoutBody />
+        <div align="center" style="margin-top: 3em">
+          <table border="0" style="border:0px">
+            <tr>
+              <td valign="middle"><img src="${resource(dir:'images/logos',file:'nsf-100.jpg')}"/></td>
+              <td valign="middle" style="size: 50%">
+                This database has been developed as part of NSF grant BCS-902114
+                “Dynamics of Hunter-Gatherer Language Change”, awarded to Yale
+                University. PIs are Claire Bowern (Yale University), Patience Epps (UT
+                Austin), Jane Hill (Arizona), and Keith Hunley (New Mexico); Patrick
+                McConvell (ANU), Jack Ives (Alberta) and Russell Gray (Auckland) are
+                also affiliated. The content and opinions expressed here are solely
+                those of the writers and are not necessarily consistent with the
+                policies or opinions of the NSF.<br/>
+                <br/>
+                © 2010 This material is copyright. Please do not cite or publish
+                anything in this database without permission from the authors.</br>
+                <br/>
+                For comments, corrections and further information, please contact
+                Claire Bowern (<a href="mailto:claire.bowern@yale.edu">claire.bowern@yale.edu</a>).<br/>
+              </td>
+            </tr>
+          </table>
+        </div>
     </body>	
 </html>
