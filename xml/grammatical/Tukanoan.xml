@@ -1,0 +1,2190 @@
+<features type='grammatical'>
+  <feature>
+    <meta>
+      <field name='name'>pre- or post-nasalization of stops</field>
+      <field name='definition'>most likely allophonic</field>
+    </meta>
+    <data>
+      <field name='language'>Tucano</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>West, 2000 in González de Pérez &amp; Rodríguez de Montes (eds.). 2000</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Piratapuyo</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Perez &amp; Montes, 2000, p. 493, and Klumpp, 1973, p. 108-120</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Yuruti</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>yes</field>
+      <field name='source'>Perez &amp; Montes, 2000, p. 470</field>
+      <field name='comments'>pre-nasalization</field>
+    </data>
+    <data>
+      <field name='language'>Tuyuca</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>yes</field>
+      <field name='source'>Barnes &amp; Takagi, 1976, p. 124</field>
+      <field name='comments'>pre-nasalization</field>
+    </data>
+    <data>
+      <field name='language'>Siriano</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>yes</field>
+      <field name='source'>Perez &amp; Montes, 2000, p. 395</field>
+      <field name='comments'>pre-nasalization</field>
+    </data>
+    <data>
+      <field name='language'>Tanimuca</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Perez &amp; Montes, 2000, p. 495</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Barasano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>no</field>
+      <field name='source'>Jones 1991</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Desano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>no</field>
+      <field name='source'>Miller 1999</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Wanano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>no</field>
+      <field name='source'>Stenzel 2004</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Orejon</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Velie &amp; Velie 2008:page?</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Koreguaje</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Cook &amp; Gralow 2001:page?</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>glottalized/ejective consonants</field>
+      <field name='definition'>phonemic contrast</field>
+    </meta>
+    <data>
+      <field name='language'>Tucano</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>West, 2000 in González de Pérez &amp; Rodríguez de Montes (eds.). 2000</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Piratapuyo</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Perez &amp; Montes, 2000, p. 493, and Klumpp, 1973, p. 108-120</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Yuruti</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Perez &amp; Montes, 2000, p. 470</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Tuyuca</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>yes</field>
+      <field name='source'>Barnes &amp; Takagi, 1976, p. 124</field>
+      <field name='comments'>pre-glottalized consonants</field>
+    </data>
+    <data>
+      <field name='language'>Siriano</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Perez &amp; Montes, 2000, p. 395</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Tanimuca</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Perez &amp; Montes, 2000, p. 495</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Barasano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>no</field>
+      <field name='source'>Jones 1991</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Desano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>yes</field>
+      <field name='source'>Miller 1999</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Wanano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>ye</field>
+      <field name='source'>Stenzel 2004</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Orejon</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Velie, Daniel and Velie Virginia. (2008) (second edition). Vocabulario orejon. Serie Lingüística Peruana No. 16. Yarinacocha, ILV.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Koreguaje</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Cook, Dorothy and Gralow, Frances. 2001. Diccionario bilingüe: Koreguaje - Español, Español - Koreguaje. Bogotá: Editorial Alberto Lleras Camargo.</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>palatalized stops</field>
+      <field name='definition'>phonemic contrast</field>
+    </meta>
+    <data>
+      <field name='language'>Tucano</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>West, 2000 in González de Pérez &amp; Rodríguez de Montes (eds.). 2000</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Piratapuyo</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Perez &amp; Montes, 2000, p. 493, and Klumpp, 1973, p. 108-120</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Yuruti</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Perez &amp; Montes, 2000, p. 470</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Tuyuca</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Barnes &amp; Takagi, 1976, p. 124</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Siriano</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Perez &amp; Montes, 2000, p. 395</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Tanimuca</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>yes</field>
+      <field name='source'>Perez &amp; Montes, 2000, p. 495</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Barasano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>no</field>
+      <field name='source'>Jones 1991</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Desano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>no</field>
+      <field name='source'>Miller 1999</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Wanano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>no</field>
+      <field name='source'>Stenzel 2004</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Orejon</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Velie, Daniel and Velie Virginia. (2008) (second edition). Vocabulario orejon. Serie Lingüística Peruana No. 16. Yarinacocha, ILV.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Koreguaje</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Cook, Dorothy and Gralow, Frances. 2001. Diccionario bilingüe: Koreguaje - Español, Español - Koreguaje. Bogotá: Editorial Alberto Lleras Camargo.</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>phonemic vowel length</field>
+      <field name='definition'></field>
+    </meta>
+    <data>
+      <field name='language'>Tucano</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>West, 2000 in González de Pérez &amp; Rodríguez de Montes (eds.). 2000</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Piratapuyo</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Perez &amp; Montes, 2000, p. 493, and Klumpp, 1973, p. 108-120</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Yuruti</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Perez &amp; Montes, 2000, p. 470</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Tuyuca</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Barnes &amp; Takagi, 1976, p. 124</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Siriano</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Perez &amp; Montes, 2000, p. 395</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Tanimuca</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Perez &amp; Montes, 2000, p. 495</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Barasano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>no</field>
+      <field name='source'>Jones 1991</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Desano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>no</field>
+      <field name='source'>Miller 1999</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Wanano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>no</field>
+      <field name='source'>Stenzel 2004</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Orejon</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Velie, Daniel and Velie Virginia. (2008) (second edition). Vocabulario orejon. Serie Lingüística Peruana No. 16. Yarinacocha, ILV.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Koreguaje</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Cook, Dorothy and Gralow, Frances. 2001. Diccionario bilingüe: Koreguaje - Español, Español - Koreguaje. Bogotá: Editorial Alberto Lleras Camargo.</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>phonemic glottalization/laryngealization of vowels</field>
+      <field name='definition'></field>
+    </meta>
+    <data>
+      <field name='language'>Tucano</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>West, 2000 in González de Pérez &amp; Rodríguez de Montes (eds.). 2000</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Piratapuyo</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Perez &amp; Montes, 2000, p. 493, and Klumpp, 1973, p. 108-120</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Yuruti</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Perez &amp; Montes, 2000, p. 470</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Tuyuca</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Barnes &amp; Takagi, 1976, p. 124</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Siriano</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Perez &amp; Montes, 2000, p. 395</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Tanimuca</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Perez &amp; Montes, 2000, p. 495</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Barasano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>no</field>
+      <field name='source'>Jones 1991</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'></field>
+      <field name='languageFamily'></field>
+      <field name='personEnteringData'></field>
+      <field name='value'>Miller 1999</field>
+      <field name='source'>no</field>
+      <field name='comments'>Stenzel 2004</field>
+    </data>
+    <data>
+      <field name='language'>Orejon</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Velie, Daniel and Velie Virginia. (2008) (second edition). Vocabulario orejon. Serie Lingüística Peruana No. 16. Yarinacocha, ILV.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Koreguaje</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Cook, Dorothy and Gralow, Frances. 2001. Diccionario bilingüe: Koreguaje - Español, Español - Koreguaje. Bogotá: Editorial Alberto Lleras Camargo.</field>
+      <field name='comments'>there is aspiration in voiceless stops</field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>contrastive tones (number)</field>
+      <field name='definition'></field>
+    </meta>
+    <data>
+      <field name='language'>Tucano</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>yes</field>
+      <field name='source'>West, 2000 in González de Pérez &amp; Rodríguez de Montes (eds.). 2000, p. 422</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Piratapuyo</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>yes</field>
+      <field name='source'>Perez &amp; Montes, 2000, p. 493, and Klumpp, 1973, p. 108-120</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Yuruti</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>yes</field>
+      <field name='source'>Perez &amp; Montes, 2000, p. 472</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Tuyuca</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>yes</field>
+      <field name='source'>Barnes &amp; Takagi, 1976, p. 124</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Siriano</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>yes</field>
+      <field name='source'>Perez &amp; Montes, 2000</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Tanimuca</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no info</field>
+      <field name='source'>Perez &amp; Montes, 2000</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Barasano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>2</field>
+      <field name='source'>Jones 1991</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Desano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>2</field>
+      <field name='source'>Miller 1999</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Wanano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>3</field>
+      <field name='source'>Stenzel 2004</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Orejon</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes (at least two)</field>
+      <field name='source'>Velie, Daniel and Velie Virginia. (2008) (second edition). Vocabulario orejon. Serie Lingüística Peruana No. 16. Yarinacocha, ILV.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Koreguaje</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Cook, Dorothy and Gralow, Frances. 2001. Diccionario bilingüe: Koreguaje - Español, Español - Koreguaje. Bogotá: Editorial Alberto Lleras Camargo.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Siona</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Huber &amp; Reed 1992:page?</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>contrastive stress</field>
+      <field name='definition'></field>
+    </meta>
+    <data>
+      <field name='language'>Tucano</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>West, 2000 in González de Pérez &amp; Rodríguez de Montes (eds.). 2000</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Piratapuyo</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>yes (?check)</field>
+      <field name='source'>Perez &amp; Montes, 2000, p. 493, and Klumpp, 1973, p. 108-120</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Yuruti</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>yes</field>
+      <field name='source'>Perez &amp; Montes, 2000, p. 470</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Tuyuca</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Barnes &amp; Takagi, 1976, p. 124</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Siriano</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Perez &amp; Montes, 2000</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Tanimuca</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no info</field>
+      <field name='source'>Perez &amp; Montes, 2000</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Barasano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>yes</field>
+      <field name='source'>Jones 1991</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Desano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>yes</field>
+      <field name='source'>Miller 1999</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Wanano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>no</field>
+      <field name='source'>Stenzel 2004</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Orejon</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>?</field>
+      <field name='source'>Velie, Daniel and Velie Virginia. (2008) (second edition). Vocabulario orejon. Serie Lingüística Peruana No. 16. Yarinacocha, ILV.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Koreguaje</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>?</field>
+      <field name='source'>Cook, Dorothy and Gralow, Frances. 2001. Diccionario bilingüe: Koreguaje - Español, Español - Koreguaje. Bogotá: Editorial Alberto Lleras Camargo.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Siona</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Wheeler 1970:20</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>nasalization property of morpheme or syllable</field>
+      <field name='definition'>vs. nasalization as property of segments</field>
+    </meta>
+    <data>
+      <field name='language'>Tucano</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>yes</field>
+      <field name='source'>West, 2000 in González de Pérez &amp; Rodríguez de Montes (eds.). 2000</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Piratapuyo</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>yes</field>
+      <field name='source'>Perez &amp; Montes, 2000, p. 493, and Klumpp, 1973, p. 108-120</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Yuruti</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>yes</field>
+      <field name='source'>Perez &amp; Montes, 2000, p. 470</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Tuyuca</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>yes</field>
+      <field name='source'>Barnes &amp; Takagi, 1976, p. 124</field>
+      <field name='comments'>nasalization in the root level</field>
+    </data>
+    <data>
+      <field name='language'>Siriano</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>yes</field>
+      <field name='source'>Perez &amp; Montes, 2000</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Tanimuca</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>yes</field>
+      <field name='source'>Perez &amp; Montes, 2000</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Barasano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>yes</field>
+      <field name='source'>Jones 1991</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Desano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>yes</field>
+      <field name='source'>Miller 1999</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Wanano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>yes</field>
+      <field name='source'>Stenzel 2004</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Orejon</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Velie, Daniel and Velie Virginia. (2008) (second edition). Vocabulario orejon. Serie Lingüística Peruana No. 16. Yarinacocha, ILV.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Koreguaje</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>Cook, Dorothy and Gralow, Frances. 2001. Diccionario bilingüe: Koreguaje - Español, Español - Koreguaje. Bogotá: Editorial Alberto Lleras Camargo.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Siona</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Huber, Randall and Reed, Robert. 1992. Vocabulario comparativo. Palabras selectas de lenguas de Colombia. ILV, Santafé de Bogotá.</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>nasal spreading across some morpheme boundaries</field>
+      <field name='definition'>do some affixes or other morphemes take the nasal/oral properties of the root they attach to?</field>
+    </meta>
+    <data>
+      <field name='language'>Tucano</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>West, 2000 in González de Pérez &amp; Rodríguez de Montes (eds.). 2000</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Piratapuyo</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no info</field>
+      <field name='source'>Perez &amp; Montes, 2000, p. 493, and Klumpp, 1973, p. 108-120</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Yuruti</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Perez &amp; Montes, 2000, p. 470</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Tuyuca</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>yes</field>
+      <field name='source'>Barnes &amp; Takagi, 1976, p. 124</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Siriano</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>yes</field>
+      <field name='source'>Perez &amp; Montes, 2000. p. 399</field>
+      <field name='comments'>phonological conditioned</field>
+    </data>
+    <data>
+      <field name='language'>Tanimuca</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no info</field>
+      <field name='source'>Perez &amp; Montes, 2000</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Barasano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>yes</field>
+      <field name='source'>Jones 1991</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Desano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>yes</field>
+      <field name='source'>Miller 1999</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Wanano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>yes</field>
+      <field name='source'>Stenzel 2004</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Orejon</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>?</field>
+      <field name='source'>Velie, Daniel and Velie Virginia. (2008) (second edition). Vocabulario orejon. Serie Lingüística Peruana No. 16. Yarinacocha, ILV.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Koreguaje</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>Cook, Dorothy and Gralow, Frances. 2001. Diccionario bilingüe: Koreguaje - Español, Español - Koreguaje. Bogotá: Editorial Alberto Lleras Camargo.</field>
+      <field name='comments'>nasal spreading between affixes but it is stopped when reaching the root</field>
+    </data>
+    <data>
+      <field name='language'>Siona</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>Wheeler, Alva. 1970. Grammar of the Siona language. PhD Dissertation, University of california, Berkeley.</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>complex onsets</field>
+      <field name='definition'>(onset consists of more than one consonant phoneme)</field>
+    </meta>
+    <data>
+      <field name='language'>Tucano</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>West, 2000 in González de Pérez &amp; Rodríguez de Montes (eds.). 2000</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Piratapuyo</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>yes</field>
+      <field name='source'>Perez &amp; Montes, 2000, p. 493, and Klumpp, 1973, p. 108-120</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Yuruti</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Perez &amp; Montes, 2000, p. 470</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Tuyuca</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Barnes &amp; Takagi, 1976, p. 124</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Siriano</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Perez &amp; Montes, 2000</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Tanimuca</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Perez &amp; Montes, 2000</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Barasano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>no</field>
+      <field name='source'>Jones 1991</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Desano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>no</field>
+      <field name='source'>Miller 1999</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Wanano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>no</field>
+      <field name='source'>Stenzel 2004</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Orejon</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Velie, Daniel and Velie Virginia. (2008) (second edition). Vocabulario orejon. Serie Lingüística Peruana No. 16. Yarinacocha, ILV.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Koreguaje</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Cook, Dorothy and Gralow, Frances. 2001. Diccionario bilingüe: Koreguaje - Español, Español - Koreguaje. Bogotá: Editorial Alberto Lleras Camargo.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Siona</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>Huber, Randall and Reed, Robert. 1992. Vocabulario comparativo. Palabras selectas de lenguas de Colombia. ILV, Santafé de Bogotá.</field>
+      <field name='comments'>the second consonant of the cluster is a glide</field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>no codas</field>
+      <field name='definition'>*(C)VC</field>
+    </meta>
+    <data>
+      <field name='language'>Tucano</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>West, 2000 in González de Pérez &amp; Rodríguez de Montes (eds.). 2000</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Piratapuyo</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Perez &amp; Montes, 2000, p. 493, and Klumpp, 1973, p. 108-120</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Yuruti</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>yes</field>
+      <field name='source'>Perez &amp; Montes, 2000, p. 470</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Tuyuca</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>yes</field>
+      <field name='source'>Barnes &amp; Takagi, 1976, p. 124</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Siriano</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>yes</field>
+      <field name='source'>Perez &amp; Montes, 2000</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Tanimuca</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>yes</field>
+      <field name='source'>Perez &amp; Montes, 2000</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Barasano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>yes</field>
+      <field name='source'>Jones 1991</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Desano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>no</field>
+      <field name='source'>Miller 1999</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Wanano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>yes</field>
+      <field name='source'>Stenzel 2004</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Orejon</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no. there are codas</field>
+      <field name='source'>Velie, Daniel and Velie Virginia. (2008) (second edition). Vocabulario orejon. Serie Lingüística Peruana No. 16. Yarinacocha, ILV.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Koreguaje</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no, there exits codas</field>
+      <field name='source'>Cook, Dorothy and Gralow, Frances. 2001. Diccionario bilingüe: Koreguaje - Español, Español - Koreguaje. Bogotá: Editorial Alberto Lleras Camargo.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Siona</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no, there exists codas</field>
+      <field name='source'>Huber, Randall and Reed, Robert. 1992. Vocabulario comparativo. Palabras selectas de lenguas de Colombia. ILV, Santafé de Bogotá.</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>glide codas</field>
+      <field name='definition'>e.g. /y/ or /w/ as coda consonants</field>
+    </meta>
+    <data>
+      <field name='language'>Tucano</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>West, 2000 in González de Pérez &amp; Rodríguez de Montes (eds.). 2000</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Piratapuyo</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Perez &amp; Montes, 2000, p. 493, and Klumpp, 1973, p. 108-120</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Yuruti</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Perez &amp; Montes, 2000, p. 470</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Tuyuca</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Barnes &amp; Takagi, 1976, p. 124</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Siriano</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Perez &amp; Montes, 2000</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Tanimuca</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Perez &amp; Montes, 2000</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Barasano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>no</field>
+      <field name='source'>Jones 1991</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Desano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>no</field>
+      <field name='source'>Miller 1999</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Wanano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>no</field>
+      <field name='source'>Stenzel 2004</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Orejon</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>Velie, Daniel and Velie Virginia. (2008) (second edition). Vocabulario orejon. Serie Lingüística Peruana No. 16. Yarinacocha, ILV.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Koreguaje</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>Cook, Dorothy and Gralow, Frances. 2001. Diccionario bilingüe: Koreguaje - Español, Español - Koreguaje. Bogotá: Editorial Alberto Lleras Camargo.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Siona</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>Huber, Randall and Reed, Robert. 1992. Vocabulario comparativo. Palabras selectas de lenguas de Colombia. ILV, Santafé de Bogotá.</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>liquid codas</field>
+      <field name='definition'>e.g. /r/ or /l/ as coda consonants</field>
+    </meta>
+    <data>
+      <field name='language'>Tucano</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>West, 2000 in González de Pérez &amp; Rodríguez de Montes (eds.). 2000</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Piratapuyo</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Perez &amp; Montes, 2000, p. 493, and Klumpp, 1973, p. 108-120</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Yuruti</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Perez &amp; Montes, 2000, p. 470</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Tuyuca</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Barnes &amp; Takagi, 1976, p. 124</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Siriano</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Perez &amp; Montes, 2000</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Tanimuca</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Perez &amp; Montes, 2000</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Barasano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>no</field>
+      <field name='source'>Jones 1991</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Desano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>no</field>
+      <field name='source'>Miller 1999</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Wanano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>no</field>
+      <field name='source'>Stenzel 2004</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Orejon</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Velie, Daniel and Velie Virginia. (2008) (second edition). Vocabulario orejon. Serie Lingüística Peruana No. 16. Yarinacocha, ILV.</field>
+      <field name='comments'>the language has no liquids phonemically</field>
+    </data>
+    <data>
+      <field name='language'>Koreguaje</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Cook, Dorothy and Gralow, Frances. 2001. Diccionario bilingüe: Koreguaje - Español, Español - Koreguaje. Bogotá: Editorial Alberto Lleras Camargo.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Siona</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Huber, Randall and Reed, Robert. 1992. Vocabulario comparativo. Palabras selectas de lenguas de Colombia. ILV, Santafé de Bogotá.</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>nasal codas</field>
+      <field name='definition'>(C)VN</field>
+    </meta>
+    <data>
+      <field name='language'>Tucano</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>West, 2000 in González de Pérez &amp; Rodríguez de Montes (eds.). 2000</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Piratapuyo</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Perez &amp; Montes, 2000, p. 493, and Klumpp, 1973, p. 108-120</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Yuruti</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Perez &amp; Montes, 2000, p. 470</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Tuyuca</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Barnes &amp; Takagi, 1976, p. 124</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Siriano</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Perez &amp; Montes, 2000</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Tanimuca</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Perez &amp; Montes, 2000</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Barasano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>no</field>
+      <field name='source'>Jones 1991</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Desano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>no</field>
+      <field name='source'>Miller 1999</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Wanano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>no</field>
+      <field name='source'>Stenzel 2004</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Orejon</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Velie, Daniel and Velie Virginia. (2008) (second edition). Vocabulario orejon. Serie Lingüística Peruana No. 16. Yarinacocha, ILV.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Koreguaje</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Cook, Dorothy and Gralow, Frances. 2001. Diccionario bilingüe: Koreguaje - Español, Español - Koreguaje. Bogotá: Editorial Alberto Lleras Camargo.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Siona</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Huber, Randall and Reed, Robert. 1992. Vocabulario comparativo. Palabras selectas de lenguas de Colombia. ILV, Santafé de Bogotá.</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>voiceless obstruent codas</field>
+      <field name='definition'></field>
+    </meta>
+    <data>
+      <field name='language'>Tucano</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>West, 2000 in González de Pérez &amp; Rodríguez de Montes (eds.). 2000</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Piratapuyo</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Perez &amp; Montes, 2000, p. 493, and Klumpp, 1973, p. 108-120</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Yuruti</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Perez &amp; Montes, 2000, p. 470</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Tuyuca</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Barnes &amp; Takagi, 1976, p. 124</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Siriano</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Perez &amp; Montes, 2000</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Tanimuca</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Perez &amp; Montes, 2000</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Barasano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>no</field>
+      <field name='source'>Jones 1991</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Desano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>no</field>
+      <field name='source'>Miller 1999</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Wanano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>no</field>
+      <field name='source'>Stenzel 2004</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Orejon</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>Velie, Daniel and Velie Virginia. (2008) (second edition). Vocabulario orejon. Serie Lingüística Peruana No. 16. Yarinacocha, ILV.</field>
+      <field name='comments'>in the source, it only happens in loan words</field>
+    </data>
+    <data>
+      <field name='language'>Koreguaje</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Cook, Dorothy and Gralow, Frances. 2001. Diccionario bilingüe: Koreguaje - Español, Español - Koreguaje. Bogotá: Editorial Alberto Lleras Camargo.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Siona</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Huber, Randall and Reed, Robert. 1992. Vocabulario comparativo. Palabras selectas de lenguas de Colombia. ILV, Santafé de Bogotá.</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>voiced obstruent codas</field>
+      <field name='definition'></field>
+    </meta>
+    <data>
+      <field name='language'>Tucano</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>West, 2000 in González de Pérez &amp; Rodríguez de Montes (eds.). 2000</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Piratapuyo</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Perez &amp; Montes, 2000, p. 493, and Klumpp, 1973, p. 108-120</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Yuruti</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Perez &amp; Montes, 2000, p. 470</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Tuyuca</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Barnes &amp; Takagi, 1976, p. 124</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Siriano</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Perez &amp; Montes, 2000</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Tanimuca</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Perez &amp; Montes, 2000</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Barasano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>no</field>
+      <field name='source'>Jones 1991</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Desano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>no</field>
+      <field name='source'>Miller 1999</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Wanano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>no</field>
+      <field name='source'>Stenzel 2004</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Orejon</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Velie, Daniel and Velie Virginia. (2008) (second edition). Vocabulario orejon. Serie Lingüística Peruana No. 16. Yarinacocha, ILV.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Koreguaje</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Cook, Dorothy and Gralow, Frances. 2001. Diccionario bilingüe: Koreguaje - Español, Español - Koreguaje. Bogotá: Editorial Alberto Lleras Camargo.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Siona</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Huber, Randall and Reed, Robert. 1992. Vocabulario comparativo. Palabras selectas de lenguas de Colombia. ILV, Santafé de Bogotá.</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>h coda</field>
+      <field name='definition'></field>
+    </meta>
+    <data>
+      <field name='language'>Tucano</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>West, 2000 in González de Pérez &amp; Rodríguez de Montes (eds.). 2000</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Piratapuyo</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Perez &amp; Montes, 2000, p. 493, and Klumpp, 1973, p. 108-120</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Yuruti</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Perez &amp; Montes, 2000, p. 470</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Tuyuca</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Barnes &amp; Takagi, 1976, p. 124</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Siriano</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Perez &amp; Montes, 2000</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Tanimuca</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Perez &amp; Montes, 2000</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Barasano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>no</field>
+      <field name='source'>Jones 1991</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Desano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>no</field>
+      <field name='source'>Miller 1999</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Wanano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>no</field>
+      <field name='source'>Stenzel 2004</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Orejon</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Velie, Daniel and Velie Virginia. (2008) (second edition). Vocabulario orejon. Serie Lingüística Peruana No. 16. Yarinacocha, ILV.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Koreguaje</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Cook, Dorothy and Gralow, Frances. 2001. Diccionario bilingüe: Koreguaje - Español, Español - Koreguaje. Bogotá: Editorial Alberto Lleras Camargo.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Siona</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Huber, Randall and Reed, Robert. 1992. Vocabulario comparativo. Palabras selectas de lenguas de Colombia. ILV, Santafé de Bogotá.</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>glottal stop coda</field>
+      <field name='definition'></field>
+    </meta>
+    <data>
+      <field name='language'>Tucano</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>yes</field>
+      <field name='source'>West, 2000 in González de Pérez &amp; Rodríguez de Montes (eds.). 2000</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Piratapuyo</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>yes</field>
+      <field name='source'>Perez &amp; Montes, 2000, p. 493, and Klumpp, 1973, p. 108-120</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Yuruti</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Perez &amp; Montes, 2000, p. 470</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Tuyuca</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Barnes &amp; Takagi, 1976, p. 124</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Siriano</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Perez &amp; Montes, 2000</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Tanimuca</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Perez &amp; Montes, 2000</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Barasano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>no</field>
+      <field name='source'>Jones 1991</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Desano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>yes</field>
+      <field name='source'>Miller 1999</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Wanano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>yes</field>
+      <field name='source'>Stenzel 2004</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Orejon</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Velie, Daniel and Velie Virginia. (2008) (second edition). Vocabulario orejon. Serie Lingüística Peruana No. 16. Yarinacocha, ILV.</field>
+      <field name='comments'>the language has no glottals phonemically</field>
+    </data>
+    <data>
+      <field name='language'>Koreguaje</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>Cook, Dorothy and Gralow, Frances. 2001. Diccionario bilingüe: Koreguaje - Español, Español - Koreguaje. Bogotá: Editorial Alberto Lleras Camargo.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Siona</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>Huber, Randall and Reed, Robert. 1992. Vocabulario comparativo. Palabras selectas de lenguas de Colombia. ILV, Santafé de Bogotá.</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>word-final coda required</field>
+      <field name='definition'></field>
+    </meta>
+    <data>
+      <field name='language'>Tucano</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>West, 2000 in González de Pérez &amp; Rodríguez de Montes (eds.). 2000</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Piratapuyo</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Perez &amp; Montes, 2000, p. 493, and Klumpp, 1973, p. 108-120</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Yuruti</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Perez &amp; Montes, 2000, p. 470</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Tuyuca</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Barnes &amp; Takagi, 1976, p. 124</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Siriano</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Perez &amp; Montes, 2000</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Tanimuca</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>Perez &amp; Montes, 2000</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Barasano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>no</field>
+      <field name='source'>Jones 1991</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Wanano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>no</field>
+      <field name='source'>Stenzel 2004</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Orejon</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Velie, Daniel and Velie Virginia. (2008) (second edition). Vocabulario orejon. Serie Lingüística Peruana No. 16. Yarinacocha, ILV.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Koreguaje</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Cook, Dorothy and Gralow, Frances. 2001. Diccionario bilingüe: Koreguaje - Español, Español - Koreguaje. Bogotá: Editorial Alberto Lleras Camargo.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Siona</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Huber, Randall and Reed, Robert. 1992. Vocabulario comparativo. Palabras selectas de lenguas de Colombia. ILV, Santafé de Bogotá.</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>systematic consonant epenthesis</field>
+      <field name='definition'></field>
+    </meta>
+    <data>
+      <field name='language'>Tucano</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no info</field>
+      <field name='source'>West, 2000 in González de Pérez &amp; Rodríguez de Montes (eds.). 2000</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Piratapuyo</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no info</field>
+      <field name='source'>Perez &amp; Montes, 2000, p. 493, and Klumpp, 1973, p. 108-120</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Yuruti</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no info</field>
+      <field name='source'>Perez &amp; Montes, 2000, p. 470</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Tuyuca</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no info</field>
+      <field name='source'>Barnes &amp; Takagi, 1976, p. 124</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Siriano</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no info</field>
+      <field name='source'>Perez &amp; Montes, 2000</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Tanimuca</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no info</field>
+      <field name='source'>Perez &amp; Montes, 2000</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Barasano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>no</field>
+      <field name='source'>Jones 1991</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Desano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>no</field>
+      <field name='source'>Miller 1999</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Wanano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>no</field>
+      <field name='source'>Stenzel 2004</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Orejon</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Velie, Daniel and Velie Virginia. (2008) (second edition). Vocabulario orejon. Serie Lingüística Peruana No. 16. Yarinacocha, ILV.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Koreguaje</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Cook, Dorothy and Gralow, Frances. 2001. Diccionario bilingüe: Koreguaje - Español, Español - Koreguaje. Bogotá: Editorial Alberto Lleras Camargo.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Siona</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Huber, Randall and Reed, Robert. 1992. Vocabulario comparativo. Palabras selectas de lenguas de Colombia. ILV, Santafé de Bogotá.</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>systematic vowel epenthesis</field>
+      <field name='definition'></field>
+    </meta>
+    <data>
+      <field name='language'>Tucano</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no info</field>
+      <field name='source'>West, 2000 in González de Pérez &amp; Rodríguez de Montes (eds.). 2001</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Piratapuyo</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no info</field>
+      <field name='source'>Perez &amp; Montes, 2000, p. 493, and Klumpp, 1973, p. 108-120</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Yuruti</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no info</field>
+      <field name='source'>Perez &amp; Montes, 2000, p. 470</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Tuyuca</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no info</field>
+      <field name='source'>Barnes &amp; Takagi, 1976, p. 124</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Siriano</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no info</field>
+      <field name='source'>Perez &amp; Montes, 2000</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Tanimuca</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no info</field>
+      <field name='source'>Perez &amp; Montes, 2000</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Barasano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>no</field>
+      <field name='source'>Jones 1991</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Desano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>no</field>
+      <field name='source'>Miller 1999</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Wanano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>no</field>
+      <field name='source'>Stenzel 2004</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Orejon</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Velie, Daniel and Velie Virginia. (2008) (second edition). Vocabulario orejon. Serie Lingüística Peruana No. 16. Yarinacocha, ILV.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Koreguaje</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Cook, Dorothy and Gralow, Frances. 2001. Diccionario bilingüe: Koreguaje - Español, Español - Koreguaje. Bogotá: Editorial Alberto Lleras Camargo.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Siona</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Huber, Randall and Reed, Robert. 1992. Vocabulario comparativo. Palabras selectas de lenguas de Colombia. ILV, Santafé de Bogotá.</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>vowel harmony</field>
+      <field name='definition'></field>
+    </meta>
+    <data>
+      <field name='language'>Tucano</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no info</field>
+      <field name='source'>West, 2000 in González de Pérez &amp; Rodríguez de Montes (eds.). 2002</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Piratapuyo</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no info</field>
+      <field name='source'>Perez &amp; Montes, 2000, p. 493, and Klumpp, 1973, p. 108-120</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Yuruti</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no info</field>
+      <field name='source'>Perez &amp; Montes, 2000, p. 470</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Tuyuca</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no info</field>
+      <field name='source'>Barnes &amp; Takagi, 1976, p. 124</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Siriano</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>yes</field>
+      <field name='source'>Perez &amp; Montes, 2000</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Tanimuca</field>
+      <field name='languageFamily'>Tucano</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no info</field>
+      <field name='source'>Perez &amp; Montes, 2000</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Barasano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>no</field>
+      <field name='source'>Jones 1991</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Desano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>yes</field>
+      <field name='source'>Miller 1999</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Wanano</field>
+      <field name='languageFamily'>Tukano</field>
+      <field name='personEnteringData'>A. Martinez</field>
+      <field name='value'>yes</field>
+      <field name='source'>Stenzel 2004</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Orejon</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Velie, Daniel and Velie Virginia. (2008) (second edition). Vocabulario orejon. Serie Lingüística Peruana No. 16. Yarinacocha, ILV.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Koreguaje</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Cook, Dorothy and Gralow, Frances. 2001. Diccionario bilingüe: Koreguaje - Español, Español - Koreguaje. Bogotá: Editorial Alberto Lleras Camargo.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Siona</field>
+      <field name='languageFamily'>Tukanoan</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Huber, Randall and Reed, Robert. 1992. Vocabulario comparativo. Palabras selectas de lenguas de Colombia. ILV, Santafé de Bogotá.</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+</features>

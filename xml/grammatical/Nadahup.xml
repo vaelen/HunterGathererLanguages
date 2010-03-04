@@ -1,0 +1,2380 @@
+<features type='grammatical'>
+  <feature>
+    <meta>
+      <field name='name'>pre- or post-nasalization of stops</field>
+      <field name='definition'>most likely allophonic</field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>y</field>
+      <field name='source'>Epps 2008:page?</field>
+      <field name='comments'>post-nasalization most salient</field>
+    </data>
+    <data>
+      <field name='language'>Dâw</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>S. Martins (2004), p. 16</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Nadeb</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>V. Martins, 2005, p. 55</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Yuhup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>yes</field>
+      <field name='source'>V. Martins, 2005, p. 79</field>
+      <field name='comments'>post-nasalization</field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>glottalized/ejective consonants</field>
+      <field name='definition'>phonemic contrast</field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>y</field>
+      <field name='source'>voicing is neutralized</field>
+      <field name='comments'>yes</field>
+    </data>
+    <data>
+      <field name='language'></field>
+      <field name='languageFamily'></field>
+      <field name='personEnteringData'></field>
+      <field name='value'>S. Martins (2004), p. 16</field>
+      <field name='source'>Palatal ejective, glottalized nasals</field>
+      <field name='comments'>no</field>
+    </data>
+    <data>
+      <field name='language'></field>
+      <field name='languageFamily'></field>
+      <field name='personEnteringData'></field>
+      <field name='value'>V. Martins, 2005, p. 55</field>
+      <field name='source'>yes</field>
+      <field name='comments'>V. Martins, 2005, p. 79</field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>palatalized stops</field>
+      <field name='definition'>phonemic contrast</field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>y</field>
+      <field name='source'>no</field>
+      <field name='comments'>S. Martins (2004), p. 16</field>
+    </data>
+    <data>
+      <field name='language'>Nadeb</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>V. Martins, 2005, p. 55</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Yuhup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>V. Martins, 2005, p. 79</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>phonemic vowel length</field>
+      <field name='definition'></field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>n</field>
+      <field name='source'>no</field>
+      <field name='comments'>S. Martins (2004), p. 16</field>
+    </data>
+    <data>
+      <field name='language'>Nadeb</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>V. Martins, 2005, p. 55</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Yuhup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>V. Martins, 2005, p. 79</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>phonemic glottalization/laryngealization of vowels</field>
+      <field name='definition'></field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>n</field>
+      <field name='source'>allophonic laryngealization following glottalized consonants</field>
+      <field name='comments'>no</field>
+    </data>
+    <data>
+      <field name='language'></field>
+      <field name='languageFamily'></field>
+      <field name='personEnteringData'></field>
+      <field name='value'>S. Martins (2004), p. 16</field>
+      <field name='source'>no</field>
+      <field name='comments'>V. Martins, 2005, p. 55</field>
+    </data>
+    <data>
+      <field name='language'>Yuhup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>V. Martins, 2005, p. 79</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>contrastive tones (number)</field>
+      <field name='definition'></field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>2</field>
+      <field name='source'>yes</field>
+      <field name='comments'>S. Martins (2004), p. 78</field>
+    </data>
+    <data>
+      <field name='language'>Nadeb</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>V. Martins, 2005</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Yuhup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>yes</field>
+      <field name='source'>V. Martins, 2005, p. 78</field>
+      <field name='comments'>raising and falling</field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>contrastive stress</field>
+      <field name='definition'></field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>n</field>
+      <field name='source'>no</field>
+      <field name='comments'>S. Martins (2004)</field>
+    </data>
+    <data>
+      <field name='language'>Nadeb</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no (check)</field>
+      <field name='source'>V. Martins, 2005</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Yuhup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no (check)</field>
+      <field name='source'>V. Martins, 2005</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>nasalization property of morpheme or syllable</field>
+      <field name='definition'>vs. nasalization as property of segments</field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>y</field>
+      <field name='source'>no info</field>
+      <field name='comments'>S. Martins (2004)</field>
+    </data>
+    <data>
+      <field name='language'>Nadeb</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no info</field>
+      <field name='source'>V. Martins, 2005</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Yuhup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>V. Martins, 2005</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>nasal spreading across some morpheme boundaries</field>
+      <field name='definition'>do some affixes or other morphemes take the nasal/oral properties of the root they attach to?</field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>y</field>
+      <field name='source'>no info</field>
+      <field name='comments'>S. Martins (2004)</field>
+    </data>
+    <data>
+      <field name='language'>Nadeb</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no info</field>
+      <field name='source'>V. Martins, 2005</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Yuhup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>yes</field>
+      <field name='source'>Brandao, 1999, p. 333</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>complex onsets</field>
+      <field name='definition'>(onset consists of more than one consonant phoneme)</field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>n</field>
+      <field name='source'>complex segments exist, but no clusters of segments</field>
+      <field name='comments'>no</field>
+    </data>
+    <data>
+      <field name='language'></field>
+      <field name='languageFamily'></field>
+      <field name='personEnteringData'></field>
+      <field name='value'>S. Martins (2004)</field>
+      <field name='source'>no</field>
+      <field name='comments'>V. Martins, 2005</field>
+    </data>
+    <data>
+      <field name='language'>Yuhup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>V. Martins, 2005</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>no codas</field>
+      <field name='definition'>*(C)VC</field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>n</field>
+      <field name='source'>codas are preferred</field>
+      <field name='comments'>no</field>
+    </data>
+    <data>
+      <field name='language'></field>
+      <field name='languageFamily'></field>
+      <field name='personEnteringData'></field>
+      <field name='value'>S. Martins (2004)</field>
+      <field name='source'>no</field>
+      <field name='comments'>V. Martins, 2005</field>
+    </data>
+    <data>
+      <field name='language'>Yuhup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>V. Martins, 2005</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>glide codas</field>
+      <field name='definition'>e.g. /y/ or /w/ as coda consonants</field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>y</field>
+      <field name='source'>yes</field>
+      <field name='comments'>S. Martins (2004)</field>
+    </data>
+    <data>
+      <field name='language'>Nadeb</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>yes</field>
+      <field name='source'>V. Martins, 2005</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Yuhup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>yes</field>
+      <field name='source'>V. Martins, 2005</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>liquid codas</field>
+      <field name='definition'>e.g. /r/ or /l/ as coda consonants</field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>n</field>
+      <field name='source'>no liquid phonemes</field>
+      <field name='comments'>yes</field>
+    </data>
+    <data>
+      <field name='language'></field>
+      <field name='languageFamily'></field>
+      <field name='personEnteringData'></field>
+      <field name='value'>S. Martins (2004)</field>
+      <field name='source'>no</field>
+      <field name='comments'>V. Martins, 2005</field>
+    </data>
+    <data>
+      <field name='language'>Yuhup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no info</field>
+      <field name='source'>V. Martins, 2005</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>nasal codas</field>
+      <field name='definition'>(C)VN</field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>n/a</field>
+      <field name='source'>nasal segments are allophones of voiced stops</field>
+      <field name='comments'>yes</field>
+    </data>
+    <data>
+      <field name='language'></field>
+      <field name='languageFamily'></field>
+      <field name='personEnteringData'></field>
+      <field name='value'>S. Martins (2004)</field>
+      <field name='source'>yes</field>
+      <field name='comments'>Barbosa, 2005, p. 43</field>
+    </data>
+    <data>
+      <field name='language'>Yuhup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>n/a</field>
+      <field name='source'>V. Martins, 2005</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>voiceless obstruent codas</field>
+      <field name='definition'></field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>y</field>
+      <field name='source'>yes</field>
+      <field name='comments'>S. Martins (2004)</field>
+    </data>
+    <data>
+      <field name='language'>Nadeb</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>yes</field>
+      <field name='source'>V. Martins, 2005</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Yuhup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>yes</field>
+      <field name='source'>V. Martins, 2005</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>voiced obstruent codas</field>
+      <field name='definition'></field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>y</field>
+      <field name='source'>post-nasalized</field>
+      <field name='comments'>yes</field>
+    </data>
+    <data>
+      <field name='language'></field>
+      <field name='languageFamily'></field>
+      <field name='personEnteringData'></field>
+      <field name='value'>S. Martins (2004)</field>
+      <field name='source'>yes</field>
+      <field name='comments'>V. Martins, 2005</field>
+    </data>
+    <data>
+      <field name='language'>Yuhup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>yes</field>
+      <field name='source'>V. Martins, 2005</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>h coda</field>
+      <field name='definition'></field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>y</field>
+      <field name='source'>yes</field>
+      <field name='comments'>S. Martins (2004)</field>
+    </data>
+    <data>
+      <field name='language'>Nadeb</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>V. Martins, 2005</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Yuhup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>yes</field>
+      <field name='source'>V. Martins, 2005</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>glottal stop coda</field>
+      <field name='definition'></field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>y</field>
+      <field name='source'>yes</field>
+      <field name='comments'>S. Martins (2004)</field>
+    </data>
+    <data>
+      <field name='language'>Nadeb</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>yes</field>
+      <field name='source'>V. Martins, 2005</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Yuhup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>yes</field>
+      <field name='source'>V. Martins, 2005</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>word-final coda required</field>
+      <field name='definition'></field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>y</field>
+      <field name='source'>no</field>
+      <field name='comments'>S. Martins (2004)</field>
+    </data>
+    <data>
+      <field name='language'>Nadeb</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no info</field>
+      <field name='source'>V. Martins, 2005</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Yuhup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no</field>
+      <field name='source'>V. Martins, 2005</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>systematic consonant epenthesis</field>
+      <field name='definition'></field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>n</field>
+      <field name='source'>no info</field>
+      <field name='comments'>S. Martins (2004)</field>
+    </data>
+    <data>
+      <field name='language'>Nadeb</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no info</field>
+      <field name='source'>V. Martins, 2005</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Yuhup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no info</field>
+      <field name='source'>V. Martins, 2005</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>systematic vowel epenthesis</field>
+      <field name='definition'></field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>n</field>
+      <field name='source'>no info</field>
+      <field name='comments'>S. Martins (2004)</field>
+    </data>
+    <data>
+      <field name='language'>Nadeb</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no info</field>
+      <field name='source'>V. Martins, 2005</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Yuhup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>no info</field>
+      <field name='source'>Brandao, 1999, p. 341</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>vowel harmony</field>
+      <field name='definition'></field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>y</field>
+      <field name='source'>for certain suffixes only, and within words that are historically bi-morphemic but relexicalized.</field>
+      <field name='comments'>yes</field>
+    </data>
+    <data>
+      <field name='language'></field>
+      <field name='languageFamily'></field>
+      <field name='personEnteringData'></field>
+      <field name='value'>S. Martins (2004)</field>
+      <field name='source'>no</field>
+      <field name='comments'>V. Martins, 2005</field>
+    </data>
+    <data>
+      <field name='language'>Yuhup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>AP</field>
+      <field name='value'>yes</field>
+      <field name='source'>V. Martins, 2005</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>language has suffixes</field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>language has prefixes</field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>number of prefixes is roughly equal to or greater than number of suffixes</field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>verbal derivation exclusively suffixal</field>
+      <field name='definition'>derivational morphology on verbs is only suffixal</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>verbal derivation exclusively prefixal</field>
+      <field name='definition'>derivational morphology on verbs is only prefixal</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>applicatives  (number)</field>
+      <field name='definition'>number of applicatives in the language</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>benefactive applicative</field>
+      <field name='definition'>applicative adds a beneficiary object argument to the verb</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>malefactive applicative</field>
+      <field name='definition'>applicative adds a negatively-affected object argument to the verb; may be same as benefactive applic</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>instrumental applicative</field>
+      <field name='definition'>applicative adds an instrumental object argument to the verb</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>goal applicative</field>
+      <field name='definition'>applicative adds a goal object argument to the verb</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>transitivizer affix (adds valency)</field>
+      <field name='definition'>derives a transitive verb from an intransitive verb</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>other applicative(s):specify</field>
+      <field name='definition'>any other applicatives which are not detailed above</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>morphological causatives (number)</field>
+      <field name='definition'>for causatives formed via serial/compound verb constructions, see analytical causative (below)</field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>0</field>
+      <field name='source'>causatives all involve verb compounding</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>causative prefix</field>
+      <field name='definition'>causative is morphological and is attached before the root of the verb</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>causative suffix</field>
+      <field name='definition'>causative is morphological and is attached after the root of the verb</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>causative circumfix</field>
+      <field name='definition'>causative is morphological and is in two parts, one which occurs before the root of the verb and one which occurs after the root of the verb</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>causative 'make do by proxy' (dedicated)</field>
+      <field name='definition'>indicates that the causer does not directly cause the action of the verb to be realized, but does so by inducing someone else to carry out the action, e.g. 'John had the house painted.'</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>sociative' causative (dedicated)</field>
+      <field name='definition'>indicates that causer participates in event</field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>y</field>
+      <field name='source'>involve compound w/ root 'stand'</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>endocentric verbal reversative derivation</field>
+      <field name='definition'>Derives a verb which indicates the reversal of the action denoted by the underived verb, e.g. 'zip' and 'un-zip'.</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>verbal desiderative</field>
+      <field name='definition'>indicates that the subject desires to carry out the action denoted by the verb (distinct from verb 'want', but may be grammaticalized from it)</field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>y</field>
+      <field name='source'>want' as semi-grammaticalized auxiliary</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>morphological passive</field>
+      <field name='definition'>Passive voice is formed by a morpheme attached to the verb stem; the object of the active voice verb is promoted to subject in the passive voice.</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>morphological reflexive (dedicated)</field>
+      <field name='definition'>verb becomes reflexive through use of reflexive morpheme attached to verb. This morpheme is used only to mean reflexive.</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>morphological reciprocal (dedicated)</field>
+      <field name='definition'>verb becomes reciprocal through use of reciprocal morpheme attached to the verb root. This morpheme is only used to mean reciprocal</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>reciprocal/reflexive (same morpheme)</field>
+      <field name='definition'>verb becomes reciprocal or reflexive through use of a morpheme that means either reciprocal or reflexive which attaches to the root of the verb</field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>y</field>
+      <field name='source'>very marginal; reflex morpheme can occasionally have a reciprocal interpretation</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>Intransitivizer</field>
+      <field name='definition'>derives an intransitive verb from a transitive one</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>unpossessed derivational affix for inalienable nouns</field>
+      <field name='definition'>An inalienable noun that is in an unpossessed state must have a derivational affix</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>possessive suffix with possessed alienable NPs</field>
+      <field name='definition'>A possessed alienable noun phrase contains a possessive suffix</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>Default possessive marking on unpossessed inalienable nouns</field>
+      <field name='definition'>An inalienable noun carries possessive marking regardless of whether it is possessed or unpossessed</field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>y</field>
+      <field name='source'>default 3rd person pronoun (proclitic)</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>inalienable possession of kin terms</field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>inalienable possession of body parts (human/animal)</field>
+      <field name='definition'></field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>y</field>
+      <field name='source'>animal only</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>inalienable possession of other nouns (specify)</field>
+      <field name='definition'></field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>y</field>
+      <field name='source'>plant parts, parts of a whole, eggs, a few other things</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>generic human nouns are obligatorily bound/possessed</field>
+      <field name='definition'>human nouns must co-occur with another noun (e.g. Hup-man, NonIndian-woman, but *man)</field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>y</field>
+      <field name='source'>typically occur with default 3rd person PN</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>productive NN compounding</field>
+      <field name='definition'>Noun compounds created from two noun phrases are common and systematically produced</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>productive VV serialization (without compounding)</field>
+      <field name='definition'>verb roots can be combined in a single predicate without markers of subordination (distinct from subordinating construction) or distinct inflection</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>productive VV compounding</field>
+      <field name='definition'>serial verb constructions involve chaining of roots together in one morphophonological word</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>noun incorporation into verbs</field>
+      <field name='definition'>verb contains nominal segment</field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>y</field>
+      <field name='source'>not really productive</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>noun incorporation into adjectives</field>
+      <field name='definition'>adjective contains nominal segment</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>pre-root noun incorporation</field>
+      <field name='definition'>nominal segment of adjective or verb occurs before the root adjective or verb</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>post-root noun incorporation</field>
+      <field name='definition'>nominal segment of adjective or verb occurs after the root adjective or verb</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>incorporated element is possessed N/body part</field>
+      <field name='definition'>nominal segment of adjective or verb can only be a possessed noun or a body part</field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>y</field>
+      <field name='source'>except in reciprocal constructions</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>incorporation in intransitives</field>
+      <field name='definition'>intransitive verb roots can combine with a nominal segment</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>incorporation of adverbs</field>
+      <field name='definition'>verbs can contain adverbial segments</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>incorporation of adpositions on verbs</field>
+      <field name='definition'>verbs can contain adpositions</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>single general deverbal nominalizer</field>
+      <field name='definition'>There exists in the language only one morpheme that derives a noun from a verb</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>agentive/subject nominalizer</field>
+      <field name='definition'>A morpheme which derives an agent or subject from a verb</field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>y</field>
+      <field name='source'>classifier, depends on verb and classifier used</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>instrumental nominalizer</field>
+      <field name='definition'>A morpheme which derives an instrument from a verb</field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>y</field>
+      <field name='source'>classifier, depends on verb and classifier used</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>event nominalizer</field>
+      <field name='definition'>A morpheme which derives an event from a verb</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>patientive/object nominalizer</field>
+      <field name='definition'>A morpheme which derives a patient or object from a verb</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>locative nominalizer</field>
+      <field name='definition'>A morpheme which derives a location from a verb</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>other nominalizers (specify)</field>
+      <field name='definition'>Any other nominalizers which are not detailed above</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>deadjectival verbalizer</field>
+      <field name='definition'>A morpheme which derives a verb from an adjective</field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>n</field>
+      <field name='source'>no specific morpheme, but TAM inflection may be added to root</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>denominal verbalizer</field>
+      <field name='definition'>A morpheme which derives a verb from a noun</field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>n</field>
+      <field name='source'>no specific morpheme, but TAM inflection may be added to root</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>denominal adjectival derivation, neutral</field>
+      <field name='definition'>A morpheme which derives an adjective from a noun. The result is neutral (not privative, not attributive)</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>privative denominal adjectival derivation</field>
+      <field name='definition'>A morpheme which derives an adjective from a noun. The result is an adjective which means that the noun which it modifies lacks the original noun, e.g. English 'fear' and 'fearless'</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>attributive denominal adjectival derivation</field>
+      <field name='definition'>A morpheme which derives an adjective from a noun. The result is an adjective which means that the noun which it modifies has the original noun, e.g. English 'fear' and 'fearful'</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>verbal inflection exclusively suffixal</field>
+      <field name='definition'>inflectional morphology on verbs only occurs as suffixes</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>verbal inflection exclusively prefixal</field>
+      <field name='definition'>inflectional morphology on verbs only occurs as prefixes</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>tense marking on verbs</field>
+      <field name='definition'>tense marking on verbs exists</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>tense obligatory</field>
+      <field name='definition'></field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>y</field>
+      <field name='source'>future only</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>dedicated future or non-past marker(s)</field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>dedicated past marker(s)</field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>recent/distant past distinction</field>
+      <field name='definition'></field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>y</field>
+      <field name='source'>realized in optional tense-related contrast particles</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>other tense values (specify)</field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>reality status marking on verbs</field>
+      <field name='definition'>dedicated morpheme(s) for realis/irrealis 'actualized/unactualized events'</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>reality status obligatory</field>
+      <field name='definition'>obligatory on verb</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>aspect marking on verbs</field>
+      <field name='definition'>temporal flow' ex: perfective vs imperfective</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>aspect marking obligatory</field>
+      <field name='definition'>aspect obligatory on verbs</field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>n</field>
+      <field name='source'>not easy to answer, since default 'no-aspect' declarative suffix is the only aspect-less alternative</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>verbal frustrative</field>
+      <field name='definition'>modal expressing frustration</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>verbal habitual</field>
+      <field name='definition'>modal expressing habituality</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>verbal imminent/inchoative marker</field>
+      <field name='definition'>modal expressing iminent/future impending events</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>verbal hypothetical marker</field>
+      <field name='definition'>modal expressing hypothesis</field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>y</field>
+      <field name='source'>not strictly verbal</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>Marking of expected/unexpected action or result</field>
+      <field name='definition'>inflectional marking of expected/unexpected</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>Marking of habilitative (capacity to do something)</field>
+      <field name='definition'>inflectional marking of capacity to do something</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>affect markers (in notes mark whether positive or negative)</field>
+      <field name='definition'>mark emotion/affect inflectionally</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>social interaction markers (in notes indicate type of interaction)</field>
+      <field name='definition'>inflectional marker to indicate activity done in cooperation, independently, etc.</field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>y</field>
+      <field name='source'>act in cooperation', also independently?</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>verbal ablative directional</field>
+      <field name='definition'>marker expressing motion away from something</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>verbal adlative direction</field>
+      <field name='definition'>marker expressing motion towards something</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>verbal regressive or returnative directional</field>
+      <field name='definition'></field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>y</field>
+      <field name='source'>go do V and return'</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>verbal iterative</field>
+      <field name='definition'>marks repetition</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>verbal distributive</field>
+      <field name='definition'>Indicates that the action of the predicate is realized in multiple places, multiple times or both</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>number of marked evidential distinctions</field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>grammaticalized reportive</field>
+      <field name='definition'>indicates speaker is not responsible for veracicty of statement, merely reporting; 'allegedly'</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>grammaticalized quotative</field>
+      <field name='definition'>indicate presence of adjacent representation of repeated discourse</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>grammaticalized nonvisual</field>
+      <field name='definition'>indicates information has been sensed firsthand but not visually (usually heard; also smelled, tasted, felt)</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>grammaticalized inferential</field>
+      <field name='definition'>indicates information has been inferred</field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>y</field>
+      <field name='source'>2 different forms</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>grammaticalized visual</field>
+      <field name='definition'>indicates information has been witnessed visually- indicate only if an overt marker</field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>n</field>
+      <field name='source'>unmarked category</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>other (specify in notes)</field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>dedicated imperative morpheme or verb form</field>
+      <field name='definition'>single morpheme used to signal imperative (command) mood</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>dedicated prohibitive morpheme</field>
+      <field name='definition'>single morpheme used to signal prohibitive mood (negative command; 'don't do something')</field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>n</field>
+      <field name='source'>but does require a distinct neg imp construction type</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>polite imperative morpheme</field>
+      <field name='definition'>distinct morpheme for polite imperative constructions (specify if it has other functions in the language)</field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>n</field>
+      <field name='source'>but polite imperatives often involve applicative and/or perfective aspect markers</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>hortative morpheme</field>
+      <field name='definition'>as opposed to imperative; the person in control of desired state of affairs is not the adressee; ex: 'Let's sing' / 'Let him sing'</field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>y</field>
+      <field name='source'>different for 1pl and 3rd person</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>apprehensive construction</field>
+      <field name='definition'>single morpheme or verb form to mean '(be careful lest) X happens'</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>language has VCRMs</field>
+      <field name='definition'>verb agrees (via person marking affixes) with core arguments</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>3rd person VCRMs code for gender</field>
+      <field name='definition'>distinct 3rd person VCRMS for different genders</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>number marked separately from VCRMs for some persons</field>
+      <field name='definition'>number not encoded in VCRM but seperate sometimes</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>1st person plural inclusive/exclusive distinction (VCRM)</field>
+      <field name='definition'>we inclusive- us and you is distinct form we exclusive- us and not you</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>3rd person zero marking subject (VCRM)</field>
+      <field name='definition'>expected 3rd subject VCRM morph, but not surface realized</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>3rd person zero marking object (VCRM)</field>
+      <field name='definition'>expected 3rd object VCRM morph, but not surface realized</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>2nd person plural (VCRM)</field>
+      <field name='definition'>distinct VCRM for 'you guys'</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>3rd person plural (VCRM)</field>
+      <field name='definition'>distinct VCRM for 'them'</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>subject VCRMs only</field>
+      <field name='definition'>no object VRCMs</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>subject and object VCRMs</field>
+      <field name='definition'>both subject VCRMs and object VCRMs exist</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>VCRM alignment (e.g. nom-acc, split erg, etc.)</field>
+      <field name='definition'>VCRMs align as in case marking?</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>Possessive markers same as VCRM subject markers</field>
+      <field name='definition'>same morphemes used for possessive markers as for VCRMs</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>Free pronouns show same paradigmatic structure as VCRMs</field>
+      <field name='definition'>if VCRMs exist</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>Free pronouns include VCRM</field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>Free pronouns formed by VCRM + common element</field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>Plural free pronouns formed by singular free pronoun + PL</field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>third person pronouns used as proximate demonstratives</field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>third person pronouns used as definite articles w/ nouns</field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>same pronoun form for subject and object</field>
+      <field name='definition'>I.e. same except for case marker; no suppletive forms (if only some suppletion, indicate which forms)</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>reflexive pronouns (exist)</field>
+      <field name='definition'>e.g. English 'himself', Spanish 'se'; distinct form(s) from basic (non-reflexive) PNs; distinct from reflexive verbal affix</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>obligatory marking of gender on animates</field>
+      <field name='definition'>masc, fem, neuter</field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>n</field>
+      <field name='source'>optionally specified for humans</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>classification by gender for inanimates</field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>other noun classes (number)</field>
+      <field name='definition'>animate/inanimate, human/non-human</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>Classifiers (approx number)</field>
+      <field name='definition'></field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>y</field>
+      <field name='source'>approx 10; marginally grammaticalized</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>language has 'repeater' classifiers</field>
+      <field name='definition'>if no appropriate classifier exists, noun itself (or some variant) can occur in classifier slot</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>distinct numeral classifiers</field>
+      <field name='definition'>special classifier forms that occur only with numerals</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>classifiers may appear with numerals</field>
+      <field name='definition'>but are NOT a distinct set of numeral classifiers</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>classifiers used as derivational suffixes to derive nouns</field>
+      <field name='definition'>e.g. 'dig-SHAFT' 'digging stick'</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>classifiers used on demonstratives</field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>classifiers used on postpositions/prepositions</field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>classification by shape/function for inanimates</field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>classification by shape for animates</field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>other general bases for classification</field>
+      <field name='definition'>besides gender, animacy, shape, function (indicate briefly in notes)</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>case marking of core grammatical relations on core referential NPs</field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>case marking of core GRs on core pronouns</field>
+      <field name='definition'>subjects, objects, beneficiaries/recipients</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>case marking of GRs on oblique referential NPs</field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>case marking of GRs on oblique pronouns</field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>number of distinct oblique case markers</field>
+      <field name='definition'></field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>1</field>
+      <field name='source'>locative, instrumental, comitative, adlative, ablative functions</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>instrumental+comitative case</field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>dedicated instrumental case</field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>dedicated comitative (associative) case</field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>locative case</field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>adlative (allative) case</field>
+      <field name='definition'>movement toward</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>ablative case</field>
+      <field name='definition'>movement away</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>vocative case</field>
+      <field name='definition'>special case form for calling/addressing someone</field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>n</field>
+      <field name='source'>but vocative kin term forms exist</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>genitive case</field>
+      <field name='definition'>possessive case marker on noun (affix on noun and part of a case paradigm, whereas other possessive morphemes may be free-standing)</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>other cases (specify)</field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>nominal diminutive</field>
+      <field name='definition'>small size; can also indicate affect</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>nominal augmentative</field>
+      <field name='definition'>large size; can also indicate affect</field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>n</field>
+      <field name='source'>form derived from 'big' is exclusively affectual</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>nominal generic plural affix</field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>nominal number marking dependent on animacy (e.g. pronoun/human/animal vs. inanimate)</field>
+      <field name='definition'></field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>y</field>
+      <field name='source'>animates/pronouns/demonstratives only</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>nominal associative/collective plural affix</field>
+      <field name='definition'>e.g. 'John and his associates', 'John and them'</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>nominal human plural (dedicated)</field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>nominal dual</field>
+      <field name='definition'>grammatical form on noun indicating two (specifically)</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>nominal paucal</field>
+      <field name='definition'>indicating a few</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>nominal tense and/or aspect</field>
+      <field name='definition'></field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>y</field>
+      <field name='source'>verbal perfective, inchoative markers used with nouns</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>plural/singular marking on demonstratives</field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>animate/inanimate marking on demonstratives</field>
+      <field name='definition'></field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>y</field>
+      <field name='source'>for plural forms only</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>human/non-human marking on demonstrative</field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>masculine/feminine marking on demonstratives</field>
+      <field name='definition'></field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>n</field>
+      <field name='source'>masc/fem classifiers may be used with adult humans</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>two term demonstrative system</field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>three term demonstrative system</field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>four or more term demonstrative system (specify number of distinct terms [roots])</field>
+      <field name='definition'></field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>y</field>
+      <field name='source'>4 - paradigm includes 'other'</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>animate/inanimate marking on numerals</field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>human/non-human marking on numerals</field>
+      <field name='definition'>morphological marking on numeral terms themselves</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>masculine/feminine marking on numerals</field>
+      <field name='definition'></field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>n</field>
+      <field name='source'>masc/fem classifiers may be used with adult humans</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>productive reduplication</field>
+      <field name='definition'></field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>y</field>
+      <field name='source'>verbs only; nouns unproductive</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>reduplicative template: describe</field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>no adpositions</field>
+      <field name='definition'>neither prepositions nor postpostions exist in language</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>prepositions (exist)</field>
+      <field name='definition'></field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>n</field>
+      <field name='source'>only example is apparently at Port loan</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>postpositions (exist)</field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>1 adposition</field>
+      <field name='definition'>exactly one adposition exists</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>&gt;1 adposition  (number)</field>
+      <field name='definition'>more than one adposition exists</field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>y</field>
+      <field name='source'>approx 20</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>adpositions take VCRMs</field>
+      <field name='definition'>VCRMs can attach affixally to adpositions</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>adpositions take free pronouns</field>
+      <field name='definition'>free pronouns attach or appear near adpositions</field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>y</field>
+      <field name='source'>indicate position relative to pronominal referent; e.g. 'inside him'</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>Underived adjectives exist</field>
+      <field name='definition'>as opposed to 'derived' which have counterparts in other word classes</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>approximate number of underived adjectives if &lt;50</field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>Underived adjectives &gt;50</field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>prenominal adjective</field>
+      <field name='definition'>adjective precedes the noun</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>postnominal adjective</field>
+      <field name='definition'>adjective follows the noun</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>prenominal quantifier</field>
+      <field name='definition'>quantifier precedes the noun</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>postnominal quantifier</field>
+      <field name='definition'>quantifier follows the noun</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>adjectives agree in gender with head noun</field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>adjectives agree in animacy with head noun</field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>adjectives agree in number with head noun</field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>possessor possessum (free possessor)</field>
+      <field name='definition'>Possessive phrase composed of a free possessor and its possessum has possessor first (e.g. John's book)</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>possessum possessor (free possessor)</field>
+      <field name='definition'>Possessive phrase composed of a free possessor and its possessum has possessum first (e.g. 'book of John')</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>free pronoun noun possessive construct possible</field>
+      <field name='definition'>Possessive phrase can be composed of a free pronoun and its possessum</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>Cross-reference marker required in possessive constructions (even with referential NP possessor)</field>
+      <field name='definition'>e.g. 'the boy his-dog'</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>Cross-reference marker prohibited in possessive constructions with referential NP possessor</field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>possessive postposition employed in some constructions</field>
+      <field name='definition'>Possessive phrase can be created using a postposition, e.g. Spanish 'casa de mi abuela'</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>basic constituent order (SVO,SOV, not definable, etc.)</field>
+      <field name='definition'>Identify basic word order of transitive declarative sentences</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>referential NP alignment (nom-acc, erg-abs, etc.)</field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>free NP oblique GR marking</field>
+      <field name='definition'>If a free NP is an oblique, its grammatical relation is obligatorily marked</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>more than 1 referential NP per clause possible</field>
+      <field name='definition'>It is possible to have more than one referential noun phrase in a transitive sentence</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>analytical negation (for clauses)</field>
+      <field name='definition'>Negation is created syntactically and is not affixed to the verb</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>morphological clausal negation, prefixal</field>
+      <field name='definition'>Negation is created by attaching a negative morpheme before the root of the verb</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>morphological clausal negation, suffixal</field>
+      <field name='definition'>Negation is created by attaching a negative morpheme after the root of the verb</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>form of negation depends on clausal inflection (e.g. realis vs. irrealis)</field>
+      <field name='definition'>Clausal inflection such as irrealis versus realis affects the form of negation, e.g. morphological or analytical</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>distinct negative form for 'NP does not exist'</field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>distinct negative expression 'I don't know'</field>
+      <field name='definition'>lexical/phrasal form distinct from 'I know + NEG'</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>auxiliary verb(s) (exist)</field>
+      <field name='definition'>There exist in the language verbs that accompany main verbs of clauses and take grammatical marking not expressed by main verbs.</field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>y</field>
+      <field name='source'>these appear as compounded roots</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>1 auxiliary verb</field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>&gt;1 auxiliary verb (specify approx number)</field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>predicate nominals require copula</field>
+      <field name='definition'>predicates that are nouns require the copula to be grammatical</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>no copula for predicate nominals</field>
+      <field name='definition'>predicates that are nouns do not require the copula</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>optional copula for predicate nominals</field>
+      <field name='definition'>predicates that are nouns may have the copula in some instances (e.g. depending on TAM marking, etc.)</field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>y</field>
+      <field name='source'>when special TAM marking is present</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>predicate adjectives require copula</field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>no copula for predicate adjectives</field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>optional copula for predicate adjectives</field>
+      <field name='definition'></field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>y</field>
+      <field name='source'>when special TAM marking is present</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>interrogative words and indefinite pronouns identical</field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>interrogative words and indefinite pronouns related</field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>interrogative marker in polar (yes/no) questions</field>
+      <field name='definition'></field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>y</field>
+      <field name='source'>subset only</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>inversion of subject and verb occurs in polar questions</field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>inversion of subject and verb occurs in content (question-word) questions</field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>analytical passive (exists)</field>
+      <field name='definition'>include passive formed via verb compounding/serialization</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>analytical passive construction permits oblique reintroduction of original subject</field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>analytical causative (exists)</field>
+      <field name='definition'>include causative formed via verb compounding/serialization</field>
+    </meta>
+    <data>
+      <field name='language'>Hup</field>
+      <field name='languageFamily'>Nadahup</field>
+      <field name='personEnteringData'>P. Epps</field>
+      <field name='value'>y</field>
+      <field name='source'>different compounded roots indicate different types of causation</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>prenominal relative clauses</field>
+      <field name='definition'>RC precedes noun that it modifies</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>postnominal relative clauses</field>
+      <field name='definition'>RC follows noun that it modifies</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>clausal nominalization (internal head)</field>
+      <field name='definition'>e.g. 'the dog cat chased-NMZR got away' ('the cat that the dog chased got away')</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>headless relative clauses exist</field>
+      <field name='definition'>compare Eng 'the one that fell' (but in Eng 'one' could be considered a head)</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>headless relative clauses are the dominant or only form of RC</field>
+      <field name='definition'>I.e. RCs that form a constituent with a head noun (in a single noun phrase) are rare or nonexistent; some descriptions may refer to adjoined or correlative clauses.</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>relative clause may occur with a noun classifier/class marker</field>
+      <field name='definition'>it may be unclear whether the classifier is the nominal head of the construction or is an agreement marker on the RC</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>relativizer is a verbal affix</field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>morphological relativizer is homophonous with nominalizer</field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>morphological relativizer is homophonous with topic marker (nominal arguments)</field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>relative pronouns (exist)</field>
+      <field name='definition'>e.g. Eng 'the boy who ate the apple'</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>relative pronouns same as interrogative pronouns</field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>Relativizer/relative pronoun encodes grammatical relation of the head with respect to the verb of the relative clause</field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'></field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>Indirect speech complements allowed</field>
+      <field name='definition'>e.g. Eng 'he said that he was going' (vs. 'he said, "I'm going"')</field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>dedicated switch reference markers (exist)</field>
+      <field name='definition'>special markers to indicate same vs. different subject when two clauses are combined</field>
+    </meta>
+  </feature>
+</features>

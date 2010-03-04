@@ -1,0 +1,1652 @@
+<features type='grammatical'>
+  <feature>
+    <meta>
+      <field name='name'></field>
+      <field name='definition'></field>
+    </meta>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>pre- or post-nasalization of stops</field>
+      <field name='definition'>most likely allophonic</field>
+    </meta>
+    <data>
+      <field name='language'>Camsá</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Monguí, José. 1981. La lengua kame.ntzá. Fonética-Fonología-Textos. Instituto Caro y Cuervo, Bogotá.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Candoshi</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>Tuggy, John. 2008. Vocabulario candoshi de Loreto (2da. Ed). Serie Lingüística Peruana no. 2. ILV, Lima.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Cofan</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>1976. Borman, M. B. (comp.). Vocabulario cofán: cofán-castellano, castellano-cofán. ILV, Quito.</field>
+      <field name='comments'>*based on the lexical data</field>
+    </data>
+    <data>
+      <field name='language'>Páez</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>2000. González de Pérez, María and María Luisa Rodríguez de Montes. Lenguas indígenas de Colombia. Una visión descriptiva.  Instituto Caro y Cuervo. Santa Fé. pp. 140-3</field>
+      <field name='comments'>but it is phonemic</field>
+    </data>
+    <data>
+      <field name='language'>Puinave</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>Mario Girón Higuita. 2008. Una gramática del wã⁄nsöjöt (Puinave).LOT, Utrecht.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Taushiro</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Alicea Ortiz, Neftalí. 1975. Vocabulario taushiro. Datos etnolinguisticos no. 22. ILV, Lima.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Ticuna</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Anderson, Doris. 1962. Conversational ticuna. Yarinacocha Press, Yarinacocha.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Urarina</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Olawsky, Knut. 2006 A grammar of Urarina. Mouton de Gruyter. Berlin.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Yagua</field>
+      <field name='languageFamily'>Peba-Yagua</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>Powlison, Paul (recop.). (1995). Diccionario yagua-castellano. Serie Lingüística Peruana no. 35. ILV, Lima.</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>glottalized/ejective consonants</field>
+      <field name='definition'>phonemic contrast</field>
+    </meta>
+    <data>
+      <field name='language'>Camsá</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Monguí, José. 1981. La lengua kame.ntzá. Fonética-Fonología-Textos. Instituto Caro y Cuervo, Bogotá.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Candoshi</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>Tuggy, John. 2008. Vocabulario candoshi de Loreto (2da. Ed). Serie Lingüística Peruana no. 2. ILV, Lima.</field>
+      <field name='comments'>only glottalized</field>
+    </data>
+    <data>
+      <field name='language'>Cofan</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>1976. Borman, M. B. (comp.). Vocabulario cofán: cofán-castellano, castellano-cofán. ILV, Quito.</field>
+      <field name='comments'>*based on the lexical data. But there are glusters of the same consonant, ie. [tt] which might be a way to represent a glottalized stop but there is no info to assure it.</field>
+    </data>
+    <data>
+      <field name='language'>Páez</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>2000. González de Pérez, María and María Luisa Rodríguez de Montes. Lenguas indígenas de Colombia. Una visión descriptiva.  Instituto Caro y Cuervo. Santa Fé. pp. 140-3</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Puinave</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Mario Girón Higuita. 2008. Una gramática del wã⁄nsöjöt (Puinave).LOT, Utrecht.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Taushiro</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>Alicea Ortiz, Neftalí. 1975. Vocabulario taushiro. Datos etnolinguisticos no. 22. ILV, Lima.</field>
+      <field name='comments'>only glottalized</field>
+    </data>
+    <data>
+      <field name='language'></field>
+      <field name='languageFamily'></field>
+      <field name='personEnteringData'></field>
+      <field name='value'>Anderson, Doris. 1962. Conversational ticuna. Yarinacocha Press, Yarinacocha.</field>
+      <field name='source'>no</field>
+      <field name='comments'>Olawsky, Knut. 2006 A grammar of Urarina. Mouton de Gruyter. Berlin.</field>
+    </data>
+    <data>
+      <field name='language'>Yagua</field>
+      <field name='languageFamily'>Peba-Yagua</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Powlison, Paul (recop.). (1995). Diccionario yagua-castellano. Serie Lingüística Peruana no. 35. ILV, Lima.</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>palatalized stops</field>
+      <field name='definition'>phonemic contrast</field>
+    </meta>
+    <data>
+      <field name='language'>Camsá</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Monguí, José. 1981. La lengua kame.ntzá. Fonética-Fonología-Textos. Instituto Caro y Cuervo, Bogotá.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Candoshi</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Tuggy, John. 2008. Vocabulario candoshi de Loreto (2da. Ed). Serie Lingüística Peruana no. 2. ILV, Lima.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Cofan</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>1976. Borman, M. B. (comp.). Vocabulario cofán: cofán-castellano, castellano-cofán. ILV, Quito.</field>
+      <field name='comments'>*based on the lexical data</field>
+    </data>
+    <data>
+      <field name='language'>Páez</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>2000. González de Pérez, María and María Luisa Rodríguez de Montes. Lenguas indígenas de Colombia. Una visión descriptiva.  Instituto Caro y Cuervo. Santa Fé. pp. 140-3</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Puinave</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Mario Girón Higuita. 2008. Una gramática del wã⁄nsöjöt (Puinave).LOT, Utrecht.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Taushiro</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Alicea Ortiz, Neftalí. 1975. Vocabulario taushiro. Datos etnolinguisticos no. 22. ILV, Lima.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'></field>
+      <field name='languageFamily'></field>
+      <field name='personEnteringData'></field>
+      <field name='value'>Anderson, Doris. 1962. Conversational ticuna. Yarinacocha Press, Yarinacocha.</field>
+      <field name='source'>no</field>
+      <field name='comments'>Olawsky, Knut. 2006 A grammar of Urarina. Mouton de Gruyter. Berlin.</field>
+    </data>
+    <data>
+      <field name='language'>Yagua</field>
+      <field name='languageFamily'>Peba-Yagua</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Powlison, Paul (recop.). (1995). Diccionario yagua-castellano. Serie Lingüística Peruana no. 35. ILV, Lima.</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>phonemic vowel length</field>
+      <field name='definition'></field>
+    </meta>
+    <data>
+      <field name='language'>Camsá</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no info</field>
+      <field name='source'>Monguí, José. 1981. La lengua kame.ntzá. Fonética-Fonología-Textos. Instituto Caro y Cuervo, Bogotá.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Candoshi</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no info</field>
+      <field name='source'>Tuggy, John. 2008. Vocabulario candoshi de Loreto (2da. Ed). Serie Lingüística Peruana no. 2. ILV, Lima.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Cofan</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes?</field>
+      <field name='source'>1976. Borman, M. B. (comp.). Vocabulario cofán: cofán-castellano, castellano-cofán. ILV, Quito.</field>
+      <field name='comments'>*based on the lexical data</field>
+    </data>
+    <data>
+      <field name='language'>Páez</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no info</field>
+      <field name='source'>2000. González de Pérez, María and María Luisa Rodríguez de Montes. Lenguas indígenas de Colombia. Una visión descriptiva.  Instituto Caro y Cuervo. Santa Fé. pp. 140-3</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Puinave</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Mario Girón Higuita. 2008. Una gramática del wã⁄nsöjöt (Puinave).LOT, Utrecht.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Taushiro</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Alicea Ortiz, Neftalí. 1975. Vocabulario taushiro. Datos etnolinguisticos no. 22. ILV, Lima.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'></field>
+      <field name='languageFamily'></field>
+      <field name='personEnteringData'></field>
+      <field name='value'>no infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono infono info</field>
+      <field name='source'>yes</field>
+      <field name='comments'>Olawsky, Knut. 2006 A grammar of Urarina. Mouton de Gruyter. Berlin.</field>
+    </data>
+    <data>
+      <field name='language'>Yagua</field>
+      <field name='languageFamily'>Peba-Yagua</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no info</field>
+      <field name='source'>Powlinson 1999</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>phonemic glottalization/laryngealization of vowels</field>
+      <field name='definition'></field>
+    </meta>
+    <data>
+      <field name='language'>Camsá</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Monguí, José. 1981. La lengua kame.ntzá. Fonética-Fonología-Textos. Instituto Caro y Cuervo, Bogotá.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Candoshi</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Tuggy, John. 2008. Vocabulario candoshi de Loreto (2da. Ed). Serie Lingüística Peruana no. 2. ILV, Lima.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Cofan</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no info</field>
+      <field name='source'>1976. Borman, M. B. (comp.). Vocabulario cofán: cofán-castellano, castellano-cofán. ILV, Quito.</field>
+      <field name='comments'>*based on the lexical data</field>
+    </data>
+    <data>
+      <field name='language'>Páez</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>2000. González de Pérez, María and María Luisa Rodríguez de Montes. Lenguas indígenas de Colombia. Una visión descriptiva.  Instituto Caro y Cuervo. Santa Fé. pp. 140-3</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Puinave</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Mario Girón Higuita. 2008. Una gramática del wã⁄nsöjöt (Puinave).LOT, Utrecht.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Taushiro</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Alicea Ortiz, Neftalí. 1975. Vocabulario taushiro. Datos etnolinguisticos no. 22. ILV, Lima.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'></field>
+      <field name='languageFamily'></field>
+      <field name='personEnteringData'></field>
+      <field name='value'>Anderson, Doris. 1962. Conversational ticuna. Yarinacocha Press, Yarinacocha.</field>
+      <field name='source'>no</field>
+      <field name='comments'>Olawsky, Knut. 2006 A grammar of Urarina. Mouton de Gruyter. Berlin.</field>
+    </data>
+    <data>
+      <field name='language'>Yagua</field>
+      <field name='languageFamily'>Peba-Yagua</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Powlison, Paul (recop.). (1995). Diccionario yagua-castellano. Serie Lingüística Peruana no. 35. ILV, Lima.</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>contrastive tones (number)</field>
+      <field name='definition'></field>
+    </meta>
+    <data>
+      <field name='language'></field>
+      <field name='languageFamily'></field>
+      <field name='personEnteringData'></field>
+      <field name='value'>Monguí, José. 1981. La lengua kame.ntzá. Fonética-Fonología-Textos. Instituto Caro y Cuervo, Bogotá.</field>
+      <field name='source'>no</field>
+      <field name='comments'>Tuggy, John. 2008. Vocabulario candoshi de Loreto (2da. Ed). Serie Lingüística Peruana no. 2. ILV, Lima.</field>
+    </data>
+    <data>
+      <field name='language'>Cofan</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>1976. Borman, M. B. (comp.). Vocabulario cofán: cofán-castellano, castellano-cofán. ILV, Quito.</field>
+      <field name='comments'>*based on the lexical data. But there are glusters of the same consonant, ie. [tt] which might be a way to represent a glottalized stop but there is no info to assure it.</field>
+    </data>
+    <data>
+      <field name='language'>Páez</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no info</field>
+      <field name='source'>2000. González de Pérez, María and María Luisa Rodríguez de Montes. Lenguas indígenas de Colombia. Una visión descriptiva.  Instituto Caro y Cuervo. Santa Fé. pp. 140-3</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Puinave</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>Mario Girón Higuita. 2008. Una gramática del wã⁄nsöjöt (Puinave).LOT, Utrecht. (p.104)</field>
+      <field name='comments'>(4 types: low, high, ascendent and descendent)</field>
+    </data>
+    <data>
+      <field name='language'>Taushiro</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Alicea Ortiz, Neftalí. 1975. Vocabulario taushiro. Datos etnolinguisticos no. 22. ILV, Lima.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Ticuna</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes (?)</field>
+      <field name='source'>Anderson, Doris. 1962. Conversational ticuna. Yarinacocha Press, Yarinacocha.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Urarina</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>Olawsky, Knut. 2006 A grammar of Urarina. Mouton de Gruyter. Berlin.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Yagua</field>
+      <field name='languageFamily'>Peba-Yagua</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes (2)</field>
+      <field name='source'>Powlison, Paul (recop.). (1995). Diccionario yagua-castellano. Serie Lingüística Peruana no. 35. ILV, Lima.</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>contrastive stress</field>
+      <field name='definition'></field>
+    </meta>
+    <data>
+      <field name='language'></field>
+      <field name='languageFamily'></field>
+      <field name='personEnteringData'></field>
+      <field name='value'>Monguí, José. 1981. La lengua kame.ntzá. Fonética-Fonología-Textos. Instituto Caro y Cuervo, Bogotá.</field>
+      <field name='source'>yes</field>
+      <field name='comments'>Tuggy, John. 2008. Vocabulario candoshi de Loreto (2da. Ed). Serie Lingüística Peruana no. 2. ILV, Lima.</field>
+    </data>
+    <data>
+      <field name='language'>Cofan</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no info</field>
+      <field name='source'>1976. Borman, M. B. (comp.). Vocabulario cofán: cofán-castellano, castellano-cofán. ILV, Quito.</field>
+      <field name='comments'>*based on the lexical data</field>
+    </data>
+    <data>
+      <field name='language'>Páez</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>2000. González de Pérez, María and María Luisa Rodríguez de Montes. Lenguas indígenas de Colombia. Una visión descriptiva.  Instituto Caro y Cuervo. Santa Fé. pp. 140-3</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Puinave</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no info</field>
+      <field name='source'>Mario Girón Higuita. 2008. Una gramática del wã⁄nsöjöt (Puinave).LOT, Utrecht. (p.104)</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Taushiro</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no info</field>
+      <field name='source'>Alicea Ortiz, Neftalí. 1975. Vocabulario taushiro. Datos etnolinguisticos no. 22. ILV, Lima.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Ticuna</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no info</field>
+      <field name='source'>Anderson, Doris. 1962. Conversational ticuna. Yarinacocha Press, Yarinacocha.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Urarina</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no info</field>
+      <field name='source'>Olawsky, Knut. 2006 A grammar of Urarina. Mouton de Gruyter. Berlin.</field>
+      <field name='comments'>it seems that stress is no contrastive. It usually falls in the heaviest syllable of the word</field>
+    </data>
+    <data>
+      <field name='language'>Yagua</field>
+      <field name='languageFamily'>Peba-Yagua</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>Powlison, Paul (recop.). (1995). Diccionario yagua-castellano. Serie Lingüística Peruana no. 35. ILV, Lima.</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>nasalization property of morpheme or syllable</field>
+      <field name='definition'>vs. nasalization as property of segments</field>
+    </meta>
+    <data>
+      <field name='language'></field>
+      <field name='languageFamily'></field>
+      <field name='personEnteringData'></field>
+      <field name='value'>Monguí, José. 1981. La lengua kame.ntzá. Fonética-Fonología-Textos. Instituto Caro y Cuervo, Bogotá.</field>
+      <field name='source'>no</field>
+      <field name='comments'>Tuggy, John. 2008. Vocabulario candoshi de Loreto (2da. Ed). Serie Lingüística Peruana no. 2. ILV, Lima.</field>
+    </data>
+    <data>
+      <field name='language'>Cofan</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>1976. Borman, M. B. (comp.). Vocabulario cofán: cofán-castellano, castellano-cofán. ILV, Quito.</field>
+      <field name='comments'>*based on the lexical data</field>
+    </data>
+    <data>
+      <field name='language'>Páez</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>2000. González de Pérez, María and María Luisa Rodríguez de Montes. Lenguas indígenas de Colombia. Una visión descriptiva.  Instituto Caro y Cuervo. Santa Fé. pp. 140-3</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Puinave</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>Mario Girón Higuita. 2008. Una gramática del wã⁄nsöjöt (Puinave).LOT, Utrecht. (p.104)</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Taushiro</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Alicea Ortiz, Neftalí. 1975. Vocabulario taushiro. Datos etnolinguisticos no. 22. ILV, Lima.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Ticuna</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Anderson, Doris. 1962. Conversational ticuna. Yarinacocha Press, Yarinacocha.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Urarina</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Olawsky, Knut. 2006 A grammar of Urarina. Mouton de Gruyter. Berlin.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Yagua</field>
+      <field name='languageFamily'>Peba-Yagua</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Powlison, Paul (recop.). (1995). Diccionario yagua-castellano. Serie Lingüística Peruana no. 35. ILV, Lima.</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>nasal spreading across some morpheme boundaries</field>
+      <field name='definition'>do some affixes or other morphemes take the nasal/oral properties of the root they attach to?</field>
+    </meta>
+    <data>
+      <field name='language'></field>
+      <field name='languageFamily'></field>
+      <field name='personEnteringData'></field>
+      <field name='value'>Monguí, José. 1981. La lengua kame.ntzá. Fonética-Fonología-Textos. Instituto Caro y Cuervo, Bogotá.</field>
+      <field name='source'>no</field>
+      <field name='comments'>Tuggy, John. 2008. Vocabulario candoshi de Loreto (2da. Ed). Serie Lingüística Peruana no. 2. ILV, Lima.</field>
+    </data>
+    <data>
+      <field name='language'>Cofan</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>1976. Borman, M. B. (comp.). Vocabulario cofán: cofán-castellano, castellano-cofán. ILV, Quito.</field>
+      <field name='comments'>*based on the lexical data</field>
+    </data>
+    <data>
+      <field name='language'>Páez</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no info</field>
+      <field name='source'>2000. González de Pérez, María and María Luisa Rodríguez de Montes. Lenguas indígenas de Colombia. Una visión descriptiva.  Instituto Caro y Cuervo. Santa Fé. pp. 140-3</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Puinave</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Mario Girón Higuita. 2008. Una gramática del wã⁄nsöjöt (Puinave).LOT, Utrecht. (p.104)</field>
+      <field name='comments'>But there is nasalization in a syllabic domain</field>
+    </data>
+    <data>
+      <field name='language'>Taushiro</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Alicea Ortiz, Neftalí. 1975. Vocabulario taushiro. Datos etnolinguisticos no. 22. ILV, Lima.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Ticuna</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Anderson, Doris. 1962. Conversational ticuna. Yarinacocha Press, Yarinacocha.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Urarina</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>Olawsky, Knut. 2006 A grammar of Urarina. Mouton de Gruyter. Berlin.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Yagua</field>
+      <field name='languageFamily'>Peba-Yagua</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Powlison, Paul (recop.). (1995). Diccionario yagua-castellano. Serie Lingüística Peruana no. 35. ILV, Lima.</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>complex onsets</field>
+      <field name='definition'>(onset consists of more than one consonant phoneme)</field>
+    </meta>
+    <data>
+      <field name='language'>Camsá</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>Monguí, José. 1981. La lengua kame.ntzá. Fonética-Fonología-Textos. Instituto Caro y Cuervo, Bogotá.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Candoshi</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>Tuggy, John. 2008. Vocabulario candoshi de Loreto (2da. Ed). Serie Lingüística Peruana no. 2. ILV, Lima.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Páez</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>2000. González de Pérez, María and María Luisa Rodríguez de Montes. Lenguas indígenas de Colombia. Una visión descriptiva.  Instituto Caro y Cuervo. Santa Fé. pp. 140-3</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Puinave</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>Mario Girón Higuita. 2008. Una gramática del wã⁄nsöjöt (Puinave).LOT, Utrecht. (p.104)</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Taushiro</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Alicea Ortiz, Neftalí. 1975. Vocabulario taushiro. Datos etnolinguisticos no. 22. ILV, Lima.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Ticuna</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Anderson, Doris. 1962. Conversational ticuna. Yarinacocha Press, Yarinacocha.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Urarina</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>Olawsky, Knut. 2006 A grammar of Urarina. Mouton de Gruyter. Berlin.</field>
+      <field name='comments'>in loan words</field>
+    </data>
+    <data>
+      <field name='language'>Yagua</field>
+      <field name='languageFamily'>Peba-Yagua</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>Powlison, Paul (recop.). (1995). Diccionario yagua-castellano. Serie Lingüística Peruana no. 35. ILV, Lima.</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>no codas</field>
+      <field name='definition'>*(C)VC</field>
+    </meta>
+    <data>
+      <field name='language'>Camsá</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Monguí, José. 1981. La lengua kame.ntzá. Fonética-Fonología-Textos. Instituto Caro y Cuervo, Bogotá.</field>
+      <field name='comments'>there are codas</field>
+    </data>
+    <data>
+      <field name='language'>Candoshi</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Tuggy, John. 2008. Vocabulario candoshi de Loreto (2da. Ed). Serie Lingüística Peruana no. 2. ILV, Lima.</field>
+      <field name='comments'>there are codas</field>
+    </data>
+    <data>
+      <field name='language'>Cofan</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>1976. Borman, M. B. (comp.). Vocabulario cofán: cofán-castellano, castellano-cofán. ILV, Quito.</field>
+      <field name='comments'>*based on the lexical data</field>
+    </data>
+    <data>
+      <field name='language'>Páez</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>2000. González de Pérez, María and María Luisa Rodríguez de Montes. Lenguas indígenas de Colombia. Una visión descriptiva.  Instituto Caro y Cuervo. Santa Fé. pp. 140-3</field>
+      <field name='comments'>there are codas</field>
+    </data>
+    <data>
+      <field name='language'>Puinave</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Mario Girón Higuita. 2008. Una gramática del wã⁄nsöjöt (Puinave).LOT, Utrecht. (p.104)</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Taushiro</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Alicea Ortiz, Neftalí. 1975. Vocabulario taushiro. Datos etnolinguisticos no. 22. ILV, Lima.</field>
+      <field name='comments'>there are codas</field>
+    </data>
+    <data>
+      <field name='language'>Ticuna</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Anderson, Doris. 1962. Conversational ticuna. Yarinacocha Press, Yarinacocha.</field>
+      <field name='comments'>there are codas</field>
+    </data>
+    <data>
+      <field name='language'>Urarina</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>Olawsky, Knut. 2006 A grammar of Urarina. Mouton de Gruyter. Berlin.</field>
+      <field name='comments'>there are no codas</field>
+    </data>
+    <data>
+      <field name='language'>Yagua</field>
+      <field name='languageFamily'>Peba-Yagua</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Powlison, Paul (recop.). (1995). Diccionario yagua-castellano. Serie Lingüística Peruana no. 35. ILV, Lima.</field>
+      <field name='comments'>there are codas</field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>glide codas</field>
+      <field name='definition'>e.g. /y/ or /w/ as coda consonants</field>
+    </meta>
+    <data>
+      <field name='language'>Camsá</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>Monguí, José. 1981. La lengua kame.ntzá. Fonética-Fonología-Textos. Instituto Caro y Cuervo, Bogotá.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Candoshi</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Tuggy, John. 2008. Vocabulario candoshi de Loreto (2da. Ed). Serie Lingüística Peruana no. 2. ILV, Lima.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Cofan</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>1976. Borman, M. B. (comp.). Vocabulario cofán: cofán-castellano, castellano-cofán. ILV, Quito.</field>
+      <field name='comments'>*based on the lexical data</field>
+    </data>
+    <data>
+      <field name='language'>Páez</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>2000. González de Pérez, María and María Luisa Rodríguez de Montes. Lenguas indígenas de Colombia. Una visión descriptiva.  Instituto Caro y Cuervo. Santa Fé. pp. 140-3</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Puinave</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Mario Girón Higuita. 2008. Una gramática del wã⁄nsöjöt (Puinave).LOT, Utrecht. (p.104)</field>
+      <field name='comments'>But phonetically there are glide codas</field>
+    </data>
+    <data>
+      <field name='language'>Taushiro</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>Alicea Ortiz, Neftalí. 1975. Vocabulario taushiro. Datos etnolinguisticos no. 22. ILV, Lima.</field>
+      <field name='comments'>phonetically [j]</field>
+    </data>
+    <data>
+      <field name='language'>Ticuna</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>Anderson, Doris. 1962. Conversational ticuna. Yarinacocha Press, Yarinacocha.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Urarina</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Olawsky, Knut. 2006 A grammar of Urarina. Mouton de Gruyter. Berlin.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Yagua</field>
+      <field name='languageFamily'>Peba-Yagua</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>Powlison, Paul (recop.). (1995). Diccionario yagua-castellano. Serie Lingüística Peruana no. 35. ILV, Lima.</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>liquid codas</field>
+      <field name='definition'>e.g. /r/ or /l/ as coda consonants</field>
+    </meta>
+    <data>
+      <field name='language'>Camsá</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no info</field>
+      <field name='source'>Monguí, José. 1981. La lengua kame.ntzá. Fonética-Fonología-Textos. Instituto Caro y Cuervo, Bogotá.</field>
+      <field name='comments'>They do not appear in the data but it seems to be scarce to have an accurate answer</field>
+    </data>
+    <data>
+      <field name='language'>Candoshi</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>Tuggy, John. 2008. Vocabulario candoshi de Loreto (2da. Ed). Serie Lingüística Peruana no. 2. ILV, Lima.</field>
+      <field name='comments'>the alveolar tap</field>
+    </data>
+    <data>
+      <field name='language'>Cofan</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>1976. Borman, M. B. (comp.). Vocabulario cofán: cofán-castellano, castellano-cofán. ILV, Quito.</field>
+      <field name='comments'>*based on the lexical data</field>
+    </data>
+    <data>
+      <field name='language'>Páez</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>2000. González de Pérez, María and María Luisa Rodríguez de Montes. Lenguas indígenas de Colombia. Una visión descriptiva.  Instituto Caro y Cuervo. Santa Fé. pp. 140-3</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Puinave</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Mario Girón Higuita. 2008. Una gramática del wã⁄nsöjöt (Puinave).LOT, Utrecht. (p.104)</field>
+      <field name='comments'>The language has no liquids consonants</field>
+    </data>
+    <data>
+      <field name='language'>Taushiro</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Alicea Ortiz, Neftalí. 1975. Vocabulario taushiro. Datos etnolinguisticos no. 22. ILV, Lima.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Ticuna</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Anderson, Doris. 1962. Conversational ticuna. Yarinacocha Press, Yarinacocha.</field>
+      <field name='comments'>but they appeared in only one loan word</field>
+    </data>
+    <data>
+      <field name='language'>Urarina</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Olawsky, Knut. 2006 A grammar of Urarina. Mouton de Gruyter. Berlin.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Yagua</field>
+      <field name='languageFamily'>Peba-Yagua</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>Powlison, Paul (recop.). (1995). Diccionario yagua-castellano. Serie Lingüística Peruana no. 35. ILV, Lima.</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>nasal codas</field>
+      <field name='definition'>(C)VN</field>
+    </meta>
+    <data>
+      <field name='language'>Camsá</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>Monguí, José. 1981. La lengua kame.ntzá. Fonética-Fonología-Textos. Instituto Caro y Cuervo, Bogotá.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Candoshi</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>Tuggy, John. 2008. Vocabulario candoshi de Loreto (2da. Ed). Serie Lingüística Peruana no. 2. ILV, Lima.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Cofan</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>1976. Borman, M. B. (comp.). Vocabulario cofán: cofán-castellano, castellano-cofán. ILV, Quito.</field>
+      <field name='comments'>*based on the lexical data</field>
+    </data>
+    <data>
+      <field name='language'>Páez</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>2000. González de Pérez, María and María Luisa Rodríguez de Montes. Lenguas indígenas de Colombia. Una visión descriptiva.  Instituto Caro y Cuervo. Santa Fé. pp. 140-3</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Puinave</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>Mario Girón Higuita. 2008. Una gramática del wã⁄nsöjöt (Puinave).LOT, Utrecht. (p.104)</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Taushiro</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>Alicea Ortiz, Neftalí. 1975. Vocabulario taushiro. Datos etnolinguisticos no. 22. ILV, Lima.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Ticuna</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>Anderson, Doris. 1962. Conversational ticuna. Yarinacocha Press, Yarinacocha.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Urarina</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Olawsky, Knut. 2006 A grammar of Urarina. Mouton de Gruyter. Berlin.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Yagua</field>
+      <field name='languageFamily'>Peba-Yagua</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>Powlison, Paul (recop.). (1995). Diccionario yagua-castellano. Serie Lingüística Peruana no. 35. ILV, Lima.</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>voiceless obstruent codas</field>
+      <field name='definition'></field>
+    </meta>
+    <data>
+      <field name='language'>Camsá</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>Monguí, José. 1981. La lengua kame.ntzá. Fonética-Fonología-Textos. Instituto Caro y Cuervo, Bogotá.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Candoshi</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>Tuggy, John. 2008. Vocabulario candoshi de Loreto (2da. Ed). Serie Lingüística Peruana no. 2. ILV, Lima.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Cofan</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>1976. Borman, M. B. (comp.). Vocabulario cofán: cofán-castellano, castellano-cofán. ILV, Quito.</field>
+      <field name='comments'>*based on the lexical data</field>
+    </data>
+    <data>
+      <field name='language'>Páez</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>2000. González de Pérez, María and María Luisa Rodríguez de Montes. Lenguas indígenas de Colombia. Una visión descriptiva.  Instituto Caro y Cuervo. Santa Fé. pp. 140-3</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Puinave</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>Mario Girón Higuita. 2008. Una gramática del wã⁄nsöjöt (Puinave).LOT, Utrecht. (p.104)</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Taushiro</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>Alicea Ortiz, Neftalí. 1975. Vocabulario taushiro. Datos etnolinguisticos no. 22. ILV, Lima.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Ticuna</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>Anderson, Doris. 1962. Conversational ticuna. Yarinacocha Press, Yarinacocha.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Urarina</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Olawsky, Knut. 2006 A grammar of Urarina. Mouton de Gruyter. Berlin.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Yagua</field>
+      <field name='languageFamily'>Peba-Yagua</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>Powlison, Paul (recop.). (1995). Diccionario yagua-castellano. Serie Lingüística Peruana no. 35. ILV, Lima.</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>voiced obstruent codas</field>
+      <field name='definition'></field>
+    </meta>
+    <data>
+      <field name='language'>Camsá</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no info</field>
+      <field name='source'>Monguí, José. 1981. La lengua kame.ntzá. Fonética-Fonología-Textos. Instituto Caro y Cuervo, Bogotá.</field>
+      <field name='comments'>They do not appear in the data but it seems to be scarce to have an accurate answer</field>
+    </data>
+    <data>
+      <field name='language'>Candoshi</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Tuggy, John. 2008. Vocabulario candoshi de Loreto (2da. Ed). Serie Lingüística Peruana no. 2. ILV, Lima.</field>
+      <field name='comments'>the language has no voiced obstruents</field>
+    </data>
+    <data>
+      <field name='language'>Cofan</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>1976. Borman, M. B. (comp.). Vocabulario cofán: cofán-castellano, castellano-cofán. ILV, Quito.</field>
+      <field name='comments'>*based on the lexical data</field>
+    </data>
+    <data>
+      <field name='language'>Páez</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>2000. González de Pérez, María and María Luisa Rodríguez de Montes. Lenguas indígenas de Colombia. Una visión descriptiva.  Instituto Caro y Cuervo. Santa Fé. pp. 140-3</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Puinave</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Mario Girón Higuita. 2008. Una gramática del wã⁄nsöjöt (Puinave).LOT, Utrecht. (p.104)</field>
+      <field name='comments'>the language has no voiced obstruents</field>
+    </data>
+    <data>
+      <field name='language'>Taushiro</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Alicea Ortiz, Neftalí. 1975. Vocabulario taushiro. Datos etnolinguisticos no. 22. ILV, Lima.</field>
+      <field name='comments'>the language has no voiced obstruents</field>
+    </data>
+    <data>
+      <field name='language'>Ticuna</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Anderson, Doris. 1962. Conversational ticuna. Yarinacocha Press, Yarinacocha.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Urarina</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Olawsky, Knut. 2006 A grammar of Urarina. Mouton de Gruyter. Berlin.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Yagua</field>
+      <field name='languageFamily'>Peba-Yagua</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>Powlison, Paul (recop.). (1995). Diccionario yagua-castellano. Serie Lingüística Peruana no. 35. ILV, Lima.</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>h coda</field>
+      <field name='definition'></field>
+    </meta>
+    <data>
+      <field name='language'>Camsá</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Monguí, José. 1981. La lengua kame.ntzá. Fonética-Fonología-Textos. Instituto Caro y Cuervo, Bogotá.</field>
+      <field name='comments'>The language has no glottals</field>
+    </data>
+    <data>
+      <field name='language'>Candoshi</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Tuggy, John. 2008. Vocabulario candoshi de Loreto (2da. Ed). Serie Lingüística Peruana no. 2. ILV, Lima.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Cofan</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no info</field>
+      <field name='source'>1976. Borman, M. B. (comp.). Vocabulario cofán: cofán-castellano, castellano-cofán. ILV, Quito.</field>
+      <field name='comments'>there is no glottal fricative in the lexical data</field>
+    </data>
+    <data>
+      <field name='language'>Páez</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>2000. González de Pérez, María and María Luisa Rodríguez de Montes. Lenguas indígenas de Colombia. Una visión descriptiva.  Instituto Caro y Cuervo. Santa Fé. pp. 140-3</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Puinave</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Mario Girón Higuita. 2008. Una gramática del wã⁄nsöjöt (Puinave).LOT, Utrecht. (p.104)</field>
+      <field name='comments'>it happens phonetically</field>
+    </data>
+    <data>
+      <field name='language'>Taushiro</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>Alicea Ortiz, Neftalí. 1975. Vocabulario taushiro. Datos etnolinguisticos no. 22. ILV, Lima.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Ticuna</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Anderson, Doris. 1962. Conversational ticuna. Yarinacocha Press, Yarinacocha.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Urarina</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Olawsky, Knut. 2006 A grammar of Urarina. Mouton de Gruyter. Berlin.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Yagua</field>
+      <field name='languageFamily'>Peba-Yagua</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Powlison, Paul (recop.). (1995). Diccionario yagua-castellano. Serie Lingüística Peruana no. 35. ILV, Lima.</field>
+      <field name='comments'>there are no glottals in the language</field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>glottal stop coda</field>
+      <field name='definition'></field>
+    </meta>
+    <data>
+      <field name='language'>Camsá</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Monguí, José. 1981. La lengua kame.ntzá. Fonética-Fonología-Textos. Instituto Caro y Cuervo, Bogotá.</field>
+      <field name='comments'>The language has no glottals</field>
+    </data>
+    <data>
+      <field name='language'>Candoshi</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Tuggy, John. 2008. Vocabulario candoshi de Loreto (2da. Ed). Serie Lingüística Peruana no. 2. ILV, Lima.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Cofan</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>1976. Borman, M. B. (comp.). Vocabulario cofán: cofán-castellano, castellano-cofán. ILV, Quito.</field>
+      <field name='comments'>*based on the lexical data. There is a apostrophe [´] which usually represents a glottal stop.</field>
+    </data>
+    <data>
+      <field name='language'>Páez</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no info</field>
+      <field name='source'>2000. González de Pérez, María and María Luisa Rodríguez de Montes. Lenguas indígenas de Colombia. Una visión descriptiva.  Instituto Caro y Cuervo. Santa Fé. pp. 140-3</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Puinave</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>Mario Girón Higuita. 2008. Una gramática del wã⁄nsöjöt (Puinave).LOT, Utrecht. (p.104)</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Taushiro</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>Alicea Ortiz, Neftalí. 1975. Vocabulario taushiro. Datos etnolinguisticos no. 22. ILV, Lima.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Ticuna</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>Anderson, Doris. 1962. Conversational ticuna. Yarinacocha Press, Yarinacocha.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Urarina</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Olawsky, Knut. 2006 A grammar of Urarina. Mouton de Gruyter. Berlin.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Yagua</field>
+      <field name='languageFamily'>Peba-Yagua</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Powlison, Paul (recop.). (1995). Diccionario yagua-castellano. Serie Lingüística Peruana no. 35. ILV, Lima.</field>
+      <field name='comments'>there are no glottals in the language</field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>word-final coda required</field>
+      <field name='definition'></field>
+    </meta>
+    <data>
+      <field name='language'>Camsá</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Monguí, José. 1981. La lengua kame.ntzá. Fonética-Fonología-Textos. Instituto Caro y Cuervo, Bogotá.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Candoshi</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Tuggy, John. 2008. Vocabulario candoshi de Loreto (2da. Ed). Serie Lingüística Peruana no. 2. ILV, Lima.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Cofan</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>1976. Borman, M. B. (comp.). Vocabulario cofán: cofán-castellano, castellano-cofán. ILV, Quito.</field>
+      <field name='comments'>*based on the lexical data. There is a apostrophe [´] which usually represents a glottal stop.</field>
+    </data>
+    <data>
+      <field name='language'>Páez</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>2000. González de Pérez, María and María Luisa Rodríguez de Montes. Lenguas indígenas de Colombia. Una visión descriptiva.  Instituto Caro y Cuervo. Santa Fé. pp. 140-3</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Puinave</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Mario Girón Higuita. 2008. Una gramática del wã⁄nsöjöt (Puinave).LOT, Utrecht. (p.104)</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Taushiro</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Alicea Ortiz, Neftalí. 1975. Vocabulario taushiro. Datos etnolinguisticos no. 22. ILV, Lima.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Ticuna</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Anderson, Doris. 1962. Conversational ticuna. Yarinacocha Press, Yarinacocha.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Urarina</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Olawsky, Knut. 2006 A grammar of Urarina. Mouton de Gruyter. Berlin.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Yagua</field>
+      <field name='languageFamily'>Peba-Yagua</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Powlison, Paul (recop.). (1995). Diccionario yagua-castellano. Serie Lingüística Peruana no. 35. ILV, Lima.</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>systematic consonant epenthesis</field>
+      <field name='definition'></field>
+    </meta>
+    <data>
+      <field name='language'>Camsá</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Monguí, José. 1981. La lengua kame.ntzá. Fonética-Fonología-Textos. Instituto Caro y Cuervo, Bogotá.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Candoshi</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Tuggy, John. 2008. Vocabulario candoshi de Loreto (2da. Ed). Serie Lingüística Peruana no. 2. ILV, Lima.</field>
+      <field name='comments'>but there is systematic prenasalization</field>
+    </data>
+    <data>
+      <field name='language'>Cofan</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>1976. Borman, M. B. (comp.). Vocabulario cofán: cofán-castellano, castellano-cofán. ILV, Quito.</field>
+      <field name='comments'>*based on the lexical data. There is a apostrophe [´] which usually represents a glottal stop.</field>
+    </data>
+    <data>
+      <field name='language'>Páez</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>2000. González de Pérez, María and María Luisa Rodríguez de Montes. Lenguas indígenas de Colombia. Una visión descriptiva.  Instituto Caro y Cuervo. Santa Fé. pp. 140-3</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Puinave</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Mario Girón Higuita. 2008. Una gramática del wã⁄nsöjöt (Puinave).LOT, Utrecht. (p.104)</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Taushiro</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Alicea Ortiz, Neftalí. 1975. Vocabulario taushiro. Datos etnolinguisticos no. 22. ILV, Lima.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Ticuna</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Anderson, Doris. 1962. Conversational ticuna. Yarinacocha Press, Yarinacocha.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Urarina</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>yes</field>
+      <field name='source'>Olawsky, Knut. 2006 A grammar of Urarina. Mouton de Gruyter. Berlin.</field>
+      <field name='comments'>insertion of glides</field>
+    </data>
+    <data>
+      <field name='language'>Yagua</field>
+      <field name='languageFamily'>Peba-Yagua</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Powlison, Paul (recop.). (1995). Diccionario yagua-castellano. Serie Lingüística Peruana no. 35. ILV, Lima.</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>systematic vowel epenthesis</field>
+      <field name='definition'></field>
+    </meta>
+    <data>
+      <field name='language'>Camsá</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Monguí, José. 1981. La lengua kame.ntzá. Fonética-Fonología-Textos. Instituto Caro y Cuervo, Bogotá.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Candoshi</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Tuggy, John. 2008. Vocabulario candoshi de Loreto (2da. Ed). Serie Lingüística Peruana no. 2. ILV, Lima.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Cofan</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>1976. Borman, M. B. (comp.). Vocabulario cofán: cofán-castellano, castellano-cofán. ILV, Quito.</field>
+      <field name='comments'>*based on the lexical data. There is a apostrophe [´] which usually represents a glottal stop.</field>
+    </data>
+    <data>
+      <field name='language'>Páez</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>2000. González de Pérez, María and María Luisa Rodríguez de Montes. Lenguas indígenas de Colombia. Una visión descriptiva.  Instituto Caro y Cuervo. Santa Fé. pp. 140-3</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Puinave</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Mario Girón Higuita. 2008. Una gramática del wã⁄nsöjöt (Puinave).LOT, Utrecht. (p.104)</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Taushiro</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Alicea Ortiz, Neftalí. 1975. Vocabulario taushiro. Datos etnolinguisticos no. 22. ILV, Lima.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Ticuna</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Anderson, Doris. 1962. Conversational ticuna. Yarinacocha Press, Yarinacocha.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Urarina</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Olawsky, Knut. 2006 A grammar of Urarina. Mouton de Gruyter. Berlin.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Yagua</field>
+      <field name='languageFamily'>Peba-Yagua</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Powlison, Paul (recop.). (1995). Diccionario yagua-castellano. Serie Lingüística Peruana no. 35. ILV, Lima.</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+  <feature>
+    <meta>
+      <field name='name'>vowel harmony</field>
+      <field name='definition'></field>
+    </meta>
+    <data>
+      <field name='language'>Camsá</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Monguí, José. 1981. La lengua kame.ntzá. Fonética-Fonología-Textos. Instituto Caro y Cuervo, Bogotá.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Candoshi</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Tuggy, John. 2008. Vocabulario candoshi de Loreto (2da. Ed). Serie Lingüística Peruana no. 2. ILV, Lima.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Cofan</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>1976. Borman, M. B. (comp.). Vocabulario cofán: cofán-castellano, castellano-cofán. ILV, Quito.</field>
+      <field name='comments'>*based on the lexical data. There is a apostrophe [´] which usually represents a glottal stop.</field>
+    </data>
+    <data>
+      <field name='language'>Páez</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>2000. González de Pérez, María and María Luisa Rodríguez de Montes. Lenguas indígenas de Colombia. Una visión descriptiva.  Instituto Caro y Cuervo. Santa Fé. pp. 140-3</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Puinave</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Mario Girón Higuita. 2008. Una gramática del wã⁄nsöjöt (Puinave).LOT, Utrecht. (p.104)</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Taushiro</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Alicea Ortiz, Neftalí. 1975. Vocabulario taushiro. Datos etnolinguisticos no. 22. ILV, Lima.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Ticuna</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Anderson, Doris. 1962. Conversational ticuna. Yarinacocha Press, Yarinacocha.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Urarina</field>
+      <field name='languageFamily'>Isolate</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Olawsky, Knut. 2006 A grammar of Urarina. Mouton de Gruyter. Berlin.</field>
+      <field name='comments'></field>
+    </data>
+    <data>
+      <field name='language'>Yagua</field>
+      <field name='languageFamily'>Peba-Yagua</field>
+      <field name='personEnteringData'>Daniel</field>
+      <field name='value'>no</field>
+      <field name='source'>Powlison, Paul (recop.). (1995). Diccionario yagua-castellano. Serie Lingüística Peruana no. 35. ILV, Lima.</field>
+      <field name='comments'></field>
+    </data>
+  </feature>
+</features>

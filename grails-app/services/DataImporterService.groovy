@@ -48,11 +48,11 @@ class DataImporterService {
             output.flush()
         }
 
-        def entries = new XmlParser().parse(input)
-        def type = entries.'@type'
+        def features = new XmlParser().parse(input)
+        def type = features.'@type'
         switch (type) {
             case 'lexical':
-                importLexicalXML(entries, logOutput)
+                importLexicalXML(features, logOutput)
                 break
             default:
                 break
@@ -61,7 +61,7 @@ class DataImporterService {
         return ['output':outputBuffer.toString()]
     }
 
-    def importLexicalXML(entries, logOutput) {
+    def importLexicalXML(features, logOutput) {
 
         def languageCache = [:]
         def sourceCache = [:]
@@ -72,9 +72,9 @@ class DataImporterService {
         def caseStudyRegion = CaseStudyRegion.findByName("All")
         logOutput("Case Study Region: ${caseStudyRegion}")
 
-        entries.entry.each() { entry ->
+        features.feature.each() { feature ->
             def meta = [:]
-            entry.meta[0].field.each { f ->
+            feature.meta[0].field.each { f ->
 //                println "Name: ${f.'@name'}, Value: ${f.value}"
                 meta[f.'@name'] = getValueFromXMLElement(f)
             }
@@ -83,15 +83,15 @@ class DataImporterService {
 
             if(lexicalFeature) {
 
-                entry.item.each { i ->
+                feature.data.each { d ->
 
-                    def item = [:]
-                    i.field.each { f ->
+                    def data = [:]
+                    d.field.each { f ->
 //                       println "Name: ${f.'@name'}, Value: ${f.value}"
-                       item[f.'@name'] = getValueFromXMLElement(f)
+                       data[f.'@name'] = getValueFromXMLElement(f)
                     }
 
-                    def language = createSourceLanguage(item['languageFamily'], item['language'], caseStudyRegion, languageCache, logOutput)
+                    def language = createSourceLanguage(data['languageFamily'], data['language'], caseStudyRegion, languageCache, logOutput)
 
                     if(language) {
 
@@ -109,20 +109,20 @@ class DataImporterService {
                                 'grammaticalNotes': '',
                                 'generalNotes': ''
                             )
-                            if(item['originalForm']) {
-                                lexicalData.originalForm = item['originalForm']
+                            if(data['originalForm']) {
+                                lexicalData.originalForm = data['originalForm']
                             } else {
-                                lexicalData.originalForm = item['phonemicizedForm']
+                                lexicalData.originalForm = data['phonemicizedForm']
                             }
-                            if(item['phonemicizedForm']) {
-                                lexicalData.phonemicizedForm = item['phonemicizedForm']
+                            if(data['phonemicizedForm']) {
+                                lexicalData.phonemicizedForm = data['phonemicizedForm']
                             } else {
-                                lexicalData.phonemicizedForm = item['originalForm']
+                                lexicalData.phonemicizedForm = data['originalForm']
                             }
                             lexicalData.lexicalFeature = lexicalFeature
                             lexicalData.sourceLanguage = language
 
-                            def source = createSource(item['source'], language, sourceCache, logOutput)
+                            def source = createSource(data['source'], language, sourceCache, logOutput)
                             if(source) {
                                 lexicalData.addToSources(source)
                             }

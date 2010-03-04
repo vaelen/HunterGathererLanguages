@@ -34,6 +34,9 @@ class CSVConverter {
             case "lexical":
                 convert = {inFile, outFile -> convertLexicalCSV(inFile, outFile) }
                 break;
+            case "grammatical":
+                convert = {inFile, outFile -> convertGrammaticalCSV(inFile, outFile) }
+                break;
             default:
                 println "Unknown CSV Type: ${type}"
                 break;
@@ -43,9 +46,124 @@ class CSVConverter {
                 File inFile = new File("csv/${type}/${name}.csv")
                 File outFile = new File("xml/${type}/${name}.xml")
                 outFile.parentFile.mkdirs()
+                println "Converting '${type}' CSV: ${inFile} -> ${outFile}}"
                 convert(inFile, outFile)
             }
         }
+    }
+
+    private static isEmptyRow(row) {
+        boolean ret = true
+        if(row) {
+            row.each { value ->
+                if(value) {
+                    ret = false
+                }
+            }
+        }
+        return ret
+    }
+
+    static convertGrammaticalCSV(File input, File output) {
+        def languageList = null
+        def languageFamilyList = null
+        def personEnteringDataList = null
+
+        def features = []
+
+        String fileName = input.name.replaceAll(/\.[^\.]+$/, '');
+
+        // First parse CSV
+        input.withReader('UTF-8') { reader ->
+            def csvReader = new CSVReader(reader)
+            csvReader.readAll().each{ csvrow ->
+                def first = csvrow[0].trim()
+                def second = csvrow[1].trim()
+                def third = csvrow[2].trim()
+                def data = csvrow[3..csvrow.length-1].collect { it.trim() }
+
+                def records = []
+
+                if(!languageList) {
+                    languageList = data
+                } else if (!languageFamilyList) {
+                    languageFamilyList = data
+                } else if (!personEnteringDataList) {
+                    personEnteringDataList = data
+                } else {
+                    if (isEmptyRow(data)) {
+                        // Separator
+                    } else if (first == 'Feature') {
+                        // Header Row
+                    } else {
+                        def featureName = first
+                        def featureDefinition = second
+                        def featureData = []
+
+                        def language = null
+                        def languageFamily = null
+                        def personEnteringData = null
+                        def featureValue = null
+                        def source = null
+                        def comments = null
+                        data.eachWithIndex { value, i ->
+                            if(!featureValue) {
+                                language = languageList[i]
+                                languageFamily = languageFamilyList[i]
+                                personEnteringData = personEnteringDataList[i]
+                                featureValue = value
+                            } else if (!source) {
+                                source = value
+                            } else {
+                                comments = value
+                                featureData << [
+                                    'language':language,
+                                    'languageFamily':languageFamily,
+                                    'personEnteringData':personEnteringData,
+                                    'value':featureValue,
+                                    'source':source,
+                                    'comments':comments
+                                ]
+
+                                language = null
+                                languageFamily = null
+                                personEnteringData = null
+                                featureValue = null
+                                source = null
+                                comments = null
+                            }
+                        }
+
+                        features << [
+                            'name':featureName,
+                            'definition':featureDefinition,
+                            'data':featureData
+                        ]
+                    }
+                }
+            }
+        }
+
+        // Then build XML
+        output.withWriter('UTF-8') { writer ->
+            def builder = new MarkupBuilder(writer)
+            builder.features('type':'grammatical') {
+                features.each { f ->
+                    feature {
+                        meta {
+                            field(name:'name', f['name'])
+                            field(name:'definition', f['definition'])
+                        }
+                        f['data'].each {d ->
+                            data {
+                                d.each { fieldKey, fieldValue -> field(name:fieldKey, fieldValue) }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        
     }
 
     /**
@@ -181,14 +299,14 @@ class CSVConverter {
         // Then create XML
         output.withWriter('UTF-8') { writer ->
             def builder = new MarkupBuilder(writer)
-            builder.entries('type':'lexical') {
+            builder.features('type':'lexical') {
                 records.each { record ->
-                    entry {
+                    feature {
                         meta {
                             record['meta'].each {metaKey, metaValue -> field(name:metaKey, metaValue ) }
                         }
                         record['data'].each {d ->
-                            item {
+                            data {
                                 d.each { fieldKey, fieldValue -> field(name:fieldKey, fieldValue) }
                             }
                         }
