@@ -15,7 +15,7 @@ class CSVConverter {
      * xml directory.
      */
     static convertCSV() {
-        new File("csv").eachDir { dir -> files[dir.name] = []
+        new File("csv").eachDir { dir ->
             def type = dir.name
             def list = []
             new File("csv/${type}/").eachFileMatch(~/.*\.csv/) { file -> list << file.name.replaceAll(/\.csv/, '') }
@@ -29,14 +29,21 @@ class CSVConverter {
      */
     static convertCSV(type, files) {
         parseSemanticFields()
-        files.each { name ->
-            File inFile = new File("csv/${type}/${name}.csv")
-            File outFile = new File("xml/${type}/${name}.xml")
-            outFile.mkdirs()
-            switch(type) {
-                case "lexical":
-                    convertLexicalCSV(inFile, outFile)
-                    break;
+        def convert = null
+        switch(type) {
+            case "lexical":
+                convert = {inFile, outFile -> convertLexicalCSV(inFile, outFile) }
+                break;
+            default:
+                println "Unknown CSV Type: ${type}"
+                break;
+        }
+        if(convert) {
+            files.each { name ->
+                File inFile = new File("csv/${type}/${name}.csv")
+                File outFile = new File("xml/${type}/${name}.xml")
+                outFile.parentFile.mkdirs()
+                convert(inFile, outFile)
             }
         }
     }
