@@ -22,6 +22,8 @@ import org.apache.shiro.SecurityUtils
     def list = {
         params.max = Math.min(params.max ? params.max.toInteger() : 10,  100)
         if(params.format <%= "&&" %> params.format != "html") {
+            params.max = null
+            params.offset = null
             response.contentType = ConfigurationHolder.config.grails.mime.types[params.format]
             response.setHeader("Content-disposition", "attachment; filename=${className.toLowerCase()}-list.\${params.extension}")
             exportService.export(params.format, response.outputStream, ${className}.list(params), [:], [:])
