@@ -51,6 +51,7 @@
 	  });
         </script>
 
+
         <!-- End YUI Section -->
 
     </head>
@@ -176,6 +177,7 @@
           </div>
         </div>
         <g:layoutBody />
+	<br clear="all"/>
         <div align="center" style="margin-top: 3em">
           <table border="0" style="border:0px">
             <tr>
@@ -191,7 +193,7 @@
                 policies or opinions of the NSF.<br/>
                 <br/>
                 © 2010 This material is copyright. Please do not cite or publish
-                anything in this database without permission from the authors.</br>
+                anything in this database without permission from the authors.<br/>
                 <br/>
                 For comments, corrections and further information, please contact
                 Claire Bowern (<a href="mailto:claire.bowern@yale.edu">claire.bowern@yale.edu</a>).<br/>
