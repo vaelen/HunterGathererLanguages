@@ -265,3 +265,11 @@ th.desc a {
     background: transparent url(../images/skin/database_save.png) 5px 50% no-repeat;
     padding-left: 28px;
 }
+
+div.disclaimer{
+    margin-top: 3em;
+    clear: both;
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}

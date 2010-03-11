@@ -178,7 +178,7 @@
         </div>
         <g:layoutBody />
 	<br clear="all"/>
-        <div align="center" style="margin-top: 3em">
+        <div class="disclaimer">
           <table border="0" style="border:0px">
             <tr>
               <td valign="middle"><img src="${resource(dir:'images/logos',file:'nsf-100.jpg')}"/></td>
