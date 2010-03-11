@@ -5,3 +5,4 @@ lib/
 target/
 prodDb.*
 nohup.out
+.DS_Store
