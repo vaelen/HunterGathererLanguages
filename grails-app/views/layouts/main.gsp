@@ -144,7 +144,7 @@
                   </div>
                 </li>
                 <n:notUser>
-                  <li class="yuimenubaritem first-of-type"><g:link class="yuimenubaritemlabel" controller="auth" action="login">Login</g:link>
+                  <li class="yuimenubaritem first-of-type"><g:link class="yuimenubaritemlabel" controller="auth" action="login">Login</g:link></li>
                 </n:notUser>
                 <n:user>
                   <li class="yuimenubaritem first-of-type"><a class="yuimenubaritemlabel" href="#account">Account</a>
