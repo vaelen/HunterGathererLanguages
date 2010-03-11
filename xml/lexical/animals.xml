@@ -13539,7 +13539,7 @@ http://www.sil.org/americas/colombia/pubs/abstract.asp?id=40337</field>
       <field name='portugueseHeadword'>piolho</field>
       <field name='spanishHeadword'>piollo, piojo</field>
       <field name='latinHeadword'>order Phtiraptera</field>
-      <field name='semanticField'>FAUNA/FLORA</field>
+      <field name='semanticField'>fauna/flora</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -27318,7 +27318,7 @@ http://www.sil.org/americas/colombia/pubs/abstract.asp?id=40337</field>
       <field name='portugueseHeadword'>aranha</field>
       <field name='spanishHeadword'>araña</field>
       <field name='latinHeadword'></field>
-      <field name='semanticField'>FAUNA/FLORA</field>
+      <field name='semanticField'>fauna/flora</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -28782,7 +28782,7 @@ http://www.sil.org/americas/colombia/pubs/abstract.asp?id=40337</field>
       <field name='portugueseHeadword'>passaro</field>
       <field name='spanishHeadword'>pajaro</field>
       <field name='latinHeadword'></field>
-      <field name='semanticField'>FAUNA/FLORA</field>
+      <field name='semanticField'>fauna/flora</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -28795,7 +28795,7 @@ http://www.sil.org/americas/colombia/pubs/abstract.asp?id=40337</field>
       <field name='portugueseHeadword'>mosquito, carapana</field>
       <field name='spanishHeadword'>mosquito</field>
       <field name='latinHeadword'></field>
-      <field name='semanticField'>FAUNA/FLORA</field>
+      <field name='semanticField'>fauna/flora</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>

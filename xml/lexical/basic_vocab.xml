@@ -6,7 +6,7 @@
       <field name='englishHeadword'>I</field>
       <field name='portugueseHeadword'>eu</field>
       <field name='spanishHeadword'>yo</field>
-      <field name='semanticField'>GRAMMAR</field>
+      <field name='semanticField'>grammar</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -2768,7 +2768,7 @@
       <field name='englishHeadword'>they</field>
       <field name='portugueseHeadword'>eles/elas</field>
       <field name='spanishHeadword'>ellos/ellas</field>
-      <field name='semanticField'>GRAMMAR</field>
+      <field name='semanticField'>grammar</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -3247,7 +3247,7 @@
       <field name='englishHeadword'>one</field>
       <field name='portugueseHeadword'>um</field>
       <field name='spanishHeadword'>uno</field>
-      <field name='semanticField'>NUMBER</field>
+      <field name='semanticField'>number</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -3838,7 +3838,7 @@
       <field name='englishHeadword'>two</field>
       <field name='portugueseHeadword'>dois</field>
       <field name='spanishHeadword'>dos</field>
-      <field name='semanticField'>NUMBER</field>
+      <field name='semanticField'>number</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -4426,7 +4426,7 @@
       <field name='englishHeadword'>three</field>
       <field name='portugueseHeadword'>tres</field>
       <field name='spanishHeadword'>tres</field>
-      <field name='semanticField'>NUMBER</field>
+      <field name='semanticField'>number</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -6575,7 +6575,7 @@
       <field name='englishHeadword'>this</field>
       <field name='portugueseHeadword'>este</field>
       <field name='spanishHeadword'>este/esta</field>
-      <field name='semanticField'>GRAMMAR</field>
+      <field name='semanticField'>grammar</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -7086,7 +7086,7 @@
       <field name='englishHeadword'>that</field>
       <field name='portugueseHeadword'>esse</field>
       <field name='spanishHeadword'>ese/esa</field>
-      <field name='semanticField'>GRAMMAR</field>
+      <field name='semanticField'>grammar</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -8584,7 +8584,7 @@
       <field name='englishHeadword'>big</field>
       <field name='portugueseHeadword'>grande</field>
       <field name='spanishHeadword'>grande</field>
-      <field name='semanticField'>QUALITY</field>
+      <field name='semanticField'>quality</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -9144,7 +9144,7 @@
       <field name='englishHeadword'>small</field>
       <field name='portugueseHeadword'>pequeno</field>
       <field name='spanishHeadword'>pequeño</field>
-      <field name='semanticField'>QUALITY</field>
+      <field name='semanticField'>quality</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -11383,7 +11383,7 @@
       <field name='englishHeadword'>child</field>
       <field name='portugueseHeadword'>criança</field>
       <field name='spanishHeadword'>niño, niña</field>
-      <field name='semanticField'>HUMAN</field>
+      <field name='semanticField'>human</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -13014,7 +13014,7 @@
       <field name='englishHeadword'>leaf</field>
       <field name='portugueseHeadword'>folha</field>
       <field name='spanishHeadword'>hoja</field>
-      <field name='semanticField'>ENVIRONMENT</field>
+      <field name='semanticField'>environment</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -13524,7 +13524,7 @@
       <field name='englishHeadword'>root</field>
       <field name='portugueseHeadword'>raiz</field>
       <field name='spanishHeadword'>raíz</field>
-      <field name='semanticField'>FAUNA/FLORA</field>
+      <field name='semanticField'>fauna/flora</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -14503,7 +14503,7 @@
       <field name='englishHeadword'>skin</field>
       <field name='portugueseHeadword'>pele</field>
       <field name='spanishHeadword'>piel</field>
-      <field name='semanticField'>BODY</field>
+      <field name='semanticField'>body</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -15591,7 +15591,7 @@
       <field name='englishHeadword'>blood</field>
       <field name='portugueseHeadword'>sangue</field>
       <field name='spanishHeadword'>sangre</field>
-      <field name='semanticField'>BODY</field>
+      <field name='semanticField'>body</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -16178,7 +16178,7 @@
       <field name='englishHeadword'>bone</field>
       <field name='portugueseHeadword'>osso</field>
       <field name='spanishHeadword'>hueso</field>
-      <field name='semanticField'>BODY</field>
+      <field name='semanticField'>body</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -17210,7 +17210,7 @@
       <field name='englishHeadword'>egg</field>
       <field name='portugueseHeadword'>ovo</field>
       <field name='spanishHeadword'>huevo</field>
-      <field name='semanticField'>FAUNA/FLORA</field>
+      <field name='semanticField'>fauna/flora</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -17777,7 +17777,7 @@
       <field name='englishHeadword'>tail</field>
       <field name='portugueseHeadword'>rabo</field>
       <field name='spanishHeadword'>cola, rabo</field>
-      <field name='semanticField'>BODY</field>
+      <field name='semanticField'>body</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -18281,7 +18281,7 @@
       <field name='englishHeadword'>feather</field>
       <field name='portugueseHeadword'>pena</field>
       <field name='spanishHeadword'>pluma</field>
-      <field name='semanticField'>FAUNA/FLORA</field>
+      <field name='semanticField'>fauna/flora</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -18743,7 +18743,7 @@
       <field name='englishHeadword'>hair</field>
       <field name='portugueseHeadword'>cabelo</field>
       <field name='spanishHeadword'>cabello, pelo</field>
-      <field name='semanticField'>BODY</field>
+      <field name='semanticField'>body</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -19320,7 +19320,7 @@
       <field name='englishHeadword'>head</field>
       <field name='portugueseHeadword'>cabeça</field>
       <field name='spanishHeadword'>cabeza</field>
-      <field name='semanticField'>BODY</field>
+      <field name='semanticField'>body</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -19894,7 +19894,7 @@
       <field name='englishHeadword'>ear</field>
       <field name='portugueseHeadword'>orelha</field>
       <field name='spanishHeadword'>oreja</field>
-      <field name='semanticField'>BODY</field>
+      <field name='semanticField'>body</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -20468,7 +20468,7 @@
       <field name='englishHeadword'>eye</field>
       <field name='portugueseHeadword'>olho</field>
       <field name='spanishHeadword'>ojo</field>
-      <field name='semanticField'>BODY</field>
+      <field name='semanticField'>body</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -21049,7 +21049,7 @@
       <field name='englishHeadword'>nose</field>
       <field name='portugueseHeadword'>nariz</field>
       <field name='spanishHeadword'>nariz</field>
-      <field name='semanticField'>BODY</field>
+      <field name='semanticField'>body</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -21584,7 +21584,7 @@
       <field name='englishHeadword'>mouth</field>
       <field name='portugueseHeadword'>boca</field>
       <field name='spanishHeadword'>boca</field>
-      <field name='semanticField'>BODY</field>
+      <field name='semanticField'>body</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -22172,7 +22172,7 @@
       <field name='englishHeadword'>tooth</field>
       <field name='portugueseHeadword'>dente</field>
       <field name='spanishHeadword'>diente</field>
-      <field name='semanticField'>BODY</field>
+      <field name='semanticField'>body</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -22760,7 +22760,7 @@
       <field name='englishHeadword'>tongue</field>
       <field name='portugueseHeadword'>lingua</field>
       <field name='spanishHeadword'>lengua</field>
-      <field name='semanticField'>BODY</field>
+      <field name='semanticField'>body</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -23824,7 +23824,7 @@
       <field name='englishHeadword'>foot</field>
       <field name='portugueseHeadword'>pé</field>
       <field name='spanishHeadword'>pie</field>
-      <field name='semanticField'>BODY</field>
+      <field name='semanticField'>body</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -24408,7 +24408,7 @@
       <field name='englishHeadword'>hand</field>
       <field name='portugueseHeadword'>mão</field>
       <field name='spanishHeadword'>mano</field>
-      <field name='semanticField'>BODY</field>
+      <field name='semanticField'>body</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -25024,7 +25024,7 @@
       <field name='englishHeadword'>belly</field>
       <field name='portugueseHeadword'>barriga</field>
       <field name='spanishHeadword'>barriga</field>
-      <field name='semanticField'>BODY</field>
+      <field name='semanticField'>body</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -25472,7 +25472,7 @@
       <field name='englishHeadword'>breast</field>
       <field name='portugueseHeadword'>peito</field>
       <field name='spanishHeadword'>pecho, seno</field>
-      <field name='semanticField'>BODY</field>
+      <field name='semanticField'>body</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -26567,7 +26567,7 @@
       <field name='englishHeadword'>liver</field>
       <field name='portugueseHeadword'>figado</field>
       <field name='spanishHeadword'>hígado</field>
-      <field name='semanticField'>BODY</field>
+      <field name='semanticField'>body</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -27680,7 +27680,7 @@
       <field name='englishHeadword'>eat</field>
       <field name='portugueseHeadword'>comer</field>
       <field name='spanishHeadword'>comer</field>
-      <field name='semanticField'>BODY</field>
+      <field name='semanticField'>body</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -28278,7 +28278,7 @@
       <field name='englishHeadword'>see</field>
       <field name='portugueseHeadword'>ver</field>
       <field name='spanishHeadword'>ver</field>
-      <field name='semanticField'>MENTAL</field>
+      <field name='semanticField'>mental</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -28817,7 +28817,7 @@
       <field name='englishHeadword'>hear</field>
       <field name='portugueseHeadword'>ouvir</field>
       <field name='spanishHeadword'>oír</field>
-      <field name='semanticField'>MENTAL</field>
+      <field name='semanticField'>mental</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -29832,7 +29832,7 @@
       <field name='englishHeadword'>sleep</field>
       <field name='portugueseHeadword'>dormir</field>
       <field name='spanishHeadword'>dormir</field>
-      <field name='semanticField'>BODY</field>
+      <field name='semanticField'>body</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -30952,7 +30952,7 @@
       <field name='englishHeadword'>kill</field>
       <field name='portugueseHeadword'>matar</field>
       <field name='spanishHeadword'>matar</field>
-      <field name='semanticField'>IMPACT</field>
+      <field name='semanticField'>impact</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -31484,7 +31484,7 @@
       <field name='englishHeadword'>swim</field>
       <field name='portugueseHeadword'>nadar</field>
       <field name='spanishHeadword'>nadar</field>
-      <field name='semanticField'>MOTION</field>
+      <field name='semanticField'>motion</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -32016,7 +32016,7 @@
       <field name='englishHeadword'>fly</field>
       <field name='portugueseHeadword'>volar</field>
       <field name='spanishHeadword'>volar</field>
-      <field name='semanticField'>MOTION</field>
+      <field name='semanticField'>motion</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -32516,7 +32516,7 @@
       <field name='englishHeadword'>walk</field>
       <field name='portugueseHeadword'>andar</field>
       <field name='spanishHeadword'>caminar, andar</field>
-      <field name='semanticField'>MOTION</field>
+      <field name='semanticField'>motion</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -35114,7 +35114,7 @@
       <field name='englishHeadword'>moon</field>
       <field name='portugueseHeadword'>lua</field>
       <field name='spanishHeadword'>luna</field>
-      <field name='semanticField'>ENVIRONMENT</field>
+      <field name='semanticField'>environment</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -35667,7 +35667,7 @@
       <field name='englishHeadword'>star</field>
       <field name='portugueseHeadword'>estrela</field>
       <field name='spanishHeadword'>estrella</field>
-      <field name='semanticField'>ENVIRONMENT</field>
+      <field name='semanticField'>environment</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -36192,7 +36192,7 @@
       <field name='englishHeadword'>water</field>
       <field name='portugueseHeadword'>agua</field>
       <field name='spanishHeadword'>agua</field>
-      <field name='semanticField'>ENVIRONMENT</field>
+      <field name='semanticField'>environment</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -36797,7 +36797,7 @@
       <field name='englishHeadword'>stone</field>
       <field name='portugueseHeadword'>pedra</field>
       <field name='spanishHeadword'>piedra</field>
-      <field name='semanticField'>ENVIRONMENT</field>
+      <field name='semanticField'>environment</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -37367,7 +37367,7 @@
       <field name='englishHeadword'>sand</field>
       <field name='portugueseHeadword'>areia</field>
       <field name='spanishHeadword'>arena</field>
-      <field name='semanticField'>ENVIRONMENT</field>
+      <field name='semanticField'>environment</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -39853,7 +39853,7 @@
       <field name='englishHeadword'>fire</field>
       <field name='portugueseHeadword'>fogo</field>
       <field name='spanishHeadword'>fuego</field>
-      <field name='semanticField'>ENVIRONMENT</field>
+      <field name='semanticField'>environment</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -40413,7 +40413,7 @@
       <field name='englishHeadword'>smoke</field>
       <field name='portugueseHeadword'>fumaça</field>
       <field name='spanishHeadword'>humo</field>
-      <field name='semanticField'>ENVIRONMENT</field>
+      <field name='semanticField'>environment</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -41928,7 +41928,7 @@
       <field name='englishHeadword'>night</field>
       <field name='portugueseHeadword'>noite</field>
       <field name='spanishHeadword'>noche</field>
-      <field name='semanticField'>TIME</field>
+      <field name='semanticField'>time</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -42512,7 +42512,7 @@
       <field name='englishHeadword'>day</field>
       <field name='portugueseHeadword'>dia</field>
       <field name='spanishHeadword'>día</field>
-      <field name='semanticField'>TIME</field>
+      <field name='semanticField'>time</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -43079,7 +43079,7 @@
       <field name='englishHeadword'>black</field>
       <field name='portugueseHeadword'>preto</field>
       <field name='spanishHeadword'>negro</field>
-      <field name='semanticField'>COLOUR</field>
+      <field name='semanticField'>colour</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -43607,7 +43607,7 @@
       <field name='englishHeadword'>white</field>
       <field name='portugueseHeadword'>branco</field>
       <field name='spanishHeadword'>blanco</field>
-      <field name='semanticField'>COLOUR</field>
+      <field name='semanticField'>colour</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -44163,7 +44163,7 @@
       <field name='englishHeadword'>red</field>
       <field name='portugueseHeadword'>vermelho</field>
       <field name='spanishHeadword'>rojo</field>
-      <field name='semanticField'>COLOUR</field>
+      <field name='semanticField'>colour</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -45251,7 +45251,7 @@
       <field name='englishHeadword'>yellow</field>
       <field name='portugueseHeadword'>amarelo</field>
       <field name='spanishHeadword'>amarillo</field>
-      <field name='semanticField'>COLOUR</field>
+      <field name='semanticField'>colour</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -46634,7 +46634,7 @@
       <field name='englishHeadword'>cold</field>
       <field name='portugueseHeadword'>frio</field>
       <field name='spanishHeadword'>frío</field>
-      <field name='semanticField'>QUALITY</field>
+      <field name='semanticField'>quality</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -47176,7 +47176,7 @@
       <field name='englishHeadword'>new</field>
       <field name='portugueseHeadword'>novo</field>
       <field name='spanishHeadword'>nuevo</field>
-      <field name='semanticField'>QUALITY</field>
+      <field name='semanticField'>quality</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -47669,7 +47669,7 @@
       <field name='englishHeadword'>old</field>
       <field name='portugueseHeadword'>velho</field>
       <field name='spanishHeadword'>viejo</field>
-      <field name='semanticField'>QUALITY</field>
+      <field name='semanticField'>quality</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -48121,7 +48121,7 @@
       <field name='englishHeadword'>good</field>
       <field name='portugueseHeadword'>bom</field>
       <field name='spanishHeadword'>bueno</field>
-      <field name='semanticField'>QUALITY</field>
+      <field name='semanticField'>quality</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -49108,7 +49108,7 @@
       <field name='englishHeadword'>dry</field>
       <field name='portugueseHeadword'>seco</field>
       <field name='spanishHeadword'>seco</field>
-      <field name='semanticField'>QUALITY</field>
+      <field name='semanticField'>quality</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -49612,7 +49612,7 @@
       <field name='englishHeadword'>wet</field>
       <field name='portugueseHeadword'>molhado</field>
       <field name='spanishHeadword'>mojado</field>
-      <field name='semanticField'>QUALITY</field>
+      <field name='semanticField'>quality</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -50059,7 +50059,7 @@
       <field name='englishHeadword'>name</field>
       <field name='portugueseHeadword'>nome</field>
       <field name='spanishHeadword'>nombre</field>
-      <field name='semanticField'>HUMAN</field>
+      <field name='semanticField'>human</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -50580,7 +50580,7 @@
       <field name='englishHeadword'>above</field>
       <field name='portugueseHeadword'>acima</field>
       <field name='spanishHeadword'>encima</field>
-      <field name='semanticField'>LOCATION</field>
+      <field name='semanticField'>location</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -50598,7 +50598,7 @@
       <field name='englishHeadword'>again</field>
       <field name='portugueseHeadword'>de novo</field>
       <field name='spanishHeadword'>de nuevo</field>
-      <field name='semanticField'>GRAMMAR</field>
+      <field name='semanticField'>grammar</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -50609,7 +50609,7 @@
       <field name='englishHeadword'>all</field>
       <field name='portugueseHeadword'>todos</field>
       <field name='spanishHeadword'>todos</field>
-      <field name='semanticField'>NUMBER</field>
+      <field name='semanticField'>number</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -50620,7 +50620,7 @@
       <field name='englishHeadword'>and</field>
       <field name='portugueseHeadword'>e</field>
       <field name='spanishHeadword'>y</field>
-      <field name='semanticField'>GRAMMAR</field>
+      <field name='semanticField'>grammar</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -50631,7 +50631,7 @@
       <field name='englishHeadword'>ankle</field>
       <field name='portugueseHeadword'>tornozelo</field>
       <field name='spanishHeadword'>tobillo</field>
-      <field name='semanticField'>BODY</field>
+      <field name='semanticField'>body</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -50642,7 +50642,7 @@
       <field name='englishHeadword'>armpit</field>
       <field name='portugueseHeadword'>axila</field>
       <field name='spanishHeadword'>axila</field>
-      <field name='semanticField'>BODY</field>
+      <field name='semanticField'>body</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -50653,7 +50653,7 @@
       <field name='englishHeadword'>ash</field>
       <field name='portugueseHeadword'>cinzas</field>
       <field name='spanishHeadword'>cenizas</field>
-      <field name='semanticField'>ENVIRONMENT</field>
+      <field name='semanticField'>environment</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -50664,7 +50664,7 @@
       <field name='englishHeadword'>at</field>
       <field name='portugueseHeadword'>em, a</field>
       <field name='spanishHeadword'>en, a</field>
-      <field name='semanticField'>LOCATION</field>
+      <field name='semanticField'>location</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -50675,7 +50675,7 @@
       <field name='englishHeadword'>back</field>
       <field name='portugueseHeadword'>costas</field>
       <field name='spanishHeadword'>espalda</field>
-      <field name='semanticField'>BODY</field>
+      <field name='semanticField'>body</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -50686,7 +50686,7 @@
       <field name='englishHeadword'>bad/evil</field>
       <field name='portugueseHeadword'>mal</field>
       <field name='spanishHeadword'>malo</field>
-      <field name='semanticField'>QUALITY</field>
+      <field name='semanticField'>quality</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -50697,7 +50697,7 @@
       <field name='englishHeadword'>below</field>
       <field name='portugueseHeadword'>abaixo</field>
       <field name='spanishHeadword'>abajo</field>
-      <field name='semanticField'>LOCATION</field>
+      <field name='semanticField'>location</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -50708,7 +50708,7 @@
       <field name='englishHeadword'>bite</field>
       <field name='portugueseHeadword'>morder</field>
       <field name='spanishHeadword'>morder</field>
-      <field name='semanticField'>BODY</field>
+      <field name='semanticField'>body</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -50719,7 +50719,7 @@
       <field name='englishHeadword'>blow</field>
       <field name='portugueseHeadword'>soprar</field>
       <field name='spanishHeadword'>soplar</field>
-      <field name='semanticField'>BODY</field>
+      <field name='semanticField'>body</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -50730,7 +50730,7 @@
       <field name='englishHeadword'>boil/pimple</field>
       <field name='portugueseHeadword'>espinha, borbulha</field>
       <field name='spanishHeadword'>espinilla</field>
-      <field name='semanticField'>BODY</field>
+      <field name='semanticField'>body</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -50741,7 +50741,7 @@
       <field name='englishHeadword'>breathe</field>
       <field name='portugueseHeadword'>respirar</field>
       <field name='spanishHeadword'>respirar</field>
-      <field name='semanticField'>BODY</field>
+      <field name='semanticField'>body</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -50752,7 +50752,7 @@
       <field name='englishHeadword'>burn</field>
       <field name='portugueseHeadword'>queimar</field>
       <field name='spanishHeadword'>quemar</field>
-      <field name='semanticField'>ENVIRONMENT</field>
+      <field name='semanticField'>environment</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -50763,7 +50763,7 @@
       <field name='englishHeadword'>chew</field>
       <field name='portugueseHeadword'>masticar</field>
       <field name='spanishHeadword'>masticar</field>
-      <field name='semanticField'>BODY</field>
+      <field name='semanticField'>body</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -50774,7 +50774,7 @@
       <field name='englishHeadword'>climb</field>
       <field name='portugueseHeadword'>subir</field>
       <field name='spanishHeadword'>subir</field>
-      <field name='semanticField'>MOTION</field>
+      <field name='semanticField'>motion</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -50785,7 +50785,7 @@
       <field name='englishHeadword'>come</field>
       <field name='portugueseHeadword'>vir</field>
       <field name='spanishHeadword'>venir</field>
-      <field name='semanticField'>MOTION</field>
+      <field name='semanticField'>motion</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -50796,7 +50796,7 @@
       <field name='englishHeadword'>cook</field>
       <field name='portugueseHeadword'>cozinhar</field>
       <field name='spanishHeadword'>cocinar</field>
-      <field name='semanticField'>IMPACT</field>
+      <field name='semanticField'>impact</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -50807,7 +50807,7 @@
       <field name='englishHeadword'>correct/true</field>
       <field name='portugueseHeadword'>verdade</field>
       <field name='spanishHeadword'>verdad</field>
-      <field name='semanticField'>QUALITY</field>
+      <field name='semanticField'>quality</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -50818,7 +50818,7 @@
       <field name='englishHeadword'>count</field>
       <field name='portugueseHeadword'>contar</field>
       <field name='spanishHeadword'>contar</field>
-      <field name='semanticField'>MENTAL</field>
+      <field name='semanticField'>mental</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -50829,7 +50829,7 @@
       <field name='englishHeadword'>cry</field>
       <field name='portugueseHeadword'>chorar</field>
       <field name='spanishHeadword'>llorar</field>
-      <field name='semanticField'>MENTAL</field>
+      <field name='semanticField'>mental</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -50840,7 +50840,7 @@
       <field name='englishHeadword'>cut/hack</field>
       <field name='portugueseHeadword'>cortar</field>
       <field name='spanishHeadword'>cortar</field>
-      <field name='semanticField'>IMPACT</field>
+      <field name='semanticField'>impact</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -50851,7 +50851,7 @@
       <field name='englishHeadword'>dig</field>
       <field name='portugueseHeadword'>cavar</field>
       <field name='spanishHeadword'>cavar</field>
-      <field name='semanticField'>IMPACT</field>
+      <field name='semanticField'>impact</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -50862,7 +50862,7 @@
       <field name='englishHeadword'>dirty</field>
       <field name='portugueseHeadword'>sujo</field>
       <field name='spanishHeadword'>sucio</field>
-      <field name='semanticField'>QUALITY</field>
+      <field name='semanticField'>quality</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -50873,7 +50873,7 @@
       <field name='englishHeadword'>dream</field>
       <field name='portugueseHeadword'>sonhar</field>
       <field name='spanishHeadword'>soñar</field>
-      <field name='semanticField'>MENTAL</field>
+      <field name='semanticField'>mental</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -50884,7 +50884,7 @@
       <field name='englishHeadword'>dull/blunt</field>
       <field name='portugueseHeadword'>maçante</field>
       <field name='spanishHeadword'>sin filo</field>
-      <field name='semanticField'>QUALITY</field>
+      <field name='semanticField'>quality</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -50895,7 +50895,7 @@
       <field name='englishHeadword'>dust</field>
       <field name='portugueseHeadword'>poeira</field>
       <field name='spanishHeadword'>polvo</field>
-      <field name='semanticField'>ENVIRONMENT</field>
+      <field name='semanticField'>environment</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -50906,7 +50906,7 @@
       <field name='englishHeadword'>earth/soil</field>
       <field name='portugueseHeadword'>terra</field>
       <field name='spanishHeadword'>tierra</field>
-      <field name='semanticField'>ENVIRONMENT</field>
+      <field name='semanticField'>environment</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -50917,7 +50917,7 @@
       <field name='englishHeadword'>faeces</field>
       <field name='portugueseHeadword'>fezes</field>
       <field name='spanishHeadword'>heces</field>
-      <field name='semanticField'>BODY</field>
+      <field name='semanticField'>body</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -50928,7 +50928,7 @@
       <field name='englishHeadword'>fall</field>
       <field name='portugueseHeadword'>cair</field>
       <field name='spanishHeadword'>caer</field>
-      <field name='semanticField'>MOTION</field>
+      <field name='semanticField'>motion</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -50939,7 +50939,7 @@
       <field name='englishHeadword'>far</field>
       <field name='portugueseHeadword'>longe</field>
       <field name='spanishHeadword'>lejos</field>
-      <field name='semanticField'>QUALITY</field>
+      <field name='semanticField'>quality</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -50950,7 +50950,7 @@
       <field name='englishHeadword'>fat/grease</field>
       <field name='portugueseHeadword'>gordura</field>
       <field name='spanishHeadword'>gordura</field>
-      <field name='semanticField'>BODY</field>
+      <field name='semanticField'>body</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -50961,7 +50961,7 @@
       <field name='englishHeadword'>fear</field>
       <field name='portugueseHeadword'>medo</field>
       <field name='spanishHeadword'>miedo</field>
-      <field name='semanticField'>MENTAL</field>
+      <field name='semanticField'>mental</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -50972,7 +50972,7 @@
       <field name='englishHeadword'>flow</field>
       <field name='portugueseHeadword'>fluir</field>
       <field name='spanishHeadword'>fluir</field>
-      <field name='semanticField'>MOTION</field>
+      <field name='semanticField'>motion</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -50983,7 +50983,7 @@
       <field name='englishHeadword'>flower</field>
       <field name='portugueseHeadword'>flor</field>
       <field name='spanishHeadword'>flor</field>
-      <field name='semanticField'>ENVIRONMENT</field>
+      <field name='semanticField'>environment</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -50994,7 +50994,7 @@
       <field name='englishHeadword'>fly</field>
       <field name='portugueseHeadword'>voar</field>
       <field name='spanishHeadword'>volar</field>
-      <field name='semanticField'>MOTION</field>
+      <field name='semanticField'>motion</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51005,7 +51005,7 @@
       <field name='englishHeadword'>fog</field>
       <field name='portugueseHeadword'>nevoeira, bruma</field>
       <field name='spanishHeadword'>niebla</field>
-      <field name='semanticField'>ENVIRONMENT</field>
+      <field name='semanticField'>environment</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51016,7 +51016,7 @@
       <field name='englishHeadword'>fruit</field>
       <field name='portugueseHeadword'>fruta</field>
       <field name='spanishHeadword'>fruta</field>
-      <field name='semanticField'>FAUNA/FLORA</field>
+      <field name='semanticField'>fauna/flora</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51027,7 +51027,7 @@
       <field name='englishHeadword'>grow</field>
       <field name='portugueseHeadword'>crescer</field>
       <field name='spanishHeadword'>crecer</field>
-      <field name='semanticField'>STATE</field>
+      <field name='semanticField'>state</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51038,7 +51038,7 @@
       <field name='englishHeadword'>heavy</field>
       <field name='portugueseHeadword'>pesado</field>
       <field name='spanishHeadword'>pesado</field>
-      <field name='semanticField'>QUALITY</field>
+      <field name='semanticField'>quality</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51049,7 +51049,7 @@
       <field name='englishHeadword'>hide</field>
       <field name='portugueseHeadword'>esconder</field>
       <field name='spanishHeadword'>esconder</field>
-      <field name='semanticField'>MOTION</field>
+      <field name='semanticField'>motion</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51060,7 +51060,7 @@
       <field name='englishHeadword'>hit</field>
       <field name='portugueseHeadword'>bater</field>
       <field name='spanishHeadword'>golpear</field>
-      <field name='semanticField'>IMPACT</field>
+      <field name='semanticField'>impact</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51071,7 +51071,7 @@
       <field name='englishHeadword'>hold</field>
       <field name='portugueseHeadword'>ter</field>
       <field name='spanishHeadword'>tener</field>
-      <field name='semanticField'>OTHER</field>
+      <field name='semanticField'>other</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51082,7 +51082,7 @@
       <field name='englishHeadword'>how?</field>
       <field name='portugueseHeadword'>como</field>
       <field name='spanishHeadword'>como</field>
-      <field name='semanticField'>GRAMMAR</field>
+      <field name='semanticField'>grammar</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51093,7 +51093,7 @@
       <field name='englishHeadword'>if</field>
       <field name='portugueseHeadword'>si</field>
       <field name='spanishHeadword'>si</field>
-      <field name='semanticField'>GRAMMAR</field>
+      <field name='semanticField'>grammar</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51104,7 +51104,7 @@
       <field name='englishHeadword'>in/inside</field>
       <field name='portugueseHeadword'>dentro</field>
       <field name='spanishHeadword'>dentro</field>
-      <field name='semanticField'>LOCATION</field>
+      <field name='semanticField'>location</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51115,7 +51115,7 @@
       <field name='englishHeadword'>intestines</field>
       <field name='portugueseHeadword'>intestinos</field>
       <field name='spanishHeadword'>intestinos</field>
-      <field name='semanticField'>BODY</field>
+      <field name='semanticField'>body</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51126,7 +51126,7 @@
       <field name='englishHeadword'>itch</field>
       <field name='portugueseHeadword'>coçar</field>
       <field name='spanishHeadword'>hormiguear, sentir comezón</field>
-      <field name='semanticField'>BODY</field>
+      <field name='semanticField'>body</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51137,7 +51137,7 @@
       <field name='englishHeadword'>lake</field>
       <field name='portugueseHeadword'>lago</field>
       <field name='spanishHeadword'>lago</field>
-      <field name='semanticField'>ENVIRONMENT</field>
+      <field name='semanticField'>environment</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51148,7 +51148,7 @@
       <field name='englishHeadword'>laugh</field>
       <field name='portugueseHeadword'>rir</field>
       <field name='spanishHeadword'>reír</field>
-      <field name='semanticField'>MENTAL</field>
+      <field name='semanticField'>mental</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51159,7 +51159,7 @@
       <field name='englishHeadword'>left</field>
       <field name='portugueseHeadword'>esquerdo</field>
       <field name='spanishHeadword'>izquierdo</field>
-      <field name='semanticField'>LOCATION</field>
+      <field name='semanticField'>location</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51181,7 +51181,7 @@
       <field name='englishHeadword'>lie down</field>
       <field name='portugueseHeadword'>deitar</field>
       <field name='spanishHeadword'>acostarse</field>
-      <field name='semanticField'>MOTION</field>
+      <field name='semanticField'>motion</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51192,7 +51192,7 @@
       <field name='englishHeadword'>lightning</field>
       <field name='portugueseHeadword'>relampago</field>
       <field name='spanishHeadword'>rayo</field>
-      <field name='semanticField'>ENVIRONMENT</field>
+      <field name='semanticField'>environment</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51214,7 +51214,7 @@
       <field name='englishHeadword'>long</field>
       <field name='portugueseHeadword'>comprido, longo</field>
       <field name='spanishHeadword'>largo</field>
-      <field name='semanticField'>QUALITY</field>
+      <field name='semanticField'>quality</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51225,7 +51225,7 @@
       <field name='englishHeadword'>lung</field>
       <field name='portugueseHeadword'>pulmão</field>
       <field name='spanishHeadword'>pulmón</field>
-      <field name='semanticField'>BODY</field>
+      <field name='semanticField'>body</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51236,7 +51236,7 @@
       <field name='englishHeadword'>meat/flesh</field>
       <field name='portugueseHeadword'>carne</field>
       <field name='spanishHeadword'>carne</field>
-      <field name='semanticField'>FAUNA/FLORA</field>
+      <field name='semanticField'>fauna/flora</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51258,7 +51258,7 @@
       <field name='englishHeadword'>near/close</field>
       <field name='portugueseHeadword'>perto</field>
       <field name='spanishHeadword'>cerca de</field>
-      <field name='semanticField'>QUALITY</field>
+      <field name='semanticField'>quality</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51269,7 +51269,7 @@
       <field name='englishHeadword'>neck</field>
       <field name='portugueseHeadword'>pescoço</field>
       <field name='spanishHeadword'>cuello</field>
-      <field name='semanticField'>BODY</field>
+      <field name='semanticField'>body</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51280,7 +51280,7 @@
       <field name='englishHeadword'>no/not</field>
       <field name='portugueseHeadword'>não</field>
       <field name='spanishHeadword'>no</field>
-      <field name='semanticField'>GRAMMAR</field>
+      <field name='semanticField'>grammar</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51291,7 +51291,7 @@
       <field name='englishHeadword'>open/uncover</field>
       <field name='portugueseHeadword'>aberto</field>
       <field name='spanishHeadword'>abierto</field>
-      <field name='semanticField'>OTHER</field>
+      <field name='semanticField'>other</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51302,7 +51302,7 @@
       <field name='englishHeadword'>other</field>
       <field name='portugueseHeadword'>outro</field>
       <field name='spanishHeadword'>otro</field>
-      <field name='semanticField'>GRAMMAR</field>
+      <field name='semanticField'>grammar</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51313,7 +51313,7 @@
       <field name='englishHeadword'>painful/sick</field>
       <field name='portugueseHeadword'>doloroso, doente</field>
       <field name='spanishHeadword'>doloroso, enfermo</field>
-      <field name='semanticField'>BODY</field>
+      <field name='semanticField'>body</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51324,7 +51324,7 @@
       <field name='englishHeadword'>pound/beat</field>
       <field name='portugueseHeadword'>bater</field>
       <field name='spanishHeadword'>batir</field>
-      <field name='semanticField'>IMPACT</field>
+      <field name='semanticField'>impact</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51335,7 +51335,7 @@
       <field name='englishHeadword'>rain</field>
       <field name='portugueseHeadword'>chuva</field>
       <field name='spanishHeadword'>lluvia</field>
-      <field name='semanticField'>ENVIRONMENT</field>
+      <field name='semanticField'>environment</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51357,7 +51357,7 @@
       <field name='englishHeadword'>rope</field>
       <field name='portugueseHeadword'>corda</field>
       <field name='spanishHeadword'>cuerda</field>
-      <field name='semanticField'>MANUFACTURE</field>
+      <field name='semanticField'>manufacture</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51368,7 +51368,7 @@
       <field name='englishHeadword'>rotten</field>
       <field name='portugueseHeadword'>podre</field>
       <field name='spanishHeadword'>podrido</field>
-      <field name='semanticField'>QUALITY</field>
+      <field name='semanticField'>quality</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51379,7 +51379,7 @@
       <field name='englishHeadword'>scratch</field>
       <field name='portugueseHeadword'>rasgar</field>
       <field name='spanishHeadword'>rascar</field>
-      <field name='semanticField'>IMPACT</field>
+      <field name='semanticField'>impact</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51390,7 +51390,7 @@
       <field name='englishHeadword'>sharp</field>
       <field name='portugueseHeadword'>afiado</field>
       <field name='spanishHeadword'>afilado</field>
-      <field name='semanticField'>QUALITY</field>
+      <field name='semanticField'>quality</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51401,7 +51401,7 @@
       <field name='englishHeadword'>shoot</field>
       <field name='portugueseHeadword'>atirar</field>
       <field name='spanishHeadword'>disparar</field>
-      <field name='semanticField'>IMPACT</field>
+      <field name='semanticField'>impact</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51412,7 +51412,7 @@
       <field name='englishHeadword'>short</field>
       <field name='portugueseHeadword'>curto</field>
       <field name='spanishHeadword'>corto</field>
-      <field name='semanticField'>QUALITY</field>
+      <field name='semanticField'>quality</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51423,7 +51423,7 @@
       <field name='englishHeadword'>shoulder</field>
       <field name='portugueseHeadword'>ombro</field>
       <field name='spanishHeadword'>espalda</field>
-      <field name='semanticField'>BODY</field>
+      <field name='semanticField'>body</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51434,7 +51434,7 @@
       <field name='englishHeadword'>shy/ashamed</field>
       <field name='portugueseHeadword'>timido</field>
       <field name='spanishHeadword'>tímido</field>
-      <field name='semanticField'>MENTAL</field>
+      <field name='semanticField'>mental</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51445,7 +51445,7 @@
       <field name='englishHeadword'>sit</field>
       <field name='portugueseHeadword'>sentar</field>
       <field name='spanishHeadword'>sentar</field>
-      <field name='semanticField'>STATE</field>
+      <field name='semanticField'>state</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51456,7 +51456,7 @@
       <field name='englishHeadword'>sky</field>
       <field name='portugueseHeadword'>celo</field>
       <field name='spanishHeadword'>cielo</field>
-      <field name='semanticField'>ENVIRONMENT</field>
+      <field name='semanticField'>environment</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51467,7 +51467,7 @@
       <field name='englishHeadword'>sniff/smell</field>
       <field name='portugueseHeadword'>cheirar</field>
       <field name='spanishHeadword'>olor</field>
-      <field name='semanticField'>BODY</field>
+      <field name='semanticField'>body</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51478,7 +51478,7 @@
       <field name='englishHeadword'>spit</field>
       <field name='portugueseHeadword'>cuspir</field>
       <field name='spanishHeadword'>escupir</field>
-      <field name='semanticField'>BODY</field>
+      <field name='semanticField'>body</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51489,7 +51489,7 @@
       <field name='englishHeadword'>split</field>
       <field name='portugueseHeadword'>rachar, dividir</field>
       <field name='spanishHeadword'>partir</field>
-      <field name='semanticField'>IMPACT</field>
+      <field name='semanticField'>impact</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51500,7 +51500,7 @@
       <field name='englishHeadword'>squeeze</field>
       <field name='portugueseHeadword'>exprimir</field>
       <field name='spanishHeadword'>estrujar, exprimir</field>
-      <field name='semanticField'>IMPACT</field>
+      <field name='semanticField'>impact</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51511,7 +51511,7 @@
       <field name='englishHeadword'>stab/pierce</field>
       <field name='portugueseHeadword'>apunhalar</field>
       <field name='spanishHeadword'>apuñalar</field>
-      <field name='semanticField'>IMPACT</field>
+      <field name='semanticField'>impact</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51522,7 +51522,7 @@
       <field name='englishHeadword'>stand</field>
       <field name='portugueseHeadword'>ficar em pé</field>
       <field name='spanishHeadword'>estar de pié</field>
-      <field name='semanticField'>STATE</field>
+      <field name='semanticField'>state</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51533,7 +51533,7 @@
       <field name='englishHeadword'>steal</field>
       <field name='portugueseHeadword'>roubar</field>
       <field name='spanishHeadword'>robar</field>
-      <field name='semanticField'>OTHER</field>
+      <field name='semanticField'>other</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51544,7 +51544,7 @@
       <field name='englishHeadword'>stick/wood</field>
       <field name='portugueseHeadword'>pau, vara</field>
       <field name='spanishHeadword'>palo</field>
-      <field name='semanticField'>ENVIRONMENT</field>
+      <field name='semanticField'>environment</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51555,7 +51555,7 @@
       <field name='englishHeadword'>suck</field>
       <field name='portugueseHeadword'>chupar</field>
       <field name='spanishHeadword'>chupar</field>
-      <field name='semanticField'>BODY</field>
+      <field name='semanticField'>body</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51566,7 +51566,7 @@
       <field name='englishHeadword'>sweat</field>
       <field name='portugueseHeadword'>suor</field>
       <field name='spanishHeadword'>sudar</field>
-      <field name='semanticField'>BODY</field>
+      <field name='semanticField'>body</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51577,7 +51577,7 @@
       <field name='englishHeadword'>swell</field>
       <field name='portugueseHeadword'>inchar</field>
       <field name='spanishHeadword'>crecer, engordar</field>
-      <field name='semanticField'>BODY</field>
+      <field name='semanticField'>body</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51588,7 +51588,7 @@
       <field name='englishHeadword'>thick</field>
       <field name='portugueseHeadword'>grosso</field>
       <field name='spanishHeadword'>denso</field>
-      <field name='semanticField'>QUALITY</field>
+      <field name='semanticField'>quality</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51599,7 +51599,7 @@
       <field name='englishHeadword'>thin</field>
       <field name='portugueseHeadword'>fino</field>
       <field name='spanishHeadword'>delgado</field>
-      <field name='semanticField'>QUALITY</field>
+      <field name='semanticField'>quality</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51610,7 +51610,7 @@
       <field name='englishHeadword'>think</field>
       <field name='portugueseHeadword'>pensar</field>
       <field name='spanishHeadword'>piensar</field>
-      <field name='semanticField'>MENTAL</field>
+      <field name='semanticField'>mental</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51621,7 +51621,7 @@
       <field name='englishHeadword'>throat</field>
       <field name='portugueseHeadword'>garganta</field>
       <field name='spanishHeadword'>garganta</field>
-      <field name='semanticField'>BODY</field>
+      <field name='semanticField'>body</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51632,7 +51632,7 @@
       <field name='englishHeadword'>throw</field>
       <field name='portugueseHeadword'>tirar</field>
       <field name='spanishHeadword'>tirar</field>
-      <field name='semanticField'>IMPACT</field>
+      <field name='semanticField'>impact</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51643,7 +51643,7 @@
       <field name='englishHeadword'>thunder</field>
       <field name='portugueseHeadword'>trovão</field>
       <field name='spanishHeadword'>truenos</field>
-      <field name='semanticField'>ENVIRONMENT</field>
+      <field name='semanticField'>environment</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51654,7 +51654,7 @@
       <field name='englishHeadword'>tie up/fasten</field>
       <field name='portugueseHeadword'>amarrar</field>
       <field name='spanishHeadword'>atar</field>
-      <field name='semanticField'>IMPACT</field>
+      <field name='semanticField'>impact</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51665,7 +51665,7 @@
       <field name='englishHeadword'>turn</field>
       <field name='portugueseHeadword'>virar</field>
       <field name='spanishHeadword'>revolver, torcer</field>
-      <field name='semanticField'>OTHER</field>
+      <field name='semanticField'>other</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51676,7 +51676,7 @@
       <field name='englishHeadword'>vomit</field>
       <field name='portugueseHeadword'>vomitar</field>
       <field name='spanishHeadword'>vomitar</field>
-      <field name='semanticField'>BODY</field>
+      <field name='semanticField'>body</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51687,7 +51687,7 @@
       <field name='englishHeadword'>when?</field>
       <field name='portugueseHeadword'>quando</field>
       <field name='spanishHeadword'>quando</field>
-      <field name='semanticField'>GRAMMAR</field>
+      <field name='semanticField'>grammar</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51698,7 +51698,7 @@
       <field name='englishHeadword'>where?</field>
       <field name='portugueseHeadword'>onde</field>
       <field name='spanishHeadword'>donde</field>
-      <field name='semanticField'>GRAMMAR</field>
+      <field name='semanticField'>grammar</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51709,7 +51709,7 @@
       <field name='englishHeadword'>wind</field>
       <field name='portugueseHeadword'>vento</field>
       <field name='spanishHeadword'>viento</field>
-      <field name='semanticField'>ENVIRONMENT</field>
+      <field name='semanticField'>environment</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51720,7 +51720,7 @@
       <field name='englishHeadword'>wing</field>
       <field name='portugueseHeadword'>asa</field>
       <field name='spanishHeadword'>ala</field>
-      <field name='semanticField'>BODY</field>
+      <field name='semanticField'>body</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51731,7 +51731,7 @@
       <field name='englishHeadword'>winnow</field>
       <field name='portugueseHeadword'>cirandar</field>
       <field name='spanishHeadword'>aventar</field>
-      <field name='semanticField'>MANUFACTURE</field>
+      <field name='semanticField'>manufacture</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51742,7 +51742,7 @@
       <field name='englishHeadword'>work</field>
       <field name='portugueseHeadword'>trabalhar</field>
       <field name='spanishHeadword'>trabajar</field>
-      <field name='semanticField'>OTHER</field>
+      <field name='semanticField'>other</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>
@@ -51753,7 +51753,7 @@
       <field name='englishHeadword'>yawn</field>
       <field name='portugueseHeadword'>bocejar</field>
       <field name='spanishHeadword'>bostezar</field>
-      <field name='semanticField'>BODY</field>
+      <field name='semanticField'>body</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>

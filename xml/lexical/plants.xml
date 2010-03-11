@@ -15386,7 +15386,7 @@ La Rotta, Constanza. Especies utilizadas por la comunidad mirana.
       <field name='portugueseHeadword'>capim, grama</field>
       <field name='spanishHeadword'>hierba</field>
       <field name='latinHeadword'></field>
-      <field name='semanticField'>ENVIRONMENT</field>
+      <field name='semanticField'>environment</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>

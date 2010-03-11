@@ -61,19 +61,19 @@ class LexicalFeatureController {
                 ilike('latinHeadword', filters['latinHeadword'].replaceAll(/\*/, '%'))
             }
             if(filters['semanticField']) {
-                idEq('semanticField', filters['semanticField'])
+                eq('semanticField.id', filters['semanticField'].toLong())
             }
             if(filters['caseStudyRegion']) {
-                idEq('caseStudyRegion', filters['caseStudyRegion'])
+                eq('caseStudyRegion.id', filters['caseStudyRegion'].toLong())
             }
             if(filters['category']) {
-                idEq('category', filters['category'])
+                eq('category.id', filters['category'].toLong())
             }
             if(filters['partOfSpeech']) {
-                idEq('partOfSpeech', filters['partOfSpeech'])
+                eq('partOfSpeech.id', filters['partOfSpeech'].toLong())
             }
             if(filters['exportSet']) {
-                idEq('exportSet', filters['exportSet'])
+                eq('exportSet.id', filters['exportSet'].toLong())
             }
         }
         return results

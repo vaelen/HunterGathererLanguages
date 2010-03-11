@@ -5193,7 +5193,7 @@ usually manioc
       <field name='englishHeadword'>spear</field>
       <field name='portugueseHeadword'>lança</field>
       <field name='spanishHeadword'>lanza</field>
-      <field name='semanticField'>MANUFACTURE</field>
+      <field name='semanticField'>manufacture</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -8693,7 +8693,7 @@ Relevant terms might be for food bundle itself, or verb related to process of co
       <field name='englishHeadword'>digging stick</field>
       <field name='portugueseHeadword'></field>
       <field name='spanishHeadword'></field>
-      <field name='semanticField'>MANUFACTURE</field>
+      <field name='semanticField'>manufacture</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
   </feature>

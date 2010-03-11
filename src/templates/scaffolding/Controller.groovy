@@ -57,20 +57,27 @@ import org.codehaus.groovy.grails.web.util.WebUtils
      * Input: params, filters:[ key:value, key2:value2, ... ]
      */
     def doFilter = { params, filters ->
-        return ${className}.list(params)
+        def c = ${className}.createCriteria()
+        def results = c.list(params) {}
+        return results
     }
 
     // This method takes params and concatenates them together into a filter string.
     def filter = {
         // Remove the submit button
         def newParams = [:]
-        params.each { key, value -> 
+        params.each { key, value ->
             if(value && !(key in(['_submit', 'action', 'controller']))) {
                 newParams[key] = value
             }
         }
         def filterString = WebUtils.toQueryString(newParams)
-        redirect (view: list, params: [filter:filterString])
+        if(filterString.length() > 1) {
+            filterString = filterString[1..(filterString.length()-1)]
+            redirect (view: list, params: [filter:filterString])
+        } else {
+            redirect (view: list)
+        }
     }
 
     // This method takes a filter string and produces a list of params
@@ -99,11 +106,27 @@ import org.codehaus.groovy.grails.web.util.WebUtils
             response.contentType = ConfigurationHolder.config.grails.mime.types[params.format]
             response.setHeader("Content-disposition", "attachment; filename=${className.toLowerCase()}-list.\${params.extension}")
             exportService.export(params.format, response.outputStream, doFilter(params, filters), [:], [:])
+        } else {
+
+            def values = doFilter(params, filters)
+
+            def size = 0
+            if (values.metaClass.hasProperty(values, 'totalCount')) {
+                size = values.totalCount
+            } else if (values.metaClass.respondsTo(values, 'totalCount')) {
+                size = values.totalCount()
+            } else if (values.metaClass.hasProperty(values, 'count')) {
+                size = values.count
+            } else if (values.metaClass.respondsTo(values, 'count')) {
+                size = values.count()
+            } else if (values.metaClass.hasProperty(values, 'size')) {
+                size = values.size
+            } else if (values.metaClass.respondsTo(values, 'size')) {
+                size = values.size()
+            }
+
+            return [${propertyName}List: values, ${propertyName}Total: size, filterList: filterList, filter: params.filter, filters:filters]
         }
-
-        def values = doFilter(params, filters)
-
-        return [${propertyName}List: values, ${propertyName}Total: values.size(), filterList: filterList, filter: params.filter, filters:filters]
     }
 
     def create = {

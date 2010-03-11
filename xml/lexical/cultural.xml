@@ -6482,7 +6482,7 @@
       <field name='englishHeadword'>house</field>
       <field name='portugueseHeadword'>casa</field>
       <field name='spanishHeadword'>casa</field>
-      <field name='semanticField'>MANUFACTURE</field>
+      <field name='semanticField'>manufacture</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>

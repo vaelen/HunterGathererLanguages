@@ -5,7 +5,7 @@
       <field name='englishHeadword'>mother</field>
       <field name='portugueseHeadword'>mãe</field>
       <field name='spanishHeadword'>madre, mamá</field>
-      <field name='semanticField'>KINSHIP</field>
+      <field name='semanticField'>kinship</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -497,7 +497,7 @@
       <field name='englishHeadword'>father</field>
       <field name='portugueseHeadword'>pai</field>
       <field name='spanishHeadword'>padre, papá</field>
-      <field name='semanticField'>KINSHIP</field>
+      <field name='semanticField'>kinship</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
@@ -10521,7 +10521,7 @@
       <field name='englishHeadword'>wife</field>
       <field name='portugueseHeadword'>esposa</field>
       <field name='spanishHeadword'>esposa</field>
-      <field name='semanticField'>KINSHIP</field>
+      <field name='semanticField'>kinship</field>
       <field name='category'>Basic Vocabulary</field>
     </meta>
     <data>
