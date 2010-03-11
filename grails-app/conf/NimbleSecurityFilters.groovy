@@ -63,7 +63,8 @@ public class NimbleSecurityFilters extends intient.nimble.security.NimbleFilterB
                 }
             }
         }
-
+        
+        // Contributor level of access
         caseStudyRegionEditing(controller: "caseStudyRegion", action: "(create|edit|save|update|delete)") { 
             before = { 
                 accessControl { 
