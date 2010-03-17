@@ -4,9 +4,9 @@
         <meta name="layout" content="main" />
     </head>
     <body>
-        <h1 style="margin-left:20px;">Welcome to the Hunter Gatherer Languages Database.</h1>
-        <p style="margin-left:20px;width:80%">Please use the navigation menu
-        above to view the available data.</p>
-
+        <div class="body">
+            <h1>Welcome to the Hunter Gatherer Languages Database.</h1>
+            <p>Please use the navigation menu above to view the available data.</p>
+        </div>
     </body>
 </html>

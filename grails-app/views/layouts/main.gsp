@@ -177,7 +177,7 @@
           </div>
         </div>
         <g:layoutBody />
-	<br clear="all"/>
+    <br clear="all"/>
         <div class="disclaimer">
           <table border="0" style="border:0px">
             <tr>
