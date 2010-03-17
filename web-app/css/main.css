@@ -16,6 +16,9 @@ body {
     color: #333;
     font: 11px verdana, arial, helvetica, sans-serif;
 }
+div.body{
+    margin-left: 20px;
+}
 
 a:link, a:visited, a:hover {
     color: #666;
