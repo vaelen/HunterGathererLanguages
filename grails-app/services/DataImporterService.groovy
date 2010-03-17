@@ -44,7 +44,7 @@ class DataImporterService {
 
         def logOutput = { line ->
             println line
-            output.println line
+            outputBuffer.println line
             output.flush()
         }
 
@@ -87,14 +87,14 @@ class DataImporterService {
 
                     def data = [:]
                     d.field.each { f ->
-                       println "Name: ${f.'@name'}, Value: ${f.value}"
+                       // println "Name: ${f.'@name'}, Value: ${f.value}"
                        data[f.'@name'] = getValueFromXMLElement(f)
                     }
 
                     def language = createSourceLanguage(data['languageFamily'], data['language'], caseStudyRegion, languageCache, logOutput)
 
                     if(language) {
-
+                        
                         def lexicalData = LexicalData.findByLexicalFeatureAndSourceLanguage(lexicalFeature, language)
 
                         if(!lexicalData) {
@@ -109,33 +109,50 @@ class DataImporterService {
                                 'grammaticalNotes': '',
                                 'generalNotes': ''
                             )
+                            
                             if(data['originalForm']) {
                                 lexicalData.originalForm = data['originalForm']
                             } else {
                                 lexicalData.originalForm = data['phonemicizedForm']
                             }
+                            
                             if(data['phonemicizedForm']) {
                                 lexicalData.phonemicizedForm = data['phonemicizedForm']
                             } else {
                                 lexicalData.phonemicizedForm = data['originalForm']
                             }
-                            lexicalData.lexicalFeature = lexicalFeature
-                            lexicalData.sourceLanguage = language
+                            
+                            if (lexicalData.originalForm){
+                                for (item in lexicalData.originalForm.tokenize(';')){
+                                    
+                                    if (item.size() > 255){
+                                        logOutput("Error: Original Form: ${item} is too big to save in the database field for originalForm")
+                                    }
+                                    else{
+                                        lexicalData.originalForm = item
+                                        lexicalData.lexicalFeature = lexicalFeature
+                                        lexicalData.sourceLanguage = language
 
-                            for(s in data['source'].tokenize(';')) {
-                                def source = createSource(s, language, sourceCache, logOutput)
-                                if(source) {
-                                    lexicalData.addToSources(source)
-                                }
-                            }
+                                        if (data['source']){
+                                            // create sources
+                                            for(s in data['source'].tokenize(';')) {
+                                                def source = createSource(s, language, sourceCache, logOutput)
+                                                if(source) {
+                                                    lexicalData.addToSources(source)
+                                                }
+                                            }
+                                        }
 
-                            if(!lexicalData.save(flush:true)) {
-                                lexicalData.errors.each { error ->
-                                    logOutput("Error Saving Lexical Data: ${error}")
-                                }
-                                lexicalData = null
-                            } else {
-                                logOutput("Created Lexical Data: ${lexicalData}")
+                                        if(!lexicalData.save(flush:true)) {
+                                            lexicalData.errors.each { error ->
+                                                logOutput("Error Saving Lexical Data: ${error}")
+                                            }
+                                            lexicalData = null
+                                        } else {
+                                            logOutput("Created Lexical Data: ${lexicalData}")
+                                        }
+                                    }
+                                } // end for(item in lexicalData...)
                             }
                         }
                     }
@@ -152,11 +169,6 @@ class DataImporterService {
 
     def createSource(title, sourceLanguage, sourceCache, logOutput) {
         def source = null
-        println title
-        //publisherDetails
-        
-        
-        
         if(title) {
             source = sourceCache[title]
             if(!source) {
