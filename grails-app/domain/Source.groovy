@@ -17,7 +17,7 @@ class Source {
     User updatedBy
 
     static constraints = {
-        title(blank:false)
+        title(blank:false, maxSize:255)
         sourceLanguage(blank:false, )
         dateOfPublication(blank:false)
         author(blank:false)
