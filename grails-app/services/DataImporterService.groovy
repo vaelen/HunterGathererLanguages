@@ -87,7 +87,7 @@ class DataImporterService {
 
                     def data = [:]
                     d.field.each { f ->
-//                       println "Name: ${f.'@name'}, Value: ${f.value}"
+                       println "Name: ${f.'@name'}, Value: ${f.value}"
                        data[f.'@name'] = getValueFromXMLElement(f)
                     }
 
@@ -122,9 +122,11 @@ class DataImporterService {
                             lexicalData.lexicalFeature = lexicalFeature
                             lexicalData.sourceLanguage = language
 
-                            def source = createSource(data['source'], language, sourceCache, logOutput)
-                            if(source) {
-                                lexicalData.addToSources(source)
+                            for(s in data['source'].tokenize(';')) {
+                                def source = createSource(s, language, sourceCache, logOutput)
+                                if(source) {
+                                    lexicalData.addToSources(source)
+                                }
                             }
 
                             if(!lexicalData.save(flush:true)) {
@@ -150,6 +152,11 @@ class DataImporterService {
 
     def createSource(title, sourceLanguage, sourceCache, logOutput) {
         def source = null
+        println title
+        //publisherDetails
+        
+        
+        
         if(title) {
             source = sourceCache[title]
             if(!source) {
@@ -183,7 +190,7 @@ class DataImporterService {
     }
 
     def createSourceLanguage(languageFamilyName, languageName, caseStudyRegion, languageCache, logOutput) {
-//        println "createSourceLanguage(languageFamilyName: ${languageFamilyName}, languageName: ${languageName}, caseStudyRegion: ${caseStudyRegion})"
+        //println "createSourceLanguage(languageFamilyName: ${languageFamilyName}, languageName: ${languageName}, caseStudyRegion: ${caseStudyRegion})"
         if(!languageFamilyName) {
             languageFamilyName = 'UNKNOWN'
         }
