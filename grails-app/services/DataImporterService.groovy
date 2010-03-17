@@ -43,9 +43,10 @@ class DataImporterService {
         def output = new PrintWriter(outputBuffer)
 
         def logOutput = { line ->
-            println line
+            // println line
+            // output.flush()
             outputBuffer.println line
-            output.flush()
+            outputBuffer.flush()
         }
 
         def features = new XmlParser().parse(input)
