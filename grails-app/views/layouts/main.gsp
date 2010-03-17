@@ -7,9 +7,7 @@
         <g:layoutHead />
         <g:javascript library="application" />
         <export:resource />
-
         <!-- YUI Section -->
-
         <!-- Fonts CSS - Recommended but not required -->
         <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.8.0r4/build/fonts/fonts-min.css">
 
@@ -50,10 +48,7 @@
 
 	  });
         </script>
-
-
         <!-- End YUI Section -->
-
     </head>
     <body>
         <div id="spinner" class="spinner" style="display:none;">
@@ -81,7 +76,7 @@
                         <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="demographicData">Data</g:link></li>
                         <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="demographicFeature">Features</g:link></li>
                         <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="demographicFeatureCategory">Feature Categories</g:link></li>
-</ul>
+                      </ul>
                     </div>
                   </div>
                 </li>
@@ -146,6 +141,17 @@
                 <n:notUser>
                   <li class="yuimenubaritem first-of-type"><g:link class="yuimenubaritemlabel" controller="auth" action="login">Login</g:link></li>
                 </n:notUser>
+                <n:user>
+                  <li class="yuimenubaritem first-of-type"><a class="yuimenubaritemlabel" href="#entry">Data Editing</a>
+                    <div id="site-nav-settings" class="yuimenu">
+                      <div class="bd">
+                        <ul>
+                          <li class="yuimenuitem"><g:link class="yuimenuitemlabel" controller="editCognacy">Do Cognacy Judgements</g:link></li>
+                        </ul>
+                      </div>
+                    </div>
+                  </li>
+                </n:user>
                 <n:user>
                   <li class="yuimenubaritem first-of-type"><a class="yuimenubaritemlabel" href="#account">Account</a>
                     <div id="site-nav-account" class="yuimenu">

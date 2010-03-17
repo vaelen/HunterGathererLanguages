@@ -6,14 +6,14 @@ class EditCognacyController {
     
     // Set Allowed Methods 
     static allowedMethods = [
-        saveCognates:['POST']
+        save:['POST']
     ]
     
     def index = {
         [ LexicalFeatures: LexicalFeature.list(params) ]
     }
     
-/*    def doCognates = {
+/*    def do = {
         def feature = LexicalFeature.get(params.id)
         
         if (!feature){
@@ -23,31 +23,10 @@ class EditCognacyController {
         else{
             [feature: feature]
         }
-        
+       
     }
     
-*/    
-/*    // Enter Lexicon Page
-    def enterLexicon = {
-        
-        // no .max selected, set to default
-        if (!params.max){
-            params.max = DefaultRows
-        }
-        
-        // have an entry list, so make sure we show them all
-        if (params.entry_list){
-            params.max = params.entry_list.size()
-        }
-        // no entry_list
-        else{
-            params.entry_list = false
-        }
-        [max:params.max, entry_list:params.entry_list]
-    }
-    
-*/    // Save lexicon handler
-/*    def saveCognacy = {
+    def save = {
         def user = User.get(SecurityUtils.getSubject()?.getPrincipal())
         def errors = []
         def saved_count = 0
@@ -72,7 +51,7 @@ class EditCognacyController {
             flash.message = "${saved_count} Lexical Entries Created"
             redirect(action:enterLexicon) // go back
         }
-    }*/
-    
+    }
+*/
 }
     
