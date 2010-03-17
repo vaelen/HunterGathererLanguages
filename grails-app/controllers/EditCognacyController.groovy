@@ -117,13 +117,30 @@ class EditCognacyController {
     }
     
     def index = {
+        
+        params.max = Math.min(params.max ? params.max.toInteger() : 10,  100)
+        
         def filterList = getFilterList()
         def filters = parseFilter(params.filter)
         
         def values = doFilter(params, filters)
+
+        def size = 0
+        if (values.metaClass.hasProperty(values, 'totalCount')) {
+            size = values.totalCount
+        } else if (values.metaClass.respondsTo(values, 'totalCount')) {
+            size = values.totalCount()
+        } else if (values.metaClass.hasProperty(values, 'count')) {
+            size = values.count
+        } else if (values.metaClass.respondsTo(values, 'count')) {
+            size = values.count()
+        } else if (values.metaClass.hasProperty(values, 'size')) {
+            size = values.size
+        } else if (values.metaClass.respondsTo(values, 'size')) {
+            size = values.size()
+        }
         
-        def size = values.size()
-        return [ LexicalFeatures: values, size: size, filterList: filterList, filter: params.filter, filters:filters ]
+        return [ LexicalFeatures: values, lexicalFeatureInstanceTotal: size, filterList: filterList, filter: params.filter, filters:filters ]
     }
     
     def edit = {

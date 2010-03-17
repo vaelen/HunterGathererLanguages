@@ -72,6 +72,11 @@
                 </table>
             </div>
             
+            <div class="paginateButtons">
+                <g:paginate total="${lexicalFeatureInstanceTotal}" />
+            </div>
+            
+            
             <g:if test="${filterList}">
               <div id="searchFilters">
                 <h1 class="trigger">Filter Results:</h1>
