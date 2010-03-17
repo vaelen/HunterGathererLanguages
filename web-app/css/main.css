@@ -276,3 +276,19 @@ div.disclaimer{
     margin-left: auto;
     margin-right: auto;
 }
+
+div#searchFilters{
+    width: 350px;
+    margin: 10px 0 10px 0;
+    padding: 10px;
+    border: 1px solid #efefef;
+}
+div#searchFilters .filterfield{
+    padding: 10px;
+    width: 300px;
+    display: block;
+    border-bottom: 1px solid #efefef;
+}
+div#searchFilters .filterinput{
+    float: right;
+}

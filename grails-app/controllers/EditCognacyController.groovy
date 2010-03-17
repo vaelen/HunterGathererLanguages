@@ -1,4 +1,5 @@
 import org.apache.shiro.SecurityUtils
+import org.codehaus.groovy.grails.web.util.WebUtils
 
 class EditCognacyController {
     
@@ -93,9 +94,9 @@ class EditCognacyController {
         def filterString = WebUtils.toQueryString(newParams)
         if(filterString.length() > 1) {
             filterString = filterString[1..(filterString.length()-1)]
-            redirect (view: list, params: [filter:filterString])
+            redirect (view: index, params: [filter:filterString])
         } else {
-            redirect (view: list)
+            redirect (view: index)
         }
     }
 
