@@ -8,7 +8,7 @@ class EditCognacyController {
         save:['POST']
     ]
     
-    
+    // TODO: REFACTOR Away (already in LexicalFeatureController)
     def getFilterList = {
         return [
             englishHeadword:[displayName:'English Headword'],
@@ -44,7 +44,8 @@ class EditCognacyController {
 
         ]
     }
-
+    
+    // TODO: REFACTOR Away (already in LexicalFeatureController)
     def doFilter = { params, filters ->
         def c = LexicalFeature.createCriteria()
         def results = c.list(params) {
@@ -82,6 +83,7 @@ class EditCognacyController {
         return results
     }
     
+    // TODO: REFACTOR Away (already in LexicalFeatureController)
     // This method takes params and concatenates them together into a filter string.
     def filter = {
         // Remove the submit button
@@ -100,6 +102,7 @@ class EditCognacyController {
         }
     }
 
+    // TODO: REFACTOR Away (already in LexicalFeatureController)
     // This method takes a filter string and produces a list of params
     def parseFilter = { filterString ->
         def filters = [:]
