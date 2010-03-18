@@ -159,34 +159,53 @@ class EditCognacyController {
             ]
         }
     }
-        
-    /*
+    
+    
     def save = {
         def user = User.get(SecurityUtils.getSubject()?.getPrincipal())
+        
+        // validate feature
+        def feature = LexicalFeature.get(params.lexicalFeature)
+        if (!feature){
+            flash.message = "Lexical Feature Not Found with id ${params.lexicalFeature}"
+            redirect(action:index)
+        }
+        
         def errors = []
-        def saved_count = 0
-        for (id in params._entries_) {
-            def instance = new LexicalData(params["entry{$id}"])
-            instance.updatedBy = user
-            instance.validate()
-            if (instance.hasErrors()) {
-                errors.add(0, instance)
+        def saved_count = 1
+        params.cognate.each { lex_id, value ->
+            lex_id = lex_id.toInteger()
+            def instance = LexicalData.get(lex_id)
+            
+            if (instance.lexicalFeature != feature){
+                errors.add(0, "#${lex_id} does NOT belong to feature ${feature}")
+            }
+            else if (!value.toInteger()){
+                errors.add(0, "Value ${value} for #${lex_id} is NOT a number")
             }
             else{
-                instance.save()
-                saved_count += 1
+                instance.phylogeneticCode = value
+                instance.updatedBy = user
+                instance.validate()
+                if (instance.hasErrors()) {
+                    println instance.errors
+                    errors.add(0, "#${lex_id} failed to validate")
+                }
+                else{
+                    instance.save()
+                    saved_count += 1
+                }
             }
         }
         if (errors.size > 0){ // errors - send back with errors.
-            flash.message = "${saved_count} Lexical Entries Created, ${errors.size} entries NOT saved due to errors"
             println errors
-            redirect(action:enterLexicon, params:["entry_list":errors])
+            flash.message = "${saved_count} Cognates Saved, ${errors.size} NOT saved due to errors"
+            redirect(action:edit, id:feature.id, error_list:errors)
         }
         else{ // all good
-            flash.message = "${saved_count} Lexical Entries Created"
-            redirect(action:enterLexicon) // go back
+            flash.message = "${saved_count} Cognates Saved"
+            redirect(action:edit, id:feature.id) // go back
         }
     }
-*/
 }
     

@@ -14,6 +14,7 @@
                     <g:message code="${flash.message}" args="${flash.args}" default="${flash.defaultMessage}" />
                 </div>
             </g:if>
+            
             <div class="list">
                 <table>
                     <thead>
