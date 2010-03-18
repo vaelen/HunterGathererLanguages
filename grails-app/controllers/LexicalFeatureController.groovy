@@ -1,3 +1,5 @@
+import org.codehaus.groovy.grails.web.util.WebUtils
+
 class LexicalFeatureController {
 
     def exportService
@@ -77,5 +79,72 @@ class LexicalFeatureController {
             }
         }
         return results
+    }
+    
+    // This method takes params and concatenates them together into a filter string.
+    def filter = {
+        // Remove the submit button
+        def newParams = [:]
+        params.each { key, value ->
+            if(value && !(key in(['_submit', 'action', 'controller']))) {
+                newParams[key] = value
+            }
+        }
+        def filterString = WebUtils.toQueryString(newParams)
+        if(filterString.length() > 1) {
+            filterString = filterString[1..(filterString.length()-1)]
+            redirect (view: list, params: [filter:filterString])
+        } else {
+            redirect (view: list)
+        }
+    }
+
+    // This method takes a filter string and produces a list of params
+    def parseFilter = { filterString ->
+        def filters = [:]
+        if(filterString) {
+            filterString.split("&").each { pair ->
+                def parts = pair.split("=")
+                def key = parts[0].decodeURL()
+                if(parts.length > 1) {
+                    def value = parts[1].decodeURL()
+                    filters[key] = value
+                }
+            }
+        }
+        return filters
+    }
+
+    def list = {
+        def filterList = getFilterList()
+        def filters = parseFilter(params.filter)
+        params.max = Math.min(params.max ? params.max.toInteger() : 10,  100)
+        if(params.format && params.format != "html") {
+            params.remove('max')
+            params.remove('offset')
+            response.contentType = ConfigurationHolder.config.grails.mime.types[params.format]
+            response.setHeader("Content-disposition", "attachment; filename=lexicalfeature-list.${params.extension}")
+            exportService.export(params.format, response.outputStream, doFilter(params, filters), [:], [:])
+        } else {
+
+            def values = doFilter(params, filters)
+
+            def size = 0
+            if (values.metaClass.hasProperty(values, 'totalCount')) {
+                size = values.totalCount
+            } else if (values.metaClass.respondsTo(values, 'totalCount')) {
+                size = values.totalCount()
+            } else if (values.metaClass.hasProperty(values, 'count')) {
+                size = values.count
+            } else if (values.metaClass.respondsTo(values, 'count')) {
+                size = values.count()
+            } else if (values.metaClass.hasProperty(values, 'size')) {
+                size = values.size
+            } else if (values.metaClass.respondsTo(values, 'size')) {
+                size = values.size()
+            }
+
+            return [lexicalFeatureInstanceList: values, lexicalFeatureInstanceTotal: size, filterList: filterList, filter: params.filter, filters:filters]
+        }
     }
 }
