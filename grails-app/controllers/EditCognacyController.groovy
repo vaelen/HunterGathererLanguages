@@ -153,7 +153,10 @@ class EditCognacyController {
             redirect(action:index)
         }
         else{
-            [feature: feature]
+            [
+                feature: feature, 
+                entries: LexicalData.findAllByLexicalFeature(feature, [sort: params.sort, order: params.order])
+            ]
         }
     }
         
