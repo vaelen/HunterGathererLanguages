@@ -13,7 +13,7 @@
                     <g:message code="${flash.message}" args="${flash.args}" default="${flash.defaultMessage}" />
                 </div>
             </g:if>
-
+            
             <g:if test="${error_list}">
                 <div class="error">
                     <ul>

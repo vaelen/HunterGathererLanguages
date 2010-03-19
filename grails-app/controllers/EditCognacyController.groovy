@@ -172,7 +172,8 @@ class EditCognacyController {
         }
         
         def errors = []
-        def saved_count = 1
+        def saved_count = 0
+        // TODO: Replace with Command object?
         params.cognate.each { lex_id, value ->
             lex_id = lex_id.toInteger()
             def instance = LexicalData.get(lex_id)
@@ -180,25 +181,27 @@ class EditCognacyController {
             if (instance.lexicalFeature != feature){
                 errors.add(0, "#${lex_id} does NOT belong to feature ${feature}")
             }
-            else if (!value.toInteger()){
+            else if (value.isInteger() == false){
                 errors.add(0, "Value ${value} for #${lex_id} is NOT a number")
             }
+            else if (value.toInteger() == instance.phylogeneticCode){
+                // nothing to do...
+            }
             else{
-                instance.phylogeneticCode = value
+                instance.phylogeneticCode = value.toInteger()
                 instance.updatedBy = user
                 instance.validate()
                 if (instance.hasErrors()) {
-                    println instance.errors
                     errors.add(0, "#${lex_id} failed to validate")
                 }
                 else{
                     instance.save()
                     saved_count += 1
                 }
+                
             }
         }
         if (errors.size > 0){ // errors - send back with errors.
-            println errors
             flash.message = "${saved_count} Cognates Saved, ${errors.size} NOT saved due to errors"
             redirect(action:edit, id:feature.id, error_list:errors)
         }
