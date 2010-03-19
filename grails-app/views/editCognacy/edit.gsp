@@ -1,3 +1,4 @@
+<%@ HunterGatherer %>
 <html>
     <head>
         <title>Do Cognacy</title>
@@ -49,10 +50,10 @@
                             <td>${fieldValue(bean: lexicalDataInstance, field: "glossInSource")}</td>
                             <td>${fieldValue(bean: lexicalDataInstance, field: "loanSource")}</td>
                             <td>${fieldValue(bean: lexicalDataInstance, field: "inheritanceLevel")}</td>
-                            <td class="c${lexicalDataInstance.phylogeneticCode.encodeAsHTML()}">
+                            <td class="<hg:colorise value='${lexicalDataInstance.phylogeneticCode}' />">
                                  <g:textField name="cognate.${lexicalDataInstance.id}" 
-                                        value="${fieldValue(bean: lexicalDataInstance, field: 'phylogeneticCode')}" 
-                                        size="5" />
+                                    value="${fieldValue(bean: lexicalDataInstance, field: 'phylogeneticCode')}" 
+                                    size="5" />
                             </td>
                         </tr>
                     </g:each>

@@ -292,3 +292,15 @@ div#searchFilters .filterfield{
 div#searchFilters .filterinput{
     float: right;
 }
+
+/* Cognacy color codes */
+.c0{ }
+.c1{ background: #CF9; }
+.c2{ background: #0F0; }
+.c3{ background: #090; }
+.c4{ background: #FFC; }
+.c5{ background: #FF6; }
+.c6{ background: #CC0; }
+.c7{ background: #963; }
+.c8{ background: #C60; }
+.c9{ background: #FC6; }
