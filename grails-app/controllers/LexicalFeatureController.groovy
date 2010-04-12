@@ -1,3 +1,4 @@
+import org.codehaus.groovy.grails.commons.ConfigurationHolder
 import org.codehaus.groovy.grails.web.util.WebUtils
 
 class LexicalFeatureController {
@@ -119,12 +120,14 @@ class LexicalFeatureController {
         def filterList = getFilterList()
         def filters = parseFilter(params.filter)
         params.max = Math.min(params.max ? params.max.toInteger() : 10,  100)
-        if(params.format && params.format != "html") {
+        // Non-HTML output (e.g. save as csv etc)
+        if(params?.format && params.format != "html") {
             params.remove('max')
             params.remove('offset')
             response.contentType = ConfigurationHolder.config.grails.mime.types[params.format]
             response.setHeader("Content-disposition", "attachment; filename=lexicalfeature-list.${params.extension}")
             exportService.export(params.format, response.outputStream, doFilter(params, filters), [:], [:])
+        // Standard HTML output
         } else {
 
             def values = doFilter(params, filters)
@@ -144,7 +147,13 @@ class LexicalFeatureController {
                 size = values.size()
             }
 
-            return [lexicalFeatureInstanceList: values, lexicalFeatureInstanceTotal: size, filterList: filterList, filter: params.filter, filters:filters]
+            return [
+                lexicalFeatureInstanceList: values, 
+                lexicalFeatureInstanceTotal: size, 
+                filterList: filterList, 
+                filter: params.filter,
+                filters:filters
+            ]
         }
     }
 }
