@@ -58,7 +58,9 @@
                         
                             <td>${fieldValue(bean: lexicalDataInstance, field: "inheritanceLevel")}</td>
                         
-                            <td>${fieldValue(bean: lexicalDataInstance, field: "phylogeneticCode")}</td>
+                            <td class="<hg:colorise value='${lexicalDataInstance.phylogeneticCode}' />">
+                                ${fieldValue(bean: lexicalDataInstance, field: "phylogeneticCode")}
+                            </td>
                         
                         </tr>
                     </g:each>
