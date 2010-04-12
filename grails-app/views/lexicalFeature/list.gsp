@@ -74,7 +74,7 @@
             <div class="paginateButtons">
                 <g:paginate total="${lexicalFeatureInstanceTotal}" />
             </div>
-            <export:formats />
+            <export:formats params="${params}" />
             
             <g:if test="${filterList}">
                 <g:render template="/templates/filters" />
