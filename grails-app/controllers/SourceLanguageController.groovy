@@ -2,11 +2,11 @@ import org.codehaus.groovy.grails.commons.ConfigurationHolder
 import org.codehaus.groovy.grails.web.util.WebUtils
 
 class SourceLanguageController {
-
+    
     def exportService
-
+    
     def scaffold = true
-
+    
     def getFilterList = {
         return [
             subGroup:[displayName:'SubGroup'],
@@ -16,12 +16,7 @@ class SourceLanguageController {
                 type:'select',
                 values:CaseStudyRegion.list()
             ],
-/*            family:[
-                displayName:'Family',
-                type:'select',
-                values:SemanticField.list()
-            ],
-*/        ]
+        ]
     }
 
     def doFilter = { params, filters ->
