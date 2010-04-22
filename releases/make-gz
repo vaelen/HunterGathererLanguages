@@ -4,4 +4,4 @@ read -p "Username on file.laits.utexas.edu? " USERNAME
 export DATE=`date +'%F-%H-%M-%S'`
 export FILE="hunter-$DATE.tar.gz"
 tar -hcvzf $FILE HunterGathererLanguages.war
-scp $FILE $USERNAME@file.laits.utexas.edu:/mnt/projects/hunter_gatherer/
+scp $FILE $USERNAME@file.laits.utexas.edu:/mnt/projects/hunter-gatherer_languages/hunter_gatherer/
