@@ -1,0 +1,306 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="1038.29">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; min-height: 14.0px}
+    p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Courier New'}
+    p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Courier New'; min-height: 14.0px}
+    p.p5 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px 'Courier New'; color: #0000ee}
+    p.p6 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Arial}
+    p.p7 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Arial; min-height: 14.0px}
+    span.s1 {font: 12.0px 'Courier New'}
+    span.s2 {text-decoration: underline}
+    span.s3 {text-decoration: underline ; color: #0000ee}
+    span.s4 {color: #000000}
+  </style>
+</head>
+<body>
+<p class="p1">Mike,</p>
+<p class="p2"><br></p>
+<p class="p1">I was able to get the HunterGathererLanguages program working with the version of groovy and grails that I emailed you the link to without having to install anything else and without any versioning problems.  Here are the steps I went through.  Notes are <span class="s1"><i>underlined</i></span>, commands I ran are in <span class="s1"><b>bold</b></span>.  The commands are also listed at the bottom of the email in an easy-to-copy format.</p>
+<p class="p2"><br></p>
+<p class="p1">The commands below will start the app in development mode, using an embedded Jetty server and an embedded HSQL database.  </p>
+<p class="p2"><br></p>
+<p class="p3"><span class="s2"><i>First we configure our groovy and grails environment</i></span></p>
+<p class="p4"><br></p>
+<p class="p3">Andrew-Youngs-MacBook-Pro:~ vaelen$ <b>mkdir hgl</b></p>
+<p class="p3">Andrew-Youngs-MacBook-Pro:~ vaelen$ <b>cd hgl</b></p>
+<p class="p1">Andrew-Youngs-MacBook-Pro:hgl vaelen$ <b>curl -O </b><a href="http://vaelen.org/hgl/groovy-grails.tar.gz"><span class="s3"><b>http://vaelen.org/hgl/groovy-grails.tar.gz</b></span></a></p>
+<p class="p3">  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current</p>
+<p class="p3">                                 Dload  Upload   Total   Spent    Left  Speed</p>
+<p class="p3">100 52.6M  100 52.6M    0     0   358k      0  0:02:30  0:02:30 --:--:--  174k</p>
+<p class="p3">Andrew-Youngs-MacBook-Pro:hgl vaelen$ <b>tar -xzf groovy-grails.tar.gz</b> </p>
+<p class="p3">Andrew-Youngs-MacBook-Pro:hgl vaelen$ <b>git clone git@github.com:vaelen/HunterGathererLanguages.git ./HunterGathererLanguages</b></p>
+<p class="p3">Initialized empty Git repository in /Users/vaelen/hgl/HunterGathererLanguages/.git/</p>
+<p class="p3">remote: Counting objects: 2417, done.</p>
+<p class="p3">remote: Compressing objects: 100% (1822/1822), done.</p>
+<p class="p3">remote: Total 2417 (delta 817), reused 1961 (delta 534)</p>
+<p class="p3">Receiving objects: 100% (2417/2417), 20.40 MiB | 298 KiB/s, done.</p>
+<p class="p3">Resolving deltas: 100% (817/817), done.</p>
+<p class="p3">Andrew-Youngs-MacBook-Pro:hgl vaelen$ <b>ln -s grails-1.2.0.RC2 grails</b></p>
+<p class="p3">Andrew-Youngs-MacBook-Pro:hgl vaelen$ <b>export GROOVY_HOME=`pwd`/groovy</b></p>
+<p class="p3">Andrew-Youngs-MacBook-Pro:hgl vaelen$ <b>export GRAILS_HOME=`pwd`/grails</b></p>
+<p class="p3">Andrew-Youngs-MacBook-Pro:hgl vaelen$ <b>export PATH=$GROOVY_HOME/bin:$GRAILS_HOME/bin:$PATH</b></p>
+<p class="p4"><i></i><br></p>
+<p class="p3"><span class="s2"><i>Now we clear the grails cache in case anything is out of whack there </i></span></p>
+<p class="p3"><span class="s2"><i>[ Note: we only need to do this the first time to clean up older Grails installs. ]</i></span></p>
+<p class="p4"><br></p>
+<p class="p3">Andrew-Youngs-MacBook-Pro:HunterGathererLanguages vaelen$ <b>rm -rf ~/.grails/</b></p>
+<p class="p4"><br></p>
+<p class="p3"><span class="s2"><i>Now we start the Grails app.  No Tomcat container is required, it uses Jetty.</i></span></p>
+<p class="p3"><span class="s2"><i>[ Note: everything after run-war is just output, that's the last command I ran. ]</i></span></p>
+<p class="p4"><br></p>
+<p class="p3">Andrew-Youngs-MacBook-Pro:hgl vaelen$ <b>cd HunterGathererLanguages/</b></p>
+<p class="p3">Andrew-Youngs-MacBook-Pro:HunterGathererLanguages vaelen$ <b>grails run-war</b></p>
+<p class="p3">Welcome to Grails 1.2.0.RC2 - <a href="http://grails.org/"><span class="s3">http://grails.org/</span></a></p>
+<p class="p3">Licensed under Apache Standard License 2.0</p>
+<p class="p3">Grails home is set to: /Users/vaelen/hgl/grails</p>
+<p class="p4"><br></p>
+<p class="p3">Base Directory: /Users/vaelen/hgl/HunterGathererLanguages</p>
+<p class="p3">Resolving dependencies...</p>
+<p class="p3">Dependencies resolved in 1300ms.</p>
+<p class="p3">Running script /Users/vaelen/hgl/grails/scripts/RunWar.groovy</p>
+<p class="p3">Environment set to development</p>
+<p class="p3">Warning, target causing name overwriting of name startLogging</p>
+<p class="p3">Plugin [i18n-templates-1.1.0.1] not installed, resolving..</p>
+<p class="p3">Reading remote plugin list ...</p>
+<p class="p5"><span class="s4">      [get] Getting: <a href="http://svn.codehaus.org/grails/trunk/grails-plugins/.plugin-meta/plugins-list.xml"><span class="s2">http://svn.codehaus.org/grails/trunk/grails-plugins/.plugin-meta/plugins-list.xml</span></a></span></p>
+<p class="p3">      [get] To: /Users/vaelen/.grails/1.2.0.RC2/plugins-list-core.xml</p>
+<p class="p3">...............................</p>
+<p class="p3">      [get] last modified = Wed Jun 23 12:13:18 CDT 2010</p>
+<p class="p3">Reading remote plugin list ...</p>
+<p class="p5"><span class="s4">      [get] Getting: <a href="http://plugins.grails.org/.plugin-meta/plugins-list.xml"><span class="s2">http://plugins.grails.org/.plugin-meta/plugins-list.xml</span></a></span></p>
+<p class="p3">      [get] To: /Users/vaelen/.grails/1.2.0.RC2/plugins-list-default.xml</p>
+<p class="p3">...............................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................</p>
+<p class="p3">      [get] last modified = Wed Jun 23 18:05:41 CDT 2010</p>
+<p class="p3">    [mkdir] Created dir: /Users/vaelen/.grails/1.2.0.RC2/plugins</p>
+<p class="p5"><span class="s4">      [get] Getting: <a href="http://plugins.grails.org/grails-i18n-templates/tags/RELEASE_1_1_0_1/grails-i18n-templates-1.1.0.1.zip"><span class="s2">http://plugins.grails.org/grails-i18n-templates/tags/RELEASE_1_1_0_1/grails-i18n-templates-1.1.0.1.zip</span></a></span></p>
+<p class="p3">      [get] To: /Users/vaelen/.grails/1.2.0.RC2/plugins/grails-i18n-templates-1.1.0.1.zip</p>
+<p class="p3">....</p>
+<p class="p3">      [get] last modified = Thu Mar 12 14:46:17 CDT 2009</p>
+<p class="p3">     [copy] Copying 1 file to /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/plugins</p>
+<p class="p3">Installing plugin i18n-templates-1.1.0.1</p>
+<p class="p3">    [mkdir] Created dir: /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/plugins/i18n-templates-1.1.0.1</p>
+<p class="p3">    [unzip] Expanding: /Users/vaelen/.grails/1.2.0.RC2/plugins/grails-i18n-templates-1.1.0.1.zip into /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/plugins/i18n-templates-1.1.0.1</p>
+<p class="p3">Executing i18n-templates-1.1.0.1 plugin post-install script ...</p>
+<p class="p3">     [copy] Copying 6 files to /Users/vaelen/hgl/HunterGathererLanguages/src/templates/scaffolding</p>
+<p class="p3">Plugin i18n-templates-1.1.0.1 installed</p>
+<p class="p3">Plug-in provides the following new scripts:</p>
+<p class="p3">------------------------------------------</p>
+<p class="p3">grails generate-i18n-messages</p>
+<p class="p3">Plugin [nimble-0.3-SNAPSHOT] not installed, resolving..</p>
+<p class="p3">Reading remote plugin list ...</p>
+<p class="p3">Reading remote plugin list ...</p>
+<p class="p5"><span class="s4">      [get] Getting: <a href="http://plugins.grails.org/grails-nimble/tags/RELEASE_0_3-SNAPSHOT/grails-nimble-0.3-SNAPSHOT.zip"><span class="s2">http://plugins.grails.org/grails-nimble/tags/RELEASE_0_3-SNAPSHOT/grails-nimble-0.3-SNAPSHOT.zip</span></a></span></p>
+<p class="p3">      [get] To: /Users/vaelen/.grails/1.2.0.RC2/plugins/grails-nimble-0.3-SNAPSHOT.zip</p>
+<p class="p3">................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................</p>
+<p class="p3">      [get] last modified = Wed Nov 04 20:15:03 CST 2009</p>
+<p class="p3">     [copy] Copying 1 file to /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/plugins</p>
+<p class="p3">Installing plugin nimble-0.3-SNAPSHOT</p>
+<p class="p3">    [mkdir] Created dir: /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/plugins/nimble-0.3-SNAPSHOT</p>
+<p class="p3">    [unzip] Expanding: /Users/vaelen/.grails/1.2.0.RC2/plugins/grails-nimble-0.3-SNAPSHOT.zip into /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/plugins/nimble-0.3-SNAPSHOT</p>
+<p class="p3">Plugin dependency [shiro] not found. Attempting to resolve... ...</p>
+<p class="p3">Reading remote plugin list ...</p>
+<p class="p3">Reading remote plugin list ...</p>
+<p class="p5"><span class="s4">      [get] Getting: <a href="http://plugins.grails.org/grails-shiro/tags/RELEASE_1_0_1/grails-shiro-1.0.1.zip"><span class="s2">http://plugins.grails.org/grails-shiro/tags/RELEASE_1_0_1/grails-shiro-1.0.1.zip</span></a></span></p>
+<p class="p3">      [get] To: /Users/vaelen/.grails/1.2.0.RC2/plugins/grails-shiro-1.0.1.zip</p>
+<p class="p3">................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................</p>
+<p class="p3">      [get] last modified = Tue Oct 27 14:48:08 CDT 2009</p>
+<p class="p3">     [copy] Copying 1 file to /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/plugins</p>
+<p class="p3">    [mkdir] Created dir: /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/plugins/shiro-1.0.1</p>
+<p class="p3">    [unzip] Expanding: /Users/vaelen/.grails/1.2.0.RC2/plugins/grails-shiro-1.0.1.zip into /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/plugins/shiro-1.0.1</p>
+<p class="p3">Executing shiro-1.0.1 plugin post-install script ...</p>
+<p class="p3">    [mkdir] Created dir: /Users/vaelen/hgl/HunterGathererLanguages/grails-app/realms</p>
+<p class="p3">Plugin shiro-1.0.1 installed</p>
+<p class="p3">Plug-in provides the following new scripts:</p>
+<p class="p3">------------------------------------------</p>
+<p class="p3">grails create-auth-controller</p>
+<p class="p3">grails create-db-realm</p>
+<p class="p3">grails create-ldap-realm</p>
+<p class="p3">grails create-wildcard-realm</p>
+<p class="p3">grails quick-start</p>
+<p class="p3">Plugin dependency [mail] not found. Attempting to resolve... ...</p>
+<p class="p3">Reading remote plugin list ...</p>
+<p class="p3">Reading remote plugin list ...</p>
+<p class="p5"><span class="s4">      [get] Getting: <a href="http://plugins.grails.org/grails-mail/tags/RELEASE_0_9/grails-mail-0.9.zip"><span class="s2">http://plugins.grails.org/grails-mail/tags/RELEASE_0_9/grails-mail-0.9.zip</span></a></span></p>
+<p class="p3">      [get] To: /Users/vaelen/.grails/1.2.0.RC2/plugins/grails-mail-0.9.zip</p>
+<p class="p3">..............................................................................................................................................................................................................................</p>
+<p class="p3">      [get] last modified = Tue Oct 27 08:13:21 CDT 2009</p>
+<p class="p3">     [copy] Copying 1 file to /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/plugins</p>
+<p class="p3">    [mkdir] Created dir: /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/plugins/mail-0.9</p>
+<p class="p3">    [unzip] Expanding: /Users/vaelen/.grails/1.2.0.RC2/plugins/grails-mail-0.9.zip into /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/plugins/mail-0.9</p>
+<p class="p3">Executing mail-0.9 plugin post-install script ...</p>
+<p class="p3">Plugin mail-0.9 installed</p>
+<p class="p3">Plugin nimble-0.3-SNAPSHOT installed</p>
+<p class="p3">Plug-in provides the following new scripts:</p>
+<p class="p3">------------------------------------------</p>
+<p class="p3">grails jack-be-nimble</p>
+<p class="p3">Plugin [tomcat-1.2.0.RC2] not installed, resolving..</p>
+<p class="p3">     [copy] Copying 1 file to /Users/vaelen/.grails/1.2.0.RC2/plugins</p>
+<p class="p3">Installing plugin tomcat-1.2.0.RC2</p>
+<p class="p3">    [mkdir] Created dir: /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/plugins/tomcat-1.2.0.RC2</p>
+<p class="p3">    [unzip] Expanding: /Users/vaelen/.grails/1.2.0.RC2/plugins/grails-tomcat-1.2.0.RC2.zip into /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/plugins/tomcat-1.2.0.RC2</p>
+<p class="p3">Executing tomcat-1.2.0.RC2 plugin post-install script ...</p>
+<p class="p3">Plugin tomcat-1.2.0.RC2 installed</p>
+<p class="p3">Plug-in provides the following new scripts:</p>
+<p class="p3">------------------------------------------</p>
+<p class="p3">grails tomcat</p>
+<p class="p3">Found events script in plugin tomcat</p>
+<p class="p3">Plugin [hibernate-1.2.0.RC2] not installed, resolving..</p>
+<p class="p3">     [copy] Copying 1 file to /Users/vaelen/.grails/1.2.0.RC2/plugins</p>
+<p class="p3">Installing plugin hibernate-1.2.0.RC2</p>
+<p class="p3">    [mkdir] Created dir: /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/plugins/hibernate-1.2.0.RC2</p>
+<p class="p3">    [unzip] Expanding: /Users/vaelen/.grails/1.2.0.RC2/plugins/grails-hibernate-1.2.0.RC2.zip into /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/plugins/hibernate-1.2.0.RC2</p>
+<p class="p3">Resolving plugin JAR dependencies</p>
+<p class="p3">Executing hibernate-1.2.0.RC2 plugin post-install script ...</p>
+<p class="p3">Plugin hibernate-1.2.0.RC2 installed</p>
+<p class="p3">Plugin [mail-0.9] not installed, resolving..</p>
+<p class="p3">Installing plugin mail-0.9</p>
+<p class="p3">   [delete] Deleting directory /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/plugins/mail-0.9</p>
+<p class="p3">    [mkdir] Created dir: /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/plugins/mail-0.9</p>
+<p class="p3">    [unzip] Expanding: /Users/vaelen/.grails/1.2.0.RC2/plugins/grails-mail-0.9.zip into /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/plugins/mail-0.9</p>
+<p class="p3">Executing mail-0.9 plugin post-install script ...</p>
+<p class="p3">Plugin mail-0.9 installed</p>
+<p class="p3">Plugin [shiro-1.0.1] not installed, resolving..</p>
+<p class="p3">Installing plugin shiro-1.0.1</p>
+<p class="p3">   [delete] Deleting directory /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/plugins/shiro-1.0.1</p>
+<p class="p3">    [mkdir] Created dir: /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/plugins/shiro-1.0.1</p>
+<p class="p3">    [unzip] Expanding: /Users/vaelen/.grails/1.2.0.RC2/plugins/grails-shiro-1.0.1.zip into /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/plugins/shiro-1.0.1</p>
+<p class="p3">Executing shiro-1.0.1 plugin post-install script ...</p>
+<p class="p3">Plugin shiro-1.0.1 installed</p>
+<p class="p3">Plug-in provides the following new scripts:</p>
+<p class="p3">------------------------------------------</p>
+<p class="p3">grails create-auth-controller</p>
+<p class="p3">grails create-db-realm</p>
+<p class="p3">grails create-ldap-realm</p>
+<p class="p3">grails create-wildcard-realm</p>
+<p class="p3">grails quick-start</p>
+<p class="p3">Plugin [export-0.6] not installed, resolving..</p>
+<p class="p3">Reading remote plugin list ...</p>
+<p class="p3">Reading remote plugin list ...</p>
+<p class="p5"><span class="s4">      [get] Getting: <a href="http://plugins.grails.org/grails-export/tags/RELEASE_0_6/grails-export-0.6.zip"><span class="s2">http://plugins.grails.org/grails-export/tags/RELEASE_0_6/grails-export-0.6.zip</span></a></span></p>
+<p class="p3">      [get] To: /Users/vaelen/.grails/1.2.0.RC2/plugins/grails-export-0.6.zip</p>
+<p class="p3">...............................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................</p>
+<p class="p3">      [get] last modified = Sat Nov 07 14:37:54 CST 2009</p>
+<p class="p3">     [copy] Copying 1 file to /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/plugins</p>
+<p class="p3">Installing plugin export-0.6</p>
+<p class="p3">    [mkdir] Created dir: /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/plugins/export-0.6</p>
+<p class="p3">    [unzip] Expanding: /Users/vaelen/.grails/1.2.0.RC2/plugins/grails-export-0.6.zip into /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/plugins/export-0.6</p>
+<p class="p3">Executing export-0.6 plugin post-install script ...</p>
+<p class="p3">Plugin export-0.6 installed</p>
+<p class="p3">     [copy] Copied 8 empty directories to 3 empty directories under /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/resources</p>
+<p class="p3">     [copy] Copied 3 empty directories to 1 empty directory under /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/resources</p>
+<p class="p3">     [copy] Copying 1 file to /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/resources</p>
+<p class="p3">     [copy] Copied 4 empty directories to 2 empty directories under /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/resources</p>
+<p class="p3">     [copy] Copied 3 empty directories to 2 empty directories under /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/resources</p>
+<p class="p3">     [copy] Copied 1 empty directory to 1 empty directory under /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/resources</p>
+<p class="p3">     [copy] Copied 1 empty directory to 1 empty directory under /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/resources</p>
+<p class="p3">    [mkdir] Created dir: /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/classes</p>
+<p class="p3">  [groovyc] Compiling 86 source files to /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/classes</p>
+<p class="p3">Note: Some input files use unchecked or unsafe operations.</p>
+<p class="p3">Note: Recompile with -Xlint:unchecked for details.</p>
+<p class="p3">  [groovyc] Compiling 63 source files to /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/classes</p>
+<p class="p3">    [mkdir] Created dir: /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/resources/grails-app/i18n</p>
+<p class="p3">[native2ascii] Converting 13 files from /Users/vaelen/hgl/HunterGathererLanguages/grails-app/i18n to /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/resources/grails-app/i18n</p>
+<p class="p3">    [mkdir] Created dir: /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/resources/plugins/export-0.6/grails-app/i18n</p>
+<p class="p3">    [mkdir] Created dir: /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/resources/plugins/hibernate-1.2.0.RC2/grails-app/i18n</p>
+<p class="p3">    [mkdir] Created dir: /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/resources/plugins/i18n-templates-1.1.0.1/grails-app/i18n</p>
+<p class="p3">[native2ascii] Converting 1 file from /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/plugins/export-0.6/grails-app/i18n to /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/resources/plugins/export-0.6/grails-app/i18n</p>
+<p class="p3">[native2ascii] Converting 1 file from /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/plugins/hibernate-1.2.0.RC2/grails-app/i18n to /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/resources/plugins/hibernate-1.2.0.RC2/grails-app/i18n</p>
+<p class="p3">[native2ascii] Converting 5 files from /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/plugins/i18n-templates-1.1.0.1/grails-app/i18n to /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/resources/plugins/i18n-templates-1.1.0.1/grails-app/i18n</p>
+<p class="p3">    [mkdir] Created dir: /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/resources/plugins/shiro-1.0.1/grails-app/i18n</p>
+<p class="p3">    [mkdir] Created dir: /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/resources/plugins/nimble-0.3-SNAPSHOT/grails-app/i18n</p>
+<p class="p3">[native2ascii] Converting 2 files from /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/plugins/nimble-0.3-SNAPSHOT/grails-app/i18n to /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/resources/plugins/nimble-0.3-SNAPSHOT/grails-app/i18n</p>
+<p class="p3">[native2ascii] Converting 1 file from /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/plugins/shiro-1.0.1/grails-app/i18n to /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/resources/plugins/shiro-1.0.1/grails-app/i18n</p>
+<p class="p3">     [copy] Copying 1 file to /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/classes</p>
+<p class="p3">     [copy] Copied 2 empty directories to 2 empty directories under /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/resources</p>
+<p class="p3">     [copy] Copying 1 file to /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/resources</p>
+<p class="p3">     [copy] Copying 1 file to /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages</p>
+<p class="p3">     [gspc] Compiling 26 GSP files for package [hunterGathererLanguages] to /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/classes</p>
+<p class="p3">     [gspc] Compiling 3 GSP files for package [mail] to /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/classes</p>
+<p class="p3">     [gspc] Compiling 89 GSP files for package [nimble] to /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/classes</p>
+<p class="p3">    [mkdir] Created dir: /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/stage</p>
+<p class="p3">     [copy] Copying 1068 files to /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/stage</p>
+<p class="p3">     [copy] Copied 13 empty directories to 1 empty directory under /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/stage</p>
+<p class="p3">    [mkdir] Created dir: /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/stage/plugins/export-0.6</p>
+<p class="p3">     [copy] Copying 99 files to /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/stage/plugins/export-0.6</p>
+<p class="p3">    [mkdir] Created dir: /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/stage/plugins/nimble-0.3-SNAPSHOT</p>
+<p class="p3">     [copy] Copying 1218 files to /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/stage/plugins/nimble-0.3-SNAPSHOT</p>
+<p class="p3">     [copy] Copying 39 files to /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/stage/WEB-INF/grails-app</p>
+<p class="p3">     [copy] Copying 1457 files to /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/stage/WEB-INF/classes</p>
+<p class="p3">    [mkdir] Created dir: /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/stage/WEB-INF/spring</p>
+<p class="p3">     [copy] Copying 2 files to /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/stage/WEB-INF/classes</p>
+<p class="p3">    [mkdir] Created dir: /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/stage/WEB-INF/templates/scaffolding</p>
+<p class="p3">     [copy] Copying 6 files to /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/stage/WEB-INF/templates/scaffolding</p>
+<p class="p3">     [copy] Copying 59 files to /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/stage/WEB-INF/lib</p>
+<p class="p3">     [copy] Copying 1 file to /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/stage/WEB-INF</p>
+<p class="p3">   [delete] Deleting: /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/resources/web.xml</p>
+<p class="p3">     [copy] Copying 29 files to /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/stage/WEB-INF/lib</p>
+<p class="p3">[propertyfile] Updating property file: /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/stage/WEB-INF/classes/application.properties</p>
+<p class="p3">    [mkdir] Created dir: /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/stage/WEB-INF/plugins/export-0.6</p>
+<p class="p3">     [copy] Copying 2 files to /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/stage/WEB-INF/plugins/export-0.6</p>
+<p class="p3">     [copy] Warning: /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/plugins/export-0.6/grails-app/conf/spring not found.</p>
+<p class="p3">     [copy] Warning: /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/plugins/export-0.6/grails-app/conf/hibernate not found.</p>
+<p class="p3">     [copy] Warning: /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/plugins/export-0.6/src/java not found.</p>
+<p class="p3">    [mkdir] Created dir: /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/stage/WEB-INF/plugins/hibernate-1.2.0.RC2</p>
+<p class="p3">     [copy] Copying 2 files to /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/stage/WEB-INF/plugins/hibernate-1.2.0.RC2</p>
+<p class="p3">     [copy] Warning: /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/plugins/hibernate-1.2.0.RC2/grails-app/conf/spring not found.</p>
+<p class="p3">     [copy] Warning: /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/plugins/hibernate-1.2.0.RC2/grails-app/conf not found.</p>
+<p class="p3">     [copy] Warning: /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/plugins/hibernate-1.2.0.RC2/grails-app/conf/hibernate not found.</p>
+<p class="p3">     [copy] Warning: /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/plugins/hibernate-1.2.0.RC2/src/java not found.</p>
+<p class="p3">    [mkdir] Created dir: /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/stage/WEB-INF/plugins/mail-0.9</p>
+<p class="p3">     [copy] Copying 4 files to /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/stage/WEB-INF/plugins/mail-0.9</p>
+<p class="p3">     [copy] Warning: /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/plugins/mail-0.9/grails-app/conf/spring not found.</p>
+<p class="p3">     [copy] Warning: /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/plugins/mail-0.9/grails-app/conf not found.</p>
+<p class="p3">     [copy] Warning: /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/plugins/mail-0.9/grails-app/conf/hibernate not found.</p>
+<p class="p3">     [copy] Warning: /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/plugins/mail-0.9/src/java not found.</p>
+<p class="p3">    [mkdir] Created dir: /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/stage/WEB-INF/plugins/nimble-0.3-SNAPSHOT</p>
+<p class="p3">     [copy] Copying 92 files to /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/stage/WEB-INF/plugins/nimble-0.3-SNAPSHOT</p>
+<p class="p3">     [copy] Warning: /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/plugins/nimble-0.3-SNAPSHOT/grails-app/conf/spring not found.</p>
+<p class="p3">     [copy] Warning: /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/plugins/nimble-0.3-SNAPSHOT/grails-app/conf/hibernate not found.</p>
+<p class="p3">    [mkdir] Created dir: /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/stage/WEB-INF/plugins/shiro-1.0.1</p>
+<p class="p3">     [copy] Copying 2 files to /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/stage/WEB-INF/plugins/shiro-1.0.1</p>
+<p class="p3">     [copy] Warning: /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/plugins/shiro-1.0.1/grails-app/conf/spring not found.</p>
+<p class="p3">     [copy] Warning: /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/plugins/shiro-1.0.1/grails-app/conf/hibernate not found.</p>
+<p class="p3">    [mkdir] Created dir: /Users/vaelen/hgl/HunterGathererLanguages/target</p>
+<p class="p3">      [jar] Building jar: /Users/vaelen/hgl/HunterGathererLanguages/target/HunterGathererLanguages-0.2.6.war</p>
+<p class="p3">   [delete] Deleting directory /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/stage</p>
+<p class="p3">Done creating WAR /Users/vaelen/hgl/HunterGathererLanguages/target/HunterGathererLanguages-0.2.6.war</p>
+<p class="p3">    [unzip] Expanding: /Users/vaelen/hgl/HunterGathererLanguages/target/HunterGathererLanguages-0.2.6.war into /Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/war</p>
+<p class="p3">Running Grails application..</p>
+<p class="p3">SLF4J: Class path contains multiple SLF4J bindings.</p>
+<p class="p3">SLF4J: Found binding in [jar:file:/Users/vaelen/.ivy2/cache/org.slf4j/slf4j-log4j12/jars/slf4j-log4j12-1.5.8.jar!/org/slf4j/impl/StaticLoggerBinder.class]</p>
+<p class="p3">SLF4J: Found binding in [jar:file:/Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/war/WEB-INF/lib/slf4j-log4j12-1.5.8.jar!/org/slf4j/impl/StaticLoggerBinder.class]</p>
+<p class="p5"><span class="s4">SLF4J: See <a href="http://www.slf4j.org/codes.html#multiple_bindings"><span class="s2">http://www.slf4j.org/codes.html#multiple_bindings</span></a> for an explanation.</span></p>
+<p class="p3">log4j:ERROR LogMananger.repositorySelector was null likely due to error in class reloading, using NOPLoggerRepository.</p>
+<p class="p5"><span class="s4">Server running. Browse to <a href="http://localhost:8080/HunterGathererLanguages"><span class="s2">http://localhost:8080/HunterGathererLanguages</span></a></span></p>
+<p class="p4"><br></p>
+<p class="p3"><span class="s2"><i>That's it, browse to the URL provided to see the application.</i></span></p>
+<p class="p4"><b></b><br></p>
+<p class="p2"><br></p>
+<p class="p1">I hope this helps.  To recap, here are the commands I ran:</p>
+<p class="p2"><br></p>
+<p class="p3"><b>mkdir hgl</b></p>
+<p class="p3"><b>cd hgl</b></p>
+<p class="p5"><span class="s4"><b>curl -O </b><a href="http://vaelen.org/hgl/groovy-grails.tar.gz"><span class="s2"><b>http://vaelen.org/hgl/groovy-grails.tar.gz</b></span></a></span></p>
+<p class="p3"><b>tar -xzf groovy-grails.tar.gz</b> </p>
+<p class="p3"><b>git clone git@github.com:vaelen/HunterGathererLanguages.git ./HunterGathererLanguages</b></p>
+<p class="p3"><b>ln -s grails-1.2.0.RC2 grails</b></p>
+<p class="p3"><b>export GROOVY_HOME=`pwd`/groovy</b></p>
+<p class="p3"><b>export GRAILS_HOME=`pwd`/grails</b></p>
+<p class="p3"><b>export PATH=$GROOVY_HOME/bin:$GRAILS_HOME/bin:$PATH</b></p>
+<p class="p3"><b>rm -rf ~/.grails/</b></p>
+<p class="p3"><b>cd HunterGathererLanguages/</b></p>
+<p class="p3"><b>grails run-war</b></p>
+<p class="p2"><br></p>
+<p class="p6">Let me know if you still can't get it started.</p>
+<p class="p7"><br></p>
+<p class="p6">- Andrew</p>
+</body>
+</html>
