@@ -68,6 +68,7 @@
                 <g:paginate total="\${${propertyName}Total}" />
             </div>
             <export:formats />
+	<!-- Added by Andrew Young to implement filtering. -->
             <g:if test="\${filterList}">
               <div id="searchFilters">
                 <h1 class="trigger">Filters:</h1>
@@ -139,6 +140,7 @@
                 </div>
               </div>
             </g:if>
+	<!-- End code added by Andrew Young to implement filtering. -->
         </div>
     </body>
 </html>

@@ -1,3 +1,5 @@
+// Written by Andrew Young.
+
 class BootStrap {
      def init = { servletContext ->
          def caseStudyRegions = CaseStudyRegion.list()

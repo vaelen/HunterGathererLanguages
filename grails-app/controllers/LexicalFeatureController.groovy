@@ -7,8 +7,11 @@ class LexicalFeatureController {
 
     def scaffold = true
 
+    // Everything below here added by Andrew Young
     //def index = { }
 
+    // Returns a list of things you can filter by;
+    // see code docs in main class Controller
     def getFilterList = {
         return [
             englishHeadword:[displayName:'English Headword'],
