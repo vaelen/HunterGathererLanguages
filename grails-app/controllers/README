@@ -1,0 +1,3 @@
+This contains controllers that act as an interface between the database and
+the views.  The 'scaffolding = true' statement causes the code in
+`scaffolding' to be automatically interpolated into the class at runtime.

@@ -1,0 +1,3 @@
+This directory tree contains "views", which are the front-level HTML pages
+that provide a front end onto the database.  See the parent-level README
+for more info.

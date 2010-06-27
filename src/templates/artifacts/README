@@ -1,0 +1,3 @@
+This directory contains template code that is used by the grails scripts
+"create-controller", "create-domain-class", etc.  Once the controller,
+domain class, etc has been generated, this code isn´t referenced again.

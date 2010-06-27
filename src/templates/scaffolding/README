@@ -1,0 +1,23 @@
+The files in this directory are used to add code to each controller at
+runtime if the controller defines a variable named "scaffolding" that is
+set to true.
+
+The scaffolding code does all the hard work, generating the gui and working
+with the data in the database.
+
+The way that the code is interpolated into the class is literally appending
+the code textually to the beginning of the class.  The code like this:
+
+<%=packageName ? "package ${packageName}\n\n" : ""%>class ${className}Controller {
+
+adds Groovy code to specify the name of the package at runtime. (The
+scaffolding code is run through a preprocessor, the same one that processes
+GSP files.)
+
+The problem is that expressions like ${packageName} are interpreted by the
+preprocessor so if you need a $[..} in your code you need to escape it as
+follows:
+
+... \${...}
+
+Note that if a bare word follows the $ this isn't necessary.
