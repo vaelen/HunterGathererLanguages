@@ -1,4 +1,5 @@
-This application is used to track linguistic information about hunter gatherer languages.
+This application is used to track linguistic information about
+hunter gatherer languages.
 
 Before running the application you will need to place a valid DataSource.groovy file in the grails-app/conf/ directory.
 
@@ -13,3 +14,136 @@ When configuring the database, be sure to use UTF-8.  Using a connection string 
 Also, you need to set the Hibernate dialect in your DataSource.groovy file to this value so that tables are created with a UTF-8 character set:
 
 	dialect = org.hibernate.dialect.MySQL5UTF8InnoDBDialect
+
+For more info about Grails:
+---------------------------
+See "Groovy and Grails Recipes".  This is basically the example application
+from the book.  What we present to the user is basically the admin screen --
+"normally" there is another nicer level on top.
+
+See the following web page for a quick start:
+  http://www.grails.org/Quick+Start
+
+Problem with sending email when trying to sign up for account:
+--------------------------------------------------------------
+This is a LAITS problem with their server not accepting connections from our
+app.  Email them and they'll fix it.  Can also create accounts manually from
+Pattie's admin account. (User admin piece is a plugin.)
+
+Running development vs. production:
+-----------------------------------
+To run in development, cd to grails-app and then execute `grails run-war'.
+This starts up a web server and prints out is a URL that you connect to in
+your browser.
+
+run-app vs. run-war:
+-- run-war compiles everything once then runs
+-- run-app does the same but also tries to recompile on the fly (problem is
+   that it's too eager and recompiles even if you haven't changed anything)
+
+Pushing to production:
+----------------------
+1. Run `grails make-war' -- creates a WAR file with a version number attached
+2. Symlink the .war file to releases/HunterGathererLanguages.war
+3. Run `make-gz' script -- creates .tar.gz file and copies it to proper place
+4. Email LAITS (Nick ...) and tell him that a new file has been dropped
+5. He will promote it to where it needs to go
+
+Note about developers:
+----------------------
+
+  1. Andrew Young
+  2. Simon Greenhill
+  3. Mike Speriosu (but didn't actually commit anything)
+
+About Grails versions:
+----------------------
+
+This was created using Grails 1.2.0.RC2.  There are a lot of dependencies
+that are specified in `application.properties'.  In theory,
+
+(a) it should be possible to use the released Grails 1.2.0 (by changing the
+    applications.properties file)
+
+(b) it should be possible to upgrade to the latest Grails by running
+    `grails upgrade', but Mike had problems getting this working
+
+
+The different servers:
+----------------------
+
+-- The front end runs on ...
+-- The back end runs on ...
+
+Creating the database:
+----------------------
+
+The first time you run Grails against a brand-new database (created by
+LAITS) when you run in production mode (i.e. `grails run-war' with some
+flag to run in production mode), Grails creates the tables in the database.
+
+
+
+Files:
+------
+
+   ???
+
+.git/
+.gitignore
+   Stuff related to Git.
+
+.classpath
+.project
+.settings/
+   Eclipse project files.  .settings has preferences for Groovy plugin in
+   Eclipse.
+
+HunterGathererLanguages-test.launch
+HunterGathererLanguages.launch
+HunterGathererLanguages.tmproj
+   These are NetBeans project files, possibly out of date.
+
+README
+   This file.
+
+application.properties
+   Grails properties.
+
+build.xml
+   Ant build file.
+
+csv/
+   Files used to populate the database.
+
+get-libs.sh
+   Script to download some necessary plugins.  Needs to be run once after
+   fetching from git.
+
+grails-app/
+   The code for the Grails app.  See Grails documentation.
+
+ivy.xml
+ivysettings.xml
+   Ivy is a tool by Apache that handles dependencies for Java programs --
+   part of Grails.
+
+releases/
+   Contains `make-gz', a script for deploying to production.  When pushing to
+   production, ...
+
+semanticFields.tab
+   Used to populate the database (Andrew wrote a script to do it).
+
+src/
+   See src/README.
+
+test/
+   In theory, contains test cases, but not yet written.
+
+web-app/
+   Static content that goes into the .war file (Javascript, images, CSS).
+
+xml/
+   XML versions of files in CSV format, used to populate the database.
+
