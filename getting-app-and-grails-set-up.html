@@ -15,13 +15,16 @@
     p.p6 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Arial}
     p.p7 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Arial; min-height: 14.0px}
     span.s1 {font: 12.0px 'Courier New'}
-    span.s2 {text-decoration: underline}
+    span.s2 {color: #0000ee}
     span.s3 {text-decoration: underline ; color: #0000ee}
     span.s4 {color: #000000}
+    span.s5 {text-decoration: underline}
   </style>
 </head>
 <body>
 <p class="p1"><b>NOTE: This is a message from Andrew Young about how to get the Grails app running.<span class="Apple-converted-space">  </span>One thing not mentioned here that needs to be done is obtain the DataSource.groovy file, which contains the production database password, and put it in the grails-app/conf directory.</b></p>
+<p class="p2"><b></b><br></p>
+<p class="p1"><b>WARNING WARNING WARNING: do *NOT* try to run grails without a valid DataSource.groovy file -- it will overwrite many source files in bad ways.</b></p>
 <p class="p2"><br></p>
 <p class="p1">Mike,</p>
 <p class="p2"><br></p>
@@ -29,11 +32,11 @@
 <p class="p2"><br></p>
 <p class="p1">The commands below will start the app in development mode, using an embedded Jetty server and an embedded HSQL database.  </p>
 <p class="p2"><br></p>
-<p class="p3"><span class="s2"><i>First we configure our groovy and grails environment</i></span></p>
+<p class="p3"><i>First we configure our groovy and grails environment</i></p>
 <p class="p4"><br></p>
 <p class="p3">Andrew-Youngs-MacBook-Pro:~ vaelen$ <b>mkdir hgl</b></p>
 <p class="p3">Andrew-Youngs-MacBook-Pro:~ vaelen$ <b>cd hgl</b></p>
-<p class="p1">Andrew-Youngs-MacBook-Pro:hgl vaelen$ <b>curl -O </b><a href="http://vaelen.org/hgl/groovy-grails.tar.gz"><span class="s3"><b>http://vaelen.org/hgl/groovy-grails.tar.gz</b></span></a></p>
+<p class="p1">Andrew-Youngs-MacBook-Pro:hgl vaelen$ <b>curl -O </b><a href="http://vaelen.org/hgl/groovy-grails.tar.gz"><span class="s2"><b>http://vaelen.org/hgl/groovy-grails.tar.gz</b></span></a></p>
 <p class="p3">  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current</p>
 <p class="p3">                                 Dload  Upload   Total   Spent    Left  Speed</p>
 <p class="p3">100 52.6M  100 52.6M    0     0   358k      0  0:02:30  0:02:30 --:--:--  174k</p>
@@ -49,14 +52,14 @@
 <p class="p3">Andrew-Youngs-MacBook-Pro:hgl vaelen$ <b>export GROOVY_HOME=`pwd`/groovy</b></p>
 <p class="p3">Andrew-Youngs-MacBook-Pro:hgl vaelen$ <b>export GRAILS_HOME=`pwd`/grails</b></p>
 <p class="p3">Andrew-Youngs-MacBook-Pro:hgl vaelen$ <b>export PATH=$GROOVY_HOME/bin:$GRAILS_HOME/bin:$PATH</b></p>
-<p class="p4"><i></i><br></p>
-<p class="p3"><span class="s2"><i>Now we clear the grails cache in case anything is out of whack there </i></span></p>
-<p class="p3"><span class="s2"><i>[ Note: we only need to do this the first time to clean up older Grails installs. ]</i></span></p>
+<p class="p4"><br></p>
+<p class="p3"><i>Now we clear the grails cache in case anything is out of whack there </i></p>
+<p class="p3"><i>[ Note: we only need to do this the first time to clean up older Grails installs. ]</i></p>
 <p class="p4"><br></p>
 <p class="p3">Andrew-Youngs-MacBook-Pro:HunterGathererLanguages vaelen$ <b>rm -rf ~/.grails/</b></p>
 <p class="p4"><br></p>
-<p class="p3"><span class="s2"><i>Now we start the Grails app.  No Tomcat container is required, it uses Jetty.</i></span></p>
-<p class="p3"><span class="s2"><i>[ Note: everything after run-war is just output, that's the last command I ran. ]</i></span></p>
+<p class="p3"><i>Now we start the Grails app.  No Tomcat container is required, it uses Jetty.</i></p>
+<p class="p3"><i>[ Note: everything after run-war is just output, that's the last command I ran. ]</i></p>
 <p class="p4"><br></p>
 <p class="p3">Andrew-Youngs-MacBook-Pro:hgl vaelen$ <b>cd HunterGathererLanguages/</b></p>
 <p class="p3">Andrew-Youngs-MacBook-Pro:HunterGathererLanguages vaelen$ <b>grails run-war</b></p>
@@ -72,17 +75,17 @@
 <p class="p3">Warning, target causing name overwriting of name startLogging</p>
 <p class="p3">Plugin [i18n-templates-1.1.0.1] not installed, resolving..</p>
 <p class="p3">Reading remote plugin list ...</p>
-<p class="p5"><span class="s4">      [get] Getting: <a href="http://svn.codehaus.org/grails/trunk/grails-plugins/.plugin-meta/plugins-list.xml"><span class="s2">http://svn.codehaus.org/grails/trunk/grails-plugins/.plugin-meta/plugins-list.xml</span></a></span></p>
+<p class="p5"><span class="s4">      [get] Getting: <a href="http://svn.codehaus.org/grails/trunk/grails-plugins/.plugin-meta/plugins-list.xml"><span class="s5">http://svn.codehaus.org/grails/trunk/grails-plugins/.plugin-meta/plugins-list.xml</span></a></span></p>
 <p class="p3">      [get] To: /Users/vaelen/.grails/1.2.0.RC2/plugins-list-core.xml</p>
 <p class="p3">...............................</p>
 <p class="p3">      [get] last modified = Wed Jun 23 12:13:18 CDT 2010</p>
 <p class="p3">Reading remote plugin list ...</p>
-<p class="p5"><span class="s4">      [get] Getting: <a href="http://plugins.grails.org/.plugin-meta/plugins-list.xml"><span class="s2">http://plugins.grails.org/.plugin-meta/plugins-list.xml</span></a></span></p>
+<p class="p5"><span class="s4">      [get] Getting: <a href="http://plugins.grails.org/.plugin-meta/plugins-list.xml"><span class="s5">http://plugins.grails.org/.plugin-meta/plugins-list.xml</span></a></span></p>
 <p class="p3">      [get] To: /Users/vaelen/.grails/1.2.0.RC2/plugins-list-default.xml</p>
 <p class="p3">...............................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................</p>
 <p class="p3">      [get] last modified = Wed Jun 23 18:05:41 CDT 2010</p>
 <p class="p3">    [mkdir] Created dir: /Users/vaelen/.grails/1.2.0.RC2/plugins</p>
-<p class="p5"><span class="s4">      [get] Getting: <a href="http://plugins.grails.org/grails-i18n-templates/tags/RELEASE_1_1_0_1/grails-i18n-templates-1.1.0.1.zip"><span class="s2">http://plugins.grails.org/grails-i18n-templates/tags/RELEASE_1_1_0_1/grails-i18n-templates-1.1.0.1.zip</span></a></span></p>
+<p class="p5"><span class="s4">      [get] Getting: <a href="http://plugins.grails.org/grails-i18n-templates/tags/RELEASE_1_1_0_1/grails-i18n-templates-1.1.0.1.zip"><span class="s5">http://plugins.grails.org/grails-i18n-templates/tags/RELEASE_1_1_0_1/grails-i18n-templates-1.1.0.1.zip</span></a></span></p>
 <p class="p3">      [get] To: /Users/vaelen/.grails/1.2.0.RC2/plugins/grails-i18n-templates-1.1.0.1.zip</p>
 <p class="p3">....</p>
 <p class="p3">      [get] last modified = Thu Mar 12 14:46:17 CDT 2009</p>
@@ -99,7 +102,7 @@
 <p class="p3">Plugin [nimble-0.3-SNAPSHOT] not installed, resolving..</p>
 <p class="p3">Reading remote plugin list ...</p>
 <p class="p3">Reading remote plugin list ...</p>
-<p class="p5"><span class="s4">      [get] Getting: <a href="http://plugins.grails.org/grails-nimble/tags/RELEASE_0_3-SNAPSHOT/grails-nimble-0.3-SNAPSHOT.zip"><span class="s2">http://plugins.grails.org/grails-nimble/tags/RELEASE_0_3-SNAPSHOT/grails-nimble-0.3-SNAPSHOT.zip</span></a></span></p>
+<p class="p5"><span class="s4">      [get] Getting: <a href="http://plugins.grails.org/grails-nimble/tags/RELEASE_0_3-SNAPSHOT/grails-nimble-0.3-SNAPSHOT.zip"><span class="s5">http://plugins.grails.org/grails-nimble/tags/RELEASE_0_3-SNAPSHOT/grails-nimble-0.3-SNAPSHOT.zip</span></a></span></p>
 <p class="p3">      [get] To: /Users/vaelen/.grails/1.2.0.RC2/plugins/grails-nimble-0.3-SNAPSHOT.zip</p>
 <p class="p3">................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................</p>
 <p class="p3">      [get] last modified = Wed Nov 04 20:15:03 CST 2009</p>
@@ -110,7 +113,7 @@
 <p class="p3">Plugin dependency [shiro] not found. Attempting to resolve... ...</p>
 <p class="p3">Reading remote plugin list ...</p>
 <p class="p3">Reading remote plugin list ...</p>
-<p class="p5"><span class="s4">      [get] Getting: <a href="http://plugins.grails.org/grails-shiro/tags/RELEASE_1_0_1/grails-shiro-1.0.1.zip"><span class="s2">http://plugins.grails.org/grails-shiro/tags/RELEASE_1_0_1/grails-shiro-1.0.1.zip</span></a></span></p>
+<p class="p5"><span class="s4">      [get] Getting: <a href="http://plugins.grails.org/grails-shiro/tags/RELEASE_1_0_1/grails-shiro-1.0.1.zip"><span class="s5">http://plugins.grails.org/grails-shiro/tags/RELEASE_1_0_1/grails-shiro-1.0.1.zip</span></a></span></p>
 <p class="p3">      [get] To: /Users/vaelen/.grails/1.2.0.RC2/plugins/grails-shiro-1.0.1.zip</p>
 <p class="p3">................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................</p>
 <p class="p3">      [get] last modified = Tue Oct 27 14:48:08 CDT 2009</p>
@@ -130,7 +133,7 @@
 <p class="p3">Plugin dependency [mail] not found. Attempting to resolve... ...</p>
 <p class="p3">Reading remote plugin list ...</p>
 <p class="p3">Reading remote plugin list ...</p>
-<p class="p5"><span class="s4">      [get] Getting: <a href="http://plugins.grails.org/grails-mail/tags/RELEASE_0_9/grails-mail-0.9.zip"><span class="s2">http://plugins.grails.org/grails-mail/tags/RELEASE_0_9/grails-mail-0.9.zip</span></a></span></p>
+<p class="p5"><span class="s4">      [get] Getting: <a href="http://plugins.grails.org/grails-mail/tags/RELEASE_0_9/grails-mail-0.9.zip"><span class="s5">http://plugins.grails.org/grails-mail/tags/RELEASE_0_9/grails-mail-0.9.zip</span></a></span></p>
 <p class="p3">      [get] To: /Users/vaelen/.grails/1.2.0.RC2/plugins/grails-mail-0.9.zip</p>
 <p class="p3">..............................................................................................................................................................................................................................</p>
 <p class="p3">      [get] last modified = Tue Oct 27 08:13:21 CDT 2009</p>
@@ -186,7 +189,7 @@
 <p class="p3">Plugin [export-0.6] not installed, resolving..</p>
 <p class="p3">Reading remote plugin list ...</p>
 <p class="p3">Reading remote plugin list ...</p>
-<p class="p5"><span class="s4">      [get] Getting: <a href="http://plugins.grails.org/grails-export/tags/RELEASE_0_6/grails-export-0.6.zip"><span class="s2">http://plugins.grails.org/grails-export/tags/RELEASE_0_6/grails-export-0.6.zip</span></a></span></p>
+<p class="p5"><span class="s4">      [get] Getting: <a href="http://plugins.grails.org/grails-export/tags/RELEASE_0_6/grails-export-0.6.zip"><span class="s5">http://plugins.grails.org/grails-export/tags/RELEASE_0_6/grails-export-0.6.zip</span></a></span></p>
 <p class="p3">      [get] To: /Users/vaelen/.grails/1.2.0.RC2/plugins/grails-export-0.6.zip</p>
 <p class="p3">...............................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................</p>
 <p class="p3">      [get] last modified = Sat Nov 07 14:37:54 CST 2009</p>
@@ -279,18 +282,18 @@
 <p class="p3">SLF4J: Class path contains multiple SLF4J bindings.</p>
 <p class="p3">SLF4J: Found binding in [jar:file:/Users/vaelen/.ivy2/cache/org.slf4j/slf4j-log4j12/jars/slf4j-log4j12-1.5.8.jar!/org/slf4j/impl/StaticLoggerBinder.class]</p>
 <p class="p3">SLF4J: Found binding in [jar:file:/Users/vaelen/.grails/1.2.0.RC2/projects/HunterGathererLanguages/war/WEB-INF/lib/slf4j-log4j12-1.5.8.jar!/org/slf4j/impl/StaticLoggerBinder.class]</p>
-<p class="p5"><span class="s4">SLF4J: See <a href="http://www.slf4j.org/codes.html#multiple_bindings"><span class="s2">http://www.slf4j.org/codes.html#multiple_bindings</span></a> for an explanation.</span></p>
+<p class="p5"><span class="s4">SLF4J: See <a href="http://www.slf4j.org/codes.html#multiple_bindings"><span class="s5">http://www.slf4j.org/codes.html#multiple_bindings</span></a> for an explanation.</span></p>
 <p class="p3">log4j:ERROR LogMananger.repositorySelector was null likely due to error in class reloading, using NOPLoggerRepository.</p>
-<p class="p5"><span class="s4">Server running. Browse to <a href="http://localhost:8080/HunterGathererLanguages"><span class="s2">http://localhost:8080/HunterGathererLanguages</span></a></span></p>
+<p class="p5"><span class="s4">Server running. Browse to <a href="http://localhost:8080/HunterGathererLanguages"><span class="s5">http://localhost:8080/HunterGathererLanguages</span></a></span></p>
 <p class="p4"><br></p>
-<p class="p3"><span class="s2"><i>That's it, browse to the URL provided to see the application.</i></span></p>
-<p class="p4"><b></b><br></p>
+<p class="p3"><i>That's it, browse to the URL provided to see the application.</i></p>
+<p class="p4"><br></p>
 <p class="p2"><br></p>
 <p class="p1">I hope this helps.  To recap, here are the commands I ran:</p>
 <p class="p2"><br></p>
 <p class="p3"><b>mkdir hgl</b></p>
 <p class="p3"><b>cd hgl</b></p>
-<p class="p5"><span class="s4"><b>curl -O </b><a href="http://vaelen.org/hgl/groovy-grails.tar.gz"><span class="s2"><b>http://vaelen.org/hgl/groovy-grails.tar.gz</b></span></a></span></p>
+<p class="p5"><span class="s4"><b>curl -O </b><a href="http://vaelen.org/hgl/groovy-grails.tar.gz"><b>http://vaelen.org/hgl/groovy-grails.tar.gz</b></a></span></p>
 <p class="p3"><b>tar -xzf groovy-grails.tar.gz</b> </p>
 <p class="p3"><b>git clone git@github.com:vaelen/HunterGathererLanguages.git ./HunterGathererLanguages</b></p>
 <p class="p3"><b>ln -s grails-1.2.0.RC2 grails</b></p>
