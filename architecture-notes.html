@@ -1,0 +1,124 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="1038.29">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; min-height: 14.0px}
+    p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 16.0px; font: 12.0px 'Courier New'}
+    p.p4 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 16.0px; font: 12.0px 'Courier New'; min-height: 14.0px}
+    p.p5 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 16.0px; font: 12.0px Courier; min-height: 14.0px}
+    p.p6 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 16.0px; font: 12.0px Arial; color: #0000ee}
+    p.p7 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 16.0px; font: 12.0px Arial; min-height: 14.0px}
+    p.p8 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 16.0px; font: 12.0px Arial}
+    span.s1 {color: #000000}
+    span.s2 {text-decoration: underline}
+    span.s3 {text-decoration: underline ; color: #0000ee}
+  </style>
+</head>
+<body>
+<p class="p1">Grails utilizes design by convention and has a great object relational mapper.  I didn't really design the database at all.  I designed the domain objects that represent the data and Grails built the database for me at runtime.  This way you can worry about what the program is supposed to do instead of worrying about the database layout.  Likewise, Grails will (in theory) update the database at runtime as needed when you add/update fields, although I haven't tried it yet.  This is similar to migrations in Rails.</p>
+<p class="p2"><br></p>
+<p class="p1">Here is an example domain object used in the code:</p>
+<p class="p2"><br></p>
+<p class="p3">class GeneticFeature {</p>
+<p class="p4"><br></p>
+<p class="p3">    static hasMany = [sources:Source]</p>
+<p class="p4"><br></p>
+<p class="p3">    String name</p>
+<p class="p3">    GeneticFeatureCategory category</p>
+<p class="p3">    Boolean underDiscussion</p>
+<p class="p3">    ExportSet exportSet</p>
+<p class="p3">    CaseStudyRegion caseStudyRegion</p>
+<p class="p3">    String notes</p>
+<p class="p3">    Date createdAt</p>
+<p class="p3">    Date updatedAt</p>
+<p class="p3">    User createdBy</p>
+<p class="p3">    User updatedBy</p>
+<p class="p4"><br></p>
+<p class="p3">    static constraints = {</p>
+<p class="p3">        name(blank:false)</p>
+<p class="p3">        category(blank:false, )</p>
+<p class="p3">        underDiscussion()</p>
+<p class="p3">        exportSet()</p>
+<p class="p3">        caseStudyRegion(blank:false, )</p>
+<p class="p3">        sources()</p>
+<p class="p3">        notes(widget:"textarea", maxSize:2000)</p>
+<p class="p3">        createdAt(display: false, nullable: true)</p>
+<p class="p3">        updatedAt(display: false, nullable: true)</p>
+<p class="p3">        createdBy(display: false, nullable: true)</p>
+<p class="p3">        updatedBy(display: false, nullable: true)</p>
+<p class="p3">    }</p>
+<p class="p3">    </p>
+<p class="p3">    def beforeInsert = {</p>
+<p class="p3">        createdAt = new Date()</p>
+<p class="p3">        updatedAt = new Date()</p>
+<p class="p3">    createdBy = updatedBy</p>
+<p class="p3">    }</p>
+<p class="p4"><br></p>
+<p class="p3">    def beforeUpdate = {</p>
+<p class="p3">        updatedAt = new Date()</p>
+<p class="p3">    }</p>
+<p class="p4"><br></p>
+<p class="p4"><br></p>
+<p class="p3">    String toString() {</p>
+<p class="p3">        return name</p>
+<p class="p3">    }</p>
+<p class="p3">}</p>
+<p class="p5"><br></p>
+<p class="p6"><span class="s1">You can also view this code on GitHub: <a href="http://github.com/vaelen/HunterGathererLanguages/blob/master/grails-app/domain/GeneticFeature.groovy"><span class="s2">http://github.com/vaelen/HunterGathererLanguages/blob/master/grails-app/domain/GeneticFeature.groovy</span></a> .</span></p>
+<p class="p7"><br></p>
+<p class="p5"><br></p>
+<p class="p8">Here is what the code does:</p>
+<p class="p5"><br></p>
+<p class="p8">Line #1 defines a new class, this is equivalent to "public class GeneticFeature {" in Java.</p>
+<p class="p8">Line #3 tells Grails that this object has many Source objects.<span class="Apple-converted-space">  </span>(Grails does this via an xref table, but that bit of logic is defined in the Source class, not here.)</p>
+<p class="p8">Lines 5 - 14 define the fields on the object.<span class="Apple-converted-space">  </span>These will map to columns in the database.<span class="Apple-converted-space">  </span>Grails decides what the data type of those columns should be.</p>
+<p class="p8">Line #9 is an example of referencing another domain object.<span class="Apple-converted-space">  </span>The database table will contain a column called case_study_region_id that holds the id of the CaseStudyRegion object referenced by this variable.</p>
+<p class="p8">Lines 16 - 28 define constraints on the fields, such as their lengths, whether or not they can be empty, the order they are displayed in, and what widgets are used to display them.</p>
+<p class="p8">Lines 30 - 34 define the beforeInsert() method (really a closure) that is called automatically before a new record is created.</p>
+<p class="p8">Lines 36 - 38 define the beforeUpdate() method (really a closure) that is called automatically before a record is saved.</p>
+<p class="p8">Lines 41 - 43 define the toString() method.<span class="Apple-converted-space">  </span>This method is called when an instance of this class is shown to the user, so it should have a nice user readable value.<span class="Apple-converted-space">  </span>(This is what will be shown in drop down boxes, for example.)</p>
+<p class="p7"><br></p>
+<p class="p5"><br></p>
+<p class="p8">That's it.</p>
+<p class="p5"><br></p>
+<p class="p8">To use this domain object, we can look at the following code:</p>
+<p class="p7"><br></p>
+<p class="p3">class GeneticFeatureController {</p>
+<p class="p4"><br></p>
+<p class="p3">    def exportService</p>
+<p class="p4"><br></p>
+<p class="p3">    def scaffold = true</p>
+<p class="p4"><br></p>
+<p class="p3">    //def index = { }</p>
+<p class="p3">}</p>
+<p class="p7"><br></p>
+<p class="p5"><br></p>
+<p class="p6"><span class="s1">You can also view this code on GitHub: <a href="http://github.com/vaelen/HunterGathererLanguages/blob/master/grails-app/controllers/GeneticFeatureController.groovy"><span class="s2">http://github.com/vaelen/HunterGathererLanguages/blob/master/grails-app/controllers/GeneticFeatureController.groovy</span></a> .</span></p>
+<p class="p7"><br></p>
+<p class="p5"><br></p>
+<p class="p8">This is the class that handles all CRUD (create, read, update, delete) operations for the GeneticFeature domain class.<span class="Apple-converted-space">  </span>It also displays the GUI for using those operations.<span class="Apple-converted-space">  </span>The "magic" here is in line #5 that defines "scaffold" as "true".<span class="Apple-converted-space">  </span>This tells Grails to use the built-in scaffolding code.<span class="Apple-converted-space">  </span>The scaffolding code handles are the tedious stuff you would normally have to code yourself.<span class="Apple-converted-space">  </span>I customized the scaffolding code for the HGL app, and the customized code can be found here: <a href="http://github.com/vaelen/HunterGathererLanguages/tree/master/src/templates/scaffolding/"><span class="s3">http://github.com/vaelen/HunterGathererLanguages/tree/master/src/templates/scaffolding/</span></a> .</p>
+<p class="p7"><br></p>
+<p class="p5"><br></p>
+<p class="p8">For example, if you look at <a href="http://github.com/vaelen/HunterGathererLanguages/blob/master/src/templates/scaffolding/Controller.groovy"><span class="s3">http://github.com/vaelen/HunterGathererLanguages/blob/master/src/templates/scaffolding/Controller.groovy</span></a> , you will see all the "real" code that operates the Controller.<span class="Apple-converted-space">  </span>When the app is started, each controller that defines "scaffold = true" is redefined to include all of this additional code on top of what is defined in the actual controller.</p>
+<p class="p7"><br></p>
+<p class="p5"><br></p>
+<p class="p8">The scaffolding folder also contains the HTML that is displayed for each CRUD operation.<span class="Apple-converted-space">  </span>The idea is to change the scaffolding code whenever possible, so that you don't have to duplicate your work.<span class="Apple-converted-space">  </span>For example, when I added filters, I did it via the scaffolding code. [ see the filter(), parseFilter(), doFilter(), getFilterList(), and list() methods of Controller.groovy]</p>
+<p class="p7"><br></p>
+<p class="p5"><br></p>
+<p class="p8">Removing the delete button from certain pages should be easy.<span class="Apple-converted-space">  </span>In the scaffolding/Controller.groovy class you add a method like:</p>
+<p class="p7"><br></p>
+<p class="p3">def hasDeleteButton = { return true; }</p>
+<p class="p7"><br></p>
+<p class="p5"><br></p>
+<p class="p8">Next you update the edit() method in scaffolding/Controller.groovy to call that method and return the value as part of the array of data returned from the method.<span class="Apple-converted-space">  </span>(The value returned from the "edit()" method is what is passed into the "edit.gsp" view.)<span class="Apple-converted-space">  </span>Then in scaffolding/edit.gsp you add an if statement around the delete button that checks the value that was returned from the method.<span class="Apple-converted-space">  </span>Finally you override the hasDeleteButton() method in the controllers where you want to remove the delete button and have the overridden methods return false.</p>
+<p class="p7"><br></p>
+<p class="p5"><br></p>
+<p class="p8">Note: The files in <a href="http://github.com/vaelen/HunterGathererLanguages/tree/master/src/templates/artifacts/"><span class="s3">http://github.com/vaelen/HunterGathererLanguages/tree/master/src/templates/artifacts/</span></a> are like those in scaffolding, except they are always applied to the given types, whereas scaffolding files are only applied if scaffolding = true.</p>
+</body>
+</html>
