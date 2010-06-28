@@ -151,3 +151,42 @@ web-app/
 xml/
    XML versions of files in CSV format, used to populate the database.
 
+About filtering (from Andrew):
+------------------------------
+
+"Filtering" shows search criteria for limiting the display of various
+lists of stuff.  For example, in LexicalDataController:
+
+http://github.com/vaelen/HunterGathererLanguages/blob/master/grails-app/controllers/LexicalFeatureController.groovy
+
+In this controller, the user can filter by English Headword, Spanish
+Headword, Portuguese Headword, French Headword, Latin Headword, Case
+Study Region, Semantic Field, Category, Part of Speech, and Export Set.
+
+The code in Controller.groovy is the default implementation, and these
+methods should then be overridden by controllers that need to add
+filtering, such as LexicalFeatureController.
+
+It looks like Simon duplicated a lot of the code into the individual
+controllers that shouldn't need to be there.  I don't know why that was
+done, but Simon should be able to tell us.
+
+Here you can see which developer wrote each line of code in the file:
+
+http://github.com/vaelen/HunterGathererLanguages/blame/master/grails-app/controllers/LexicalFeatureController.groovy
+
+This next link is the file as I originally wrote it.  You'll notice
+that only getFilterList() and doFilter() are overridden, NOT filter(),
+parseFilter(), and list().  Duplicating these methods into each controller
+defeats the purpose of putting the methods in Controller.groovy to begin
+with, so I'm not sure why Simon did this.
+
+http://github.com/vaelen/HunterGathererLanguages/blob/5b846e15c1b512983c7e4b64b7180815f2b11e41/grails-app/controllers/LexicalFeatureController.groovy
+
+The data returned by getFilterList() and doFilter() is then used by the
+list.gsp view, which displays the various text fields and select fields
+that handle the filtering.
+
+Let me know if this didn't answer your question.
+
+
