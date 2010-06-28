@@ -1,11 +1,35 @@
 This application is used to track linguistic information about
 hunter gatherer languages.
 
-Before running the application you will need to place a valid DataSource.groovy file in the grails-app/conf/ directory.
+NECESSARY ADDITIONAL FILES TO OBTAIN AND INSTALL:
+-------------------------------------------------
 
-WARNING WARNING WARNING: do *NOT* try to run grails without a valid
-DataSource.groovy file -- it will overwrite many source files in bad
-ways.
+Before running the application you will need to place a valid
+DataSource.groovy file in the grails-app/conf/ directory.
+
+IMPORTANT WARNING ABOUT SOURCE FILE CORRUPTION FROM GRAILS
+----------------------------------------------------------
+
+WARNING WARNING WARNING: The first time you run `grails run-war', it
+**WILL CORRUPT YOUR SOURCE FILES**.  Specifically, it will overwrite our
+modified scaffolding files with generic, unmodified versions.  This is
+VERY VERY BAD.  We're trying to figure out a way to defeat this behavior,
+but for the moment, you must do the following the first time you run
+`grails run-war' on a repository:
+
+(1) make sure any outstanding changes are committed to git
+(2) run `grails run-war'
+(3) make sure to do `git reset --hard' to get rid of the messed up versions
+
+Thankfully, this only appears to happen once, the first time `grails run-war'
+is executed.  Possibly, though, if stuff in ~/.grails or some other caching
+directory is removed, the bug will bite again.
+
+
+Comments about further configuration (you don't need to worry about this,
+it's been done automatically in the repository files and in the standard
+DataSource.groovy file):
+-------------------------------------------------------------------------
 
 Also, the mail.jar that ships with grails can cause conflicts with the one that ships with tomcat.  To fix these problems, run this command after compiling the app but before creating the war file (replace 1.2.0.RC2 with the version of grails you are using):
 
@@ -18,6 +42,18 @@ When configuring the database, be sure to use UTF-8.  Using a connection string 
 Also, you need to set the Hibernate dialect in your DataSource.groovy file to this value so that tables are created with a UTF-8 character set:
 
 	dialect = org.hibernate.dialect.MySQL5UTF8InnoDBDialect
+
+Accounts you need to create in order to do work on the HunterGathererLanguages
+software:
+-------------------------------------------------------------------------------
+
+(1) Get an account at github.com, and send them a public key (DSA or RSA) so
+    that they can authenticate you.
+(2) Email Andrew (andrew@vaelen.org) and get him to add you as a committer to
+    the HunterGathererLanguages project on github.
+(3) Create an account on the production HunterGathererLanguages database web
+    server at http://tomcat.la.utexas.edu:8080/HunterGathererLanguages/
+(4) Get a LAITS account???
 
 For more info about Grails:
 ---------------------------
@@ -56,9 +92,9 @@ Pushing to production:
 Note about developers:
 ----------------------
 
-  1. Andrew Young
+  1. Andrew Young (andrew@vaelen.org)
   2. Simon Greenhill
-  3. Mike Speriosu (but didn't actually commit anything)
+  3. Mike Speriosu (speriosu@gmail.com, but didn't actually commit anything)
 
 About Grails versions:
 ----------------------
