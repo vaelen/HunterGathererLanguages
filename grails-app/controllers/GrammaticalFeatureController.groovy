@@ -1,8 +1,2 @@
-class GrammaticalFeatureController {
-
-    def exportService
-
-    def scaffold = true
-
-    //def index = { }
+class GrammaticalFeatureController extends FeatureControllerBase {
 }

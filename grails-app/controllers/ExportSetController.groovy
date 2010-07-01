@@ -1,8 +1,2 @@
-class ExportSetController {
-
-    def exportService
-
-    def scaffold = true
-
-    //def index = { }
+class ExportSetController extends ControllerBase {
 }

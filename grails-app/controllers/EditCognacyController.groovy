@@ -2,7 +2,6 @@ import org.apache.shiro.SecurityUtils
 import org.codehaus.groovy.grails.web.util.WebUtils
 
 class EditCognacyController {
-    
     // Set Allowed Methods 
     static allowedMethods = [
         save:['POST']

@@ -1,8 +1,2 @@
-class DemographicFeatureController {
-
-    def exportService
-
-    def scaffold = true
-
-    //def index = { }
+class DemographicFeatureController extends FeatureControllerBase {
 }

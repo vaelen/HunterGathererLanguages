@@ -1,8 +1,2 @@
-class EthnographicFeatureController {
-
-    def exportService
-
-    def scaffold = true
-
-    //def index = { }
+class EthnographicFeatureController extends FeatureControllerBase {
 }

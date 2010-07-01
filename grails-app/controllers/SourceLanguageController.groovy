@@ -1,12 +1,7 @@
 import org.codehaus.groovy.grails.commons.ConfigurationHolder
 import org.codehaus.groovy.grails.web.util.WebUtils
 
-class SourceLanguageController {
-    
-    def exportService
-    
-    def scaffold = true
-    
+class SourceLanguageController extends ControllerBase {
     def getFilterList = {
         return [
             subGroup:[displayName:'SubGroup'],
@@ -106,7 +101,4 @@ class SourceLanguageController {
             ]
         }
     }
-
-
-
 }

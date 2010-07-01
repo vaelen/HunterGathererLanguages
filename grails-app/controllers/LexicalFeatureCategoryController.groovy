@@ -1,8 +1,2 @@
-class LexicalFeatureCategoryController {
-
-    def exportService
-
-    def scaffold = true
-
-    //def index = { }
+class LexicalFeatureCategoryController extends FeatureCategoryControllerBase {
 }

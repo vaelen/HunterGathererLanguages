@@ -1,8 +1,2 @@
-class GrammaticalFeatureCategoryController {
-
-    def exportService
-
-    def scaffold = true
-
-    //def index = { }
+class GrammaticalFeatureCategoryController extends FeatureCategoryControllerBase {
 }

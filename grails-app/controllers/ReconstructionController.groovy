@@ -1,8 +1,2 @@
-class ReconstructionController {
-
-    def exportService
-
-    def scaffold = true
-
-    //def index = { }
+class ReconstructionController extends ControllerBase {
 }

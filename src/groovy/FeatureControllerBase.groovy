@@ -1,0 +1,2 @@
+class FeatureControllerBase extends ControllerBase {
+}

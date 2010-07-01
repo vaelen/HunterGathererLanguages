@@ -7,6 +7,8 @@ import org.codehaus.groovy.grails.web.util.WebUtils
     // This has to be done on each controller or it doesn't bind it to anything.
     //def exportService
 
+	def hasDeleteButton = true
+	
     def getUser = { 
         def user = User.get(SecurityUtils.getSubject()?.getPrincipal()) 
         if (user != null) {
@@ -159,7 +161,7 @@ import org.codehaus.groovy.grails.web.util.WebUtils
             redirect(action: "list")
         }
         else {
-            return [${propertyName}: ${propertyName}]
+            return [hasDeleteButton: hasDeleteButton, ${propertyName}: ${propertyName}]
         }
     }
 

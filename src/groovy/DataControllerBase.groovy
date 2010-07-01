@@ -1,0 +1,2 @@
+class DataControllerBase extends ControllerBase {
+}

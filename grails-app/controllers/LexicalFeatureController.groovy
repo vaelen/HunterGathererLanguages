@@ -1,14 +1,8 @@
 import org.codehaus.groovy.grails.commons.ConfigurationHolder
 import org.codehaus.groovy.grails.web.util.WebUtils
 
-class LexicalFeatureController {
-
-    def exportService
-
-    def scaffold = true
-
+class LexicalFeatureController extends FeatureControllerBase {
     // Everything below here added by Andrew Young
-    //def index = { }
 
     // Returns a list of things you can filter by;
     // see code docs in main class Controller

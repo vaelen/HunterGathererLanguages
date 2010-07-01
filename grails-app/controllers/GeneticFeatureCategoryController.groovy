@@ -1,8 +1,2 @@
-class GeneticFeatureCategoryController {
-
-    def exportService
-
-    def scaffold = true
-
-    //def index = { }
+class GeneticFeatureCategoryController extends FeatureCategoryControllerBase {
 }
