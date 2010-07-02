@@ -117,6 +117,7 @@ class EditCognacyController extends ControllerBase {
                 
             }
         }
+        // FIXME!! The errors aren't displayed currently.
         if (errors.size > 0){ // errors - send back with errors.
             flash.message = "${saved_count} Cognates Saved, ${errors.size} NOT saved due to errors"
             redirect(action:edit, id:feature.id, error_list:errors)

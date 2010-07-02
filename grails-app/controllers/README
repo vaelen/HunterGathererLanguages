@@ -1,3 +1,11 @@
 This contains controllers that act as an interface between the database and
 the views.  The 'scaffolding = true' statement causes the code in
 `scaffolding' to be automatically interpolated into the class at runtime.
+
+Note that the code that implements controllers is in three different
+directories:
+
+1. grails-app/controllers
+2. src/groovy (for base classes)
+3. src/templates/scaffolding (for Controller.groovy, which gets textually
+   inserted into all classes at runtime)
