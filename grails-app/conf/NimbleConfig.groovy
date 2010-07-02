@@ -61,7 +61,7 @@ nimble {
         }
 
         mail {
-            from = "Hunter Gatherer Language Database <do-not-reply@example.com>"
+            from = "Hunter Gatherer Language Database <do-not-reply@mail.la.utexas.edu>"
             host = "mail.la.utexas.edu"
             port = 25
             username = ""
