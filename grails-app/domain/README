@@ -1,2 +1,23 @@
-This specifies the tables in the database.  Member fields are columns and
-constraints are constraints.
+This specifies the tables in the database.  Member fields correspond to
+columns.  The `constraints' variable is a closure that specifies the fields
+(columns) to be shown in the view, controls the order of columns, and specifies
+various sorts of constraints, e.g. whether the values in the column can be null
+and which sort of widget to use when displaying a value in the column.
+
+All sorts of weird metaclass magic goes on underneath the surface.  This means
+that creating base classes and subclassing them can easily lead to errors:
+
+1) The only way I (Ben) was able to get a base class to work at all was to place
+it in the same directory and declare it abstract (if you don't, grails will try
+to create a table corresponding to the base class).  Placing the base class in
+src/groovy doesn't work.
+
+2) If you put fields in a base class, you can also put the corresponding
+constraints in the base class, but if you do, the columns corresponding to the
+fields will appear before columns in the subclass.  If you want them to appear
+elsewhere, either you do some complicated AST rewriting (there's no scaffolding
+for domain classes, as there is for controllers) or you just stick the constraints
+in *ALL* the subclasses in the appropriate place in the `constraints' closure.
+I tried at least creating a function to reduce the duplication, but this didn't
+work.  Or rather, it seemed to work, and the tables came up OK, but when you tried
+to create a new row, you got an error.

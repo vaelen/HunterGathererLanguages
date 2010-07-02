@@ -9,3 +9,19 @@ directories:
 2. src/groovy (for base classes)
 3. src/templates/scaffolding (for Controller.groovy, which gets textually
    inserted into all classes at runtime)
+
+Note also that creating base classes to abstract out functionality is a
+bit tricky, although not as much as for domain classes.  Basically, putting
+the base class in the same directory as the controllers doesn't seem to work.
+Instead you have to put them in src/groovy.  That's why we have this split.
+
+Question: What is the reason to put code in ControllerBase.groovy vs.
+Controller.groovy?  Answer: Code needs to go in Controller.groovy if it
+uses GSP features (e.g. has ${foo} references that get expanded dynamically).
+Otherwise it should generally go in ControllerBase.groovy.  The tricky thing
+about code in Controller.groovy is that it gets *textually inserted* in each
+controller, so it will override definitions of corresponding members in
+base classes, which isn't usually what we want. (However, you can still
+override the definitions in Controller.groovy by placing another definition
+in the controller itself rather than a base class, because the textual
+insert happens at the top of the class.)
