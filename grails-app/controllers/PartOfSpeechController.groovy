@@ -1,2 +1,2 @@
-class PartOfSpeechController extends ControllerBase {
+class PartOfSpeechController extends ScaffoldedControllerBase {
 }

@@ -2,101 +2,20 @@ import org.codehaus.groovy.grails.commons.ConfigurationHolder
 import org.apache.shiro.SecurityUtils
 import org.codehaus.groovy.grails.web.util.WebUtils
 
+// This code is textually inserted into all controllers when `grails run-app'
+// is run.
 <%=packageName ? "package ${packageName}\n\n" : ""%>class ${className}Controller {
-
-    // This has to be done on each controller or it doesn't bind it to anything.
-    //def exportService
-
-	def hasDeleteButton = true
-	
-    def getUser = { 
-        def user = User.get(SecurityUtils.getSubject()?.getPrincipal()) 
-        if (user != null) {
-            user = User.get(user.id) // To get the right sort of object
-        }
-        return user
-    }
 
     def index = { redirect(action: "list", params: params) }
 
     // the delete, save and update actions only accept POST requests
     static allowedMethods = [save: "POST", update: "POST", delete: "POST"]
 
-    /**
-     * This method should return the list of available filters and their possible values.
-     *
-     * Expected Output: [
-     *     fieldName: [
-     *         displayName: 'Field Name',
-     *         type: 'textField',
-     *         value: 1,
-     *         values: [
-     *             [toString: 'First Value', id: 1],
-     *             [toString: 'Second Value', id: 2],
-     *             ...
-     *         ]
-     *     ]
-     * ]
-     *
-     * Possible values for 'type': textField, checkBox, radio, hiddenField, select
-     * 
-     * If 'type' is 'select' or 'radio', then 'values' is the list of possible values.
-     * Otherwise 'value' is used as the value.
-     *
-     * If 'type' isn't listed, then it defaults to 'textField'.
-     *
-     * The options 'optionKey' and 'optionValue' can be used to set options for the 'select' tag if 'type' is 'select'.
-     * They default to 'id' and 'toString()' respectively.
-     *
-     */
-    def getFilterList = {
-        return [:]
-    }
+    def getDomainClass = { return ${className} }
 
-    /**
-     * This method should process the given list of selected filters and return a list of objects.
-     * The default implementation returns all objects.
-     * Input: params, filters:[ key:value, key2:value2, ... ]
-     */
-    def doFilter = { params, filters ->
-        def c = ${className}.createCriteria()
-        def results = c.list(params) {}
-        return results
-    }
-
-    // This method takes params and concatenates them together into a filter string.
-    def filter = {
-        // Remove the submit button
-        def newParams = [:]
-        params.each { key, value ->
-            if(value && !(key in(['_submit', 'action', 'controller']))) {
-                newParams[key] = value
-            }
-        }
-        def filterString = WebUtils.toQueryString(newParams)
-        if(filterString.length() > 1) {
-            filterString = filterString[1..(filterString.length()-1)]
-            redirect (view: list, params: [filter:filterString])
-        } else {
-            redirect (view: list)
-        }
-    }
-
-    // This method takes a filter string and produces a list of params
-    def parseFilter = { filterString ->
-        def filters = [:]
-        if(filterString) {
-            filterString.split(<%= '"&"' %>).each { pair ->
-                def parts = pair.split("=")
-                def key = parts[0].decodeURL()
-                if(parts.length > 1) {
-                    def value = parts[1].decodeURL()
-                    filters[key] = value
-                }
-            }
-        }
-        return filters
-    }
+    // NOTE NOTE: I tried making this a function rather than a variable with
+    // a closure as its definition, but that didn't work.
+    def createCriteria = { return ${className}.createCriteria() }
 
     def list = {
         def filterList = getFilterList()

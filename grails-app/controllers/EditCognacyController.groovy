@@ -1,86 +1,22 @@
 import org.apache.shiro.SecurityUtils
 import org.codehaus.groovy.grails.web.util.WebUtils
 
-class EditCognacyController {
+// Why don't we scaffold this class (i.e. inherit from ScaffoldedControllerBase)?
+// Well, if you do, you get a weird error
+//
+// 2010-07-02 14:11:21,714 [main] ERROR plugins.DefaultGrailsPlugin  - Cannot generate
+// controller logic for scaffolded class true. It is not a domain class!
+//
+// This appears to be due to the fact that a `def index = { ... }' exists both in
+// Controller.groovy and EditCognacyController.groovy.  Getting rid of the scaffolding
+// makes this error go away.
+
+@Mixin(FilterBehavior)
+class EditCognacyController extends ControllerBase {
     // Set Allowed Methods 
     static allowedMethods = [
         save:['POST']
     ]
-    
-    // TODO: REFACTOR Away (already in LexicalFeatureController)
-    def getFilterList = {
-        return [
-            englishHeadword:[displayName:'English Headword'],
-            spanishHeadword:[displayName:'Spanish Headword'],
-            portugueseHeadword:[displayName:'Portuguese Headword'],
-            frenchHeadword:[displayName:'French Headword'],
-            latinHeadword:[displayName:'Latin Headword'],
-            caseStudyRegion:[
-                displayName:'Case Study Region',
-                type:'select',
-                values:CaseStudyRegion.list()
-            ],
-            semanticField:[
-                displayName:'Semantic Field',
-                type:'select',
-                values:SemanticField.list()
-            ],
-            category:[
-                displayName:'Category',
-                type:'select',
-                values:LexicalFeatureCategory.list()
-            ],
-            partOfSpeech:[
-                displayName:'Part of Speech',
-                type:'select',
-                values:PartOfSpeech.list()
-            ],
-            exportSet:[
-                displayName:'Export Set',
-                type:'select',
-                values:ExportSet.list()
-            ],
-
-        ]
-    }
-    
-    // TODO: REFACTOR Away (already in LexicalFeatureController)
-    def doFilter = { params, filters ->
-        def c = LexicalFeature.createCriteria()
-        def results = c.list(params) {
-            if(filters['englishHeadword']) {
-                ilike('englishHeadword', filters['englishHeadword'].replaceAll(/\*/, '%'))
-            }
-            if(filters['spanishHeadword']) {
-                ilike('spanishHeadword', filters['spanishHeadword'].replaceAll(/\*/, '%'))
-            }
-            if(filters['portugueseHeadword']) {
-                ilike('portugueseHeadword', filters['portugueseHeadword'].replaceAll(/\*/, '%'))
-            }
-            if(filters['frenchHeadword']) {
-                ilike('frenchHeadword', filters['frenchHeadword'].replaceAll(/\*/, '%'))
-            }
-            if(filters['latinHeadword']) {
-                ilike('latinHeadword', filters['latinHeadword'].replaceAll(/\*/, '%'))
-            }
-            if(filters['semanticField']) {
-                eq('semanticField.id', filters['semanticField'].toLong())
-            }
-            if(filters['caseStudyRegion']) {
-                eq('caseStudyRegion.id', filters['caseStudyRegion'].toLong())
-            }
-            if(filters['category']) {
-                eq('category.id', filters['category'].toLong())
-            }
-            if(filters['partOfSpeech']) {
-                eq('partOfSpeech.id', filters['partOfSpeech'].toLong())
-            }
-            if(filters['exportSet']) {
-                eq('exportSet.id', filters['exportSet'].toLong())
-            }
-        }
-        return results
-    }
     
     // TODO: REFACTOR Away (already in LexicalFeatureController)
     // This method takes params and concatenates them together into a filter string.
@@ -99,23 +35,6 @@ class EditCognacyController {
         } else {
             redirect (view: index)
         }
-    }
-
-    // TODO: REFACTOR Away (already in LexicalFeatureController)
-    // This method takes a filter string and produces a list of params
-    def parseFilter = { filterString ->
-        def filters = [:]
-        if(filterString) {
-            filterString.split("&").each { pair ->
-                def parts = pair.split("=")
-                def key = parts[0].decodeURL()
-                if(parts.length > 1) {
-                    def value = parts[1].decodeURL()
-                    filters[key] = value
-                }
-            }
-        }
-        return filters
     }
     
     def index = {
@@ -161,8 +80,6 @@ class EditCognacyController {
     
     
     def save = {
-        def user = User.get(SecurityUtils.getSubject()?.getPrincipal())
-        
         // validate feature
         def feature = LexicalFeature.get(params.lexicalFeature)
         if (!feature){
@@ -188,7 +105,7 @@ class EditCognacyController {
             }
             else{
                 instance.phylogeneticCode = value.toInteger()
-                instance.updatedBy = user
+                instance.updatedBy = getUser()
                 instance.validate()
                 if (instance.hasErrors()) {
                     errors.add(0, "#${lex_id} failed to validate")

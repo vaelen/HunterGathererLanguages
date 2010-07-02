@@ -1,2 +1,2 @@
-class SemanticFieldController extends ControllerBase {
+class SemanticFieldController extends ScaffoldedControllerBase {
 }

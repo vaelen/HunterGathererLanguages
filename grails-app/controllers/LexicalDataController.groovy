@@ -1,6 +1,7 @@
 import org.codehaus.groovy.grails.commons.ConfigurationHolder
 import org.codehaus.groovy.grails.web.util.WebUtils
 
+
 class LexicalDataController extends DataControllerBase {
     def getFilterList = {
         return [

@@ -1,2 +1,2 @@
-class CaseStudyRegionController extends ControllerBase {
+class CaseStudyRegionController extends ScaffoldedControllerBase {
 }

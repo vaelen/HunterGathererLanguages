@@ -1,2 +1,2 @@
-class FeatureControllerBase extends ControllerBase {
+class FeatureControllerBase extends ScaffoldedControllerBase {
 }

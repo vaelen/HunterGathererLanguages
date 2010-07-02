@@ -1,7 +1,7 @@
 import org.codehaus.groovy.grails.commons.ConfigurationHolder
 import org.codehaus.groovy.grails.web.util.WebUtils
 
-class SourceLanguageController extends ControllerBase {
+class SourceLanguageController extends ScaffoldedControllerBase {
     def getFilterList = {
         return [
             subGroup:[displayName:'SubGroup'],

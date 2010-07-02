@@ -1,2 +1,2 @@
-class ReconstructionController extends ControllerBase {
+class ReconstructionController extends ScaffoldedControllerBase {
 }

@@ -1,3 +1,3 @@
-class FeatureCategoryControllerBase extends ControllerBase {
+class FeatureCategoryControllerBase extends ScaffoldedControllerBase {
     def hasDeleteButton = false
 }

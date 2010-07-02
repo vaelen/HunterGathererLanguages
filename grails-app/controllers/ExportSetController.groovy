@@ -1,2 +1,2 @@
-class ExportSetController extends ControllerBase {
+class ExportSetController extends ScaffoldedControllerBase {
 }

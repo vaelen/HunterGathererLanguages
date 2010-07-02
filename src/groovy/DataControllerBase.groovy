@@ -1,2 +1,2 @@
-class DataControllerBase extends ControllerBase {
+class DataControllerBase extends ScaffoldedControllerBase {
 }
