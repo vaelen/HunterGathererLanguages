@@ -1,20 +1,14 @@
-class GeneticFeature {
+class GeneticFeature extends NamedLanguageProperty {
 
     static hasMany = [sources:Source]
 
-    String name
     GeneticFeatureCategory category
     Boolean underDiscussion
     ExportSet exportSet
     CaseStudyRegion caseStudyRegion
     String notes
-    Date createdAt
-    Date updatedAt
-    User createdBy
-    User updatedBy
 
     static constraints = {
-        name(blank:false)
         category(blank:false, )
         underDiscussion()
         exportSet()
@@ -25,20 +19,5 @@ class GeneticFeature {
         updatedAt(display: false, nullable: true)
         createdBy(display: false, nullable: true)
         updatedBy(display: false, nullable: true)
-    }
-    
-    def beforeInsert = {
-        createdAt = new Date()
-        updatedAt = new Date()
-    createdBy = updatedBy
-    }
-
-    def beforeUpdate = {
-        updatedAt = new Date()
-    }
-
-
-    String toString() {
-        return name
     }
 }

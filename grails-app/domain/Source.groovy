@@ -1,4 +1,4 @@
-class Source {
+class Source extends LanguageProperty {
 
     static hasMany = [demographicData:DemographicData, demographicFeatures:DemographicFeature, ethnographicData:EthnographicData, ethnographicFeatures:EthnographicFeature, geneticData:GeneticData, geneticFeatures:GeneticFeature, grammaticalData:GrammaticalData, grammaticalFeatures:GrammaticalFeature, lexicalData:LexicalData, lexicalFeatures:LexicalFeature]
     static belongsTo = [DemographicData, DemographicFeature, EthnographicData, EthnographicFeature, GeneticData, GeneticFeature, GrammaticalData, GrammaticalFeature, LexicalData, LexicalFeature]
@@ -11,10 +11,6 @@ class Source {
     String publisher
     String publisherDetails
     SourceLanguage sourceLanguage
-    Date createdAt
-    Date updatedAt
-    User createdBy
-    User updatedBy
 
     static constraints = {
         title(blank:false, maxSize:255)
@@ -25,10 +21,7 @@ class Source {
         placeOfPublication()
         publisher()
         publisherDetails(widget:"textarea", maxSize:2000)
-        createdAt(display: false, nullable: true)
-        updatedAt(display: false, nullable: true)
-        createdBy(display: false, nullable: true)
-        updatedBy(display: false, nullable: true)
+        addDateConstraints()
         demographicData()
         demographicFeatures()
         ethnographicData()
@@ -40,17 +33,6 @@ class Source {
         lexicalData()
         lexicalFeatures()
     }
-    
-    def beforeInsert = {
-        createdAt = new Date()
-        updatedAt = new Date()
-    createdBy = updatedBy
-    }
-
-    def beforeUpdate = {
-        updatedAt = new Date()
-    }
-
 
     String toString() {
         return title

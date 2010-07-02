@@ -1,4 +1,4 @@
-class GeneticData {
+class GeneticData extends LanguageProperty {
 
     static hasMany = [sources:Source]
 
@@ -7,10 +7,6 @@ class GeneticData {
     String answer
     String generalNotes
     Integer phylogeneticCode
-    Date createdAt
-    Date updatedAt
-    User createdBy
-    User updatedBy
 
     static constraints = {
         geneticFeature(blank:false)
@@ -24,16 +20,4 @@ class GeneticData {
         createdBy(display: false, nullable: true)
         updatedBy(display: false, nullable: true)
     }
-    
-    def beforeInsert = {
-        createdAt = new Date()
-        updatedAt = new Date()
-    createdBy = updatedBy
-    }
-
-    def beforeUpdate = {
-        updatedAt = new Date()
-    }
-
-
 }

@@ -1,4 +1,4 @@
-class LexicalFeature {
+class LexicalFeature extends LanguageProperty {
 
     static hasMany = [sources:Source]
 
@@ -13,10 +13,6 @@ class LexicalFeature {
     ExportSet exportSet
     LexicalFeatureCategory category
     String comments
-    Date createdAt
-    Date updatedAt
-    User createdBy
-    User updatedBy
 
     static constraints = {
         englishHeadword(blank:false)
@@ -36,17 +32,6 @@ class LexicalFeature {
         createdBy(display: false, nullable: true)
         updatedBy(display: false, nullable: true)
     }
-    
-    def beforeInsert = {
-        createdAt = new Date()
-        updatedAt = new Date()
-    createdBy = updatedBy
-    }
-
-    def beforeUpdate = {
-        updatedAt = new Date()
-    }
-
 
     String toString() {
         return englishHeadword

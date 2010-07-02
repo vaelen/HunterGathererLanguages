@@ -1,4 +1,4 @@
-class EthnographicData {
+class EthnographicData extends LanguageProperty {
 
     static hasMany = [sources:Source]
 
@@ -9,10 +9,6 @@ class EthnographicData {
     String phonemicizedForm
     String generalNotes
     Integer phylogeneticCode
-    Date createdAt
-    Date updatedAt
-    User createdBy
-    User updatedBy
 
     static constraints = {
         ethnographicFeature(blank:false)
@@ -28,16 +24,4 @@ class EthnographicData {
         createdBy(display: false, nullable: true)
         updatedBy(display: false, nullable: true)
     }
-
-    def beforeInsert = {
-        createdAt = new Date()
-        updatedAt = new Date()
-    createdBy = updatedBy
-    }
-
-    def beforeUpdate = {
-        updatedAt = new Date()
-    }
-
-
 }

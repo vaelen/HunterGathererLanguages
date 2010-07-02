@@ -1,4 +1,4 @@
-class GrammaticalData {
+class GrammaticalData extends LanguageProperty {
 
     static hasMany = [sources:Source]
 
@@ -12,10 +12,6 @@ class GrammaticalData {
     String grammaticalNotes
     String generalNotes
     Integer phylogeneticCode
-    Date createdAt
-    Date updatedAt
-    User createdBy
-    User updatedBy
 
     static constraints = {
         grammaticalFeature(blank:false)
@@ -29,21 +25,6 @@ class GrammaticalData {
         phonologyNotes(widget:"textarea", maxSize:2000)
         grammaticalNotes(widget:"textarea", maxSize:2000)
         generalNotes(widget:"textarea", maxSize:2000)
-        createdAt(display: false, nullable: true)
-        updatedAt(display: false, nullable: true)
-        createdBy(display: false, nullable: true)
-        updatedBy(display: false, nullable: true)
+        addDateConstraints()
     }
-    
-    def beforeInsert = {
-        createdAt = new Date()
-        updatedAt = new Date()
-    createdBy = updatedBy
-    }
-
-    def beforeUpdate = {
-        updatedAt = new Date()
-    }
-
-
 }

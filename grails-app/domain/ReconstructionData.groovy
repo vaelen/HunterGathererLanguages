@@ -1,4 +1,4 @@
-class ReconstructionData {
+class ReconstructionData extends LanguageProperty {
 
     static hasMany = [reconstructions:Reconstruction]
 
@@ -6,10 +6,6 @@ class ReconstructionData {
     String form
     String gloss
     String notes
-    Date createdAt
-    Date updatedAt
-    User createdBy
-    User updatedBy
 
     static constraints = {
         protoSourceLanguage(blank:false)
@@ -22,16 +18,4 @@ class ReconstructionData {
         createdBy(display: false, nullable: true)
         updatedBy(display: false, nullable: true)
     }
-    
-    def beforeInsert = {
-        createdAt = new Date()
-        updatedAt = new Date()
-    createdBy = updatedBy
-    }
-
-    def beforeUpdate = {
-        updatedAt = new Date()
-    }
-
-
 }

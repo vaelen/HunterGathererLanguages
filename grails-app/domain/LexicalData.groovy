@@ -1,4 +1,4 @@
-class LexicalData {
+class LexicalData extends LanguageProperty {
 
     static hasMany = [sources:Source, reconstructions:Reconstruction]
 
@@ -16,10 +16,6 @@ class LexicalData {
     String semanticNotes
     String generalNotes
     Integer phylogeneticCode
-    Date createdAt
-    Date updatedAt
-    User createdBy
-    User updatedBy
 
     String standardizedGloss() {
         return lexicalFeature.englishHeadword
@@ -47,16 +43,4 @@ class LexicalData {
         createdBy(display: false, nullable: true)
         updatedBy(display: false, nullable: true)
     }
-    
-    def beforeInsert = {
-        createdAt = new Date()
-        updatedAt = new Date()
-        createdBy = updatedBy
-    }
-
-    def beforeUpdate = {
-        updatedAt = new Date()
-    }
-
-
 }

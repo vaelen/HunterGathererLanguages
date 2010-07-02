@@ -1,6 +1,5 @@
-class SourceLanguage {
+class SourceLanguage extends NamedLanguageProperty {
 
-    String name
     String otherNames
     String subGroup
     String family
@@ -9,13 +8,8 @@ class SourceLanguage {
     String latitude
     String longitude
     String isoCode
-    Date createdAt
-    Date updatedAt
-    User createdBy
-    User updatedBy
 
     static constraints = {
-        name(blank:false)
         otherNames(blank:true)
         subGroup(blank:true)
         family(blank:false)
@@ -24,22 +18,14 @@ class SourceLanguage {
         longitude(blank:true)
         isoCode(blank:false, minSize:3, maxSize:3)
         notes(widget:"textarea", maxSize:2000)
+        // For bizarre reasons, replacing the following with a call to
+        // addDateConstraints() leads to a class-load error when trying
+        // to run `grails run-app'
         createdAt(display: false, nullable: true)
         updatedAt(display: false, nullable: true)
         createdBy(display: false, nullable: true)
         updatedBy(display: false, nullable: true)
     }
-    
-    def beforeInsert = {
-        createdAt = new Date()
-        updatedAt = new Date()
-        createdBy = updatedBy
-    }
-
-    def beforeUpdate = {
-        updatedAt = new Date()
-    }
-
 
     String toString() {
         return "$name ($family)"
