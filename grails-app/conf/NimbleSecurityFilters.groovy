@@ -64,13 +64,23 @@ public class NimbleSecurityFilters extends intient.nimble.security.NimbleFilterB
             }
         }
         
-        // Contributor level of access
+        // Contributor level of access (i.e. registered user) to make any changes
         controllerchange(action: "(create|edit|save|update|delete)") { 
             before = { 
                 accessControl { 
                     role(CONTRIBUTOR_ROLE) 
                 } 
             } 
+        }
+
+        // Currently, need contributor level of access to even look at the data.
+        // Delete this clause if you want anonymous viewing of the database.
+        controllersee(action: "(list|show)") {
+            before = {
+                accessControl {
+                    role(CONTRIBUTOR_ROLE)
+                }
+            }
         }
 
     }
