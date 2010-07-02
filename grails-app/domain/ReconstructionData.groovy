@@ -13,9 +13,6 @@ class ReconstructionData extends LanguageProperty {
         gloss(blank:false)
         reconstructions()
         notes(widget:"textarea", maxSize:2000)
-        createdAt(display: false, nullable: true)
-        updatedAt(display: false, nullable: true)
-        createdBy(display: false, nullable: true)
-        updatedBy(display: false, nullable: true)
+        addDateConstraints()
     }
 }

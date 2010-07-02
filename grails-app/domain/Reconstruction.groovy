@@ -10,9 +10,6 @@ class Reconstruction extends LanguageProperty {
         reconstructionData(blank:false)
         lexicalData(blank:false)
         relationship(blank:false)
-        createdAt(display: false, nullable: true)
-        updatedAt(display: false, nullable: true)
-        createdBy(display: false, nullable: true)
-        updatedBy(display: false, nullable: true)
+        addDateConstraints()
     }
 }
