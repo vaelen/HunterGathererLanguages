@@ -19,9 +19,6 @@ class EthnographicData extends LanguageProperty {
         sources()
         phylogeneticCode(range:1..9, blank:true, nullable:true)
         generalNotes(widget:"textarea", maxSize:2000)
-        createdAt(display: false, nullable: true)
-        updatedAt(display: false, nullable: true)
-        createdBy(display: false, nullable: true)
-        updatedBy(display: false, nullable: true)
+        addDateConstraints()
     }
 }

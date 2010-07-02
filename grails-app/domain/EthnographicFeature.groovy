@@ -17,9 +17,6 @@ class EthnographicFeature extends NamedLanguageProperty {
         caseStudyRegion(blank:false, )
         sources()
         notes(widget:"textarea", maxSize:2000)
-        createdAt(display: false, nullable: true)
-        updatedAt(display: false, nullable: true)
-        createdBy(display: false, nullable: true)
-        updatedBy(display: false, nullable: true)
+        addDateConstraints()
     }
 }
