@@ -20,7 +20,8 @@ class SourceLanguage extends NamedLanguageProperty {
         notes(widget:"textarea", maxSize:2000)
         // For bizarre reasons, replacing the following with a call to
         // addDateConstraints() leads to a class-load error when trying
-        // to run `grails run-app'
+        // to run `grails run-app'; but it looks like we can't do the
+        // substitution anyway.  See comment above addDateConstraints().
         createdAt(display: false, nullable: true)
         updatedAt(display: false, nullable: true)
         createdBy(display: false, nullable: true)

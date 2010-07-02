@@ -27,7 +27,10 @@ class LexicalFeature extends LanguageProperty {
         exportSet(blank:true, nullable: true)
         sources()
         comments(widget: "textarea", maxSize:2000)
-        addDateConstraints()
+        createdAt(display: false, nullable: true)
+        updatedAt(display: false, nullable: true)
+        createdBy(display: false, nullable: true)
+        updatedBy(display: false, nullable: true)
     }
 
     String toString() {

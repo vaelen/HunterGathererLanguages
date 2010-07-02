@@ -1,6 +1,9 @@
 class PartOfSpeech extends NamedLanguageProperty {
 
     static constraints = {
-        addDateConstraints()
+        createdAt(display: false, nullable: true)
+        updatedAt(display: false, nullable: true)
+        createdBy(display: false, nullable: true)
+        updatedBy(display: false, nullable: true)
     }
 }
