@@ -1,6 +1,4 @@
 import org.codehaus.groovy.grails.commons.ConfigurationHolder
-import org.apache.shiro.SecurityUtils
-import org.codehaus.groovy.grails.web.util.WebUtils
 
 // This code is textually inserted into all controllers when `grails run-app'
 // is run.

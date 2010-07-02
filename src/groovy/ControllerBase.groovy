@@ -1,3 +1,7 @@
+import org.apache.shiro.SecurityUtils
+import org.codehaus.groovy.grails.web.util.WebUtils
+
+// Base class of (almost) all controllers.
 class ControllerBase {
     def hasDeleteButton = true
         
